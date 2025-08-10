@@ -1,0 +1,189 @@
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_227_IMG_2784.jpeg",
+      "image2": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14456664_129_IMG_20220605_181308.jpg",
+      "image3": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_108_IMG_6205.jpeg",
+      "image4": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_168_D4D36C59-2D68-4354-B05C-B3065F6581AA.jpeg"
+    },
+    "content": "Based on the diverse dishes shown in <image1>, <image2>, <image3>, and <image4>, identify the unique characteristics of each dish. Explain the ingredients and presentation styles in detail, ensuring the inclusion of two audio explanations to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "audio1": "The first dish (image1) appears to be a flavorful soup, containing various meats and greens. Moving on to image2, it showcases a dessert dish, likely using dry ice for dramatic visual effect.",
+      "audio2": "Image3 presents a savory dish with crispy meat, highlighting traditional cooking methods. Lastly, image4 displays a hearty dish with a rich sauce and succulent pork, emphasizing slow-cooking techniques."
+    },
+    "content": "The savory soup in image1 is complemented by the dry ice dessert in image2, offering a range of culinary experiences. Meanwhile, image3 emphasizes traditional tastes, and image4 brings a satisfying close with its robust flavors."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_227_IMG_2784.jpeg",
+      "image2": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14456664_129_IMG_20220605_181308.jpg",
+      "image3": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_108_IMG_6205.jpeg",
+      "image4": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_168_D4D36C59-2D68-4354-B05C-B3065F6581AA.jpeg"
+    },
+    "content": "Examine the different types of dishes presented in these images: <image1>, <image2>, <image3>, and <image4>. Describe the characteristics and possible ingredients of these dishes and include two audio clips in your answer that explain the images comprehensively."
+  },
+  "output": {
+    "modal": {
+      "audio1": "Image1 appears to depict a hearty soup with various meats and herbs floating in a rich broth. The dish seems to be flavorful and aromatic, embodying traditional flavors.",
+      "audio2": "Image2 showcases a visually captivating dessert, possibly utilizing dry ice for presentation. In contrast, Images3 and 4 present savory entrees featuring well-cooked meats with accompaniments, demonstrating a diverse array of culinary styles."
+    },
+    "content": "In audio1, we delve into the savory components of the soup in Image1, exploring the potential spices and cooking techniques used to achieve its rich flavor. Audio2 provides insight into the intricate details of the dessert in Image2 and elaborates on the roasted textures and flavors of the entrees seen in Image3 and Image4."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_227_IMG_2784.jpeg",
+      "image2": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14456664_129_IMG_20220605_181308.jpg",
+      "image3": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_108_IMG_6205.jpeg",
+      "image4": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_168_D4D36C59-2D68-4354-B05C-B3065F6581AA.jpeg"
+    },
+    "content": "Examine the variety of dishes depicted in <image1>, <image2>, <image3>, and <image4>. Please explain the ingredients and preparation method, ensuring your answer includes the number of audios required to describe the dishes comprehensively."
+  },
+  "output": {
+    "modal": {
+      "audio1": "In the first set of dishes, the images illustrate a combination of soups and stews. The soup in <image1> features a rich broth with ingredients like noodles and meat, while <image3> showcases a roasted dish with crispy skin, likely prepared using slow-cooking techniques.",
+      "audio2": "Moving on to the artistic desserts and braised dishes, <image2> highlights a dessert with a unique presentation, possibly frozen or chilled to create vapor, while <image4> depicts a hearty meat dish, braised with spices to achieve flavor depth and tenderness."
+    },
+    "content": "The audio explanations provide detailed insights into both the preparation of the dishes and the visual presentation styles, collectively covering all images."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_227_IMG_2784.jpeg",
+      "image2": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14456664_129_IMG_20220605_181308.jpg",
+      "image3": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_108_IMG_6205.jpeg",
+      "image4": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_168_D4D36C59-2D68-4354-B05C-B3065F6581AA.jpeg"
+    },
+    "content": "Examine the following images: <image1>, <image2>, <image3>, and <image4>. Explain how these images illustrate different culinary presentations and ensure your answer includes exactly two audio components that contribute to the overall explanation."
+  },
+  "output": {
+    "modal": {
+      "audio1": "The first two images, as explained in this audio, show vibrant and traditional dishes. The first <audio1> discusses how the combination of ingredients presents a rich broth with proteins complementing fresh greens.",
+      "audio2": "In contrast, the next two images are celebrated for their innovative presentation style. The second <audio2> elaborates on how visual aesthetics and texture play a role in modern culinary arts, underscoring the use of unique plating methods."
+    },
+    "content": "Culinary arts use both tradition and innovation to create visual appeal in dishes. The explanation provided by <audio1> and <audio2> highlights how texture, color, and arrangement contribute to delightful culinary experiences, covering all displayed images."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_227_IMG_2784.jpeg",
+      "image2": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14456664_129_IMG_20220605_181308.jpg",
+      "image3": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_108_IMG_6205.jpeg",
+      "image4": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_168_D4D36C59-2D68-4354-B05C-B3065F6581AA.jpeg"
+    },
+    "content": "Analyze the culinary details presented in the following dishes: <image1> with its rich components, <image2> featuring unique texture and presentation, <image3> showcasing traditional cooking methods, and the final dish in <image4> with its robust flavors. Ensure the explanation includes two audio descriptions to fully cover all the images provided."
+  },
+  "output": {
+    "modal": {
+      "audio1": "The dish in <image1> presents a vibrant mix of ingredients that create a harmonious flavor profile. As you can see in <image1>, the broth serves as a base, enhancing the natural tastes of the meat and herbs. Moving to <image2>, the luxurious ambiance is captured not just through taste but also through the exquisite presentation, where molecular gastronomy techniques are key.",
+      "audio2": "In <image3>, the cooking method is highlighted, showing a traditional approach with modern twists. The crispy textures and savory taste are essential features. Finally, <image4> displays a hearty and bold flavor profile, emphasizing slow-cooked processes that retain moisture and enhance the richness of the meat."
+    },
+    "content": "In this culinary exploration, <audio1> provides insight into the first two images, describing the flavor intricacies and visual beauty. Complementing this, <audio2> delves into the techniques and flavor experiences of the last two dishes, offering a comprehensive audio journey through all the selections."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_227_IMG_2784.jpeg",
+      "image2": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14456664_129_IMG_20220605_181308.jpg",
+      "image3": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_108_IMG_6205.jpeg",
+      "image4": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_168_D4D36C59-2D68-4354-B05C-B3065F6581AA.jpeg"
+    },
+    "content": "Please analyze the food dishes depicted in <image1>, <image2>, <image3>, and <image4>. Explain the visual elements and ingredients you can observe. Your answer must include two audio files in the output for comprehensive explanation."
+  },
+  "output": {
+    "modal": {
+      "audio1": "Audio <audio1> provides a detailed description of the dish in <image1> and <image2>. It highlights the vibrant colors and rich ingredients, such as seafood and herbs in <image1>, and the unique presentation of the dessert in <image2>.",
+      "audio2": "In <audio2>, an explanation of the hearty, traditional dish in <image3> and the savory elements visible in <image4> is given. The commentary focuses on the textures and cooking techniques observed in the images."
+    },
+    "content": "The analysis includes two audios: <audio1> and <audio2>. Together, they offer insights into all the dishes portrayed, connecting the visual elements to culinary techniques and ingredient choice."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_227_IMG_2784.jpeg",
+      "image2": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14456664_129_IMG_20220605_181308.jpg",
+      "image3": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_108_IMG_6205.jpeg",
+      "image4": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_168_D4D36C59-2D68-4354-B05C-B3065F6581AA.jpeg"
+    },
+    "content": "Examine the images of different dishes: <image1>, <image2>, <image3>, <image4>. Please provide an explanation that includes exactly two audios to illustrate the diverse ingredients and presentation styles, demonstrating what makes each dish unique."
+  },
+  "output": {
+    "modal": {
+      "audio1": "The first dish, depicted in the image set, focuses on a vibrant noodle soup showcased in <image1>. The ingredients in this photo include fresh greens and succulent meats, typical of traditional Asian cuisine. The combination of textures adds to the culinary experience. Moving to <image2>, the visually striking dessert is highlighted, emphasizing its presentation with misty effects, providing a sense of drama and innovation in modern gastronomy.",
+      "audio2": "The third image, <image3>, presents a hearty meat-based dish served in a rustic earthenware pot, reflecting a more traditional approach focused on rich flavors. The crispy texture is clearly visible and appealing. Meanwhile, <image4> displays a savory pork dish, known for its tender texture and aromatic flavor. The careful preparation and choice of spices elevate its taste, presenting a classic representation of its culinary roots."
+    },
+    "content": "In this culinary journey, <audio1> delves into the fresh and innovative elements observed in <image1> and <image2>, emphasizing the contrast between traditional and modern influences. Meanwhile, <audio2> explores the deeper flavors and textures in <image3> and <image4>, offering insights into the traditional preparations and rich culinary heritage."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_227_IMG_2784.jpeg",
+      "image2": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14456664_129_IMG_20220605_181308.jpg",
+      "image3": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_108_IMG_6205.jpeg",
+      "image4": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_168_D4D36C59-2D68-4354-B05C-B3065F6581AA.jpeg"
+    },
+    "content": "Describe the dishes shown in <image1>, <image2>, <image3>, and <image4>. The answer must include two audio descriptions to explain the dishes comprehensively."
+  },
+  "output": {
+    "modal": {
+      "audio1": "The dish in <image1> is a flavorful bowl of noodle soup, featuring shrimp, fresh herbs, and tender slices of meat, which combine to create a rich and aromatic broth. Meanwhile, <image2> captures a unique dessert presentation with vibrant berries atop a base that is set within a misty scene, adding visual intrigue and a hint of mystery to the dish.",
+      "audio2": "In <image3>, there is a hearty clay pot dish, showcasing pieces of tender meat with a crispy texture, paired elegantly with a side of fresh greens. Contrastingly, <image4> presents a savory slow-cooked pork belly, served with a generous portion of minced garlic on top, creating a dish that's rich in flavors and steeped in its own savory juices."
+    },
+    "content": "The following audios, <audio1> and <audio2>, offer a detailed narrative of the dishes. Each dish is highlighted for its unique ingredients and presentation, ensuring a thorough understanding of all visual aspects presented."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_227_IMG_2784.jpeg",
+      "image2": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14456664_129_IMG_20220605_181308.jpg",
+      "image3": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_108_IMG_6205.jpeg",
+      "image4": "https://raw.githubusercontent.com/liyanlin06/any2any_data/zsz-food/general_area/food/image/14521898_168_D4D36C59-2D68-4354-B05C-B3065F6581AA.jpeg"
+    },
+    "content": "Based on the food images provided, <image1>, <image2>, <image3>, and <image4>, describe the types of dishes shown and their primary ingredients. In your explanation, include exactly 2 audio descriptions that further illustrate the complexity and diversity of these dishes."
+  },
+  "output": {
+    "modal": {
+      "audio1": "The first two images, <image1> and <image2>, showcase vibrant and diverse dishes. <image1> features a savory dish with rich broth, tender meats, and fresh herbs, while <image2> introduces a visually striking dessert topped with fresh berries emitting a mystical vapor, adding an element of surprise to your culinary experience.",
+      "audio2": "In contrast, <image3> and <image4> display hearty meals. <image3> presents a classic dish with expertly roasted meat in a rustic pot, conveying a sense of warmth and tradition. <image4> highlights a succulent cut of pork swimming in a flavorful umami-rich broth, garnished with fresh garlic for an added burst of flavor."
+    },
+    "content": "Through these audios <audio1> and <audio2>, we explore the visual and sensory appeal of all the dishes. While <audio1> emphasizes the striking contrasts in presentation between a savory and a sweet dish, <audio2> delves into the comforting, hearty nature of traditional meals. Together, these audios offer a comprehensive overview of the diverse culinary creations captured in the images."
+  }
+}
