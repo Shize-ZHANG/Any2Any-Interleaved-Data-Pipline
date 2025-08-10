@@ -46,3 +46,5 @@ ENV/
 # 输出文件
 generated_qa_pairs.jsonl
 raw_response.txt 
+
+images
