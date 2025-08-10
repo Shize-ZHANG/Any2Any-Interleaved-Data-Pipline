@@ -119,7 +119,7 @@ This Question-Answer pair must adhere to the following structure in the followin
 6 The <> tags should be the components of the text sentence, not just a single word. For example, the <> tags can serve as the subject, object, or other components of the sentence.
 7 Please note that the <> tags of the input should not appear in the output.
 8 You should design the text of the <audio> and fill the text into the "text" position of the <audio>. Each audio text MUST reference the specific images it explains using <image1>, <image2>, <image3>, <image4> tags.
-9 The number of <audio> in the output is 1. Each audio can focus on different images, but all audios together must cover ALL images.
+9 IMPORTANT: The number of <audio> in the output is 1. If the number of <audio> is more than 1, each audio can focus on different images, but all audios together must cover ALL images.
 10 IMPORTANT: The output must contain exactly the same number of audios as specified in the input question with the format of <audio1>, <audio2>, etc. Remember: audios collectively explain all images, with each audio potentially focusing on different subsets. 
 12 IMPORTANT: The output content cannot contain the <image> tags of images in the output. The output content MUST reference all audio tags using <audio1>, <audio2>, etc. format to create a cohesive narrative that ties together all the audio explanations.
 13 IMPORTANT: All audios together MUST cover ALL images (<image1>, <image2>, <image3>, <image4>). Each individual audio can focus on a subset of images, but collectively they must explain all 4 images.
@@ -166,28 +166,6 @@ def main():
     print("示例图片URL:")
     for i, url in enumerate(example_urls, 1):
         print(f"  image{i}: {url}")
-    
-    # 询问用户是否要使用示例URL或输入自定义URL
-    print("\n请选择:")
-    print("1. 使用示例URL")
-    print("2. 输入自定义图片URL")
-    
-    choice = input("请输入选择 (1或2): ").strip()
-    
-    if choice == "2":
-        print("\n请输入图片URL (最多4个，按回车结束每个URL):")
-        custom_urls = []
-        for i in range(4):
-            url = input(f"image{i+1} URL (可选): ").strip()
-            if url:
-                custom_urls.append(url)
-            else:
-                break
-        
-        if custom_urls:
-            example_urls = custom_urls
-        else:
-            print("未输入URL，使用示例URL")
     
     # 创建prompt
     print("\n正在创建prompt...")
