@@ -20,6 +20,7 @@ API_KEY = os.getenv('OPENAI_API_KEY')
 def generate_image_urls(data_id: str) -> list:
     """
     根据数据ID生成对应的图片URL列表
+    直接扫描original_data/image目录找到实际存在的文件
     
     Args:
         data_id: 数据ID，如 "0001", "0002" 等
@@ -29,13 +30,32 @@ def generate_image_urls(data_id: str) -> list:
     """
     base_url = "https://raw.githubusercontent.com/liyanlin06/any2any_data/main/general_area/food/image"
     
-    # 生成4张图片的URL，文件名格式：img_{data_id}_{序号}.{扩展名}
-    image_urls = [
-        f"{base_url}/img_{data_id}_01.jpg",
-        f"{base_url}/img_{data_id}_02.jpeg", 
-        f"{base_url}/img_{data_id}_03.jpeg",
-        f"{base_url}/img_{data_id}_04.jpeg"
-    ]
+    image_urls = []
+    
+    # 扫描original_data/image目录，找到所有匹配的文件
+    image_dir = "original_data/image"
+    
+    for i in range(1, 5):  # 生成4张图片的URL
+        filename_pattern = f"img_{data_id}_{i:02d}"
+        
+        # 查找匹配的文件（支持任何扩展名）
+        found_file = None
+        for file in os.listdir(image_dir):
+            if file.startswith(filename_pattern) and '.' in file:
+                found_file = file
+                break
+        
+        if found_file:
+            # 构建完整的URL
+            image_url = f"{base_url}/{found_file}"
+            image_urls.append(image_url)
+            print(f"      📁 找到文件: {found_file}")
+        else:
+            # 如果找不到文件，使用默认扩展名
+            default_ext = 'jpg' if i == 1 else 'jpeg'
+            image_url = f"{base_url}/{filename_pattern}.{default_ext}"
+            image_urls.append(image_url)
+            print(f"      ⚠️  未找到文件，使用默认: {filename_pattern}.{default_ext}")
     
     return image_urls
 
@@ -120,7 +140,7 @@ This Question-Answer pair must adhere to the following structure in the followin
             "image3": "url",
             "image4": "url"
         }},
-        "content": "Must interleave <image1>, <image2>, <image3>, <image4> tags at the appropriate position in the text and clearly indicate that the answer must include the number of audios in the output to support or illustrate the explanation, which means that the question should clearly indicate that the answer must include the number of audios in the output to support or illustrate the explanation. "
+        "content": "Must interleave <image1>, <image2>, <image3>, <image4> tags at the appropriate position in the text and clearly indicate that the numbers of audios needed in the answer to support or illustrate the explanation. For example, the answer must include n audios in the output to support or illustrate the explanation."
     }},
     "output": {{
         "modal": {{
@@ -135,17 +155,30 @@ This Question-Answer pair must adhere to the following structure in the followin
 1 You need to design appropriate question-answer pair and clearly indicate in the question which specific modalities other than text are required to be included in the answer.
 2 The output content MUST reference all audio tags using <audio1>, <audio2>, etc. format to create a cohesive narrative.
 3 The output modal (audio text) MUST reference all image tags using <image1>, <image2>, <image3>, <image4> format to indicate which images each audio explains. 
-2 The content of the input is the entire input fed into the model. The question-answer pair should be open-world QA. 
-3 The content of the input is the entire input fed into the model and the content of the output is the golden output of the model. You should design the input content and output content based on the original data.
-4 The content of the input MUST contain all tags corresponding to the input modality using <image1>, <image2>, <image3>, <image4> format, and the content of the output MUST contain all tags corresponding to the output modality using <audio1>, <audio2>, etc. format.
-5 Give the JSON directly, no additional output information.
-6 The <> tags should be the components of the text sentence, not just a single word. For example, the <> tags can serve as the subject, object, or other components of the sentence.
-7 Please note that the <> tags of the input should not appear in the output.
-8 You should design the text of the <audio> and fill the text into the "text" position of the <audio>. Each audio text MUST reference the specific images it explains using <image1>, <image2>, <image3>, <image4> tags.
-9 IMPORTANT: The number of <audio> in the output is 1. If the number of <audio> is more than 1, each audio can focus on different images, but all audios together must cover ALL images.
-10 IMPORTANT: The output must contain exactly the same number of audios as specified in the input question with the format of <audio1>, <audio2>, etc. Remember: audios collectively explain all images, with each audio potentially focusing on different subsets. 
-12 IMPORTANT: The output content MUST not contain the <image> tags of images in the output. The output content MUST reference all audio tags using <audio1>, <audio2>, etc. format to create a cohesive narrative that ties together all the audio explanations.
-13 IMPORTANT: All audios together MUST cover ALL images (<image1>, <image2>, <image3>, <image4>). Each individual audio can focus on a subset of images, but collectively they must explain all 4 images.
+4 The content of the input is the entire input fed into the model. The question-answer pair should be open-world QA. 
+5 The content of the input is the entire input fed into the model and the content of the output is the golden output of the model. You should design the input content and output content based on the original data.
+6 The content of the input MUST contain all tags corresponding to the input modality using <image1>, <image2>, <image3>, <image4> format, and the content of the output MUST contain all tags corresponding to the output modality using <audio1>, <audio2>, etc. format.
+7 Give the JSON directly, no additional output information.
+8 The <> tags should be the components of the text sentence, not just a single word. For example, the <> tags can serve as the subject, object, or other components of the sentence.
+9 Please note that the <> tags of the input should not appear in the output.
+10 You should design the text of the <audio> and fill the text into the "text" position of the <audio>. Each audio text MUST reference the specific images it explains using <image1>, <image2>, <image3>, <image4> tags.
+11 IMPORTANT: The number of <audio> in the output is 1. If the number of <audio> is more than 1, each audio can focus on different images, but all audios together must cover ALL images.
+12 IMPORTANT: The output must contain exactly the same number of audios as specified in the input question with the STRICT format of <audio1>, <audio2>, etc. Remember: audios collectively explain all images, with each audio potentially focusing on different subsets. 
+13 IMPORTANT: The output content MUST not contain the <image> tags of images in the output modal. The output content MUST reference all audio tags using <audio1>, <audio2>, etc. format STRICTLY to create a cohesive narrative that ties together all the audio explanations.
+14 IMPORTANT: All audios together MUST cover ALL images (<image1>, <image2>, <image3>, <image4>). Each individual audio can focus on a subset of images, but collectively they must explain all 4 images.
+
+[CRITICAL STYLE REQUIREMENTS]
+- The audio text should be written in a natural, flowing narrative style, NOT in a mechanical or template-like format
+- AVOID starting audio descriptions with phrases like "In the audio, the dish in <image1> is..." or "Moving to <image2>..." 
+- Instead, write the audio text as if it's a natural, engaging description that flows smoothly from one image to another
+- Use varied sentence structures and natural transitions between images
+- The audio should sound like it's coming from a knowledgeable food expert giving a natural explanation, not from a rigid template
+
+[Example of GOOD audio style (like 0001):]
+"The dishes presented in the images highlight diverse culinary traditions. Beginning with <image1>, this hot pot showcases a variety of ingredients simmering together, reflecting communal dining practices commonly seen in East Asian cultures. Moving on to <image2>, the noodle dish emphasizes the simplicity and freshness of vegetables combined with noodles, a staple in many Asian cuisines..."
+
+[Example of BAD audio style (like 0002):]
+"In the audio, the dish in <image1> is a hot pot featuring tofu, mushrooms, and corn, highlighting its nourishing qualities. Moving to <image2>, the noodles served with vegetables create a hearty and warming meal..."
 
 [IMPORTANT CLARIFICATION]
 The number of audios (e.g., 2 or 3) indicates how many detailed audio explanations you should provide. Each audio can focus on different images, but ALL audios together must comprehensively cover ALL 4 images. For example:
