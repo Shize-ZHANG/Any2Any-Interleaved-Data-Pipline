@@ -162,7 +162,7 @@ This Question-Answer pair must adhere to the following structure in the followin
 8 The <> tags should be the components of the text sentence, not just a single word. For example, the <> tags can serve as the subject, object, or other components of the sentence.
 9 Please note that the <> tags of the input should not appear in the output.
 10 You should design the text of the <audio> and fill the text into the "text" position of the <audio>. Each audio text MUST reference the specific images it explains using <image1>, <image2>, <image3>, <image4> tags.
-11 IMPORTANT: The number of <audio> in the output is 1. If the number of <audio> is more than 1, each audio can focus on different images, but all audios together must cover ALL images.
+11 IMPORTANT: The number of <audio> in the output is 2. If the number of <audio> is more than 1, each audio can focus on different images, but all audios together must cover ALL images.
 12 IMPORTANT: The output must contain exactly the same number of audios as specified in the input question with the STRICT format of <audio1>, <audio2>, etc. Remember: audios collectively explain all images, with each audio potentially focusing on different subsets. 
 13 IMPORTANT: The output content MUST not contain the <image> tags of images in the output modal. The output content MUST reference all audio tags using <audio1>, <audio2>, etc. format STRICTLY to create a cohesive narrative that ties together all the audio explanations.
 14 IMPORTANT: All audios together MUST cover ALL images (<image1>, <image2>, <image3>, <image4>). Each individual audio can focus on a subset of images, but collectively they must explain all 4 images.
