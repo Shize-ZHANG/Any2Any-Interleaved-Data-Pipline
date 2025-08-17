@@ -13998,3 +13998,1103 @@
     "content": "The dish's appeal is enhanced by its vibrant colors and textures. <image2> shows how the crispy coating contrasts with the sauce's shine. From <image3>, you can observe the rich depth and garnishing of the sauce. The decoration, seen in <image4>, adds an elegant touch, and <image5> demonstrates how the entire setting frames the dish, making it a delightful feast for the eyes."
   }
 }
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0651",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0651_01.jpg",
+      "audio1": "The image shows a delicious stir-fry dish composed of finely sliced green peppers and beef strips. The dish is garnished with a savory sauce that brings out the flavors. It's served on a clean white plate with a spoon on the side, suggesting a cozy dining atmosphere."
+    },
+    "content": "Examine the dish shown in <image1> and described in <audio1>. How does the presentation and ingredient combination contribute to the overall dining experience? Your answer must include 5 images to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of the green peppers in the dish, highlighting their freshness and vibrant color.",
+      "image3": "A detailed shot of the beef strips, capturing the tender texture and perfect browning from the stir-fry process.",
+      "image4": "An overhead view demonstrating the balanced proportions of the ingredients and the glossy sauce enhancing the appeal.",
+      "image5": "A photograph of the entire dish set on a dining table, highlighting the contextual setting and inviting presentation.",
+      "image6": "A side view of the plate, showing how the ingredients are layered and the consistency of the sauce."
+    },
+    "content": "The dish, as seen in <image2>, uses fresh green peppers for a vibrant color contrast. The beef, illustrated in <image3>, is tender and skillfully cooked. The overall presentation, as shown in <image4>, brings visual appeal with balanced ingredient proportions and glossy sauce. The dining context, evident in <image5>, adds to the inviting nature of the meal. Finally, <image6> shows the layering, ensuring each bite is a flavorful mix, enhancing the dining experience."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0652",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0652_01.jpeg",
+      "audio1": "This is a roasted duck dish, featuring a beautifully caramelized skin that glistens under a coat of savory juices. The meat is tender and succulent, with the rich aroma of spices seeping through. A harmonious combination of crispy skin and juicy meat creates an irresistible texture and taste."
+    },
+    "content": "Examine the preparation techniques and ingredients used in the <image1> and <audio1> of the roasted duck dish. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the crispy, golden brown duck skin, showcasing the perfect caramelization and glossy finish.",
+      "image3": "The tender, juicy duck meat, highlighting the succulent texture and juiciness from the marination and cooking process.",
+      "image4": "An array of spices including star anise, cinnamon, and cloves used in the marination of the duck, illustrating the depth of flavors.",
+      "image5": "The process of basting the duck with a flavorful glaze, enhancing the skin's crispiness and adding an extra layer of taste.",
+      "image6": "A beautifully plated serving of the roasted duck, garnished with fresh herbs and accompanied by a traditional dipping sauce."
+    },
+    "content": "To fully appreciate the expertise behind this roasted duck dish, observe the beautifully caramelized skin in <image2>, which indicates the precise cooking technique. The juicy and tender meat in <image3> is a testament to the thorough marination. The spices shown in <image4> add a complex depth, while the basting process in <image5> contributes to the taste and texture. Finally, <image6> demonstrates a typical serving style, complete with garnishes and sauce."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0653",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0653_01.jpeg",
+      "audio1": "This is a warm, comforting bowl of corn chowder featuring tender pieces of corn and beans in a creamy, rich broth with hints of spices and herbs. The dish is perfect for a cozy meal."
+    },
+    "content": "Describe the different ingredients and presentation styles of corn chowder, as highlighted by <image1> and <audio1>. Please provide five images in the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the corn and beans, showcasing the texture and color differences between the two ingredients within the broth.",
+      "image3": "A top-down view of the bowl, capturing the steam rising from the hot chowder, emphasizing warmth and comfort.",
+      "image4": "A side profile shot of the bowl, designed to highlight the creamy consistency of the broth against the hearty chunks of corn and beans.",
+      "image5": "An image showing freshly chopped herbs being sprinkled over the chowder, suggesting a garnish option for added flavor.",
+      "image6": "A serving suggestion with a spoonful of chowder, illustrating its thickness and rich texture, ready to be enjoyed."
+    },
+    "content": "Corn chowder is a delightful dish with essential <image2> components: corn and beans provide both texture and flavor. The <image3> steaming broth draws attention to its warming attributes. In <image4>, the creamy broth is seen enveloping the hearty ingredients beautifully. Consider <image5> adding herbs as a garnish for enhanced aroma and taste. Finally, a <image6> spoonful reflects its satisfying richness, making it a cozy meal option."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0654",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0654_01.jpeg",
+      "audio1": "In this bustling hot pot restaurant, a variety of fresh ingredients surround a steaming pot. The spicy broth is abundant with red chili peppers and aromatic spices. Thinly sliced raw beef, fresh mushrooms, mixed vegetables, and handmade meatballs await their turn in the pot."
+    },
+    "content": "Describe how the richness and variety of ingredients in a traditional hot pot enhance the dining experience. <image1> shows an image of a hot pot meal and <audio1> provides a lively description of the scene. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the bubbling hot pot broth, showcasing the vibrant red chilis and spices releasing delicious aromas.",
+      "image3": "An assortment of fresh ingredients on the table, including a plate of thinly sliced beef, ready to be cooked.",
+      "image4": "A side view of the dining table, highlighting the colorful array of vegetables and meats waiting to be dipped into the pot.",
+      "image5": "A person using chopsticks to swirl a mushroom in the pot, capturing the interactive element of eating hot pot.",
+      "image6": "A cheerful group enjoying the meal together, with steam rising from the pot, emphasizing the communal and warm atmosphere."
+    },
+    "content": "The lavish spread of ingredients allows diners to customize their own culinary journey. <image2> captures the essence of the flavorful broth, while <image3> and <image4> show the wide array of fresh ingredients adding to the meal's richness. <image5> illustrates the engaging process of cooking in the pot, and <image6> underscores the enjoyable, shared experience that hot pot offers."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0655",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0655_01.jpg",
+      "audio1": "This image shows a colorful, spicy stew packed with chunks of tofu, fresh herbs, and vibrant red chili peppers."
+    },
+    "content": "Describe the different flavors and ingredients found in a traditional Sichuan hot pot dish shown in <image1> and the intricate details explained in <audio1>. Include in the answer 5 images that support or illustrate these details."
+  },
+  "output": {
+    "modal": {
+      "image2": "An image showing a close-up of red chili peppers and green herbs floating on the surface of the spicy broth.",
+      "image3": "A depiction of tofu cubes absorbing the rich flavors of the stew, with specks of pepper and herbs clinging to them.",
+      "image4": "An illustrated view focusing on the variety of herbs and spices mixed into the broth, showcasing their vibrant colors.",
+      "image5": "A scene capturing the steam rising from the pot, emphasizing the hot and spicy nature of the dish.",
+      "image6": "A detailed portrayal of the pot itself, showing its thick, rustic design and the stew bubbling within."
+    },
+    "content": "A traditional Sichuan hot pot dish is an explosion of flavors and aromas. <image2> illustrates the prominent presence of spicy red chili peppers, while <image3> shows tofu richly infused with the broth. Each spoonful is a medley of tastes, as seen in <image4>, highlighting the variety of fresh herbs used. The heat and intensity of the dish are captured in <image5>. Finally, <image6> emphasizes the robust and hearty nature of this beloved culinary experience."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0656",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0656_01.jpeg",
+      "audio1": "This dish features crispy, deep-fried chicken pieces smothered in a tangy sauce with hints of garlic and soy. It is garnished with fresh cilantro, thinly sliced carrots, and crunchy green onions, adding both color and a fresh bite to the dish."
+    },
+    "content": "Describe the visual and culinary elements that make this dish appealing, interweaving details from <image1> and descriptions from <audio1>. Ensure the answer includes 5 complementary images that offer different perspectives and aspects of this dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of the golden-brown crispy texture of the chicken, highlighting the bubbles formed during frying.",
+      "image3": "A side view of the dish showing the layering of chicken pieces, capturing the glossy sheen of the sauce.",
+      "image4": "An overhead image focusing on the garnishes, displaying the vibrant colors of cilantro and carrots against the chicken.",
+      "image5": "An artistic angle showcasing a cross-section of the chicken piece, revealing the juicy and succulent interior.",
+      "image6": "A set-up of the dish served on a dining table with additional elements like dipping sauces and side salads to provide a complete dining experience."
+    },
+    "content": "The appealing nature of this dish is enhanced through the interplay of crispy textures and vibrant colors. The crunchiness is evident in <image2>, while <image3> highlights the tantalizing glaze of the sauce. Freshness is brought out in <image4>, and <image5> gives insight into the juicy, tender quality of the chicken. Lastly, <image6> contextualizes the dish within a broader dining experience, featuring complementary flavors and textures."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0657",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0657_01.jpeg",
+      "audio1": "This mouth-watering dish is glazed with a rich, dark sauce, making it shine under the light. The succulent meat appears perfectly caramelized, showcasing a balance between sweet and savory flavors. The aroma suggests a hint of smokiness that is typical of grilled or roasted meats."
+    },
+    "content": "Describe how the preparation and presentation of <image1> contribute to its overall appeal, and include how it might taste from the detailed description given in <audio1>. Ensure that the answer includes 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of the glossy glaze on the meat, highlighting its shiny, caramelized texture.",
+      "image3": "An overhead shot of the dish, capturing the full presentation with garnishes and accompanying sauces.",
+      "image4": "A side profile showing the layers of meat, displaying the tenderness and juiciness of the cut.",
+      "image5": "A serving suggestion with the meat paired alongside a side dish, enhancing the visual appeal.",
+      "image6": "A beautifully arranged dinner setting where the dish is the centerpiece, complemented by matching tableware."
+    },
+    "content": "The carefully applied glaze enhances the dish's visual appeal by emphasizing its luxurious shine <image2>. Presented on a rustic plate, the contrast in textures and colors makes the dish stand out <image3>. From the side <image4>, the layers reveal a succulent interior, promising rich, savory bites. Pairing the meat with a light, fresh side <image5> not only adds vibrancy but also balances the flavors. Finally, the overall dinner setting <image6> turns the dish into a visual feast, inviting diners to indulge."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0658",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0658_01.jpeg",
+      "audio1": "This is a bowl of delicious beef noodle soup. The dish features tender beef chunks, rich broth, noodles, and is garnished with fresh green onions and a hint of cilantro."
+    },
+    "content": "Describe the different aspects and presentation of the beef noodle soup shown in <image1>. Use <audio1> to understand its flavors and textures. To support your explanation, your answer must include 5 images that illustrate different angles or aspects of this dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of the succulent beef pieces, highlighting their tenderness and the glossy surface created by the savory broth.",
+      "image3": "A side view of the noodles, intertwined with the beef and soaking up the rich broth, with steam rising gently.",
+      "image4": "An overhead shot showing the vibrant greens of the chopped onions and cilantro contrasting with the deep color of the broth.",
+      "image5": "A detailed view of the broth itself, revealing the mix of spices and fine oil droplets that contribute to the soup's depth of flavor.",
+      "image6": "A wider angle showing the entire bowl, placed on a rustic wooden table with a hint of modern cutlery for an elegant presentation."
+    },
+    "content": "The beef noodle soup is depicted beautifully with <image2> showcasing the tender beef. <image3> captures the way the noodles complement the beef. The fresh garnish is highlighted in <image4>, while the rich, aromatic broth is detailed in <image5>. Finally, <image6> presents the dish in its entirety, providing context and atmosphere."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0659",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0659_01.jpg",
+      "audio1": "This is a dish of traditional Chinese congee, noted for its silky and aromatic broth. The soup includes pieces of fried dough sticks, pork liver, and green herbs such as cilantro. The rich, milky soup base is a cornerstone of this comforting breakfast dish."
+    },
+    "content": "Describe the various ingredients and preparation method of the congee shown in <image1> and detailed in <audio1>. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of freshly sliced pork liver, with its rich texture and color, ready to be cooked into the congee.",
+      "image3": "An image showing the process of frying dough sticks to a golden brown crisp, a popular accompaniment to the congee.",
+      "image4": "A detailed shot of aromatic herbs like cilantro and scallions, which are essential garnishes enhancing the dish's flavor.",
+      "image5": "A picture of the creamy congee broth being stirred in a pot, showing its consistency and smooth texture.",
+      "image6": "An artistic capture of the plated congee, steam rising, with chopsticks and a spoon placed beside the bowl, ready for serving."
+    },
+    "content": "The dish includes several key ingredients and preparation steps. First, the <image2> pork liver needs to be carefully sliced and cooked to maintain its tenderness. The <image3> fried dough sticks are prepared by deep-frying until they achieve a perfect golden crisp. Fresh <image4> herbs like cilantro and scallions are finely chopped and sprinkled over the dish to add a fresh aroma. The rich, creamy consistency of the congee is achieved through a slow-cooking process, as shown in <image5>. Finally, the whole dish is beautifully served, as depicted in <image6>, capturing the essence of a traditional breakfast meal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0660",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0660_01.jpg",
+      "audio1": "This savory dish features stir-fried pork belly slices complemented by vibrant green leeks and a splash of spicy red chili paste. The pork belly is tender, interspersed with chewy fat, and caramelized edges. The dish is garnished with chopped scallions, enhancing its aromatic profile."
+    },
+    "content": "Using <image1> to observe the dish, and considering the detailed description provided in <audio1>, explain the visual and textural appeal of this dish. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot showing the glistening pork belly glistening with chili oil.",
+      "image3": "An artistic representation of the dish, highlighting the contrast between the green leeks and the red chili flakes.",
+      "image4": "A top-down view displaying the arrangement of ingredients for optimal presentation.",
+      "image5": "A cross-section view of a pork belly slice revealing its tender layers and caramelized edges.",
+      "image6": "A close-up of chopped scallions sprinkled on top, focusing on their freshness and color."
+    },
+    "content": "The vibrant colors of the dish are brought to life in <image2>, emphasizing the inviting sheen of the chili oil. Meanwhile, <image3> artistically captures the contrast between the vivid leeks and fiery chili flakes, drawing the viewer in. In <image4>, the top-down perspective showcases the symmetry and arrangement achieved in plating, which enhances its visual appeal. For a deeper understanding of the texture, <image5> focuses on the pork belly's layers, highlighting its tender meat and slightly crispy edges. Lastly, <image6> brings attention to the fresh scallions, adding a splash of bright color and completing the dish's flavor palette."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0661",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0661_01.jpg",
+      "audio1": "This dish, known as braised pork belly, features succulent cubes of pork slow-cooked to perfection in a rich, savory sauce. The glossy, deep-brown glaze coats each piece, infusing them with a hint of sweetness balanced by soy sauce, ginger, and garlic. The dish is often garnished with green onions for a fresh and aromatic finish."
+    },
+    "content": "Describe the cooking process and visual presentation of braised pork belly as shown in <image1> and detailed in <audio1>. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of the braised pork belly with visible marbling, highlighting the tender, juicy texture of the meat.",
+      "image3": "A serving of the braised pork belly on a traditional ceramic plate, garnished with finely chopped green onions to emphasize the aromatic appeal.",
+      "image4": "An overhead view of the dining setup, presenting the braised pork belly alongside a bowl of steamed white rice and traditional Chinese side dishes.",
+      "image5": "A side view of the braised pork belly being served with rich, glossy sauce gently cascading over the cubes, captured mid-pour for an artistic touch.",
+      "image6": "A kitchen scene showing the preparation of the sauce, with ingredients like soy sauce, ginger, and garlic laid out beside a simmering pot."
+    },
+    "content": "To make this delicious braised pork belly, start by searing the pork cubes until they are golden brown <image2>. Once the meat is browned, prepare a flavorful sauce using soy sauce, ginger, and garlic, and pour it over the pork <image6>. Simmer the dish slowly, allowing the flavors to meld, until the sauce thickens into a rich glaze <image5>. Serve the pork belly on a beautiful plate, garnished with green onions for added freshness <image3>. This dish is best enjoyed with a bowl of steamed rice and other traditional side dishes <image4>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0662",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0662_01.jpeg",
+      "audio1": "This dish is a beautifully presented plate of poached chicken covered in a spicy sesame sauce. It's garnished with chopped green onions and a generous sprinkle of crushed red chili peppers, providing a delightful contrast to the tender white meat. It's served on a shallow porcelain plate, and a pool of red chili oil surrounds the chicken, intensifying the vibrant appeal of the dish."
+    },
+    "content": "Examine the <image1> provided and listen to <audio1> to understand the characteristics of the dish. Describe how the presentation and garnish of this dish contribute to its visual appeal and make sure to include 5 supporting images in your answer."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the tender chicken slices, revealing the moisture and softness of the meat, highlighting how well it has absorbed the rich flavors of the sauce.",
+      "image3": "A side view of the dish, focusing on the vibrant red chili oil encircling the chicken, which enhances its spicy aroma and makes it visually striking.",
+      "image4": "A detailed shot of the chopped green onions scattered on top, contributing a fresh green contrast and a hint of crunch to the aromatic delight.",
+      "image5": "A wide-angle perspective showing the porcelain plate's artistic design, complementing the elegant presentation of the dish with its earthy tones.",
+      "image6": "An overhead shot capturing the overall composition of the dish, including the spoon positioned artfully to invite tasting, emphasizing the inviting nature of the meal."
+    },
+    "content": "The visual appeal of this dish greatly relies on how each element is artfully arranged. <image2> emphasizes the chicken's tenderness that promises a flavorful bite. The vivid chili oil in <image3> not only adds a spicy aroma but also enhances the dish's visual impact. <image4> showcases the fresh green onions that add both taste and visual freshness to the ensemble. <image5> highlights the porcelain plate's design, framing the dish beautifully. Finally, <image6> presents the inviting setup that encourages one to indulge, making it a feast for both the eyes and the palate."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0663",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0663_01.jpeg",
+      "audio1": "This image shows a flavorful Chinese dish featuring braised pork ribs, cooked with a rich blend of spices, including whole dried chili peppers and star anise. The ribs are tender, having been slow-cooked to perfection, and are immersed in a savory sauce that absorbs the complex flavors of the aromatics."
+    },
+    "content": "Describe the cultural significance and preparation techniques of the dish presented in <image1>. Use details from <audio1> to enhance your explanation and ensure the answer includes 5 images to support or illustrate these points."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of braised pork ribs with spices like chilies and star anise, emphasizing the texture and glaze of the sauce.",
+      "image3": "An image depicting the initial preparation steps, including marinating the ribs with soy sauce, ginger, and garlic.",
+      "image4": "A photo of the cooking process, showing the ribs being slow-cooked in a pot, with steam rising, and spices visible.",
+      "image5": "An artistic representation of the dish served traditionally in a family-style setting, with rice and side dishes accompanying it.",
+      "image6": "A cultural illustration highlighting the significance of this dish in a Chinese festival setting, with decorations and traditional attire."
+    },
+    "content": "This dish is deeply rooted in Chinese culinary tradition, often enjoyed during festive occasions. <image2> showcases the intricate cooking techniques used to achieve the dish’s texture and flavor profile. <image3> reveals how marinating the ribs is essential for infusing deep flavors. The art of slow-cooking, as seen in <image4>, helps in tenderizing the meat while letting spices permeate. <image5> illustrates how the dish is commonly presented with complementary foods, enhancing communal dining experiences. Finally, <image6> captures its cultural significance during celebrations, highlighting its role in heritage and tradition."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0664",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0664_01.jpg",
+      "audio1": "This dish is a classic Chinese sweet and sour fish. It features a whole fish that has been deep-fried until crispy and then glazed with a vibrant red sweet and sour sauce. The sauce is garnished with green peas and corn, adding a pop of color."
+    },
+    "content": "Describe the preparation and presentation of the classic sweet and sour fish dish using visual aids. Include <image1> for reference and <audio1> for detailed audio description. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view highlighting the glossy sweet and sour sauce covering the fish, with visible green peas and corn kernels enhancing its presentation.",
+      "image3": "An angled view showing the crispy, deep-fried texture of the fish skin and the sauce dripping delicately over it.",
+      "image4": "A side view focusing on the decorative garnish, including parsley and a bright purple orchid that adds elegance to the dish.",
+      "image5": "A top-down view of the dish, capturing the vibrant contrast between the red sauce and the white plate, enhancing visual appeal.",
+      "image6": "A preparation step image showing the fish being coated in batter before frying, a crucial part of achieving the crispy texture."
+    },
+    "content": "The presentation of the sweet and sour fish is both traditional and artistic. The fish is first deep-fried until the skin is crispy as shown in <image6>. Once cooked, it is generously coated with a sweet and sour sauce, which you can clearly see glistening on the fish in <image2>. The garnishing with green peas and corn kernels not only adds color contrast but also freshness, which is highlighted in <image2>. The crispy texture of the fish is beautifully captured in <image3>. Additionally, <image4> reveals the decorative garnishes used, such as parsley and orchid, which elevate the dish’s visual appeal. Overall, a top-down view in <image5> showcases the vibrant presentation of the dish, making it visually enticing."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0665",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0665_01.jpg",
+      "audio1": "This dish consists of a plate of steamed fish topped with vibrant red and green chili peppers. The fish is accompanied by tender, golden noodles, and sits in a pool of flavorful sauce infused with chili and scallions."
+    },
+    "content": "Describe the various components of the dish shown in <image1> and summarized in <audio1>, ensuring the answer includes 5 images to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the fish, highlighting the glistening skin and the vibrant red and green chili peppers sprinkled on top.",
+      "image3": "An alternate angle showing the texture and steam rising from the delicate, white fish.",
+      "image4": "A detailed view of the golden noodles, showing their smooth, supple texture and slight sheen from the sauce.",
+      "image5": "A close-up of the rich, spicy sauce, highlighting the floating chili slices and bits of scallion.",
+      "image6": "An artistic angle of the entire dish, showcasing the harmonious arrangement of the fish, noodles, and garnish on the plate."
+    },
+    "content": "The dish beautifully combines textures and flavors, with <image2> showcasing the vibrant topping of chili peppers. The fish itself is <image3>, delicate and steaming. On the side, <image4> reveals the smooth, inviting texture of the noodles. The sauce, as seen in <image5>, is both spicy and aromatic, complementing the dish perfectly. Finally, <image6> captures the overall presentation, emphasizing the care in its artistic arrangement."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0666",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0666_01.jpeg",
+      "audio1": "This dish features a beautifully presented poached chicken, often known as Hainanese chicken. The skin is silky and pale yellow, while the meat is tender. It is traditionally accompanied by a dipping sauce made of soy sauce and garnished with a sprig of greens for freshness. The dish is meticulously cut into pieces and elegantly arranged, making it a visual delight."
+    },
+    "content": "Describe the preparation and presentation of the Hainanese chicken as shown in <image1> and narrated in <audio1>. Your answer must include five images that illustrate different perspectives of the dish for a comprehensive understanding."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the golden, glistening skin of the poached chicken, highlighting its smooth texture and slight sheen from the cooking process.",
+      "image3": "An overhead view capturing the symmetry and neat arrangement of the chicken pieces on the plate, emphasizing the precision in cutting and arrangement.",
+      "image4": "A detailed shot of the dipping sauce, showing its rich, dark soy color and garnished with finely chopped herbs, emphasizing the flavor accompaniments.",
+      "image5": "A side profile of the dish illustrating the thickness and juiciness of the chicken pieces, inviting viewers to appreciate the tenderness of the meat.",
+      "image6": "An artistic presentation showing the entire dish with the garnish and sauce, capturing the elegance and simplicity of the traditional Hainanese chicken setup."
+    },
+    "content": "The Hainanese chicken is skillfully prepared to perfection, as seen in <image2>, where the texture of the skin is highlighted. The neat arrangement of pieces in <image3> reflects the culinary artistry involved. The rich sauce in <image4> complements this delicately poached chicken. From <image5>, you can notice the succulent characteristic of the meat. Finally, <image6> encapsulates its overall presentation elegance, making it a timeless dish in culinary arts."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0667",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0667_01.jpeg",
+      "audio1": "This dish features translucent jelly strips artfully arranged with slices of century egg, garnished with a vibrant red flower and fresh herbs, offering a visually stunning and texturally intriguing presentation."
+    },
+    "content": "Describe the unique presentation and ingredients of this dish shown in <image1> and explained in <audio1>. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the translucent jelly strips highlighting their smooth texture and shiny surface.",
+      "image3": "An angle showcasing the century egg slices, emphasizing their dark, intricate designs.",
+      "image4": "A detailed view of the red flower garnish, capturing its vibrant color and delicate petals.",
+      "image5": "An overhead shot of the entire dish, presenting the harmonious arrangement of the ingredients.",
+      "image6": "A side angle focusing on the fresh herbs, showing their crispness and green hue."
+    },
+    "content": "The dish combines culinary artistry with flavor. Starting with <image2>, the jelly strips provide a cool, refreshing base. Paired with <image3>, the century egg slices add a rich, unique flavor profile. The centerpiece, seen in <image4>, is the red flower garnish, which enhances the dish's visual appeal. An overhead perspective in <image5> reveals the overall balance and arrangement. Finally, <image6> highlights the fresh herbs, offering a touch of color and freshness."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0668",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0668_01.jpeg",
+      "audio1": "This dish features a succulent braised pork knuckle, glistening with rich, flavorful juices. Topped with minced garlic, the pork is tender and cooked to perfection, exuding a savory aroma. The accompanying broth reflects a golden hue, simmered to enhance the taste of the dish."
+    },
+    "content": "Examine the culinary presentation of the braised pork knuckle in <image1> and describe the sensory experience it provides. Consider the texture, aroma, and flavor outlined in <audio1>, and the answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the velvety smooth skin of the braised pork knuckle, highlighting its glossy and richly caramelized surface.",
+      "image3": "An overhead view capturing the full dish, showcasing the harmonious blend of colors and the intricate layers of meat and garlic.",
+      "image4": "A side view revealing the tender, juicy interior of the pork knuckle as a piece is sliced, displaying the moisture retained within the meat.",
+      "image5": "A depiction of the aromatic broth, with reflections of light emphasizing its rich, amber-like color.",
+      "image6": "An artistic rendition of the completed dish, focusing on the finely chopped garlic atop the pork, illustrating the contrast between different textures."
+    },
+    "content": "The braised pork knuckle offers a multisensory experience, with a <image2> gloss that invites you to explore its flavors. A <image3> overview showcases the dish's visual allure, while <image4> reveals the tenderness of the meat. The richness of the <image5> broth adds depth to the dish, and <image6> highlights the garlic garnish that elevates the overall flavor."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0669",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0669_01.jpeg",
+      "audio1": "This dish is a sizzling plate of beef, garnished with chopped spring onions. The beef looks tender and juicy, coated in a savory sauce with hints of pepper and garlic. Accompanying the meat are slices of onions and green bell peppers, all layered on a shiny foil. The aroma is rich, a blend of spices and grilled vegetables, inviting and comforting."
+    },
+    "content": "Describe the various elements and flavors featured in the dish shown in <image1>, ensuring that the explanation includes audio insights like <audio1> and clarifies that the answer must incorporate 5 images to illustrate the key aspects of the dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the tender beef slices glistening with the savory sauce, showcasing the texture and sheen that indicate the rich flavor immersion.",
+      "image3": "A focus on the chopped spring onions, providing a fresh contrast to the richness of the beef and adding a subtle crunch and a hint of sharpness.",
+      "image4": "A view of the lightly grilled onions and green bell peppers under the beef, soaking in the sauce and contributing a sweet, smoky undertone to the dish.",
+      "image5": "An angled perspective emphasizing the shine of the oil on the foil, showing how the dish retains heat and keeps the ingredients warm and aromatic.",
+      "image6": "A plating overview that captures the entirety of the sizzling dish, highlighting the harmonious blend of colors and ingredients that make it visually appealing."
+    },
+    "content": "The dish features an intricate mix of savory and fresh elements, perfectly illustrated by <image2>, <image3>, <image4>, <image5>, and <image6>. The beef, as seen in <image2>, is complemented by the freshness of the spring onions, depicted in <image3>. Meanwhile, <image4> focuses on the vegetables beneath, and <image5> captures the shiny, heat-retaining foil. Finally, <image6> shows how all these components come together harmoniously on the plate."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0670",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0670_01.jpeg",
+      "audio1": "The dish shown is a whole fish cooked in a savory sauce, garnished with chopped green onions and garlic chunks. The fish's skin is crispy, and the sauce is a rich, orange-brown color. A bowl of steamed white rice accompanies the dish, adding a perfect balance to the rich flavors of the fish."
+    },
+    "content": "Describe the dish in detail and explain its preparation. Highlight the different components and garnishes using <image1> and <audio1>, and ensure the answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the fish showing its crispy golden skin with a glistening finish from the sauce.",
+      "image3": "An overhead view that captures the arrangement of garlic and green onion garnishes on top of the fish.",
+      "image4": "A side view that highlights the thickness of the sauce, emphasizing its rich texture.",
+      "image5": "A shot focusing on the accompanying bowl of fluffy white rice, showcasing its soft texture.",
+      "image6": "An image that illustrates the dish being prepared, with the fish being carefully placed into the sauce in a pan."
+    },
+    "content": "The answer elaborates on the cooking method of the dish, starting with <image2> showing how the fish's crispy skin is achieved. Moving to <image3>, the garnishes play a key role in flavoring. <image4> illustrates the consistency of the sauce which is crucial for the taste profile. Moving on, <image5> emphasizes the importance of the complementary rice, while <image6> reveals a glimpse into the meticulous preparation process."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0671",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0671_01.jpeg",
+      "audio1": "This dish features fluffy scrambled eggs mixed with finely chopped scallions and pieces of crab meat. The eggs are cooked to a soft consistency, and the crab adds a touch of sweetness, perfectly complementing the savory aroma of the scallions."
+    },
+    "content": "Analyze the composition of the dish shown in <image1> and described in <audio1>. Explain the visual texture of the egg dish and suggest how it might be complemented with other flavors. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of scrambled eggs, highlighting their soft and fluffy texture, with distinct pieces of scallion and crab visible.",
+      "image3": "A side view of the dish showing the layering of eggs, providing a perspective on how they are combined with other ingredients.",
+      "image4": "An arrangement of the dish in a different setting, served with a side of soy sauce and garnished with fresh herbs.",
+      "image5": "A focus on the eggs being cooked in a pan, allowing for a visual explanation of the cooking technique that achieves the soft texture.",
+      "image6": "A complementary dish such as a small salad or a serving of rice that might enhance the flavors of the scrambled eggs."
+    },
+    "content": "The dish is characterized by its light, airy texture and vibrant color, as shown in <image2>. The inclusion of scallions and crab provides a flavor contrast that is visually and gastronomically appealing, apparent from <image3>. Serving suggestions could include a small dish of soy sauce or fresh herbs to enhance the savory notes, as visualized in <image4>. The cooking method can amplify the softness of the eggs, evidenced by the technique shown in <image5>. Complementary sides, like those illustrated in <image6>, provide a balanced meal experience."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0672",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0672_01.jpeg",
+      "audio1": "This image shows a colorful dish consisting of chunky pieces of meat mixed with a variety of vegetables, including potatoes and bell peppers. The dish is placed in a vibrant, patterned bowl and accompanied by a generous serving of wide, flat noodles. A small glass jar filled with yogurt and topped with pistachios is set next to the plate."
+    },
+    "content": "Describe the origins and key ingredients of this dish as seen in <image1>, and explained in <audio1>. Include a detailed visual depiction by using 5 supporting images."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of the tender, juicy meat pieces cooked to perfection, with visible marbling and a rich, savory glaze.",
+      "image3": "A detailed view of the freshly cut bell peppers, highlighting their vibrant green and red hues, contributing to the dish's appealing color palette.",
+      "image4": "An illustration of the hand-made noodles, showing their smooth, glossy texture and soft, chewy appearance, capturing the skill involved in their preparation.",
+      "image5": "A depiction of the creamy yogurt with a sprinkle of crushed pistachios on top, emphasizing the texture contrast and flavor addition to the savory dish.",
+      "image6": "A wide-angle view showing the entire set-up, with the dish, yogurt, and artistic table setting, bringing out the cultural and aesthetic aspects."
+    },
+    "content": "This traditional dish originates from Central Asian cuisine, featuring a hearty mix of <image2> and assorted vegetables like <image3>. It's served with <image4>, which are a staple accompaniment. The dish is often paired with <image5> for balance in flavors. <image6> gives an overview of how the meal is typically presented."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0673",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0673_01.jpg",
+      "audio1": "This is a traditional rice pilaf dish, cooked in a large cast-iron pan. It's vibrant with colors from saffron, carrots, and dried fruits, and accompanied by tender pieces of lamb."
+    },
+    "content": "Observe the <image1> showing a large cooking pan filled with a colorful rice dish. Listen to the <audio1> describing the ingredients and cooking method. Explain the cultural significance and variations of this dish around the world. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the saffron-infused rice, showcasing its rich golden hue and the texture of the grains.",
+      "image3": "An image highlighting the tender lamb pieces, marinated and slow-cooked until succulent, resting atop the pilaf.",
+      "image4": "A view from the side showing the layers of ingredients, illustrating how the vegetables and dried fruits are integrated into the rice.",
+      "image5": "A serving portion of the pilaf on a traditional plate, garnished with fresh herbs, emphasizing its appealing presentation.",
+      "image6": "A depiction of people gathered around the pan, sharing the dish, symbolizing its role in festive and communal settings."
+    },
+    "content": "These images provide a comprehensive view of the dish. <image2> shows the distinctive saffron color, <image3> details the preparation of the lamb, <image4> illustrates the careful layering of ingredients, <image5> demonstrates the traditional presentation, while <image6> encapsulates the social aspect of sharing this meal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0674",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0674_01.jpg",
+      "audio1": "This dish is a beautifully steamed fish garnished with freshly cut green onions, ginger strips, and sliced chili peppers. The fish flesh appears tender and soaking in a rich, aromatic broth that has a touch of soy sauce and sesame oil. The vibrant colors of the garnishes on top of the fish hint at a balanced flavor profile that includes spicy, sweet, and savory notes."
+    },
+    "content": "Describe the key visual components and variations of this steamed fish dish, ensuring to include <image1> and <audio1> for reference. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view showcasing the delicate texture of the fish skin, revealing the lines of translucent scales.",
+      "image3": "A top-down perspective displaying the colorful arrangement of green onions, ginger, and chilies, impeccably arranged over the fish.",
+      "image4": "An artistic shot of the dish, emphasizing the glistening broth and the rich, golden color of the sauce melding around the fish.",
+      "image5": "A side view capturing the overall presentation of the dish, highlighting the elegance of the plate and the fullness of the fish.",
+      "image6": "An image depicting the garnishing ingredients alone, meticulously laid out, to emphasize their freshness and crispness."
+    },
+    "content": "The dish features a well-cooked fish with a tender interior as shown in <image2>. The presentation, captured in <image3>, highlights the garnishes, adding a burst of color and flavor. In <image4>, the sumptuous broth envelops the fish, adding depth to the dish's flavor profile. The elegance of the entire presentation is captured in <image5>, while <image6> showcases the quality of the garnishing ingredients that contribute to the dish’s visual and taste appeal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0675",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0675_01.jpg",
+      "audio1": "This dish appears to be a traditional red-braised pork, characterized by its glossy, caramelized cubes of rich pork belly simmered in a savory and slightly sweet sauce."
+    },
+    "content": "Describe the process of cooking this food with <image1> showing the initial simmering and <audio1> detailing the dish’s flavors and textures. The answer must include 5 images to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of the golden-brown caramelized pork belly pieces glistening under the light, highlighting the texture and glaze.",
+      "image3": "An overhead shot of the ingredients laid out, including pork belly, soy sauce, sugar, and aromatic spices like star anise and cinnamon sticks.",
+      "image4": "The dish in progress showing the pork belly gently simmering in a pan with a rich, dark sauce bubbling around it.",
+      "image5": "A serving suggestion with the pork belly neatly arranged on a white plate with a side of steamed rice and green vegetables.",
+      "image6": "A fork cutting into the pork belly, revealing the tender, juicy interior contrasted with the caramelized exterior."
+    },
+    "content": "To prepare this delicious dish, begin by browning the <image2> in a hot pan. Gather all essential ingredients such as those in <image3>. Once browned, add the other components and let everything simmer as seen in <image4>. Finally, serve the meal attractively, as shown in <image5>, and savor the tenderness while slicing through the pork in <image6>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0676",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0676_01.jpeg",
+      "audio1": "This dish is a classic Chinese tofu preparation served in a clay pot. The tofu is cut into rectangular slices and fried until golden brown. It is then simmered with a thick, savory sauce made of soy sauce, garlic, and a hint of chili for spice. Garnished on top with fresh green onions and a small red pepper, this dish balances umami flavors with a touch of heat. The clay pot helps retain the heat, ensuring that the tofu stays warm and flavorful throughout the meal."
+    },
+    "content": "Describe the cultural significance and ingredients of the dish shown in <image1>. Use <audio1> to support the explanation, and include exactly 5 images in your answer for visual support."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the tofu, showing its crispy exterior and the glossy sauce coating.",
+      "image3": "An overhead shot capturing the garnishes like chopped green onions and a red pepper on top of the tofu.",
+      "image4": "An image depicting the sizzling clay pot, illustrating how it keeps the dish hot.",
+      "image5": "A visual showing the individual ingredients used in the sauce, such as soy sauce, garlic, and chili.",
+      "image6": "A cultural scene of a traditional Chinese meal setup, where the tofu dish is being served."
+    },
+    "content": "This dish is deeply rooted in Chinese culinary tradition, often enjoyed during family gatherings. The tofu, cooked to perfection, is enveloped in a rich sauce that enhances its natural flavors. The <image2> showcases the crispy texture which is a result of frying, an essential cooking step. Meanwhile, <image3> highlights the vibrant toppings that add visual appeal and a burst of freshness. The clay pot, seen in <image4>, is significant as it maintains the dish's temperature, symbolizing warmth and hospitality. The ingredients displayed in <image5> reveal the simplicity yet depth of flavor, with soy sauce and garlic being staples in Asian cooking. Finally, <image6> encapsulates the communal aspect of dining in Chinese culture, where such dishes are shared and savored."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0677",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0677_01.jpg",
+      "audio1": "This dish is a traditional spicy delicacy featuring thin slices of duck blood tofu, known for its rich umami flavor and smooth texture. It is garnished with sliced green onions and red chili peppers, all immersed in a savory, chili-infused sauce."
+    },
+    "content": "What are the key features of the spicy duck blood tofu dish shown in <image1> and described in <audio1>? The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of the duck blood tofu slices, highlighting their silky texture and dark maroon color.",
+      "image3": "A detailed view of the green onion garnish, showing the freshness of the sliced stems against the vibrant sauce.",
+      "image4": "An overhead shot of the dish, capturing the arrangement of ingredients and the glossy, spicy sauce in which they are cooked.",
+      "image5": "A side perspective of the dish, displaying the thickness of the tofu slices and the rich, layered colors of the sauce.",
+      "image6": "A photo of the complete dish served on a traditional plate, showcasing the visual appeal and color contrast between the tofu, greens, and red chilies."
+    },
+    "content": "The dish features duck blood tofu, which is <image2> prominently distinguished by its smooth and maroon texture. Complemented by <image3> fresh green onions, the tofu sits in a spicy, vibrant red sauce that is beautifully captured in <image4>. From <image5>, the thickness and texture of the tofu slices are more apparent, making each slice a rich, flavorful experience. Finally, the traditional presentation of the dish, as seen in <image6>, illustrates the appealing contrast of colors and flavors that make this dish a culinary delight."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0678",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0678_01.jpg",
+      "audio1": "This dish features a colorful mix of ingredients atop a bed of noodles, including ground meat, diced vegetables, and a savory sauce that indicates a burst of flavors."
+    },
+    "content": "Describe the different components and aspects of this noodle dish using both <image1> and <audio1>. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the ground meat, showing its texture and how it blends with chopped fresh vegetables and sauce.",
+      "image3": "A top-down view highlighting the colorful assortment of diced vegetables like peppers and onions mixed into the dish.",
+      "image4": "A side view of the dish to capture the layering effect of the noodles beneath the toppings.",
+      "image5": "An artistic shot focusing on the glistening sauce that coats the noodles and meat, emphasizing its rich and savory nature.",
+      "image6": "A wide-angle view of the entire dish served elegantly on a plate, showcasing the vibrant combination of colors and ingredients."
+    },
+    "content": "The noodle dish presented combines a delightful mix of textures and flavors. The <image2> demonstrates the fine texture of the cooked ground meat interspersed with vibrant vegetables. Examining <image3>, the dish features a bright medley of vegetables adding color and crunch, primarily from peppers and onions. In <image4>, you can see the layering of components, emphasizing how the noodles support the toppings. The savory nature of the sauce is beautifully captured in <image5>, highlighting its glossy finish as it clings to the food. Finally, <image6> provides an overview of the dish, celebrating the harmony of its colorful elements on the plate."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0679",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0679_01.jpg",
+      "audio1": "This dish features perfectly cooked shrimps, tossed in a savory soy sauce and garnished with thinly sliced green onions, delivering a burst of umami flavor."
+    },
+    "content": "Describe the dish shown in <image1> and explain how it is typically prepared as detailed in <audio1>. The answer must include 5 images to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "Close-up of a shrimp showing the glistening soy glaze with visible texture and seasoning.",
+      "image3": "A view of the shrimps being cooked in a pan with soy sauce bubbling around them.",
+      "image4": "An image illustrating the careful slicing of green onions, ready to be used as garnish.",
+      "image5": "A vibrant presentation of the dish on a rustic wooden table, highlighting its colors.",
+      "image6": "A side view showing the piling of shrimps on the plate, emphasizing the generous serving."
+    },
+    "content": "The shrimps, as depicted in <image2>, display a glossy finish from the soy glaze. In <image3>, you can see the process of cooking where the soy sauce infuses into each shrimp. The preparation involves fresh green onions, which can be seen being sliced in <image4>. This dish often appeals visually when served, as shown in <image5>, and is piled high on the plate for an inviting visual, demonstrated in <image6>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0680",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0680_01.jpg",
+      "audio1": "This dish appears to be a sizzling assortment, featuring a variety of stir-fried vegetables and meats. It includes vibrant red peppers, crispy cabbage, juicy mushrooms, and tender slices of meat, all cooked to perfection in a savory sauce. The side dish in the pot looks to be a spicy dipping sauce, possibly with chilies and herbs, adding an extra layer of flavor to the meal."
+    },
+    "content": "Identify the different elements and possible flavors of the dish presented in <image1> and <audio1>, and explain how they contribute to the overall taste and visual appeal. The answer must include 5 images to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of the juicy red peppers, highlighting their freshness and vibrant color.",
+      "image3": "A detailed image showing the crispy cabbage leaves, giving a sense of their texture and crunchiness.",
+      "image4": "A shot capturing the tender slices of meat with a glossy finish from the sauce, emphasizing their succulence.",
+      "image5": "An image of the mushrooms, showcasing their juicy interior and well-cooked exterior.",
+      "image6": "A dynamic view of the spicy dipping sauce, with visible chilies and herbs, showcasing its rich and bold flavor profile."
+    },
+    "content": "This dish is a culinary delight featuring an array of flavors and textures. The <image2> red peppers add a sweet and slightly spicy flavor, enhancing the dish's vibrancy. The <image3> crispy cabbage provides a refreshing crunch, contrasting with the other ingredients. <image4> showcases the tender slices of meat that offer a rich and savory taste, perfectly complemented by the sauce. The <image5> mushrooms add an earthy flavor, enriching the overall taste experience. Finally, the <image6> spicy dipping sauce provides an additional kick, completing the dish with a fiery and aromatic touch."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0681",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0681_01.jpeg",
+      "audio1": "The dish in the image is a beautifully presented steamed fish, garnished with vibrant green spring onions and served with thick, creamy slices of radish. The sauce is a rich soy glaze, giving the fish a savory aroma that pairs elegantly with the white radish."
+    },
+    "content": "Describe the ingredients and preparation method of the dish shown in <image1>. Use the <audio1> description for additional details. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the fish, showcasing the tender flesh and shiny glaze of the sauce.",
+      "image3": "An image of the raw ingredients used: fresh fish, spring onions, soy sauce, and radish.",
+      "image4": "A step-by-step illustration of the steaming process for the fish, highlighting temperature and timing aspects.",
+      "image5": "A picture depicting the dish being served at a dinner table, emphasizing the elegant presentation.",
+      "image6": "An atmospheric image of a kitchen where the dish is prepared, showing pots, pans, and the finished dish."
+    },
+    "content": "To prepare the dish, start with fresh fish, as depicted in <image3>. The fish should be steamed (see <image4>) with a mix of soy sauce and herbs. After cooking, coat it with the glaze similar to what you see in <image2>. For serving, arrange the cooked radish and garnish it with spring onions (like in <image5>). The creation is often done in a well-equipped kitchen, as shown in <image6>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0682",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0682_01.jpg",
+      "audio1": "This dish features stir-fried pork belly with leeks. The pork is sliced thinly and cooked with vibrant green leeks in a savory and slightly spicy sauce. The dish has a glossy finish and is served on a white ceramic plate, showcasing the freshness of the ingredients."
+    },
+    "content": "Describe the flavors and preparation techniques of the dish shown in <image1> and in the recording of <audio1>, ensuring the answer includes 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of the pork belly, highlighting the crispy edges and tender, juicy interior that exemplify the perfect cooking technique.",
+      "image3": "A top view of the plate, showing the vibrant contrast between the rich sauce and the bright green leeks, illustrating the visual appeal of the dish.",
+      "image4": "A side view of the dish, focusing on the glossy finish of the sauce that clings to each piece of meat and leek, indicating the dish's flavorful consistency.",
+      "image5": "An image capturing the chef's technique of stir-frying, with steam rising from the pan, emphasizing the precise timing and heat control used in preparation.",
+      "image6": "A beautifully styled setting with the dish surrounded by additional ingredients like soy sauce, garlic, and chili, showing a complete picture of the dish's composition and inspirations."
+    },
+    "content": "The flavors in this dish, as shown in the images, are a perfectly balanced combination of savory, spicy, and slightly sweet. <image2> demonstrates the key to flavor lies in the pork's texture. <image3> highlights how the vivid color of the leeks adds freshness. <image4> shows the sauce clinging to the ingredients, ensuring every bite is packed with flavor. <image5> reveals the stir-frying process that combines high heat with constant movement to create a dish that's both tender and crisp. Finally, <image6> complements the explanation by illustrating the ingredients and their role in achieving the overall flavor profile of the dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0683",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0683_01.jpg",
+      "audio1": "This image shows a steaming pot of vibrant red soup, likely a spicy Sichuan hot pot. The broth is rich and oily with a scattering of green herbs and vegetables floating on top, including what appear to be cilantro and spring onion. The soup is served in a rustic black pot, with a ladle resting on the edge."
+    },
+    "content": "Describe the flavor profile and ingredients of the soup captured in the <image1> picture, ensuring that the explanation is supported by visual details. The answer must include 5 images in the output to illustrate different aspects or ingredients of the dish, as noted in <audio1>."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of fresh cilantro and spring onions, emphasizing their vivid color and texture as garnishing elements in the soup.",
+      "image3": "An artistic depiction of a steaming bowl of Sichuan hot pot with chili peppers and oil slicks, highlighting the fiery and aromatic nature of the broth.",
+      "image4": "A detailed image showing a variety of raw ingredients such as chili peppers, garlic, and ginger that are typically used to make the flavorful base of the hot pot.",
+      "image5": "A vibrant picture capturing the rich red color and texture of the hot pot broth up close, showing the spices and herbs infused in it.",
+      "image6": "A scene of a dining table set with condiments and dipping sauces commonly served with hot pot, illustrating the rich cultural dining experience."
+    },
+    "content": "The soup in the image is a classic Sichuan hot pot, known for its bold and spicy flavor profile. <image2> The soup base is rich and oily, often made from beef tallow infused with dried chili peppers and Sichuan peppercorns, providing a numbing heat. <image3> Key ingredients typically include garlic, ginger, and fermented bean paste, which contribute to its deep, savory taste. <image4> The vibrant color of the broth, shown in <image5>, hints at the liberal use of red chili oil, while the fresh herbs floating on top balance the richness. Dining with a hot pot is a communal experience, accompanied by an array of dipping sauces and other condiments, as illustrated in <image6>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0684",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0684_01.jpeg",
+      "audio1": "This dish is a classic preparation of braised pork belly, featuring tender slices arranged in a shallow bowl with a rich soy-infused broth. The meat glistens with a succulent glaze, and vibrant green onions garnish the top, adding a fresh pop of color. The aroma is savory with a hint of sweetness, promising a melt-in-the-mouth experience."
+    },
+    "content": "Describe the key elements and variations of a classic braised pork belly dish by examining the image <image1> and detailing its preparation through the description <audio1>. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of the braised pork belly, highlighting the layers of tender meat and fat with the glossy sauce visible.",
+      "image3": "A top-down angle of the dish, showing the arrangement of pork slices and the evenly distributed green onion garnish.",
+      "image4": "An image of the preparation process, featuring raw pork belly being marinated with soy sauce, ginger, and star anise.",
+      "image5": "A depiction of the cooking process, with the pork simmering in the sauce in a slow cooker, emphasizing the bubbling broth.",
+      "image6": "A serving suggestion, placing the braised pork belly alongside steamed buns and a side of pickled vegetables for a complete meal."
+    },
+    "content": "The braised pork belly dish is best appreciated through various perspectives: <image2> captures the succulent texture of the meat, <image3> reveals its aesthetic on the plate, <image4> takes us to the initial marination stage, <image5> displays the careful cooking process, and <image6> illustrates an ideal serving arrangement with complementary sides."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0685",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0685_01.jpeg",
+      "audio1": "This dish is a classic clay pot rice featuring tender chicken pieces intermixed with vibrant green leafy vegetables. The slow-cooking method in a clay pot enhances the flavors, giving the rice a deliciously crispy texture at the edges. The aroma of fresh herbs and a hint of soy sauce perfume the dish, making it a savory delight."
+    },
+    "content": "Please describe the key elements and cooking process of the dish shown in <image1>, as conveyed through <audio1>. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up image of the clay pot showing the crispy rice base with a golden-brown color, capturing the texture and colors.",
+      "image3": "An image highlighting the chicken pieces, cooked to a perfect tenderness, with visible juiciness and seasoning marks.",
+      "image4": "A detailed image of the green leafy vegetables, showcasing their freshness and vibrant color against the earthy tone of the clay pot.",
+      "image5": "An overhead view of the entire dish, illustrating the harmonious arrangement of ingredients and the overall aesthetic.",
+      "image6": "A process image showing the clay pot on a traditional stove, emphasizing the method of cooking that adds flavor and aroma."
+    },
+    "content": "This dish is a beautiful representation of authentic clay pot cooking. The dish begins with a layer of rice that turns into a crispy delight, as captured in <image2>. The chicken, shown in <image3>, is marinated and cooked to perfection, maintaining its tenderness and flavor. Complementing the meat, the fresh green vegetables in <image4> add color and nutrition. An overhead shot in <image5> reveals the artistic placement of all components, appealing both to the eyes and taste buds. Finally, the clay pot's traditional cooking method, as seen in <image6>, helps infuse each ingredient with a unique, rich taste."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0686",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0686_01.jpeg",
+      "audio1": "This dish is a large, steamed bun, also known as a 'baozi.' It’s filled with juicy meat and savory broth, offering a delightful burst of flavor with each bite. The bun is crafted to be fluffy yet substantial, providing a perfect encasement for the filling. Topped with thinly sliced ginger, it adds a hint of spice and freshness."
+    },
+    "content": "Describe the preparation, key features, and cultural significance of the dish shown in <image1> and described in <audio1>. The answer must include 5 images to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "An image showing the preparation process of the bun, with the dough being rolled out and filled with meat broth.",
+      "image3": "A close-up shot of the filling inside the bun, highlighting the juicy, well-seasoned meat mixture.",
+      "image4": "An illustration of the steaming process, with buns neatly arranged in a bamboo steamer over boiling water.",
+      "image5": "A cultural setting where this dish is commonly enjoyed, such as a traditional tea house with people sharing the buns.",
+      "image6": "A comparison image showing different types of baozi to illustrate variety in fillings and shapes."
+    },
+    "content": "The dish, <image2>, begins with preparing a delicate dough that's rolled out and filled with savory meat broth. Inside, <image3> reveals a succulent filling that combines seasoned meat and aromatic broth, bursting with flavor. These buns are then steamed, as shown in <image4>, in bamboo steamers that enhance their texture and taste. Commonly served in <image5>, these buns hold cultural significance, often enjoyed in traditional tea houses. To explore variety, <image6> illustrates different baozi types, showcasing regional variations in fillings and shapes."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0687",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0687_01.jpg",
+      "audio1": "This dish is a vibrant bowl of noodle soup, featuring a rich and spicy broth complemented by fresh mint leaves. The noodles are thick and chewy, providing a hearty base. A perfectly cooked egg floats alongside succulent pieces of tender beef and a generous dollop of spicy chili paste. The herbs give a refreshing balance to the dish's bold flavors."
+    },
+    "content": "Describe the dish shown in <image1> using visual details provided in the <audio1>. Make sure your answer includes 5 images to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of the thick noodles submerged in the flavorful broth, highlighting their chewy texture.",
+      "image3": "A detailed shot of the succulent beef pieces, showcasing their tenderness and rich marination.",
+      "image4": "An overhead perspective of the bowl, revealing the vibrant contrast between the spicy chili paste and the fresh mint foliage.",
+      "image5": "A focus on the perfectly cooked egg, displaying its creamy yolk and smooth white.",
+      "image6": "The complete dish placed on a rustic wooden table, emphasizing the aromatic steam rising from the bowl."
+    },
+    "content": "This dish combines several contrasting elements to create a harmonious meal. As shown in <image2>, the noodles have a delightful chewiness that pairs well with the rich broth. The beef, seen in <image3>, is tender and complements the broth's depth. The vibrant colors in <image4> offer a visual feast, while <image5> highlights the egg's luscious texture. Finally, <image6> captures the essence of a warm, inviting meal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0688",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0688_01.jpeg",
+      "audio1": "The dish features thinly sliced pieces of seasoned beef, elegantly arranged on a decorative platter. Accompanied by fresh garnishings like cherry tomatoes and cucumber slices, it presents a delightful balance of colors and textures."
+    },
+    "content": "Describe the preparation process and presentation techniques of this dish emphasizing the aesthetic and culinary methods involved. Include explanations supported by 5 different images in the answer to illustrate the process and variations. Consider how <image1> and <audio1> suggest a nuanced approach to culinary presentation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of the seasoned beef slices being arranged on a decorative plate, highlighting the intricate details and patterns of the marbling.",
+      "image3": "The process of seasoning the beef shown in a rustic kitchen setting, displaying a variety of herbs and spices used for flavor enhancement.",
+      "image4": "An artistic shot of garnishes being prepared, including fresh cherry tomatoes and cucumber slices, carefully crafted to accent the dish.",
+      "image5": "A visual demonstration of plating techniques, showing the careful alignment of beef slices to create a symmetrical and appealing dish presentation.",
+      "image6": "A broad overview of a banquet setting where the dish is served, emphasizing the elegance and refinement of its presentation among other gourmet elements."
+    },
+    "content": "The preparation of this dish starts with carefully selecting quality beef, as illustrated by <image2>. Seasoning involves a blend of fresh herbs and spices, as captured in <image3>, infusing rich flavors into the meat. Garnishes play an integral role, with their preparation shown in <image4>, adding a vibrant contrast to the dish. Plating is an art, where techniques seen in <image5> enhance the visual appeal through meticulous arrangement. Finally, <image6> encapsulates the dish's role in a sophisticated dining experience, elevating both the culinary and aesthetic aspects."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0689",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0689_01.jpeg",
+      "audio1": "The image shows a traditional Chinese hot pot meal. The simmering broth is rich and spicy, filled with an assortment of ingredients. Surrounding the pot are thinly sliced meats, fresh vegetables, and various seasonings, ready to be cooked in the bubbling stew."
+    },
+    "content": "Describe the experience of enjoying a meal at this hot pot setting with <image1> offering a visual of the dish and <audio1> providing a detailed audio description of the meal. The answer must include 5 images in the output to support or illustrate the explanation, showing different stages and components of the dining experience."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the bubbling pot, showcasing the vivid red chilies and floating herbs creating an aromatic steam.",
+      "image3": "An image displaying the array of raw ingredients neatly arranged around the pot, highlighting the freshness and variety.",
+      "image4": "A view of diners enthusiastically cooking their choices in the pot, enjoying the interactive aspect of the meal.",
+      "image5": "A detailed shot of a beautifully arranged plate of cooked ingredients, ready to be consumed.",
+      "image6": "The aftermath, showing satisfied diners with empty plates and a half-empty pot, illustrating the enjoyable end to the meal."
+    },
+    "content": "Dining at a hot pot restaurant is a communal and interactive experience. <image2> captures the aromatic essence of the dish as it simmers vigorously, enticing diners with its rich fragrance. <image3> illustrates the tempting selection of ingredients available for cooking, from tender meats to crisp vegetables. As seen in <image4>, part of the fun is cooking the food directly at the table, fostering a sense of camaraderie among diners. Once cooked, the prepared dishes, as shown in <image5>, are a feast for the senses, offering bold flavors and satisfying textures. Finally, <image6> depicts the contentment and convivial atmosphere as diners finish their meal, often sharing stories and laughter."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0690",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0690_01.jpeg",
+      "audio1": "The image depicts a traditional dish, Hainanese Chicken Rice, featuring poached chicken with glistening yellow skin, neatly arranged on a white plate, accompanied by a small bowl of dark soy sauce garnished with green herbs."
+    },
+    "content": "Explain the components of the Hainanese Chicken Rice dish seen in <image1> and discussed in <audio1>. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of the succulent, poached chicken pieces with silky skin and tender meat, highlighting the glossy texture which indicates proper preparation.",
+      "image3": "A side view of perfectly cooked jasmine rice, showing its fluffy and aromatic nature, a staple accompaniment to the chicken.",
+      "image4": "An image of various condiments typically served with the dish, including a ginger paste and a chili sauce, each with a vibrant color and smooth texture.",
+      "image5": "A picture presenting a fresh accompaniment of sliced cucumbers and tomatoes, adding a burst of color and nutrition to the meal.",
+      "image6": "An artistic presentation of the entire dish setup, showcasing the harmonious arrangement of the chicken, rice, condiments, and garnishing on a dining table."
+    },
+    "content": "The Hainanese Chicken Rice dish is crafted with precision and balance. The poached chicken as seen in <image2> is a central component, highlighted by its tenderness and flavor. Accompanying this is the fragrant, soft rice depicted in <image3>, cooked in chicken broth to enhance its taste. Essential to the dish are the condiments such as those in <image4> that provide contrast and piquant flavors. The fresh vegetables in <image5> add texture and freshness. The complete dish, artfully arranged as shown in <image6>, exemplifies the harmony and complexity of this culinary delight."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0691",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0691_01.jpeg",
+      "audio1": "This dish features a plate of tender shrimp, seasoned with fresh herbs, served on a bed of crisp lettuce alongside a small bowl of tangy dipping sauce."
+    },
+    "content": "Describe the culinary experience of eating this dish. Use <image1> to guide your understanding and refer to the shrimp preparation as described in <audio1>. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the shrimp highlighting the texture and seasoning of the dish.",
+      "image3": "A side view showing the arrangement of shrimp on the bed of lettuce with the dipping sauce nearby.",
+      "image4": "An image showing the dipping sauce in detail, with hints of herbs or spices visible.",
+      "image5": "A top-down view that captures the entire dish, plate, and garnish for context.",
+      "image6": "An action shot of a fork picking up a shrimp, showing the juiciness and tenderness."
+    },
+    "content": "The dish provides a delightful combination of flavors and textures. The shrimp, as seen in <image2>, glisten with seasoning, inviting you to savor their tender texture. From the side perspective of <image3>, the contrast between the fresh lettuce and the cooked shrimp becomes apparent, enhancing the appeal of the dish. The dipping sauce, detailed in <image4>, offers a zesty complement to the shrimp's natural sweetness. Viewing the entire dish in <image5> gives a sense of balance and presentation. Finally, <image6> captures the enticing moment of tasting, emphasizing the dish's delectable quality."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0692",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0692_01.jpg",
+      "audio1": "This dish is a vibrant stir-fry featuring tender pieces of pork belly mixed with green onions and spices, creating a flavorful and aromatic meal."
+    },
+    "content": "Describe the ingredients and preparation method of the dish shown in <image1> and detailed in <audio1>. Ensure the explanation includes 5 images of the dish to provide visual support for different aspects such as ingredients, cooking methods, and serving suggestions."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up image showing the tender slices of pork belly glistening with a spicy sauce.",
+      "image3": "An image of fresh green onions being chopped on a wooden cutting board, ready to be added to the dish.",
+      "image4": "A step-by-step photograph series depicting the stir-frying process, showing vibrant colors and sizzling ingredients.",
+      "image5": "An artistic photo displaying the completed dish served on a rustic wooden table, highlighting the colors and textures.",
+      "image6": "A detailed image of the various spices and sauces used in the preparation, including chili peppers and soy sauce."
+    },
+    "content": "The dish is highlighted by its tender pork belly cooked to perfection, as shown in <image2>. The fresh ingredients, like green onions in <image3>, are essential. The stir-frying process shown in <image4> ensures the flavors meld beautifully. A serene presentation of the finished dish can be seen in <image5>, enhancing its appeal. Finally, <image6> illustrates the spices and sauces that contribute to its exquisite taste."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0693",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0693_01.jpeg",
+      "audio1": "This dish features translucent jelly slabs accompanied by century eggs, garnished with a vibrant red flower and delicate green herbs, creating a visually intriguing and appetizing presentation."
+    },
+    "content": "Using the image of the dish <image1> and the detailed description given by <audio1>, explain how this dish is presented and what key visual elements make it appealing. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A top-down view of the dish highlighting the arrangement of the translucent jelly and century eggs around the plate.",
+      "image3": "A close-up shot of the century eggs, showing their distinct marbled patterns and rich colors.",
+      "image4": "An angled view capturing the glossy texture of the jelly slabs, emphasizing their light-catching properties.",
+      "image5": "An image focusing on the garnish, illustrating the contrast between the red flower and the green herbs against the neutral tones of the dish.",
+      "image6": "A wider view of the table setting, displaying the dish alongside complementary elements like drinking vessels and cutlery to showcase the dining experience."
+    },
+    "content": "The dish is beautifully presented with <image2> offering a top-down perspective to appreciate the arrangement. <image3> provides a detailed look at the century eggs, emphasizing their unique patterns. The glossy jelly is captured in <image4>, highlighting its luster. The contrasting colors of the garnish are shown in <image5>, adding visual interest. Finally, <image6> places the dish within the context of the dining setup, enhancing the overall presentation."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0694",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0694_01.jpg",
+      "audio1": "a plate of richly spiced lamb skewers accompanied by a large piece of flatbread, lightly dusted with flavorful seasoning."
+    },
+    "content": "Describe the preparation and presentation of a dish featuring <image1> and <audio1>. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view showing the texture of the juicy, marinated lamb on skewers, highlighting the intricate char marks.",
+      "image3": "A detailed image capturing the soft, fluffy texture of the flatbread, with a sprinkle of spices visibly layered on top.",
+      "image4": "An overhead shot displaying the harmonious arrangement of the skewers and bread on a metal platter, emphasizing the vibrant colors of the spices.",
+      "image5": "A side perspective focusing on the thickness of the lamb pieces and their uniform grilling, with a faint steam rising from the freshly cooked meat.",
+      "image6": "A setting photo including the serving environment, showcasing the rustic dining atmosphere typical of a traditional eatery."
+    },
+    "content": "This dish is a delightful combination of tender lamb skewers and seasoned flatbread. <image2> provides an enticing look at the lamb's rich texture, while <image3> focuses on the bread's appetizing appearance. <image4> highlights the entire dish's presentation, <image5> reveals the lamb's succulent detail, and <image6> captures the ambiance where the dish is enjoyed."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0695",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0695_01.jpeg",
+      "audio1": "This dish features succulent, flaky chicken adorned with a vibrant and spicy Sichuan peppercorn sauce. The sauce is rich and deep, with an orange-red hue, dotted generously with finely chopped green onions and sesame seeds, giving a textural contrast and fresh taste. The plate is drizzled with a dark soy sauce, adding an umami depth to the aromatic dish."
+    },
+    "content": "Analyze the dish in <image1> and describe its components and flavors detailed in <audio1>. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "An overhead shot of the dish, highlighting the vibrant colors of the sauce and garnishes along with the tender chicken pieces.",
+      "image3": "A close-up view of the green onions and sesame seeds on top of the dish, emphasizing the textural details.",
+      "image4": "A side shot capturing the glistening surface of the sauce, showcasing the dish's rich and spicy mixture.",
+      "image5": "A spoon lifting a piece of chicken, showing the flaky texture and the way it absorbs the sauce.",
+      "image6": "A scene showing the dish served on a table with additional condiments like chili oil and soy sauce to enhance the dining experience."
+    },
+    "content": "The dish in question is an exquisite Sichuan-style spicy chicken, known for its bold and fiery flavor profile. <image2> offers a bird's-eye view that emphasizes its visual appeal, while <image3> zooms in on the garnish details. The spice-laden sauce is particularly well captured in <image4>, which highlights its oil-rich surface. For a closer examination of how the chicken integrates with the sauce, <image5> provides an action shot, and <image6> presents the dish in context, among accompanying condiments, enhancing the gourmet experience."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0696",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0696_01.jpg",
+      "audio1": "This dish features smooth, velvety slices of duck blood tofu, enriched in a spicy, aromatic chili oil sauce. Interspersed with vibrant green scallions and red chili flakes, the dish offers a delightful contrast of colors and textures, promising a bold flavor experience."
+    },
+    "content": "Describe the key characteristics of the dish depicted in <image1> and <audio1>, and explain why the presentation enhances the culinary experience. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of the duck blood tofu, showcasing its smooth texture and rich, deep color.",
+      "image3": "A side view of the dish, highlighting the vibrant green onions against the red sauce.",
+      "image4": "A view of a single slice of duck blood tofu lifted by chopsticks, emphasizing its firmness.",
+      "image5": "An overhead view showing the arrangement of tofu slices and garnishes.",
+      "image6": "A tastefully arranged table setting with complementary dishes and utensils."
+    },
+    "content": "The visual appeal of this dish is significantly enhanced by the contrast of textures and colors. <image2> provides an insight into the smoothness of the duck blood tofu, while <image3> emphasizes the visual allure created by the green onions against the red backdrop. The texture and firmness of the tofu are further highlighted in <image4>, showcasing its perfect consistency. An overhead perspective in <image5> reveals the careful arrangement of the tofu, enhancing the presentation. Finally, <image6> situates the dish within a complete dining setup, underlining the overall dining experience."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0697",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0697_01.jpg",
+      "audio1": "This is a vibrant, stir-fried dish featuring tender pieces of meat, crisp green peppers, and bamboo shoots, all coated in a rich, savory sauce with a hint of spice. The vegetables add a pop of color and texture, making the dish visually appealing."
+    },
+    "content": "Please describe the key visual and culinary elements of the dish shown in <image1>, referencing the detailed description in <audio1>. Ensure your answer includes 5 images to support or illustrate your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the juicy stir-fried meat pieces, highlighting their tenderness and savory glaze.",
+      "image3": "A detailed shot of the green peppers, showing their vibrant color and crisp texture.",
+      "image4": "An image focusing on the crunchy bamboo shoots, illustrating their unique shape and smooth surface.",
+      "image5": "A panoramic view of the entire dish, capturing the harmonious blend of ingredients in rich sauce.",
+      "image6": "A creative picture highlighting the plating, emphasizing the dish's presentation and color contrast on a decorative plate."
+    },
+    "content": "The dish, as seen in <image2>, features succulent meat pieces enveloped in a luscious glaze. Complementing these are the crisp green peppers seen in <image3>, bringing vibrancy and a subtle crunch. The bamboo shoots, showcased in <image4>, add yet another layer of texture with their distinct shape. Examining <image5>, the overall presentation shines with the rich sauce unifying all components. Finally, <image6> reveals the careful plating that accentuates the visual appeal with colorful contrasts."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0698",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0698_01.jpeg",
+      "audio1": "The image shows a bamboo steamer filled with beautifully crafted Chinese soup dumplings, also known as xiaolongbao. These dumplings have a delicate, thin outer layer that encases savory meat and rich broth. The dumplings are carefully pleated at the top and arranged neatly within the steamer."
+    },
+    "content": "Describe how the unique preparation and serving style of xiaolongbao enhances its flavors and presentation, using <image1> for visual context and <audio1> for a detailed description. Finally, explain why visual support through 5 images is crucial to understanding these aspects."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of the thin, almost translucent skin of a single xiaolongbao, highlighting the skillful pleating and the slight sheen that suggests the succulence within.",
+      "image3": "An image capturing the moment a xiaolongbao is gently lifted from the steamer with chopsticks, showcasing the perfect craftsmanship that prevents the dumpling from tearing.",
+      "image4": "A steaming hot bowl of golden broth poured from a pierced xiaolongbao into a spoon, illustrating the flavorful liquid contained within each dumpling.",
+      "image5": "A traditional bamboo steamer filled with xiaolongbao, placed on a beautifully set dining table, creating an inviting atmosphere and emphasizing the cultural dining experience.",
+      "image6": "A series of xiaolongbao being arranged in a steamer, showing the artisanal process of dumpling placement, which ensures even cooking and presentation."
+    },
+    "content": "Xiaolongbao are renowned for their thin skin and juicy interior, as shown in <image2>. The artistry involved in their creation is evident when a dumpling is lifted, retaining its shape as in <image3>. The flavorful broth captured in <image4> is an integral part of their allure. The setting of a bamboo steamer on a dining table, as in <image5>, enhances the cultural experience. Visualizing the meticulous arrangement of dumplings in <image6> further illustrates the care behind their preparation, collectively enhancing understanding of their flavor and presentation."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0699",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0699_01.jpg",
+      "audio1": "This image shows a traditional dish featuring a serving of delicious fried sesame balls. These golden-brown spheres are crispy on the outside, concealing a sweet filling that delights the palate. The dish is accompanied by a dipping sauce enriched with peanuts and herbs, enhancing the flavor profile."
+    },
+    "content": "Please describe the key characteristics and presentation of the dish shown in <image1> and explained in <audio1>. The answer must include 5 images to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of a fried sesame ball torn apart, revealing the sweet red bean paste filling inside.",
+      "image3": "A detailed view of the texture of the sesame balls, showcasing the golden crispy exterior covered with sesame seeds.",
+      "image4": "An artistic presentation of the sesame balls on a decorative plate, surrounded by garnishes.",
+      "image5": "A step-by-step depiction of the dipping sauce preparation, featuring ingredients like soy sauce, peanuts, and herbs integrated in a bowl.",
+      "image6": "A scene showing the sesame balls being served at a dining table, conveying a sense of hospitality and sumptuousness."
+    },
+    "content": "The vegetables are exquisitely wrapped in golden-brown sesame balls that delight the taste buds. Within <image2>, you can view the rich, inviting red bean paste filling as it spills out from a cracked ball, ensuring a sweet surprise with every bite. Look to <image3>, which captures the enticing texture of these delights, displaying a crispy exterior adorned with toasted sesame seeds that add a nutty aroma and flavor. Notice how they are arranged artistically in <image4>, where the balls rest invitingly on a beautifully crafted plate, ready for indulgence. Envision the preparation process of the accompanying dipping sauce in <image5>, where soy sauce, peanuts, and a blend of herbs are mixed, offering a piquant complement to the dish. Finally, <image6> presents the scene of a dining table where these balls are served, inviting guests with a sense of communal enjoyment and delicious anticipation."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0700",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0700_01.jpeg",
+      "audio1": "This dish is a vibrant colorful stir-fried noodle bowl, featuring tender slices of meat, crisp green and red bell peppers, and savory black fungus. The noodles are silky and well-coated in a rich, spicy sauce."
+    },
+    "content": "Describe the preparation style and ingredients of this dish using the <image1> reference and the <audio1> audio guide. The answer must include 5 images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "An image depicting the initial stage of stir-frying the noodles with a hint of the sizzling sauce and vibrant vegetables.",
+      "image3": "Close-up of the black fungus and crispy bell peppers being added to the mix, enhancing the visual aesthetics and texture.",
+      "image4": "A view of the juicy, tender slices of meat being perfectly cooked in the spicy and aromatic sauce.",
+      "image5": "An overhead shot capturing a sprinkle of chopped green onions and a dash of sesame seeds for garnish, completing the presentation.",
+      "image6": "A detailed depiction of the entire dish plated elegantly, showcasing all ingredients harmoniously, with steam rising to signify freshness."
+    },
+    "content": "The preparation of this dish begins with <image2> where the noodles are stir-fried along with vegetables. Adding black fungus and bell peppers as shown in <image3> enriches both the taste and texture. <image4> focuses on cooking the tender meat slices in the sauce. <image5> illustrates the garnishing process with green onions and sesame seeds, while <image6> presents the final plated dish in its aromatic and enticing entirety."
+  }
+}
