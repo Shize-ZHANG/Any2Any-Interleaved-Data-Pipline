@@ -1,6 +1,13 @@
-# 环境变量配置文件
-.env
-config.env
+# 图片文件管理
+# 如果不想跟踪所有图片，可以取消注释下面的行
+# original_data/image/*.jpg
+# original_data/image/*.jpeg
+# original_data/image/*.png
+
+# 临时文件
+*.tmp
+*.temp
+*.log
 
 # Python
 __pycache__/
@@ -25,26 +32,27 @@ wheels/
 *.egg
 MANIFEST
 
-# 虚拟环境
-venv/
+# 环境文件
+.env
+.venv
 env/
+venv/
 ENV/
+env.bak/
+venv.bak/
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
-# 日志文件
-*.log
-
-# 临时文件
-*.tmp
-*.temp
-
-# 输出文件
-generated_qa_pairs.jsonl
-raw_response.txt 
-
-images
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
