@@ -1,0 +1,3302 @@
+[
+  {
+    "total_calories": 41.399998,
+    "total_mass": 36.0,
+    "total_fat": 3.852,
+    "total_carb": 2.268,
+    "total_protein": 0.288,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0791_01.jpg"
+    },
+    "id": "0791"
+  },
+  {
+    "total_calories": 6.44,
+    "total_mass": 23.0,
+    "total_fat": 0.092,
+    "total_carb": 1.219,
+    "total_protein": 0.506,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0792_01.jpg"
+    },
+    "id": "0792"
+  },
+  {
+    "total_calories": 71.299995,
+    "total_mass": 62.0,
+    "total_fat": 6.634,
+    "total_carb": 3.906,
+    "total_protein": 0.496,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0793_01.jpg"
+    },
+    "id": "0793"
+  },
+  {
+    "total_calories": 27.52,
+    "total_mass": 64.0,
+    "total_fat": 0.192,
+    "total_carb": 5.76,
+    "total_protein": 2.176,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0794_01.jpg"
+    },
+    "id": "0794"
+  },
+  {
+    "total_calories": 4.48,
+    "total_mass": 28.0,
+    "total_fat": 0.056,
+    "total_carb": 0.952,
+    "total_protein": 0.196,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0795_01.jpg"
+    },
+    "id": "0795"
+  },
+  {
+    "total_calories": 103.300003,
+    "total_mass": 152.0,
+    "total_fat": 6.882,
+    "total_carb": 10.618,
+    "total_protein": 2.868,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0796_01.jpg"
+    },
+    "id": "0796"
+  },
+  {
+    "total_calories": 103.300003,
+    "total_mass": 152.0,
+    "total_fat": 6.882,
+    "total_carb": 10.618,
+    "total_protein": 2.868,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0797_01.jpg"
+    },
+    "id": "0797"
+  },
+  {
+    "total_calories": 103.299995,
+    "total_mass": 152.0,
+    "total_fat": 6.882,
+    "total_carb": 10.618,
+    "total_protein": 2.868,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0798_01.jpg"
+    },
+    "id": "0798"
+  },
+  {
+    "total_calories": 103.299995,
+    "total_mass": 152.0,
+    "total_fat": 6.882,
+    "total_carb": 10.618,
+    "total_protein": 2.868,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0799_01.jpg"
+    },
+    "id": "0799"
+  },
+  {
+    "total_calories": 103.299995,
+    "total_mass": 152.0,
+    "total_fat": 6.882,
+    "total_carb": 10.618,
+    "total_protein": 2.868,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0800_01.jpg"
+    },
+    "id": "0800"
+  },
+  {
+    "total_calories": 103.300003,
+    "total_mass": 151.0,
+    "total_fat": 6.882,
+    "total_carb": 10.618,
+    "total_protein": 2.868,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0801_01.jpg"
+    },
+    "id": "0801"
+  },
+  {
+    "total_calories": 18.810001,
+    "total_mass": 57.0,
+    "total_fat": 0.171,
+    "total_carb": 4.56,
+    "total_protein": 0.399,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0802_01.jpg"
+    },
+    "id": "0802"
+  },
+  {
+    "total_calories": 195.929993,
+    "total_mass": 126.0,
+    "total_fat": 13.23,
+    "total_carb": 1.512,
+    "total_protein": 15.75,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0803_01.jpg"
+    },
+    "id": "0803"
+  },
+  {
+    "total_calories": 115.413002,
+    "total_mass": 93.0,
+    "total_fat": 0.186,
+    "total_carb": 27.341999,
+    "total_protein": 1.488,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0804_01.jpg"
+    },
+    "id": "0804"
+  },
+  {
+    "total_calories": 330.152985,
+    "total_mass": 276.0,
+    "total_fat": 13.586999,
+    "total_carb": 33.413998,
+    "total_protein": 17.637001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0805_01.jpg"
+    },
+    "id": "0805"
+  },
+  {
+    "total_calories": 35.099998,
+    "total_mass": 39.0,
+    "total_fat": 5.07,
+    "total_carb": 0.0,
+    "total_protein": 7.176,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0806_01.jpg"
+    },
+    "id": "0806"
+  },
+  {
+    "total_calories": 13.144,
+    "total_mass": 53.0,
+    "total_fat": 0.106,
+    "total_carb": 3.127,
+    "total_protein": 0.53,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0807_01.jpg"
+    },
+    "id": "0807"
+  },
+  {
+    "total_calories": 13.64,
+    "total_mass": 31.0,
+    "total_fat": 0.651,
+    "total_carb": 1.333,
+    "total_protein": 0.992,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0808_01.jpg"
+    },
+    "id": "0808"
+  },
+  {
+    "total_calories": 61.883999,
+    "total_mass": 123.0,
+    "total_fat": 5.827,
+    "total_carb": 4.46,
+    "total_protein": 8.698,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0809_01.jpg"
+    },
+    "id": "0809"
+  },
+  {
+    "total_calories": 103.949997,
+    "total_mass": 63.0,
+    "total_fat": 2.268,
+    "total_carb": 0.0,
+    "total_protein": 19.530001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0810_01.jpg"
+    },
+    "id": "0810"
+  },
+  {
+    "total_calories": 19.25,
+    "total_mass": 77.0,
+    "total_fat": 0.231,
+    "total_carb": 3.85,
+    "total_protein": 1.386,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0811_01.jpg"
+    },
+    "id": "0811"
+  },
+  {
+    "total_calories": 319.779999,
+    "total_mass": 118.0,
+    "total_fat": 22.42,
+    "total_carb": 0.0,
+    "total_protein": 29.5,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0812_01.jpg"
+    },
+    "id": "0812"
+  },
+  {
+    "total_calories": 442.97998,
+    "total_mass": 258.0,
+    "total_fat": 24.919001,
+    "total_carb": 3.85,
+    "total_protein": 50.416,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0813_01.jpg"
+    },
+    "id": "0813"
+  },
+  {
+    "total_calories": 5.52,
+    "total_mass": 24.0,
+    "total_fat": 0.096,
+    "total_carb": 0.864,
+    "total_protein": 0.696,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0814_01.jpg"
+    },
+    "id": "0814"
+  },
+  {
+    "total_calories": 3.1,
+    "total_mass": 31.0,
+    "total_fat": 0.0,
+    "total_carb": 0.62,
+    "total_protein": 0.31,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0815_01.jpg"
+    },
+    "id": "0815"
+  },
+  {
+    "total_calories": 75.200005,
+    "total_mass": 47.0,
+    "total_fat": 7.05,
+    "total_carb": 4.23,
+    "total_protein": 0.94,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0816_01.jpg"
+    },
+    "id": "0816"
+  },
+  {
+    "total_calories": 46.0,
+    "total_mass": 40.0,
+    "total_fat": 4.28,
+    "total_carb": 2.52,
+    "total_protein": 0.32,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0817_01.jpg"
+    },
+    "id": "0817"
+  },
+  {
+    "total_calories": 129.820007,
+    "total_mass": 142.0,
+    "total_fat": 11.426001,
+    "total_carb": 8.233999,
+    "total_protein": 2.266,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0818_01.jpg"
+    },
+    "id": "0818"
+  },
+  {
+    "total_calories": 149.279999,
+    "total_mass": 96.0,
+    "total_fat": 10.08,
+    "total_carb": 1.152,
+    "total_protein": 12.0,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0819_01.jpg"
+    },
+    "id": "0819"
+  },
+  {
+    "total_calories": 22.049999,
+    "total_mass": 63.0,
+    "total_fat": 0.252,
+    "total_carb": 4.41,
+    "total_protein": 1.512,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0820_01.jpg"
+    },
+    "id": "0820"
+  },
+  {
+    "total_calories": 11.88,
+    "total_mass": 36.0,
+    "total_fat": 0.108,
+    "total_carb": 2.88,
+    "total_protein": 0.252,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0821_01.jpg"
+    },
+    "id": "0821"
+  },
+  {
+    "total_calories": 25.969999,
+    "total_mass": 49.0,
+    "total_fat": 0.343,
+    "total_carb": 5.88,
+    "total_protein": 0.588,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0822_01.jpg"
+    },
+    "id": "0822"
+  },
+  {
+    "total_calories": 146.069992,
+    "total_mass": 27.0,
+    "total_fat": 11.339999,
+    "total_carb": 0.378,
+    "total_protein": 9.99,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0823_01.jpg"
+    },
+    "id": "0823"
+  },
+  {
+    "total_calories": 355.25,
+    "total_mass": 271.0,
+    "total_fat": 22.122999,
+    "total_carb": 14.700001,
+    "total_protein": 24.341999,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0824_01.jpg"
+    },
+    "id": "0824"
+  },
+  {
+    "total_calories": 47.158001,
+    "total_mass": 38.0,
+    "total_fat": 0.076,
+    "total_carb": 11.172,
+    "total_protein": 0.608,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0825_01.jpg"
+    },
+    "id": "0825"
+  },
+  {
+    "total_calories": 26.434999,
+    "total_mass": 17.0,
+    "total_fat": 1.785,
+    "total_carb": 0.204,
+    "total_protein": 2.125,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0826_01.jpg"
+    },
+    "id": "0826"
+  },
+  {
+    "total_calories": 5.59,
+    "total_mass": 13.0,
+    "total_fat": 0.065,
+    "total_carb": 1.196,
+    "total_protein": 0.182,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0827_01.jpg"
+    },
+    "id": "0827"
+  },
+  {
+    "total_calories": 6.93,
+    "total_mass": 21.0,
+    "total_fat": 0.063,
+    "total_carb": 1.68,
+    "total_protein": 0.147,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0828_01.jpg"
+    },
+    "id": "0828"
+  },
+  {
+    "total_calories": 20.669998,
+    "total_mass": 39.0,
+    "total_fat": 0.273,
+    "total_carb": 4.68,
+    "total_protein": 0.468,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0829_01.jpg"
+    },
+    "id": "0829"
+  },
+  {
+    "total_calories": 106.782997,
+    "total_mass": 128.0,
+    "total_fat": 2.262,
+    "total_carb": 18.932001,
+    "total_protein": 3.53,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0830_01.jpg"
+    },
+    "id": "0830"
+  },
+  {
+    "total_calories": 29.880001,
+    "total_mass": 83.0,
+    "total_fat": 0.083,
+    "total_carb": 7.47,
+    "total_protein": 0.415,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0831_01.jpg"
+    },
+    "id": "0831"
+  },
+  {
+    "total_calories": 24.139999,
+    "total_mass": 71.0,
+    "total_fat": 0.142,
+    "total_carb": 5.68,
+    "total_protein": 0.568,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0832_01.jpg"
+    },
+    "id": "0832"
+  },
+  {
+    "total_calories": 129.839996,
+    "total_mass": 24.0,
+    "total_fat": 10.08,
+    "total_carb": 0.336,
+    "total_protein": 8.88,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0833_01.jpg"
+    },
+    "id": "0833"
+  },
+  {
+    "total_calories": 183.860001,
+    "total_mass": 178.0,
+    "total_fat": 10.305,
+    "total_carb": 13.486,
+    "total_protein": 9.863,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0834_01.jpg"
+    },
+    "id": "0834"
+  },
+  {
+    "total_calories": 20.400002,
+    "total_mass": 68.0,
+    "total_fat": 0.068,
+    "total_carb": 5.168,
+    "total_protein": 0.408,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0835_01.jpg"
+    },
+    "id": "0835"
+  },
+  {
+    "total_calories": 80.665001,
+    "total_mass": 65.0,
+    "total_fat": 0.13,
+    "total_carb": 19.110001,
+    "total_protein": 1.04,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0836_01.jpg"
+    },
+    "id": "0836"
+  },
+  {
+    "total_calories": 162.299988,
+    "total_mass": 30.0,
+    "total_fat": 12.599999,
+    "total_carb": 0.42,
+    "total_protein": 11.1,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0837_01.jpg"
+    },
+    "id": "0837"
+  },
+  {
+    "total_calories": 263.36499,
+    "total_mass": 163.0,
+    "total_fat": 12.797999,
+    "total_carb": 24.698,
+    "total_protein": 12.548,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0838_01.jpg"
+    },
+    "id": "0838"
+  },
+  {
+    "total_calories": 54.669998,
+    "total_mass": 71.0,
+    "total_fat": 0.071,
+    "total_carb": 12.07,
+    "total_protein": 1.42,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0839_01.jpg"
+    },
+    "id": "0839"
+  },
+  {
+    "total_calories": 151.479996,
+    "total_mass": 28.0,
+    "total_fat": 11.759999,
+    "total_carb": 0.392,
+    "total_protein": 10.360001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0840_01.jpg"
+    },
+    "id": "0840"
+  },
+  {
+    "total_calories": 21.900002,
+    "total_mass": 73.0,
+    "total_fat": 0.073,
+    "total_carb": 5.548,
+    "total_protein": 0.438,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0841_01.jpg"
+    },
+    "id": "0841"
+  },
+  {
+    "total_calories": 228.050003,
+    "total_mass": 172.0,
+    "total_fat": 11.903999,
+    "total_carb": 18.01,
+    "total_protein": 12.218,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0842_01.jpg"
+    },
+    "id": "0842"
+  },
+  {
+    "total_calories": 20.74,
+    "total_mass": 61.0,
+    "total_fat": 0.122,
+    "total_carb": 4.88,
+    "total_protein": 0.488,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0843_01.jpg"
+    },
+    "id": "0843"
+  },
+  {
+    "total_calories": 19.5,
+    "total_mass": 65.0,
+    "total_fat": 0.065,
+    "total_carb": 4.94,
+    "total_protein": 0.39,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0844_01.jpg"
+    },
+    "id": "0844"
+  },
+  {
+    "total_calories": 23.76,
+    "total_mass": 66.0,
+    "total_fat": 0.066,
+    "total_carb": 5.94,
+    "total_protein": 0.33,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0845_01.jpg"
+    },
+    "id": "0845"
+  },
+  {
+    "total_calories": 64.0,
+    "total_mass": 192.0,
+    "total_fat": 0.253,
+    "total_carb": 15.76,
+    "total_protein": 1.208,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0846_01.jpg"
+    },
+    "id": "0846"
+  },
+  {
+    "total_calories": 38.880001,
+    "total_mass": 108.0,
+    "total_fat": 0.108,
+    "total_carb": 9.72,
+    "total_protein": 0.54,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0847_01.jpg"
+    },
+    "id": "0847"
+  },
+  {
+    "total_calories": 88.549995,
+    "total_mass": 115.0,
+    "total_fat": 0.115,
+    "total_carb": 19.550001,
+    "total_protein": 2.3,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0848_01.jpg"
+    },
+    "id": "0848"
+  },
+  {
+    "total_calories": 146.069992,
+    "total_mass": 27.0,
+    "total_fat": 11.339999,
+    "total_carb": 0.378,
+    "total_protein": 9.99,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0849_01.jpg"
+    },
+    "id": "0849"
+  },
+  {
+    "total_calories": 273.5,
+    "total_mass": 250.0,
+    "total_fat": 11.562999,
+    "total_carb": 29.648003,
+    "total_protein": 12.83,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0850_01.jpg"
+    },
+    "id": "0850"
+  },
+  {
+    "total_calories": 137.751007,
+    "total_mass": 111.0,
+    "total_fat": 0.222,
+    "total_carb": 32.633999,
+    "total_protein": 1.776,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0851_01.jpg"
+    },
+    "id": "0851"
+  },
+  {
+    "total_calories": 119.019997,
+    "total_mass": 22.0,
+    "total_fat": 9.24,
+    "total_carb": 0.308,
+    "total_protein": 8.14,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0852_01.jpg"
+    },
+    "id": "0852"
+  },
+  {
+    "total_calories": 22.780001,
+    "total_mass": 67.0,
+    "total_fat": 0.134,
+    "total_carb": 5.36,
+    "total_protein": 0.536,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0853_01.jpg"
+    },
+    "id": "0853"
+  },
+  {
+    "total_calories": 279.550995,
+    "total_mass": 200.0,
+    "total_fat": 9.596,
+    "total_carb": 38.301998,
+    "total_protein": 10.452001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0854_01.jpg"
+    },
+    "id": "0854"
+  },
+  {
+    "total_calories": 67.759995,
+    "total_mass": 88.0,
+    "total_fat": 0.088,
+    "total_carb": 14.96,
+    "total_protein": 1.76,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0855_01.jpg"
+    },
+    "id": "0855"
+  },
+  {
+    "total_calories": 38.52,
+    "total_mass": 107.0,
+    "total_fat": 0.107,
+    "total_carb": 9.63,
+    "total_protein": 0.535,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0856_01.jpg"
+    },
+    "id": "0856"
+  },
+  {
+    "total_calories": 140.660004,
+    "total_mass": 26.0,
+    "total_fat": 10.92,
+    "total_carb": 0.364,
+    "total_protein": 9.62,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0857_01.jpg"
+    },
+    "id": "0857"
+  },
+  {
+    "total_calories": 246.940002,
+    "total_mass": 221.0,
+    "total_fat": 11.115,
+    "total_carb": 24.954,
+    "total_protein": 11.915,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0858_01.jpg"
+    },
+    "id": "0858"
+  },
+  {
+    "total_calories": 18.300001,
+    "total_mass": 61.0,
+    "total_fat": 0.061,
+    "total_carb": 4.636,
+    "total_protein": 0.366,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0859_01.jpg"
+    },
+    "id": "0859"
+  },
+  {
+    "total_calories": 89.352005,
+    "total_mass": 72.0,
+    "total_fat": 0.144,
+    "total_carb": 21.167999,
+    "total_protein": 1.152,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0860_01.jpg"
+    },
+    "id": "0860"
+  },
+  {
+    "total_calories": 81.149994,
+    "total_mass": 15.0,
+    "total_fat": 6.3,
+    "total_carb": 0.21,
+    "total_protein": 5.55,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0861_01.jpg"
+    },
+    "id": "0861"
+  },
+  {
+    "total_calories": 17.640001,
+    "total_mass": 49.0,
+    "total_fat": 0.049,
+    "total_carb": 4.41,
+    "total_protein": 0.245,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0862_01.jpg"
+    },
+    "id": "0862"
+  },
+  {
+    "total_calories": 206.442001,
+    "total_mass": 197.0,
+    "total_fat": 6.553999,
+    "total_carb": 30.423998,
+    "total_protein": 7.313,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0863_01.jpg"
+    },
+    "id": "0863"
+  },
+  {
+    "total_calories": 136.51001,
+    "total_mass": 110.0,
+    "total_fat": 0.22,
+    "total_carb": 32.34,
+    "total_protein": 1.76,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0864_01.jpg"
+    },
+    "id": "0864"
+  },
+  {
+    "total_calories": 31.620001,
+    "total_mass": 93.0,
+    "total_fat": 0.186,
+    "total_carb": 7.44,
+    "total_protein": 0.744,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0865_01.jpg"
+    },
+    "id": "0865"
+  },
+  {
+    "total_calories": 56.98,
+    "total_mass": 74.0,
+    "total_fat": 0.074,
+    "total_carb": 12.58,
+    "total_protein": 1.48,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0866_01.jpg"
+    },
+    "id": "0866"
+  },
+  {
+    "total_calories": 12.3,
+    "total_mass": 41.0,
+    "total_fat": 0.041,
+    "total_carb": 3.116,
+    "total_protein": 0.246,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0867_01.jpg"
+    },
+    "id": "0867"
+  },
+  {
+    "total_calories": 237.410004,
+    "total_mass": 318.0,
+    "total_fat": 0.521,
+    "total_carb": 55.475998,
+    "total_protein": 4.23,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0868_01.jpg"
+    },
+    "id": "0868"
+  },
+  {
+    "total_calories": 76.942001,
+    "total_mass": 62.0,
+    "total_fat": 0.124,
+    "total_carb": 18.228001,
+    "total_protein": 0.992,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0869_01.jpg"
+    },
+    "id": "0869"
+  },
+  {
+    "total_calories": 140.660004,
+    "total_mass": 26.0,
+    "total_fat": 10.92,
+    "total_carb": 0.364,
+    "total_protein": 9.62,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0870_01.jpg"
+    },
+    "id": "0870"
+  },
+  {
+    "total_calories": 31.280001,
+    "total_mass": 92.0,
+    "total_fat": 0.184,
+    "total_carb": 7.36,
+    "total_protein": 0.736,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0871_01.jpg"
+    },
+    "id": "0871"
+  },
+  {
+    "total_calories": 248.882004,
+    "total_mass": 180.0,
+    "total_fat": 11.228,
+    "total_carb": 25.952,
+    "total_protein": 11.348,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0872_01.jpg"
+    },
+    "id": "0872"
+  },
+  {
+    "total_calories": 140.660004,
+    "total_mass": 26.0,
+    "total_fat": 10.92,
+    "total_carb": 0.364,
+    "total_protein": 9.62,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0873_01.jpg"
+    },
+    "id": "0873"
+  },
+  {
+    "total_calories": 213.897003,
+    "total_mass": 37.0,
+    "total_fat": 18.315001,
+    "total_carb": 8.399,
+    "total_protein": 8.288,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0874_01.jpg"
+    },
+    "id": "0874"
+  },
+  {
+    "total_calories": 43.470001,
+    "total_mass": 63.0,
+    "total_fat": 0.126,
+    "total_carb": 11.34,
+    "total_protein": 0.441,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0875_01.jpg"
+    },
+    "id": "0875"
+  },
+  {
+    "total_calories": 74.360001,
+    "total_mass": 143.0,
+    "total_fat": 0.286,
+    "total_carb": 0.429,
+    "total_protein": 20.02,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0876_01.jpg"
+    },
+    "id": "0876"
+  },
+  {
+    "total_calories": 258.450012,
+    "total_mass": 75.0,
+    "total_fat": 20.475,
+    "total_carb": 3.15,
+    "total_protein": 14.475,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0877_01.jpg"
+    },
+    "id": "0877"
+  },
+  {
+    "total_calories": 29.07,
+    "total_mass": 51.0,
+    "total_fat": 0.153,
+    "total_carb": 7.14,
+    "total_protein": 0.357,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0878_01.jpg"
+    },
+    "id": "0878"
+  },
+  {
+    "total_calories": 29.07,
+    "total_mass": 51.0,
+    "total_fat": 0.153,
+    "total_carb": 7.14,
+    "total_protein": 0.357,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0879_01.jpg"
+    },
+    "id": "0879"
+  },
+  {
+    "total_calories": 37.869999,
+    "total_mass": 7.0,
+    "total_fat": 2.94,
+    "total_carb": 0.098,
+    "total_protein": 2.59,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0880_01.jpg"
+    },
+    "id": "0880"
+  },
+  {
+    "total_calories": 52.869999,
+    "total_mass": 34.0,
+    "total_fat": 3.57,
+    "total_carb": 0.408,
+    "total_protein": 4.25,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0881_01.jpg"
+    },
+    "id": "0881"
+  },
+  {
+    "total_calories": 85.629005,
+    "total_mass": 69.0,
+    "total_fat": 0.138,
+    "total_carb": 20.285999,
+    "total_protein": 1.104,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0882_01.jpg"
+    },
+    "id": "0882"
+  },
+  {
+    "total_calories": 205.438995,
+    "total_mass": 161.0,
+    "total_fat": 6.801,
+    "total_carb": 27.931999,
+    "total_protein": 8.301001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0883_01.jpg"
+    },
+    "id": "0883"
+  },
+  {
+    "total_calories": 37.259998,
+    "total_mass": 54.0,
+    "total_fat": 0.108,
+    "total_carb": 9.72,
+    "total_protein": 0.378,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0884_01.jpg"
+    },
+    "id": "0884"
+  },
+  {
+    "total_calories": 179.210999,
+    "total_mass": 31.0,
+    "total_fat": 15.345,
+    "total_carb": 7.037,
+    "total_protein": 6.944,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0885_01.jpg"
+    },
+    "id": "0885"
+  },
+  {
+    "total_calories": 30.6,
+    "total_mass": 90.0,
+    "total_fat": 0.18,
+    "total_carb": 7.2,
+    "total_protein": 0.72,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0886_01.jpg"
+    },
+    "id": "0886"
+  },
+  {
+    "total_calories": 247.070999,
+    "total_mass": 175.0,
+    "total_fat": 15.633,
+    "total_carb": 23.957001,
+    "total_protein": 8.042,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0887_01.jpg"
+    },
+    "id": "0887"
+  },
+  {
+    "total_calories": 7.84,
+    "total_mass": 28.0,
+    "total_fat": 0.112,
+    "total_carb": 1.484,
+    "total_protein": 0.616,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0888_01.jpg"
+    },
+    "id": "0888"
+  },
+  {
+    "total_calories": 289.050018,
+    "total_mass": 50.0,
+    "total_fat": 24.75,
+    "total_carb": 11.35,
+    "total_protein": 11.200001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0889_01.jpg"
+    },
+    "id": "0889"
+  },
+  {
+    "total_calories": 296.890015,
+    "total_mass": 78.0,
+    "total_fat": 24.862,
+    "total_carb": 12.834001,
+    "total_protein": 11.816001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0890_01.jpg"
+    },
+    "id": "0890"
+  },
+  {
+    "total_calories": 74.360001,
+    "total_mass": 143.0,
+    "total_fat": 0.286,
+    "total_carb": 0.429,
+    "total_protein": 20.02,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0891_01.jpg"
+    },
+    "id": "0891"
+  },
+  {
+    "total_calories": 57.27,
+    "total_mass": 83.0,
+    "total_fat": 0.166,
+    "total_carb": 14.940001,
+    "total_protein": 0.581,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0892_01.jpg"
+    },
+    "id": "0892"
+  },
+  {
+    "total_calories": 30.6,
+    "total_mass": 90.0,
+    "total_fat": 0.18,
+    "total_carb": 7.2,
+    "total_protein": 0.72,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0893_01.jpg"
+    },
+    "id": "0893"
+  },
+  {
+    "total_calories": 162.230011,
+    "total_mass": 316.0,
+    "total_fat": 0.632,
+    "total_carb": 22.569,
+    "total_protein": 21.320999,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0894_01.jpg"
+    },
+    "id": "0894"
+  },
+  {
+    "total_calories": 258.450012,
+    "total_mass": 75.0,
+    "total_fat": 20.475,
+    "total_carb": 3.15,
+    "total_protein": 14.475,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0895_01.jpg"
+    },
+    "id": "0895"
+  },
+  {
+    "total_calories": 151.479996,
+    "total_mass": 28.0,
+    "total_fat": 11.759999,
+    "total_carb": 0.392,
+    "total_protein": 10.360001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0896_01.jpg"
+    },
+    "id": "0896"
+  },
+  {
+    "total_calories": 104.057999,
+    "total_mass": 18.0,
+    "total_fat": 8.91,
+    "total_carb": 4.086,
+    "total_protein": 4.032,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0897_01.jpg"
+    },
+    "id": "0897"
+  },
+  {
+    "total_calories": 26.91,
+    "total_mass": 39.0,
+    "total_fat": 0.078,
+    "total_carb": 7.02,
+    "total_protein": 0.273,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0898_01.jpg"
+    },
+    "id": "0898"
+  },
+  {
+    "total_calories": 540.89801,
+    "total_mass": 160.0,
+    "total_fat": 41.223,
+    "total_carb": 14.648001,
+    "total_protein": 29.140001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0899_01.jpg"
+    },
+    "id": "0899"
+  },
+  {
+    "total_calories": 74.360001,
+    "total_mass": 143.0,
+    "total_fat": 0.286,
+    "total_carb": 0.429,
+    "total_protein": 20.02,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0900_01.jpg"
+    },
+    "id": "0900"
+  },
+  {
+    "total_calories": 13.72,
+    "total_mass": 49.0,
+    "total_fat": 0.196,
+    "total_carb": 2.597,
+    "total_protein": 1.078,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0901_01.jpg"
+    },
+    "id": "0901"
+  },
+  {
+    "total_calories": 115.620003,
+    "total_mass": 20.0,
+    "total_fat": 9.9,
+    "total_carb": 4.54,
+    "total_protein": 4.48,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0902_01.jpg"
+    },
+    "id": "0902"
+  },
+  {
+    "total_calories": 203.699997,
+    "total_mass": 212.0,
+    "total_fat": 10.382,
+    "total_carb": 7.566,
+    "total_protein": 25.578001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0903_01.jpg"
+    },
+    "id": "0903"
+  },
+  {
+    "total_calories": 151.479996,
+    "total_mass": 28.0,
+    "total_fat": 11.759999,
+    "total_carb": 0.392,
+    "total_protein": 10.360001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0904_01.jpg"
+    },
+    "id": "0904"
+  },
+  {
+    "total_calories": 85.470001,
+    "total_mass": 111.0,
+    "total_fat": 0.111,
+    "total_carb": 18.870001,
+    "total_protein": 2.22,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0905_01.jpg"
+    },
+    "id": "0905"
+  },
+  {
+    "total_calories": 74.879997,
+    "total_mass": 144.0,
+    "total_fat": 0.288,
+    "total_carb": 0.432,
+    "total_protein": 20.16,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0906_01.jpg"
+    },
+    "id": "0906"
+  },
+  {
+    "total_calories": 173.430008,
+    "total_mass": 30.0,
+    "total_fat": 14.85,
+    "total_carb": 6.81,
+    "total_protein": 6.72,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0907_01.jpg"
+    },
+    "id": "0907"
+  },
+  {
+    "total_calories": 485.26001,
+    "total_mass": 313.0,
+    "total_fat": 27.008999,
+    "total_carb": 26.504,
+    "total_protein": 39.459999,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0908_01.jpg"
+    },
+    "id": "0908"
+  },
+  {
+    "total_calories": 64.860001,
+    "total_mass": 94.0,
+    "total_fat": 0.188,
+    "total_carb": 16.92,
+    "total_protein": 0.658,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0909_01.jpg"
+    },
+    "id": "0909"
+  },
+  {
+    "total_calories": 434.196014,
+    "total_mass": 126.0,
+    "total_fat": 34.397999,
+    "total_carb": 5.292,
+    "total_protein": 24.318001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0910_01.jpg"
+    },
+    "id": "0910"
+  },
+  {
+    "total_calories": 85.470001,
+    "total_mass": 111.0,
+    "total_fat": 0.111,
+    "total_carb": 18.870001,
+    "total_protein": 2.22,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0911_01.jpg"
+    },
+    "id": "0911"
+  },
+  {
+    "total_calories": 584.526001,
+    "total_mass": 331.0,
+    "total_fat": 34.696999,
+    "total_carb": 41.082001,
+    "total_protein": 27.196001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0912_01.jpg"
+    },
+    "id": "0912"
+  },
+  {
+    "total_calories": 151.479996,
+    "total_mass": 28.0,
+    "total_fat": 11.759999,
+    "total_carb": 0.392,
+    "total_protein": 10.360001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0913_01.jpg"
+    },
+    "id": "0913"
+  },
+  {
+    "total_calories": 42.779999,
+    "total_mass": 62.0,
+    "total_fat": 0.124,
+    "total_carb": 11.160001,
+    "total_protein": 0.434,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0914_01.jpg"
+    },
+    "id": "0914"
+  },
+  {
+    "total_calories": 132.962997,
+    "total_mass": 23.0,
+    "total_fat": 11.385,
+    "total_carb": 5.221,
+    "total_protein": 5.152,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0915_01.jpg"
+    },
+    "id": "0915"
+  },
+  {
+    "total_calories": 203.314011,
+    "total_mass": 59.0,
+    "total_fat": 16.107,
+    "total_carb": 2.478,
+    "total_protein": 11.387,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0916_01.jpg"
+    },
+    "id": "0916"
+  },
+  {
+    "total_calories": 39.27,
+    "total_mass": 51.0,
+    "total_fat": 0.051,
+    "total_carb": 8.67,
+    "total_protein": 1.02,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0917_01.jpg"
+    },
+    "id": "0917"
+  },
+  {
+    "total_calories": 569.807007,
+    "total_mass": 223.0,
+    "total_fat": 39.426998,
+    "total_carb": 27.921001,
+    "total_protein": 28.353001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0918_01.jpg"
+    },
+    "id": "0918"
+  },
+  {
+    "total_calories": 30.940001,
+    "total_mass": 91.0,
+    "total_fat": 0.182,
+    "total_carb": 7.28,
+    "total_protein": 0.728,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0919_01.jpg"
+    },
+    "id": "0919"
+  },
+  {
+    "total_calories": 76.589996,
+    "total_mass": 111.0,
+    "total_fat": 0.222,
+    "total_carb": 19.980001,
+    "total_protein": 0.777,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0920_01.jpg"
+    },
+    "id": "0920"
+  },
+  {
+    "total_calories": 313.585999,
+    "total_mass": 91.0,
+    "total_fat": 24.843,
+    "total_carb": 3.822,
+    "total_protein": 17.563,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0921_01.jpg"
+    },
+    "id": "0921"
+  },
+  {
+    "total_calories": 433.575012,
+    "total_mass": 75.0,
+    "total_fat": 37.125,
+    "total_carb": 17.025,
+    "total_protein": 16.800001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0922_01.jpg"
+    },
+    "id": "0922"
+  },
+  {
+    "total_calories": 854.690979,
+    "total_mass": 368.0,
+    "total_fat": 62.372002,
+    "total_carb": 48.107002,
+    "total_protein": 35.868004,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0923_01.jpg"
+    },
+    "id": "0923"
+  },
+  {
+    "total_calories": 7.0,
+    "total_mass": 25.0,
+    "total_fat": 0.1,
+    "total_carb": 1.325,
+    "total_protein": 0.55,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0924_01.jpg"
+    },
+    "id": "0924"
+  },
+  {
+    "total_calories": 91.970001,
+    "total_mass": 17.0,
+    "total_fat": 7.14,
+    "total_carb": 0.238,
+    "total_protein": 6.29,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0925_01.jpg"
+    },
+    "id": "0925"
+  },
+  {
+    "total_calories": 39.329998,
+    "total_mass": 57.0,
+    "total_fat": 0.114,
+    "total_carb": 10.26,
+    "total_protein": 0.399,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0926_01.jpg"
+    },
+    "id": "0926"
+  },
+  {
+    "total_calories": 74.879997,
+    "total_mass": 144.0,
+    "total_fat": 0.288,
+    "total_carb": 0.432,
+    "total_protein": 20.16,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0927_01.jpg"
+    },
+    "id": "0927"
+  },
+  {
+    "total_calories": 46.969997,
+    "total_mass": 61.0,
+    "total_fat": 0.061,
+    "total_carb": 10.37,
+    "total_protein": 1.22,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0928_01.jpg"
+    },
+    "id": "0928"
+  },
+  {
+    "total_calories": 260.149994,
+    "total_mass": 304.0,
+    "total_fat": 7.703,
+    "total_carb": 22.625002,
+    "total_protein": 28.618999,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0929_01.jpg"
+    },
+    "id": "0929"
+  },
+  {
+    "total_calories": 74.360001,
+    "total_mass": 143.0,
+    "total_fat": 0.286,
+    "total_carb": 0.429,
+    "total_protein": 20.02,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0930_01.jpg"
+    },
+    "id": "0930"
+  },
+  {
+    "total_calories": 242.802002,
+    "total_mass": 42.0,
+    "total_fat": 20.790001,
+    "total_carb": 9.534,
+    "total_protein": 9.408,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0931_01.jpg"
+    },
+    "id": "0931"
+  },
+  {
+    "total_calories": 57.27,
+    "total_mass": 83.0,
+    "total_fat": 0.166,
+    "total_carb": 14.940001,
+    "total_protein": 0.581,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0932_01.jpg"
+    },
+    "id": "0932"
+  },
+  {
+    "total_calories": 148.178009,
+    "total_mass": 43.0,
+    "total_fat": 11.739,
+    "total_carb": 1.806,
+    "total_protein": 8.299,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0933_01.jpg"
+    },
+    "id": "0933"
+  },
+  {
+    "total_calories": 522.609985,
+    "total_mass": 311.0,
+    "total_fat": 32.981003,
+    "total_carb": 26.709002,
+    "total_protein": 38.307999,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0934_01.jpg"
+    },
+    "id": "0934"
+  },
+  {
+    "total_calories": 687.939026,
+    "total_mass": 119.0,
+    "total_fat": 58.904999,
+    "total_carb": 27.013,
+    "total_protein": 26.656,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0935_01.jpg"
+    },
+    "id": "0935"
+  },
+  {
+    "total_calories": 251.558014,
+    "total_mass": 73.0,
+    "total_fat": 19.929001,
+    "total_carb": 3.066,
+    "total_protein": 14.089001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0936_01.jpg"
+    },
+    "id": "0936"
+  },
+  {
+    "total_calories": 73.839996,
+    "total_mass": 142.0,
+    "total_fat": 0.284,
+    "total_carb": 0.426,
+    "total_protein": 19.879999,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0937_01.jpg"
+    },
+    "id": "0937"
+  },
+  {
+    "total_calories": 1013.337036,
+    "total_mass": 334.0,
+    "total_fat": 79.117996,
+    "total_carb": 30.505001,
+    "total_protein": 60.625,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0938_01.jpg"
+    },
+    "id": "0938"
+  },
+  {
+    "total_calories": 389.39801,
+    "total_mass": 113.0,
+    "total_fat": 30.849001,
+    "total_carb": 4.746,
+    "total_protein": 21.809,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0939_01.jpg"
+    },
+    "id": "0939"
+  },
+  {
+    "total_calories": 69.0,
+    "total_mass": 100.0,
+    "total_fat": 0.2,
+    "total_carb": 18.0,
+    "total_protein": 0.7,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0940_01.jpg"
+    },
+    "id": "0940"
+  },
+  {
+    "total_calories": 13.6,
+    "total_mass": 40.0,
+    "total_fat": 0.08,
+    "total_carb": 3.2,
+    "total_protein": 0.32,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0941_01.jpg"
+    },
+    "id": "0941"
+  },
+  {
+    "total_calories": 416.231995,
+    "total_mass": 72.0,
+    "total_fat": 35.639999,
+    "total_carb": 16.344,
+    "total_protein": 16.128,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0942_01.jpg"
+    },
+    "id": "0942"
+  },
+  {
+    "total_calories": 888.22998,
+    "total_mass": 325.0,
+    "total_fat": 66.768997,
+    "total_carb": 42.290001,
+    "total_protein": 38.957001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0943_01.jpg"
+    },
+    "id": "0943"
+  },
+  {
+    "total_calories": 5.6,
+    "total_mass": 20.0,
+    "total_fat": 0.08,
+    "total_carb": 1.06,
+    "total_protein": 0.44,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0944_01.jpg"
+    },
+    "id": "0944"
+  },
+  {
+    "total_calories": 306.694,
+    "total_mass": 89.0,
+    "total_fat": 24.297001,
+    "total_carb": 3.738,
+    "total_protein": 17.177,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0945_01.jpg"
+    },
+    "id": "0945"
+  },
+  {
+    "total_calories": 73.839996,
+    "total_mass": 142.0,
+    "total_fat": 0.284,
+    "total_carb": 0.426,
+    "total_protein": 19.879999,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0946_01.jpg"
+    },
+    "id": "0946"
+  },
+  {
+    "total_calories": 386.134003,
+    "total_mass": 251.0,
+    "total_fat": 24.661001,
+    "total_carb": 5.224,
+    "total_protein": 37.497002,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0947_01.jpg"
+    },
+    "id": "0947"
+  },
+  {
+    "total_calories": 687.939026,
+    "total_mass": 119.0,
+    "total_fat": 58.904999,
+    "total_carb": 27.013,
+    "total_protein": 26.656,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0948_01.jpg"
+    },
+    "id": "0948"
+  },
+  {
+    "total_calories": 45.540001,
+    "total_mass": 66.0,
+    "total_fat": 0.132,
+    "total_carb": 11.88,
+    "total_protein": 0.462,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0949_01.jpg"
+    },
+    "id": "0949"
+  },
+  {
+    "total_calories": 317.032013,
+    "total_mass": 92.0,
+    "total_fat": 25.116001,
+    "total_carb": 3.864,
+    "total_protein": 17.756001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0950_01.jpg"
+    },
+    "id": "0950"
+  },
+  {
+    "total_calories": 1050.511108,
+    "total_mass": 277.0,
+    "total_fat": 84.153,
+    "total_carb": 42.757,
+    "total_protein": 44.874004,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0951_01.jpg"
+    },
+    "id": "0951"
+  },
+  {
+    "total_calories": 300.612,
+    "total_mass": 52.0,
+    "total_fat": 25.74,
+    "total_carb": 11.804,
+    "total_protein": 11.648001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0952_01.jpg"
+    },
+    "id": "0952"
+  },
+  {
+    "total_calories": 372.167999,
+    "total_mass": 108.0,
+    "total_fat": 29.484001,
+    "total_carb": 4.536,
+    "total_protein": 20.844,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0953_01.jpg"
+    },
+    "id": "0953"
+  },
+  {
+    "total_calories": 48.990002,
+    "total_mass": 71.0,
+    "total_fat": 0.142,
+    "total_carb": 12.780001,
+    "total_protein": 0.497,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0954_01.jpg"
+    },
+    "id": "0954"
+  },
+  {
+    "total_calories": 13.26,
+    "total_mass": 39.0,
+    "total_fat": 0.078,
+    "total_carb": 3.12,
+    "total_protein": 0.312,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0955_01.jpg"
+    },
+    "id": "0955"
+  },
+  {
+    "total_calories": 735.030029,
+    "total_mass": 270.0,
+    "total_fat": 55.444,
+    "total_carb": 32.240002,
+    "total_protein": 33.301003,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0956_01.jpg"
+    },
+    "id": "0956"
+  },
+  {
+    "total_calories": 206.76001,
+    "total_mass": 60.0,
+    "total_fat": 16.380001,
+    "total_carb": 2.52,
+    "total_protein": 11.58,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0957_01.jpg"
+    },
+    "id": "0957"
+  },
+  {
+    "total_calories": 74.360001,
+    "total_mass": 143.0,
+    "total_fat": 0.286,
+    "total_carb": 0.429,
+    "total_protein": 20.02,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0958_01.jpg"
+    },
+    "id": "0958"
+  },
+  {
+    "total_calories": 4.2,
+    "total_mass": 15.0,
+    "total_fat": 0.06,
+    "total_carb": 0.795,
+    "total_protein": 0.33,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0959_01.jpg"
+    },
+    "id": "0959"
+  },
+  {
+    "total_calories": 335.298004,
+    "total_mass": 58.0,
+    "total_fat": 28.710001,
+    "total_carb": 13.166,
+    "total_protein": 12.992001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0960_01.jpg"
+    },
+    "id": "0960"
+  },
+  {
+    "total_calories": 51.060001,
+    "total_mass": 74.0,
+    "total_fat": 0.148,
+    "total_carb": 13.320001,
+    "total_protein": 0.518,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0961_01.jpg"
+    },
+    "id": "0961"
+  },
+  {
+    "total_calories": 671.67804,
+    "total_mass": 350.0,
+    "total_fat": 45.584,
+    "total_carb": 30.23,
+    "total_protein": 45.440006,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0962_01.jpg"
+    },
+    "id": "0962"
+  },
+  {
+    "total_calories": 389.39801,
+    "total_mass": 113.0,
+    "total_fat": 30.849001,
+    "total_carb": 4.746,
+    "total_protein": 21.809,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0963_01.jpg"
+    },
+    "id": "0963"
+  },
+  {
+    "total_calories": 92.459999,
+    "total_mass": 134.0,
+    "total_fat": 0.268,
+    "total_carb": 24.120001,
+    "total_protein": 0.938,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0964_01.jpg"
+    },
+    "id": "0964"
+  },
+  {
+    "total_calories": 393.108002,
+    "total_mass": 68.0,
+    "total_fat": 33.66,
+    "total_carb": 15.436,
+    "total_protein": 15.232,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0965_01.jpg"
+    },
+    "id": "0965"
+  },
+  {
+    "total_calories": 874.966003,
+    "total_mass": 315.0,
+    "total_fat": 64.777,
+    "total_carb": 44.301998,
+    "total_protein": 37.979,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0966_01.jpg"
+    },
+    "id": "0966"
+  },
+  {
+    "total_calories": 36.57,
+    "total_mass": 53.0,
+    "total_fat": 0.106,
+    "total_carb": 9.54,
+    "total_protein": 0.371,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0967_01.jpg"
+    },
+    "id": "0967"
+  },
+  {
+    "total_calories": 323.736023,
+    "total_mass": 56.0,
+    "total_fat": 27.720001,
+    "total_carb": 12.712,
+    "total_protein": 12.544001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0968_01.jpg"
+    },
+    "id": "0968"
+  },
+  {
+    "total_calories": 227.436005,
+    "total_mass": 66.0,
+    "total_fat": 18.018,
+    "total_carb": 2.772,
+    "total_protein": 12.738,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0969_01.jpg"
+    },
+    "id": "0969"
+  },
+  {
+    "total_calories": 16.32,
+    "total_mass": 48.0,
+    "total_fat": 0.096,
+    "total_carb": 3.84,
+    "total_protein": 0.384,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0970_01.jpg"
+    },
+    "id": "0970"
+  },
+  {
+    "total_calories": 604.062073,
+    "total_mass": 223.0,
+    "total_fat": 45.939999,
+    "total_carb": 28.863998,
+    "total_protein": 26.037001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0971_01.jpg"
+    },
+    "id": "0971"
+  },
+  {
+    "total_calories": 74.360001,
+    "total_mass": 143.0,
+    "total_fat": 0.286,
+    "total_carb": 0.429,
+    "total_protein": 20.02,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0972_01.jpg"
+    },
+    "id": "0972"
+  },
+  {
+    "total_calories": 385.952026,
+    "total_mass": 112.0,
+    "total_fat": 30.576,
+    "total_carb": 4.704,
+    "total_protein": 21.616001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0973_01.jpg"
+    },
+    "id": "0973"
+  },
+  {
+    "total_calories": 687.939026,
+    "total_mass": 119.0,
+    "total_fat": 58.904999,
+    "total_carb": 27.013,
+    "total_protein": 26.656,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0974_01.jpg"
+    },
+    "id": "0974"
+  },
+  {
+    "total_calories": 1148.250977,
+    "total_mass": 374.0,
+    "total_fat": 89.766998,
+    "total_carb": 32.146,
+    "total_protein": 68.292,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0975_01.jpg"
+    },
+    "id": "0975"
+  },
+  {
+    "total_calories": 92.459999,
+    "total_mass": 134.0,
+    "total_fat": 0.268,
+    "total_carb": 24.120001,
+    "total_protein": 0.938,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0976_01.jpg"
+    },
+    "id": "0976"
+  },
+  {
+    "total_calories": 208.115997,
+    "total_mass": 36.0,
+    "total_fat": 17.82,
+    "total_carb": 8.172,
+    "total_protein": 8.064,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0977_01.jpg"
+    },
+    "id": "0977"
+  },
+  {
+    "total_calories": 74.360001,
+    "total_mass": 143.0,
+    "total_fat": 0.286,
+    "total_carb": 0.429,
+    "total_protein": 20.02,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0978_01.jpg"
+    },
+    "id": "0978"
+  },
+  {
+    "total_calories": 374.936005,
+    "total_mass": 313.0,
+    "total_fat": 18.373999,
+    "total_carb": 32.721001,
+    "total_protein": 29.021999,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0979_01.jpg"
+    },
+    "id": "0979"
+  },
+  {
+    "total_calories": 35.880001,
+    "total_mass": 52.0,
+    "total_fat": 0.104,
+    "total_carb": 9.360001,
+    "total_protein": 0.364,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0980_01.jpg"
+    },
+    "id": "0980"
+  },
+  {
+    "total_calories": 277.488007,
+    "total_mass": 48.0,
+    "total_fat": 23.76,
+    "total_carb": 10.896,
+    "total_protein": 10.752001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0981_01.jpg"
+    },
+    "id": "0981"
+  },
+  {
+    "total_calories": 385.952026,
+    "total_mass": 112.0,
+    "total_fat": 30.576,
+    "total_carb": 4.704,
+    "total_protein": 21.616001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0982_01.jpg"
+    },
+    "id": "0982"
+  },
+  {
+    "total_calories": 699.320068,
+    "total_mass": 212.0,
+    "total_fat": 54.440002,
+    "total_carb": 24.960001,
+    "total_protein": 32.732002,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0983_01.jpg"
+    },
+    "id": "0983"
+  },
+  {
+    "total_calories": 7.56,
+    "total_mass": 27.0,
+    "total_fat": 0.108,
+    "total_carb": 1.431,
+    "total_protein": 0.594,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0984_01.jpg"
+    },
+    "id": "0984"
+  },
+  {
+    "total_calories": 115.620003,
+    "total_mass": 20.0,
+    "total_fat": 9.9,
+    "total_carb": 4.54,
+    "total_protein": 4.48,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0985_01.jpg"
+    },
+    "id": "0985"
+  },
+  {
+    "total_calories": 36.57,
+    "total_mass": 53.0,
+    "total_fat": 0.106,
+    "total_carb": 9.54,
+    "total_protein": 0.371,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0986_01.jpg"
+    },
+    "id": "0986"
+  },
+  {
+    "total_calories": 182.638,
+    "total_mass": 53.0,
+    "total_fat": 14.469,
+    "total_carb": 2.226,
+    "total_protein": 10.229,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0987_01.jpg"
+    },
+    "id": "0987"
+  },
+  {
+    "total_calories": 342.388,
+    "total_mass": 153.0,
+    "total_fat": 24.582998,
+    "total_carb": 17.737,
+    "total_protein": 15.674,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0988_01.jpg"
+    },
+    "id": "0988"
+  },
+  {
+    "total_calories": 17.85,
+    "total_mass": 51.0,
+    "total_fat": 0.204,
+    "total_carb": 3.57,
+    "total_protein": 1.224,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0989_01.jpg"
+    },
+    "id": "0989"
+  },
+  {
+    "total_calories": 16.43,
+    "total_mass": 53.0,
+    "total_fat": 0.053,
+    "total_carb": 3.71,
+    "total_protein": 0.954,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0990_01.jpg"
+    },
+    "id": "0990"
+  },
+  {
+    "total_calories": 78.199997,
+    "total_mass": 68.0,
+    "total_fat": 7.276,
+    "total_carb": 4.284,
+    "total_protein": 0.544,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0991_01.jpg"
+    },
+    "id": "0991"
+  },
+  {
+    "total_calories": 22.1,
+    "total_mass": 65.0,
+    "total_fat": 0.455,
+    "total_carb": 4.42,
+    "total_protein": 0.455,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0992_01.jpg"
+    },
+    "id": "0992"
+  },
+  {
+    "total_calories": 113.849998,
+    "total_mass": 69.0,
+    "total_fat": 2.484,
+    "total_carb": 0.0,
+    "total_protein": 21.389999,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0993_01.jpg"
+    },
+    "id": "0993"
+  },
+  {
+    "total_calories": 94.400002,
+    "total_mass": 59.0,
+    "total_fat": 8.85,
+    "total_carb": 5.31,
+    "total_protein": 1.18,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0994_01.jpg"
+    },
+    "id": "0994"
+  },
+  {
+    "total_calories": 13.8,
+    "total_mass": 60.0,
+    "total_fat": 0.24,
+    "total_carb": 2.16,
+    "total_protein": 1.74,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0995_01.jpg"
+    },
+    "id": "0995"
+  },
+  {
+    "total_calories": 356.629974,
+    "total_mass": 425.0,
+    "total_fat": 19.562,
+    "total_carb": 23.453999,
+    "total_protein": 27.487001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0996_01.jpg"
+    },
+    "id": "0996"
+  },
+  {
+    "total_calories": 60.799999,
+    "total_mass": 80.0,
+    "total_fat": 0.0,
+    "total_carb": 14.400001,
+    "total_protein": 0.8,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0997_01.jpg"
+    },
+    "id": "0997"
+  },
+  {
+    "total_calories": 23.800001,
+    "total_mass": 70.0,
+    "total_fat": 0.14,
+    "total_carb": 5.6,
+    "total_protein": 0.56,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0998_01.jpg"
+    },
+    "id": "0998"
+  },
+  {
+    "total_calories": 16.0,
+    "total_mass": 64.0,
+    "total_fat": 0.192,
+    "total_carb": 3.2,
+    "total_protein": 1.152,
+    "image_info": {
+      "local_path": "food_images_renamed/img_0999_01.jpg"
+    },
+    "id": "0999"
+  },
+  {
+    "total_calories": 172.604996,
+    "total_mass": 111.0,
+    "total_fat": 11.655,
+    "total_carb": 1.332,
+    "total_protein": 13.875,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1000_01.jpg"
+    },
+    "id": "1000"
+  },
+  {
+    "total_calories": 273.204987,
+    "total_mass": 325.0,
+    "total_fat": 11.987,
+    "total_carb": 24.532001,
+    "total_protein": 16.386999,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1001_01.jpg"
+    },
+    "id": "1001"
+  },
+  {
+    "total_calories": 3.22,
+    "total_mass": 14.0,
+    "total_fat": 0.056,
+    "total_carb": 0.504,
+    "total_protein": 0.406,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1002_01.jpg"
+    },
+    "id": "1002"
+  },
+  {
+    "total_calories": 53.130001,
+    "total_mass": 77.0,
+    "total_fat": 0.154,
+    "total_carb": 13.860001,
+    "total_protein": 0.539,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1003_01.jpg"
+    },
+    "id": "1003"
+  },
+  {
+    "total_calories": 294.830994,
+    "total_mass": 51.0,
+    "total_fat": 25.245001,
+    "total_carb": 11.577,
+    "total_protein": 11.424001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1004_01.jpg"
+    },
+    "id": "1004"
+  },
+  {
+    "total_calories": 351.181,
+    "total_mass": 142.0,
+    "total_fat": 25.455,
+    "total_carb": 25.941,
+    "total_protein": 12.369,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1005_01.jpg"
+    },
+    "id": "1005"
+  },
+  {
+    "total_calories": 41.599998,
+    "total_mass": 32.0,
+    "total_fat": 0.096,
+    "total_carb": 8.96,
+    "total_protein": 0.864,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1006_01.jpg"
+    },
+    "id": "1006"
+  },
+  {
+    "total_calories": 74.360001,
+    "total_mass": 143.0,
+    "total_fat": 0.286,
+    "total_carb": 20.02,
+    "total_protein": 0.429,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1007_01.jpg"
+    },
+    "id": "1007"
+  },
+  {
+    "total_calories": 115.620003,
+    "total_mass": 20.0,
+    "total_fat": 9.9,
+    "total_carb": 4.54,
+    "total_protein": 4.48,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1008_01.jpg"
+    },
+    "id": "1008"
+  },
+  {
+    "total_calories": 10.98,
+    "total_mass": 61.0,
+    "total_fat": 0.122,
+    "total_carb": 2.379,
+    "total_protein": 0.549,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1009_01.jpg"
+    },
+    "id": "1009"
+  },
+  {
+    "total_calories": 28.98,
+    "total_mass": 42.0,
+    "total_fat": 0.084,
+    "total_carb": 7.56,
+    "total_protein": 0.294,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1010_01.jpg"
+    },
+    "id": "1010"
+  },
+  {
+    "total_calories": 271.540009,
+    "total_mass": 298.0,
+    "total_fat": 10.487999,
+    "total_carb": 43.459003,
+    "total_protein": 6.616,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1011_01.jpg"
+    },
+    "id": "1011"
+  },
+  {
+    "total_calories": 102.699997,
+    "total_mass": 79.0,
+    "total_fat": 0.237,
+    "total_carb": 22.120001,
+    "total_protein": 2.133,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1012_01.jpg"
+    },
+    "id": "1012"
+  },
+  {
+    "total_calories": 208.115997,
+    "total_mass": 36.0,
+    "total_fat": 17.82,
+    "total_carb": 8.172,
+    "total_protein": 8.064,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1013_01.jpg"
+    },
+    "id": "1013"
+  },
+  {
+    "total_calories": 58.650002,
+    "total_mass": 85.0,
+    "total_fat": 0.17,
+    "total_carb": 15.3,
+    "total_protein": 0.595,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1014_01.jpg"
+    },
+    "id": "1014"
+  },
+  {
+    "total_calories": 11.52,
+    "total_mass": 64.0,
+    "total_fat": 0.128,
+    "total_carb": 2.496,
+    "total_protein": 0.576,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1015_01.jpg"
+    },
+    "id": "1015"
+  },
+  {
+    "total_calories": 2.07,
+    "total_mass": 9.0,
+    "total_fat": 0.036,
+    "total_carb": 0.324,
+    "total_protein": 0.261,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1016_01.jpg"
+    },
+    "id": "1016"
+  },
+  {
+    "total_calories": 383.055969,
+    "total_mass": 273.0,
+    "total_fat": 18.390999,
+    "total_carb": 48.411999,
+    "total_protein": 11.629001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1017_01.jpg"
+    },
+    "id": "1017"
+  },
+  {
+    "total_calories": 73.839996,
+    "total_mass": 142.0,
+    "total_fat": 0.284,
+    "total_carb": 19.879999,
+    "total_protein": 0.426,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1018_01.jpg"
+    },
+    "id": "1018"
+  },
+  {
+    "total_calories": 25.530001,
+    "total_mass": 37.0,
+    "total_fat": 0.074,
+    "total_carb": 6.66,
+    "total_protein": 0.259,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1019_01.jpg"
+    },
+    "id": "1019"
+  },
+  {
+    "total_calories": 40.709999,
+    "total_mass": 59.0,
+    "total_fat": 0.118,
+    "total_carb": 10.620001,
+    "total_protein": 0.413,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1020_01.jpg"
+    },
+    "id": "1020"
+  },
+  {
+    "total_calories": 10.08,
+    "total_mass": 56.0,
+    "total_fat": 0.112,
+    "total_carb": 2.184,
+    "total_protein": 0.504,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1021_01.jpg"
+    },
+    "id": "1021"
+  },
+  {
+    "total_calories": 1.84,
+    "total_mass": 8.0,
+    "total_fat": 0.032,
+    "total_carb": 0.288,
+    "total_protein": 0.232,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1022_01.jpg"
+    },
+    "id": "1022"
+  },
+  {
+    "total_calories": 151.999985,
+    "total_mass": 302.0,
+    "total_fat": 0.62,
+    "total_carb": 39.632,
+    "total_protein": 1.834,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1023_01.jpg"
+    },
+    "id": "1023"
+  },
+  {
+    "total_calories": 1.15,
+    "total_mass": 5.0,
+    "total_fat": 0.02,
+    "total_carb": 0.18,
+    "total_protein": 0.145,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1024_01.jpg"
+    },
+    "id": "1024"
+  },
+  {
+    "total_calories": 87.629997,
+    "total_mass": 127.0,
+    "total_fat": 0.254,
+    "total_carb": 22.860001,
+    "total_protein": 0.889,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1025_01.jpg"
+    },
+    "id": "1025"
+  },
+  {
+    "total_calories": 231.240005,
+    "total_mass": 40.0,
+    "total_fat": 19.799999,
+    "total_carb": 9.08,
+    "total_protein": 8.96,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1026_01.jpg"
+    },
+    "id": "1026"
+  },
+  {
+    "total_calories": 10.98,
+    "total_mass": 61.0,
+    "total_fat": 0.122,
+    "total_carb": 2.379,
+    "total_protein": 0.549,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1027_01.jpg"
+    },
+    "id": "1027"
+  },
+  {
+    "total_calories": 331.0,
+    "total_mass": 233.0,
+    "total_fat": 20.195999,
+    "total_carb": 34.499001,
+    "total_protein": 10.543,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1028_01.jpg"
+    },
+    "id": "1028"
+  },
+  {
+    "total_calories": 2.99,
+    "total_mass": 13.0,
+    "total_fat": 0.052,
+    "total_carb": 0.468,
+    "total_protein": 0.377,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1029_01.jpg"
+    },
+    "id": "1029"
+  },
+  {
+    "total_calories": 25.530001,
+    "total_mass": 37.0,
+    "total_fat": 0.074,
+    "total_carb": 6.66,
+    "total_protein": 0.259,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1030_01.jpg"
+    },
+    "id": "1030"
+  },
+  {
+    "total_calories": 22.099998,
+    "total_mass": 17.0,
+    "total_fat": 0.051,
+    "total_carb": 4.76,
+    "total_protein": 0.459,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1031_01.jpg"
+    },
+    "id": "1031"
+  },
+  {
+    "total_calories": 12.960001,
+    "total_mass": 72.0,
+    "total_fat": 0.144,
+    "total_carb": 2.808,
+    "total_protein": 0.648,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1032_01.jpg"
+    },
+    "id": "1032"
+  },
+  {
+    "total_calories": 63.579998,
+    "total_mass": 139.0,
+    "total_fat": 0.321,
+    "total_carb": 14.696001,
+    "total_protein": 1.743,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1033_01.jpg"
+    },
+    "id": "1033"
+  },
+  {
+    "total_calories": 20.880001,
+    "total_mass": 116.0,
+    "total_fat": 0.232,
+    "total_carb": 4.524,
+    "total_protein": 1.044,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1034_01.jpg"
+    },
+    "id": "1034"
+  },
+  {
+    "total_calories": 42.09,
+    "total_mass": 61.0,
+    "total_fat": 0.122,
+    "total_carb": 10.98,
+    "total_protein": 0.427,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1035_01.jpg"
+    },
+    "id": "1035"
+  },
+  {
+    "total_calories": 369.984009,
+    "total_mass": 64.0,
+    "total_fat": 31.68,
+    "total_carb": 14.528,
+    "total_protein": 14.336,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1036_01.jpg"
+    },
+    "id": "1036"
+  },
+  {
+    "total_calories": 432.95401,
+    "total_mass": 241.0,
+    "total_fat": 32.034,
+    "total_carb": 30.032001,
+    "total_protein": 15.807,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1037_01.jpg"
+    },
+    "id": "1037"
+  },
+  {
+    "total_calories": 12.32,
+    "total_mass": 44.0,
+    "total_fat": 0.176,
+    "total_carb": 2.332,
+    "total_protein": 0.968,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1038_01.jpg"
+    },
+    "id": "1038"
+  },
+  {
+    "total_calories": 75.200005,
+    "total_mass": 47.0,
+    "total_fat": 7.05,
+    "total_carb": 4.23,
+    "total_protein": 0.94,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1039_01.jpg"
+    },
+    "id": "1039"
+  },
+  {
+    "total_calories": 28.0,
+    "total_mass": 80.0,
+    "total_fat": 0.32,
+    "total_carb": 5.6,
+    "total_protein": 1.92,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1040_01.jpg"
+    },
+    "id": "1040"
+  },
+  {
+    "total_calories": 15.785,
+    "total_mass": 77.0,
+    "total_fat": 0.231,
+    "total_carb": 2.618,
+    "total_protein": 0.693,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1041_01.jpg"
+    },
+    "id": "1041"
+  },
+  {
+    "total_calories": 6.97,
+    "total_mass": 34.0,
+    "total_fat": 0.102,
+    "total_carb": 1.156,
+    "total_protein": 0.306,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1042_01.jpg"
+    },
+    "id": "1042"
+  },
+  {
+    "total_calories": 12.1,
+    "total_mass": 55.0,
+    "total_fat": 0.165,
+    "total_carb": 1.815,
+    "total_protein": 1.705,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1043_01.jpg"
+    },
+    "id": "1043"
+  },
+  {
+    "total_calories": 169.949997,
+    "total_mass": 103.0,
+    "total_fat": 3.708,
+    "total_carb": 0.0,
+    "total_protein": 31.93,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1044_01.jpg"
+    },
+    "id": "1044"
+  },
+  {
+    "total_calories": 320.325012,
+    "total_mass": 440.0,
+    "total_fat": 11.752,
+    "total_carb": 17.750999,
+    "total_protein": 38.461998,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1045_01.jpg"
+    },
+    "id": "1045"
+  },
+  {
+    "total_calories": 160.164993,
+    "total_mass": 103.0,
+    "total_fat": 10.815,
+    "total_carb": 1.236,
+    "total_protein": 12.875,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1046_01.jpg"
+    },
+    "id": "1046"
+  },
+  {
+    "total_calories": 38.189999,
+    "total_mass": 67.0,
+    "total_fat": 0.201,
+    "total_carb": 9.38,
+    "total_protein": 0.469,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1047_01.jpg"
+    },
+    "id": "1047"
+  },
+  {
+    "total_calories": 141.440002,
+    "total_mass": 208.0,
+    "total_fat": 2.912,
+    "total_carb": 24.959999,
+    "total_protein": 4.992,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1048_01.jpg"
+    },
+    "id": "1048"
+  },
+  {
+    "total_calories": 198.354996,
+    "total_mass": 170.0,
+    "total_fat": 11.016,
+    "total_carb": 10.616,
+    "total_protein": 13.344,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1049_01.jpg"
+    },
+    "id": "1049"
+  },
+  {
+    "total_calories": 73.839996,
+    "total_mass": 142.0,
+    "total_fat": 0.284,
+    "total_carb": 19.879999,
+    "total_protein": 0.426,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1050_01.jpg"
+    },
+    "id": "1050"
+  },
+  {
+    "total_calories": 2.53,
+    "total_mass": 11.0,
+    "total_fat": 0.044,
+    "total_carb": 0.396,
+    "total_protein": 0.319,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1051_01.jpg"
+    },
+    "id": "1051"
+  },
+  {
+    "total_calories": 254.364014,
+    "total_mass": 44.0,
+    "total_fat": 21.780001,
+    "total_carb": 9.988,
+    "total_protein": 9.856,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1052_01.jpg"
+    },
+    "id": "1052"
+  },
+  {
+    "total_calories": 330.734009,
+    "total_mass": 197.0,
+    "total_fat": 22.108002,
+    "total_carb": 30.264,
+    "total_protein": 10.601,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1053_01.jpg"
+    },
+    "id": "1053"
+  },
+  {
+    "total_calories": 70.199997,
+    "total_mass": 54.0,
+    "total_fat": 0.162,
+    "total_carb": 15.12,
+    "total_protein": 1.458,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1054_01.jpg"
+    },
+    "id": "1054"
+  },
+  {
+    "total_calories": 73.919998,
+    "total_mass": 96.0,
+    "total_fat": 0.096,
+    "total_carb": 16.32,
+    "total_protein": 1.92,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1055_01.jpg"
+    },
+    "id": "1055"
+  },
+  {
+    "total_calories": 2.53,
+    "total_mass": 11.0,
+    "total_fat": 0.044,
+    "total_carb": 0.396,
+    "total_protein": 0.319,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1056_01.jpg"
+    },
+    "id": "1056"
+  },
+  {
+    "total_calories": 144.525009,
+    "total_mass": 25.0,
+    "total_fat": 12.375,
+    "total_carb": 5.675,
+    "total_protein": 5.6,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1057_01.jpg"
+    },
+    "id": "1057"
+  },
+  {
+    "total_calories": 291.174988,
+    "total_mass": 186.0,
+    "total_fat": 12.676999,
+    "total_carb": 37.510998,
+    "total_protein": 9.297001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1058_01.jpg"
+    },
+    "id": "1058"
+  },
+  {
+    "total_calories": 97.5,
+    "total_mass": 75.0,
+    "total_fat": 0.225,
+    "total_carb": 21.0,
+    "total_protein": 2.025,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1059_01.jpg"
+    },
+    "id": "1059"
+  },
+  {
+    "total_calories": 2.3,
+    "total_mass": 10.0,
+    "total_fat": 0.04,
+    "total_carb": 0.36,
+    "total_protein": 0.29,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1060_01.jpg"
+    },
+    "id": "1060"
+  },
+  {
+    "total_calories": 20.700001,
+    "total_mass": 115.0,
+    "total_fat": 0.23,
+    "total_carb": 4.485,
+    "total_protein": 1.035,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1061_01.jpg"
+    },
+    "id": "1061"
+  },
+  {
+    "total_calories": 73.150002,
+    "total_mass": 95.0,
+    "total_fat": 0.095,
+    "total_carb": 16.15,
+    "total_protein": 1.9,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1062_01.jpg"
+    },
+    "id": "1062"
+  },
+  {
+    "total_calories": 45.540001,
+    "total_mass": 66.0,
+    "total_fat": 0.132,
+    "total_carb": 11.88,
+    "total_protein": 0.462,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1063_01.jpg"
+    },
+    "id": "1063"
+  },
+  {
+    "total_calories": 239.190002,
+    "total_mass": 361.0,
+    "total_fat": 0.722,
+    "total_carb": 53.875004,
+    "total_protein": 5.712,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1064_01.jpg"
+    },
+    "id": "1064"
+  },
+  {
+    "total_calories": 682.15802,
+    "total_mass": 118.0,
+    "total_fat": 58.41,
+    "total_carb": 26.785999,
+    "total_protein": 26.432001,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1065_01.jpg"
+    },
+    "id": "1065"
+  },
+  {
+    "total_calories": 97.5,
+    "total_mass": 75.0,
+    "total_fat": 0.225,
+    "total_carb": 21.0,
+    "total_protein": 2.025,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1066_01.jpg"
+    },
+    "id": "1066"
+  },
+  {
+    "total_calories": 2.3,
+    "total_mass": 10.0,
+    "total_fat": 0.04,
+    "total_carb": 0.36,
+    "total_protein": 0.29,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1067_01.jpg"
+    },
+    "id": "1067"
+  },
+  {
+    "total_calories": 781.958008,
+    "total_mass": 203.0,
+    "total_fat": 58.674999,
+    "total_carb": 48.146,
+    "total_protein": 28.747002,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1068_01.jpg"
+    },
+    "id": "1068"
+  },
+  {
+    "total_calories": 73.839996,
+    "total_mass": 142.0,
+    "total_fat": 0.284,
+    "total_carb": 19.879999,
+    "total_protein": 0.426,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1069_01.jpg"
+    },
+    "id": "1069"
+  },
+  {
+    "total_calories": 127.182007,
+    "total_mass": 22.0,
+    "total_fat": 10.89,
+    "total_carb": 4.994,
+    "total_protein": 4.928,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1070_01.jpg"
+    },
+    "id": "1070"
+  },
+  {
+    "total_calories": 28.98,
+    "total_mass": 42.0,
+    "total_fat": 0.084,
+    "total_carb": 7.56,
+    "total_protein": 0.294,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1071_01.jpg"
+    },
+    "id": "1071"
+  },
+  {
+    "total_calories": 230.001999,
+    "total_mass": 206.0,
+    "total_fat": 11.258,
+    "total_carb": 32.433998,
+    "total_protein": 5.648,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1072_01.jpg"
+    },
+    "id": "1072"
+  },
+  {
+    "total_calories": 70.330002,
+    "total_mass": 13.0,
+    "total_fat": 5.46,
+    "total_carb": 0.182,
+    "total_protein": 4.81,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1073_01.jpg"
+    },
+    "id": "1073"
+  },
+  {
+    "total_calories": 31.92,
+    "total_mass": 56.0,
+    "total_fat": 0.168,
+    "total_carb": 7.84,
+    "total_protein": 0.392,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1074_01.jpg"
+    },
+    "id": "1074"
+  },
+  {
+    "total_calories": 129.064499,
+    "total_mass": 129.0,
+    "total_fat": 0.129,
+    "total_carb": 30.573,
+    "total_protein": 1.677,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1075_01.jpg"
+    },
+    "id": "1075"
+  },
+  {
+    "total_calories": 231.314499,
+    "total_mass": 198.0,
+    "total_fat": 5.757,
+    "total_carb": 38.595001,
+    "total_protein": 6.879,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1076_01.jpg"
+    },
+    "id": "1076"
+  },
+  {
+    "total_calories": 111.959999,
+    "total_mass": 72.0,
+    "total_fat": 7.56,
+    "total_carb": 0.864,
+    "total_protein": 9.0,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1077_01.jpg"
+    },
+    "id": "1077"
+  },
+  {
+    "total_calories": 24.6,
+    "total_mass": 60.0,
+    "total_fat": 0.12,
+    "total_carb": 6.0,
+    "total_protein": 0.54,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1078_01.jpg"
+    },
+    "id": "1078"
+  },
+  {
+    "total_calories": 9.044001,
+    "total_mass": 14.0,
+    "total_fat": 0.476,
+    "total_carb": 0.448,
+    "total_protein": 0.854,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1079_01.jpg"
+    },
+    "id": "1079"
+  },
+  {
+    "total_calories": 26.400002,
+    "total_mass": 80.0,
+    "total_fat": 0.24,
+    "total_carb": 6.4,
+    "total_protein": 0.56,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1080_01.jpg"
+    },
+    "id": "1080"
+  },
+  {
+    "total_calories": 172.004013,
+    "total_mass": 226.0,
+    "total_fat": 8.396,
+    "total_carb": 13.712,
+    "total_protein": 10.954,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1081_01.jpg"
+    },
+    "id": "1081"
+  },
+  {
+    "total_calories": 21.76,
+    "total_mass": 64.0,
+    "total_fat": 0.448,
+    "total_carb": 4.352,
+    "total_protein": 0.448,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1082_01.jpg"
+    },
+    "id": "1082"
+  },
+  {
+    "total_calories": 225.459,
+    "total_mass": 39.0,
+    "total_fat": 19.305,
+    "total_carb": 8.853,
+    "total_protein": 8.736,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1083_01.jpg"
+    },
+    "id": "1083"
+  },
+  {
+    "total_calories": 16.0,
+    "total_mass": 64.0,
+    "total_fat": 0.192,
+    "total_carb": 3.2,
+    "total_protein": 1.152,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1084_01.jpg"
+    },
+    "id": "1084"
+  },
+  {
+    "total_calories": 263.218994,
+    "total_mass": 167.0,
+    "total_fat": 19.945,
+    "total_carb": 16.404999,
+    "total_protein": 10.336,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1085_01.jpg"
+    },
+    "id": "1085"
+  },
+  {
+    "total_calories": 22.5,
+    "total_mass": 90.0,
+    "total_fat": 0.27,
+    "total_carb": 4.5,
+    "total_protein": 1.62,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1086_01.jpg"
+    },
+    "id": "1086"
+  },
+  {
+    "total_calories": 4.2,
+    "total_mass": 15.0,
+    "total_fat": 0.06,
+    "total_carb": 0.795,
+    "total_protein": 0.33,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1087_01.jpg"
+    },
+    "id": "1087"
+  },
+  {
+    "total_calories": 73.839996,
+    "total_mass": 142.0,
+    "total_fat": 0.284,
+    "total_carb": 19.879999,
+    "total_protein": 0.426,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1088_01.jpg"
+    },
+    "id": "1088"
+  },
+  {
+    "total_calories": 100.539993,
+    "total_mass": 247.0,
+    "total_fat": 0.614,
+    "total_carb": 25.174999,
+    "total_protein": 2.376,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1089_01.jpg"
+    },
+    "id": "1089"
+  },
+  {
+    "total_calories": 156.087006,
+    "total_mass": 27.0,
+    "total_fat": 13.365,
+    "total_carb": 6.129,
+    "total_protein": 6.048,
+    "image_info": {
+      "local_path": "food_images_renamed/img_1090_01.jpg"
+    },
+    "id": "1090"
+  }
+]
