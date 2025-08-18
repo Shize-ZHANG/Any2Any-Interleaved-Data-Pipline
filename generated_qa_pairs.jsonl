@@ -16298,3 +16298,693 @@
     "content": "To make the perfect summer beverage, begin by slicing fresh lemons <image2> to extract their juice. Combine the lemon juice with sugar <image3>, and mix until dissolved. Add chilled water <image4> and a generous amount of ice cubes to keep the drink refreshing. Rinse fresh mint leaves <image5> to add a complementary flavor. Finally, stir the mixture thoroughly <image6> to ensure all ingredients are well combined and serve chilled for best enjoyment."
   }
 }
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0761",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0761_01.jpg"
+    },
+    "content": "Describe how to prepare the dish shown in <image1>. Include details on necessary ingredients, cooking steps, and alternative options, and make sure the answer includes seven additional images to illustrate these aspects."
+  },
+  "output": {
+    "modal": {
+      "image2": "A vibrant assortment of bell peppers, including red, green, and yellow, forming the base ingredients for the dish.",
+      "image3": "Fresh, juicy pineapple chunks, providing a sweet contrast to the savory components of the dish.",
+      "image4": "Raw chicken pieces marinated in a light soy sauce and spice mix, ready for frying.",
+      "image5": "A bubbling pan of vegetable oil, used for frying the chicken until golden brown.",
+      "image6": "A glossy sauce mixture simmering on the stove, featuring soy sauce, garlic, ginger, and sugar.",
+      "image7": "A detailed view of tossing fried chicken and vegetables with sauce in a large wok, highlighting the cooking process.",
+      "image8": "A serving suggestion with the finished dish garnished with fresh herbs and served alongside steamed rice."
+    },
+    "content": "To prepare this delicious dish, start by cutting an array of colorful bell peppers. Add sweet pineapple chunks for a tropical twist <image2><image3>. Marinate raw chicken in soy sauce and spices, then fry until golden <image4><image5>. Make the sauce by simmering soy sauce, garlic, ginger, and sugar <image6>. Toss the sauce with fried chicken and vegetables in a wok <image7>. Serve garnished with herbs and rice for a satisfying meal <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0762",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0762_01.jpg"
+    },
+    "content": "Examine the variety of ingredients used in the dish shown in <image1>. In your answer, include how these ingredients are typically prepared and used in similar dishes, with visual support from seven additional images illustrating the detailed process or raw materials."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of fresh enoki mushrooms, showing their delicate, thin white stems and small caps.",
+      "image3": "Slices of raw pork belly, neatly arranged, highlighting the layers of lean meat and fat.",
+      "image4": "A variety of fresh vegetables such as bok choy and snap peas, vibrant in color and crisp in texture.",
+      "image5": "A detailed view of thinly sliced radishes, showcasing their crisp, white flesh and pink skin.",
+      "image6": "Chili peppers being sliced, with seeds visible, demonstrating their bright red color and fiery nature.",
+      "image7": "A selection of spices and seasonings, including garlic, ginger, and soy sauce, used to enhance the dish's flavor.",
+      "image8": "The preparation of a hot pot broth, highlighting the simmering mixture of bones, herbs, and spices."
+    },
+    "content": "To make a dish similar to the one, start with <image2> and wash them thoroughly. Combine sliced <image3> with fresh vegetables like those in <image4>. Add <image5> for crunch. Sliced <image6> add heat, while <image7> brings depth of flavor. Finally, simmer everything in <image8> for a rich and savory dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0763",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0763_01.jpg"
+    },
+    "content": "Describe the preparation process and the essential ingredients for the dish shown in <image1>. The answer must include seven images in the output to support or illustrate the explanation, focusing on the ingredients and preparation steps."
+  },
+  "output": {
+    "modal": {
+      "image2": "A fresh bundle of coriander with vibrant green leaves and long stems.",
+      "image3": "A small bowl of freshly sliced white mushrooms, showing their soft texture and pale color.",
+      "image4": "A set of glistening garlic cloves, peeled and ready for chopping.",
+      "image5": "A jar of olive oil with its golden hue, sitting beside a lemon for zest.",
+      "image6": "A wooden cutting board with a sharp knife, chopped coriander, and mushroom slices arranged neatly.",
+      "image7": "A small mixing bowl containing a mixture of lemon juice and olive oil, blending well to create a light dressing.",
+      "image8": "A pan on a stove, with the mushrooms and garlic being sautéed, releasing a delicious aroma."
+    },
+    "content": "To prepare the dish, start by gathering fresh coriander as shown in <image2>. The key ingredients also include sliced mushrooms seen in <image3> and peeled garlic depicted in <image4>. Use the olive oil and lemon, as presented in <image5>, to create a dressing. Begin by chopping the coriander and mushrooms on a cutting board similar to <image6>. Mix lemon juice with olive oil to make a tangy dressing, illustrated in <image7>. Finally, sauté the mushroom and garlic on a pan as shown in <image8>, infusing flavors before mixing with the coriander to complete the dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0764",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0764_01.jpg"
+    },
+    "content": "Identify the key ingredients and preparation methods for the dish shown in <image1>. The answer should include seven images showcasing raw ingredients, cooking steps, and presentation styles."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of fresh lamb shanks, featuring bright red meat and minimal fat, ready for seasoning.",
+      "image3": "An assortment of spices including cumin, coriander, and paprika, laid out on a wooden platter.",
+      "image4": "A bunch of fresh cilantro with vibrant green leaves, freshly washed and ready to use.",
+      "image5": "A large saucepan filled with simmering broth, with visible cloves of garlic and bay leaves, gently bubbling.",
+      "image6": "The lamb shanks being sautéed in a pan, with a golden brown, caramelized crust forming on the surface.",
+      "image7": "A cutting board with chopped onions and garlic, evenly diced and ready to be sautéed.",
+      "image8": "The final dish garnished with sprigs of cilantro and slices of lemon, artfully arranged for serving."
+    },
+    "content": "The key to preparing the dish shown starts with selecting high-quality lamb shanks, as seen in <image2>. A blend of spices like those displayed in <image3> is crucial for flavor. Fresh cilantro, shown in <image4>, adds a necessary freshness. Initial preparation involves making a flavorful broth, depicted in <image5>. Searing the meat, as captured in <image6>, ensures a rich taste. Aromatics like onions and garlic in <image7> provide depth. Finally, presentation, illustrated in <image8>, enhances the dining experience."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0765",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0765_01.jpg"
+    },
+    "content": "Describe the process of making a cake like the one shown in <image1>. Please include images in the answer to illustrate the necessary ingredients and steps, mentioning that the answer must include seven images in total."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of fresh eggs cracked into a bowl, highlighting the bright yolks and glossy whites.",
+      "image3": "A detailed image of fine granulated sugar being poured into a mixing bowl, creating a small mound.",
+      "image4": "A picture showing sifted flour in a sifter, releasing a soft cloud as it is being added to a bowl.",
+      "image5": "An action shot of rich, melted butter being slowly whisked into a creamy batter.",
+      "image6": "A clear photo of vanilla extract being dripped from a teaspoon into the cake batter.",
+      "image7": "An illustration of a round baking pan lined with parchment paper, ready for the batter.",
+      "image8": "A vibrant image of freshly whipped cream being piped onto the cake surface, creating elegant swirls."
+    },
+    "content": "The process of making a cake like the one shown involves several steps. Begin with cracking fresh eggs into a bowl, as shown in <image2>. Add granulated sugar to the mixture <image3>, and gently sift in the flour <image4> to ensure a smooth batter. Incorporate melted butter <image5> and add a hint of vanilla extract for flavor <image6>. Pour the batter into a prepared baking pan <image7> and bake until golden. Lastly, decorate with freshly whipped cream <image8> to achieve a luxurious finish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0766",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0766_01.jpg"
+    },
+    "content": "The image <image1> showcases a popular green tea drink. To understand how this delightful beverage is crafted, describe the key ingredients and preparation methods involved. Your answer should include seven images to visually support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "An image showing vibrant green tea matcha powder used as the primary flavoring agent in the drink.",
+      "image3": "A close-up image of fresh tapioca pearls being cooked to illustrate the chewy texture they add.",
+      "image4": "An image depicting a variety of fresh milk options used to create the creamy base of the drink.",
+      "image5": "A step-by-step image sequence showing the whipping of cream, from liquid to fluffy peaks, used to top the beverage.",
+      "image6": "An image of sugar syrup being prepared, highlighting its role in sweetening the drink perfectly.",
+      "image7": "An artistic representation of chilled ice cubes being added to the drink to achieve the perfect temperature.",
+      "image8": "A visually detailed image of the drink being poured into a cup, showcasing the harmonious blend of ingredients."
+    },
+    "content": "To craft this popular green tea drink, one starts with vibrant matcha powder <image2> for its distinct flavor. Freshly cooked tapioca pearls <image3> add a delightful chewiness. The base is made creamy by selecting from a variety of fresh milk options <image4>. Whipped cream <image5> is prepared and added as a topping. The right amount of sugar syrup <image6> is key to achieving a balanced sweetness. Chilled ice cubes <image7> ensure the drink is served at the perfect refreshing temperature. Finally, the drink is poured skillfully into a cup <image8>, blending all elements harmoniously."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0767",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0767_01.jpg"
+    },
+    "content": "Describe the preparation and decoration process for a celebration cake as shown in <image1>. Please include seven images in the answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A bowl of smooth, freshly whipped cream with a few vanilla beans next to it, ready for use in frosting.",
+      "image3": "A mixing bowl with beaten yellow cake batter, flecked with real vanilla extract, ready to be poured into baking pans.",
+      "image4": "A series of images showing the cake being layered with cream and fruit fillings, carefully spread with a spatula.",
+      "image5": "A set of clean pastry bags filled with colorful frosting, ready for cake decoration, with various nozzles for piping.",
+      "image6": "A picture of a cake turntable with a partially frosted cake being smoothed down with an offset spatula, capturing the fine details of the icing process.",
+      "image7": "A close-up of edible decorations like sugar pearls and vibrant flower petals, ready to be placed on the cake.",
+      "image8": "An image of a finished cake with intricate piping details and a personalized message written in chocolate, similar to <image1>."
+    },
+    "content": "To create a cake, begin with preparing a rich vanilla cake batter as seen in <image3>. Once baked, the cake layers are filled with whipped cream as detailed in <image2> and stacked as shown in <image4>. The exterior is smoothly frosted with vanilla cream at <image6>. For decoration, use a combination of colorful frostings from <image5>, and enhance with edible decorations from <image7>. The final design includes a personalized message and fine piping, as illustrated in <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0768",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0768_01.jpg"
+    },
+    "content": "The dish shown in <image1> is a popular spicy stir-fry. Explain how to prepare this dish, including details about specific ingredients, preparation methods, and related food items. The answer must include seven images in the output to support your explanation, providing a comprehensive guide to make the dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "A detailed picture of fresh chicken pieces, cut into cubes, ready for marination. The chicken should be shown glistening and prepared on a clean cutting board.",
+      "image3": "A vibrant assortment of spices including red chili peppers, Sichuan peppercorns, garlic cloves, and ginger slices, arranged neatly on a rustic table.",
+      "image4": "A close-up of marinated chicken pieces being tossed in a wok, with visible steam and aroma, illustrating the initial stir-fry process.",
+      "image5": "An image showing the addition of chopped green onions and red bell peppers to the wok, highlighting the vibrant colors and texture.",
+      "image6": "A view of a soy sauce and vinegar mixture being poured into the wok, captured in a way that shows the motion and blend of flavors.",
+      "image7": "The cooked dish being garnished with fresh coriander leaves and sesame seeds, providing a sprinkle of color and texture contrast.",
+      "image8": "A beautifully plated final dish on a rustic wooden table, complemented by a small bowl of rice and chopsticks for an authentic presentation."
+    },
+    "content": "To prepare the dish, start by marinating the <image2> in a blend of soy sauce, ginger, and garlic. The spices such as <image3> are essential for flavor. Begin by stir-frying the chicken in a hot wok <image4>, ensuring it's well-cooked. Add vegetables like <image5> for a fresh crunch, and incorporate the sauce mix <image6> to deepen the flavors. Finish the dish with garnishes shown in <image7> and serve like in <image8> for a delightful meal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0769",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0769_01.jpg"
+    },
+    "content": "Identify the main ingredients and preparation techniques of the dish shown in <image1>. Illustrate your explanation with exactly seven images to help understand the process and ingredients involved in making the dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of fresh squid on a cutting board, cleaned and ready to be sliced.",
+      "image3": "A detailed view of knife techniques used to slice squid into thin rings, showing the proper angle and precision.",
+      "image4": "An assortment of fresh herbs, including cilantro and parsley, laid out on a wooden counter.",
+      "image5": "A vivid image of a spice blend used to season the squid, containing garlic, black pepper, and a hint of lemon zest.",
+      "image6": "A high-quality image of a frying pan with oil heated to the correct temperature for cooking squid.",
+      "image7": "An arrangement of fresh lettuce leaves on a plate, ready for serving underneath the squid.",
+      "image8": "A visually appealing presentation of the cooked squid dish, garnished with fresh herbs and lemon wedges."
+    },
+    "content": "The dish is primarily made using fresh squid, which is cleaned <image2> and carefully sliced <image3>. The fresh herbs <image4> are integral to the flavor-enhancing garnish. Furthermore, a special spice blend <image5> is essential for seasoning. The squid is briefly cooked in a heated pan <image6> to maintain its tenderness. It is then elegantly served on a bed of fresh lettuce <image7>. The final presentation <image8> is completed with an herbal garnish for added aroma and taste."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0770",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0770_01.jpg"
+    },
+    "content": "What are the essential ingredients and steps involved in preparing the dish shown in <image1>? Please include seven images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A variety of fresh skewers including beef cuts, ready for marination.",
+      "image3": "A selection of colorful spices and herbs such as cumin, paprika, and garlic powder necessary for marinating the meat.",
+      "image4": "The process of marinating the meat, where the skewers are coated evenly with herbs and spices.",
+      "image5": "The skewers being placed on a hot grill, showing the sizzling and grilling process.",
+      "image6": "Charcoal being prepared and burned to the right temperature for grilling skewers.",
+      "image7": "A set of side dishes, such as grilled vegetables and dipping sauces, that complement the skewers.",
+      "image8": "The final presentation of the grilled skewers on a platter, garnished with fresh herbs."
+    },
+    "content": "To prepare the dish, freshly cut beef skewers are marinated with a mixture of spices <image2>. Essential spices include cumin, paprika, and garlic powder, as depicted in <image3>. The marination process involves coating the skewers thoroughly to enhance flavor <image4>. Next, the skewers are placed onto a preheated grill, as shown in <image5>. Preparing the charcoal to achieve the right grilling temperature is a key step, illustrated in <image6>. Complementing the dish with sides like grilled vegetables and sauces enhances the meal, as seen in <image7>. Finally, the grilled skewers are served on a platter, beautifully garnished with fresh herbs <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0771",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0771_01.jpg"
+    },
+    "content": "The image <image1> depicts a traditional chicken stew with vegetables. Please describe the main ingredients and preparation methods involved in making this dish. Additionally, illustrate the explanation with seven images to support it, as the answer must include these visual elements."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of raw chicken pieces, showing skinless and boneless cuts suitable for stewing.",
+      "image3": "Various fresh vegetables including red and green bell peppers, and black fungus mushrooms, all sliced and ready for cooking.",
+      "image4": "A collection of Chinese cooking sauces and spices such as soy sauce, ginger, and garlic used in seasoning the stew.",
+      "image5": "A step-by-step process of browning chicken in a large pan, capturing the caramelization and color development.",
+      "image6": "A pot with simmering broth, where chicken and vegetables are mixed together, showing steam rising as it cooks.",
+      "image7": "An image of plated rice, ready to accompany the stew, showing a serving suggestion with garnish.",
+      "image8": "A kitchen setting with all cooking utensils used in preparation, highlighting the environment where the dish was made."
+    },
+    "content": "The preparation of the chicken stew involves several key steps and ingredients. Initially, raw chicken pieces, as seen in <image2>, are prepared without skin and bones. Subsequently, a medley of fresh vegetables such as bell peppers and black fungus mushrooms is sliced as shown in <image3>. Essential flavors are created using Chinese sauces and spices, illustrated by <image4>. The process involves browning the chicken as depicted in <image5>, followed by simmering it in a broth with vegetables as seen in <image6>. The stew is typically served with rice, a suggested presentation is shown in <image7>. Finally, the kitchen tools and ambiance used in cooking are captured in <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0772",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0772_01.jpg"
+    },
+    "content": "Describe the ingredients and preparation steps of a cake similar to <image1>. The answer must include seven images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up shot of sifted flour mixed with sugar and baking powder in a bowl.",
+      "image3": "A bowl containing a creamy blend of butter and sugar, mixed until light and fluffy.",
+      "image4": "An image of eggs being cracked and whisked until thoroughly combined.",
+      "image5": "A snapshot of a bowl with vanilla extract and milk being mixed together.",
+      "image6": "A photo of the cake batter being poured into a greased and floured cake pan.",
+      "image7": "A picture of the cake cooling on a wire rack after baking, ready for decorating.",
+      "image8": "An image of icing being piped over the cake, creating intricate designs similar to the decorated cake in <image1>."
+    },
+    "content": "To recreate a cake like the one shown, start by preparing the dry ingredients including flour, sugar, and baking powder as seen in <image2>. Cream the butter and sugar together until light and fluffy, as shown in <image3>. Crack and whisk the eggs, like in <image4>, and mix with vanilla and milk, seen in <image5>. Pour the batter into a prepared pan <image6> and bake until done, letting it cool as illustrated in <image7>. Finish with detailed icing decoration <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0773",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0773_01.jpg"
+    },
+    "content": "In the image <image1>, we see a dish featuring cooked ingredients with vivid colors. Please describe the essential ingredients and preparation methods needed to create this dish. The answer must include seven images in the output to support or illustrate the explanation, such as sourcing raw ingredients or specific preparation steps."
+  },
+  "output": {
+    "modal": {
+      "image2": "Fresh chili peppers in an array of colors, with both green and red varieties, displayed on a wooden cutting board.",
+      "image3": "A cluster of raw frog legs arranged on a plate, showcasing their pale pink color and tender texture, ready for preparation.",
+      "image4": "Bunches of fresh spring onions with long green stalks and white bulbs, emphasizing their crispness and vibrant color.",
+      "image5": "A small bowl of soy sauce with a deep, rich brown color, reflecting light and indicating its glossy texture.",
+      "image6": "A high-heat wok sizzling with oil, demonstrating the preparation step of stir-frying, with steam rising from the pan.",
+      "image7": "Garlic cloves being crushed on a rustic kitchen table, with the aromatic essence captured mid-action.",
+      "image8": "Aromatic ginger slices being julienned, emphasizing their fibrous texture and golden-yellow hue."
+    },
+    "content": "To prepare the dish, begin by gathering fresh ingredients such as chili peppers <image2> and frog legs <image3>. Finely chop spring onions <image4> and crush garlic <image7> to enhance the flavor. Use soy sauce <image5> to add a savory depth. Heat oil in a wok <image6> for stir-frying, which develops the dish’s aromatic quality. Finish with julienned ginger <image8> to add a spicy, fragrant note."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0774",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0774_01.jpg"
+    },
+    "content": "The dish shown in <image1> features a delicious combination of ingredients. To better understand the components and cooking techniques involved, refer to the answer which must include seven images illustrating the preparation steps and additional ingredients."
+  },
+  "output": {
+    "modal": {
+      "image2": "A fresh heap of thinly sliced potatoes, ready to be cooked with just the right amount of crispiness.",
+      "image3": "An assortment of vibrant red chilies, adding a spicy kick to the dish, displayed on a wooden chopping board.",
+      "image4": "Thin slices of pork belly marinated in a savory sauce, laid out on a white porcelain plate.",
+      "image5": "A collection of freshly chopped green onions on a light-colored cutting board, perfect for garnishing.",
+      "image6": "A small bowl filled with a rich soy-based sauce, an essential component for the dish's flavor.",
+      "image7": "A close-up view of a frying pan on a stove, with sliced potatoes sizzling to a golden brown.",
+      "image8": "An intricate spice rack displaying various seasonings such as garlic powder and pepper, used to enhance the dish's flavor."
+    },
+    "content": "To prepare the dish, start by frying the sliced potatoes <image2> in a large pan <image7> to a golden brown. Add spicy red chilies <image3> to introduce a bold flavor. Include the marinated pork belly <image4>, stirring well with a mixture of soy sauce <image6> for the perfect umami taste. Finally, garnish with freshly chopped green onions <image5> and season from a variety of spices <image8> to complete the dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0775",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0775_01.jpg"
+    },
+    "content": "What are the primary ingredients and preparation steps involved in making this soup, depicted in <image1>? The answer must include seven images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of fresh seaweed, highlighting its dark green color and texture.",
+      "image3": "Fresh eggs being cracked into a bowl, with a whisk beside them.",
+      "image4": "A bunch of fresh cilantro with dewdrops, focus on the vibrant green leaves.",
+      "image5": "A clear chicken broth simmering in a pot, showcasing its golden hue and steam rising.",
+      "image6": "A stack of freshly cleaned white bowls and a ladle ready for serving.",
+      "image7": "Finely chopped ginger and garlic on a wooden cutting board, showing their aromatic nature.",
+      "image8": "A spoon stirring the ingredients in a pot, giving an overview of the mixture combining."
+    },
+    "content": "To make the delicious soup seen in the image, you start by soaking and rinsing fresh seaweed as shown in <image2>. Crack and beat eggs into a bowl as depicted in <image3>. Finely chop fresh cilantro <image4> for garnish. Begin with a pot of bubbling chicken broth <image5>, to which the seaweed is added. Prepare bowls <image6> for serving. Add finely chopped ginger and garlic to enhance the flavor <image7>. Finally, stir the mixture while the egg is added to create the signature swirls, as illustrated in <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0776",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0776_01.jpg"
+    },
+    "content": "Examine the plate of delicious stir-fried vegetables featuring peppers, shown in <image1>. What are the key ingredients and preparation steps required to create this dish from scratch? Please detail the ingredients and methods used, making sure the explanation is supported by seven images illustrating essential elements like raw peppers and typical garnishing herbs."
+  },
+  "output": {
+    "modal": {
+      "image2": "A detailed close-up of fresh peppers, showcasing their bright colors and glossy texture.",
+      "image3": "An image depicting various spices typically used in stir-frying, including garlic, ginger, and peppercorns.",
+      "image4": "An array of fresh, chopped vegetables ready to be included in a stir-fry, such as onions, tomatoes, and carrots.",
+      "image5": "Illustration of the initial frying process, where the ingredients are sizzling in a pan with oil.",
+      "image6": "Visual of a mixing bowl with a sauce made from soy sauce, vinegar, and sugar prepared for seasoning.",
+      "image7": "Image capturing the garnishing step, where chopped green onions and cilantro are added to the dish.",
+      "image8": "Finished dish served hot and steamy, garnished and ready to be enjoyed, highlighting its vibrant colors and textures."
+    },
+    "content": "To recreate the dish shown, start by obtaining fresh peppers as shown in <image2>. The dish's flavor profile is developed using a mix of spices such as those in <image3>. Begin by chopping a variety of vegetables as depicted in <image4>. Start the cooking process by stir-frying these vegetables in hot oil as seen in <image5>. Prepare a flavorful sauce like the one shown in <image6>, combining soy sauce, vinegar, and sugar. Once the vegetables are cooked, mix them with the sauce. As a final touch, garnish the dish with green onions and cilantro, as illustrated in <image7>. The final presentation, seen in <image8>, should embody a pleasing mix of color and flavor, making it both visually satisfying and delicious."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0777",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0777_01.jpg"
+    },
+    "content": "Analyze the key ingredients and preparation methods of the dish displayed in <image1>, and present this information with the required visual support. The answer must include seven images to demonstrate the various ingredients and steps involved."
+  },
+  "output": {
+    "modal": {
+      "image2": "sliced beef pieces, finely cut and ready for stir-frying",
+      "image3": "green peppers, washed and sliced into small strips",
+      "image4": "fresh garlic cloves, crushed for enhancing flavor",
+      "image5": "handful of dried red chilies, contributing to the dish's spiciness",
+      "image6": "black bean paste, adding depth and saltiness to the flavor",
+      "image7": "a hot wok with a swirl of oil, ready for stir-frying the ingredients",
+      "image8": "the final dish being garnished with chopped spring onions before serving"
+    },
+    "content": "The preparation of this dish begins with <image2> and <image3>, forming the base of the recipe. Incorporate <image4> to bring out a robust aroma. Infuse heat with <image5>, balancing it with <image6>. All these elements come together in <image7>, a sizzling pan that brings out the dish's flavors. Finally, enhance the presentation by adding a touch of freshness with <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0778",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0778_01.jpg"
+    },
+    "content": "The image <image1> showcases a dish known as Gold Medal Crispy Duck, garnished with peanuts and scallions. Describe the preparation process and primary ingredients. Include seven images in the answer to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A detailed view of raw duck breasts, highlighting their natural color and texture.",
+      "image3": "An image showing the marinating process, with duck being soaked in a spicy, aromatic mixture.",
+      "image4": "A close-up of peanuts and scallions ready to be used as garnishing, demonstrating freshness and color variety.",
+      "image5": "The frying process, with the duck being submerged in hot oil achieving a golden, crispy exterior.",
+      "image6": "A vibrant display of spices used in the dish, including chilies, garlic, and ginger, enhancing flavor and aroma.",
+      "image7": "An overview of a traditional Chinese kitchen setting where the dish is commonly prepared, showcasing utensils and cooking methods.",
+      "image8": "A close-up of plating techniques, focusing on how the dish is artistically arranged before serving."
+    },
+    "content": "To prepare the Gold Medal Crispy Duck, first, the raw duck breasts <image2> are selected for quality. These are then marinated in a mixture of spices including chilies, garlic, and ginger <image6>, ensuring deep flavor penetration. During the marination process, the duck is infused with these flavors <image3>. Meanwhile, fresh peanuts and scallions are prepared <image4> as garnishes. The marinated duck is then deep-fried to achieve a crispy coating <image5>, which is essential for this dish. The dish is usually prepared in a traditional Chinese kitchen <image7>, using specific cooking techniques. Finally, the dish is artistically plated with care <image8>, enhancing its visual and taste appeal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0779",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0779_01.jpg"
+    },
+    "content": "Examine the celebratory cake shown in <image1> and describe the essential ingredients and preparation steps involved in making such a dessert. The answer must include seven images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A bowl of fresh ripe strawberries, washed and ready to be sliced for garnishing the cake.",
+      "image3": "An assortment of jelly fruits that can be used as toppings on a cake, including mango, kiwi, and blueberries.",
+      "image4": "A mixing bowl with whipped cream being prepared to achieve a smooth, creamy texture for the cake's outer layer.",
+      "image5": "A freshly baked sponge cake, golden and cooling on a wire rack, which serves as the base for the layered cake.",
+      "image6": "A set of icing tools and piping bags filled with pink buttercream, perfect for decorating the edges of the cake.",
+      "image7": "A collection of edible decorative toppers, including intricate script and floral designs, used to adorn celebratory cakes.",
+      "image8": "The process of assembling a layered cake with careful stacking, smoothing of the cream, and placement of fruit toppings."
+    },
+    "content": "To recreate a cake, begin by preparing the sponge base as shown in <image5>. Once baked, proceed to whip the cream for the outer layer, depicted in <image4>. Next, gather fresh fruits like those found in <image2> and <image3> for topping. After building the layers, use tools from <image6> to add decorative icing. Finally, complete the decoration with intricate toppers as seen in <image7> and assemble the cake as demonstrated in <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0780",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0780_01.jpg"
+    },
+    "content": "This exquisite dish presentation, as seen in <image1>, features finely sliced raw fish atop a bed of ice. Explain the common ingredients and preparation techniques used in creating such a dish, ensuring the answer includes seven images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of fresh fillets of white fish, ready to be sliced for sashimi.",
+      "image3": "A display of various sharp Japanese knives used for the precision cutting of fish.",
+      "image4": "A meticulous chef in the kitchen demonstrating the slicing technique for sashimi.",
+      "image5": "An arrangement of assorted garnishes typically used to accompany sashimi dishes, including shiso leaves, wasabi, and pickled vegetables.",
+      "image6": "A bowl of finely shaved ice prepared for setting the sashimi to maintain its freshness and presentation.",
+      "image7": "A variety of dipping sauces and condiments commonly paired with sashimi, including soy sauce, ponzu, and ginger.",
+      "image8": "A traditional Japanese restaurant setting, showcasing how sashimi is elegantly served to diners."
+    },
+    "content": "To prepare the dish depicted in the query, start with <image2>. This ingredient is central to sashimi, showcasing its fresh and delicate nature. The precision required for the cutting is demonstrated with <image3>, ensuring each piece is immaculate. Chefs employ expert knife skills as seen in <image4>, enhancing both texture and flavor. Garnishes, integral for the dish's presentation, appear in <image5>, adding both aesthetic appeal and complementary flavors. To preserve freshness, <image6> is utilized, while taste is enhanced with dipping options presented in <image7>. Lastly, <image8> captures the ambiance of its traditional serving environment, completing the experience."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0781",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0781_01.jpg"
+    },
+    "content": "Discuss the key ingredients and preparation steps for making a fruit-topped cake like the one shown in <image1>, and indicate how the answer must include seven images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "An array of fresh fruits including strawberries, kiwis, and mangoes are sliced and prepared for decoration.",
+      "image3": "A bowl of smooth whipped cream, ready to be layered on the cake for both flavor and decoration.",
+      "image4": "A large sponge cake layer, freshly baked and cooled, serving as the base for the cake assembly.",
+      "image5": "A detailed view of cake assembly showing layers of sponge cake and whipped cream stacked neatly.",
+      "image6": "A piping bag filled with pink buttercream, used for making decorative patterns around the edge of the cake.",
+      "image7": "An assortment of decorative cake tools, like spatulas and scrapers, used for smoothing and finishing the cake.",
+      "image8": "The final cake with fruits evenly distributed on top, showcasing the vivid colors and textures of the ingredients."
+    },
+    "content": "To create a stunning fruit-topped cake, begin by preparing an assortment of fresh fruits with <image2>. Next, ensure your whipped cream is smooth and ready for use <image3>. Your base should be a well-baked sponge cake <image4>, which you'll layer with cream as depicted in <image5>. Use a piping bag with pink buttercream to craft decorative edges <image6>. Utilize various decorative tools <image7> to achieve a professional finish. The completed cake, adorned with vibrant fruit, is displayed in <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0782",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0782_01.jpg"
+    },
+    "content": "Describe the main ingredients and preparation process of the dish shown in <image1>. The answer must include seven images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up of fresh rice noodles, showing their smooth texture and translucent appearance.",
+      "image3": "A photograph of spicy chili oil, with vibrant red colors and floating chili flakes.",
+      "image4": "Image featuring fresh cucumber sticks, highlighting their crisp green color and firm texture.",
+      "image5": "A shot of succulent boiled chicken pieces, tender and juicy, perfect for adding to noodles.",
+      "image6": "A picture of peanuts, roasted to a golden brown, illustrating their crunchy texture.",
+      "image7": "An image depicting fresh herbs such as cilantro and parsley, vibrant in color and adding freshness.",
+      "image8": "A detailed view of soy sauce, dark brown in color, used to enhance the flavor of the dish."
+    },
+    "content": "The dish is a vibrant noodle salad featuring key ingredients such as <image2> for a chewy base, dressed with flavorful <image3>. Crisp <image4> adds freshness and texture, while <image5> provides a protein-rich component. The dish is garnished with crunchy <image6> and bright <image7>, all brought together with a rich dash of <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0783",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0783_01.jpg"
+    },
+    "content": "The image <image1> shows a dish featuring oysters with toppings. Explain how to prepare a similar dish and list the necessary ingredients and preparation steps. The answer must include seven additional images to illustrate the explanation, each showing an ingredient or step involved in this dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up image of freshly shucked oysters, placed on a table with visible shells and soft, juicy meat inside.",
+      "image3": "An image showing finely chopped garlic and green onions on a cutting board, ready for seasoning.",
+      "image4": "A visual of chillies being sliced into thin rings, adding spiciness and color to the dish.",
+      "image5": "A picture depicting melted butter in a small saucepan, accompanied by sizzling sounds and bubbling texture.",
+      "image6": "A detailed illustration of a baking tray with oysters placed under a kitchen broiler, with golden toppings bubbling on the surface.",
+      "image7": "An image of a variety of condiments like soy sauce and lime on a counter, ready for use in marinating the oysters.",
+      "image8": "A photo of a serving plate garnished with parsley, with prepared oysters beautifully arranged, ready to be served."
+    },
+    "content": "To recreate the delicious oyster dish, start by selecting fresh oysters, as shown in <image2>. Next, prepare the toppings by finely dicing garlic and green onions, depicted in <image3>, and slicing chillies for added heat as visualized in <image4>. Melt butter in a saucepan <image5> and drizzle it over the oysters. Arrange the seasoned oysters on a tray and broil until the toppings are golden brown as illustrated in <image6>. Enhance the flavor with condiments like soy sauce and a squeeze of lime <image7>. Finally, serve the oysters on a garnished plate as shown in <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0784",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0784_01.jpg"
+    },
+    "content": "This is an authentic dish featuring a savory, spicy sauce. To understand its preparation, describe the key ingredients and steps involved, and ensure to include relevant images. <image1> captures the final presentation, but the answer must include seven images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A clean kitchen surface with fresh whole fish, cilantro, green onions, and ginger laid out, ready for preparation.",
+      "image3": "A mortar and pestle with peppercorns and chili flakes being freshly ground to create a spicy mix.",
+      "image4": "A bowl containing soy sauce, vinegar, and a hint of sesame oil, demonstrating the mixing of the sauce base.",
+      "image5": "A saucepan on medium heat with garlic and ginger sautéing, releasing aromatic flavors into the kitchen air.",
+      "image6": "A chef marinating the fish with spices and herbs, ensuring even distribution across its surface.",
+      "image7": "The fish being carefully placed in a steaming basket, with steam rising gently around it.",
+      "image8": "A close-up of finely chopped green onions ready to be sprinkled as a garnish atop the final dish."
+    },
+    "content": "To prepare this flavorful dish, start by gathering fresh <image2> ingredients. Create a spicy mix using <image3> to enhance the heat profile. The sauce base involves combining <image4>, which forms a harmonious blend. Sauté <image5> to infuse the necessary earthy aromas. Before steaming, marinate the fish <image6> thoroughly. Steam the marinated fish as shown in <image7>, and once cooked, garnish with <image8> for a fresh finish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0785",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0785_01.jpg"
+    },
+    "content": "Describe the key ingredients and preparation methods for creating the cake shown in <image1>. The answer must include seven images to support the detailed explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A smooth mixture of butter and sugar being creamed together in a mixing bowl, with a wooden spoon beside it.",
+      "image3": "Eggs being cracked into a small bowl, ready to be added to the cake batter mixture.",
+      "image4": "A measuring cup filled with flour, with a sifter nearby, to be used in the cake making process.",
+      "image5": "Vanilla extract being dripped into the batter, providing an aromatic flavor to the cake.",
+      "image6": "Baking powder and salt measured out on a spoon, crucial for the cake’s texture.",
+      "image7": "A round cake pan lined with parchment paper, prepared to receive the batter.",
+      "image8": "A view of the cake cooling on a rack just after it has been removed from the oven, showing its golden crust."
+    },
+    "content": "To make the cake, begin by creaming butter and sugar until light and fluffy <image2>. Gradually beat in the eggs <image3>, adding them one at a time. Sift flour <image4> and gently fold it into the mixture along with vanilla extract <image5>. Mix in baking powder and salt <image6> to ensure the cake rises well. Pour the batter into a prepared cake pan <image7> and bake until golden and fragrant. Once baked, let the cake cool <image8> before frosting or decorating as shown in <image1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0786",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0786_01.jpg"
+    },
+    "content": "The dish presented in <image1> features a beautifully arranged serving of beef carpaccio drizzled with sauce. To fully understand the ingredients and preparation methods of this dish, the answer must include seven images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of thinly sliced raw beef, highlighting its marbled texture and bright red color.",
+      "image3": "A detailed shot of fresh herbs, like parsley and chives, often used as a garnish for added flavor.",
+      "image4": "An image showing several cloves of garlic, peeled and thinly sliced, ready to be fried until crispy.",
+      "image5": "A representation of freshly ground black pepper and sea salt on a wooden board, essential for seasoning the beef.",
+      "image6": "A depiction of a small bowl filled with olive oil, used as a base for the dressing that coats the carpaccio.",
+      "image7": "A vibrant image of thinly sliced radishes and onions, adding crunch and sharpness to the dish.",
+      "image8": "A scene of a chef skillfully plating the carpaccio, showing the meticulous arrangement of each component."
+    },
+    "content": "The dish is a classic beef carpaccio that starts with <image2>, ensuring quality meat. The garnishing includes <image3> to add a fresh taste. The crispy texture comes from <image4>, providing a delightful contrast. Proper seasoning is crucial, involving <image5>, which enhances the flavor. For the dressing, a base of <image6> is typically used. Complementary crunch is added with <image7>, balancing the dish's flavors. Finally, the plating process, as seen in <image8>, highlights the artistic presentation essential to the dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0787",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0787_01.jpg"
+    },
+    "content": "In the preparation of the dish shown in <image1>, what are the key ingredients and preparation steps involved? Please include seven images in the answer to illustrate the necessary ingredients and preparation techniques."
+  },
+  "output": {
+    "modal": {
+      "image2": "A fresh bunch of green scallions with dark green leaves and white roots, lying on a bamboo chopping board, which is often used as a key flavoring ingredient in Asian cuisines.",
+      "image3": "A close-up of minced garlic on a white ceramic plate, showing its creamy texture and slightly pungent aroma, essential for adding depth and fragrance to the dish.",
+      "image4": "Slices of ginger root with a smooth golden interior and a fragrant aroma, scattered on a wooden cutting board, typically used to infuse a warming undertone in many dishes.",
+      "image5": "An assortment of vibrant red and green bell peppers neatly diced into uniform cubes, placed in a glass bowl, known for their crunchy texture and sweet flavor when cooked.",
+      "image6": "A collection of raw boneless chicken breasts, laid out on a stainless-steel counter, showcasing their pinkish hue and firm texture, which form the protein base for numerous meals.",
+      "image7": "A steaming wok on a stove, with sizzling oil and assorted colorful vegetables being stir-fried, illustrating the quick cooking method that retains the ingredients' freshness and nutrition.",
+      "image8": "Sauce ingredients arranged in small bowls, including soy sauce, sesame oil, and rice vinegar, which are vital for creating a savory and well-balanced glaze for the dish."
+    },
+    "content": "The completed dish involves a careful combination of several key ingredients and preparation steps. Fresh scallions are finely chopped for an aromatic base as shown in <image2>. Minced garlic is added to enhance the flavor profile, depicted in <image3>. Slices of ginger are included to bring a warm undertone, as illustrated in <image4>. Diced bell peppers provide color and texture, seen in <image5>. The protein component comes from tender chicken breast pieces, prepared beforehand as in <image6>. These ingredients are quickly stir-fried in a hot wok, ensuring they maintain their freshness, a process captured in <image7>. Finally, a mixture of sauces, as arranged in <image8>, is incorporated to create a rich and cohesive flavor, completing the dish to perfection."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0788",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0788_01.jpg"
+    },
+    "content": "This dish presented in <image1> is a savory blend of ingredients. Please explain the key components and preparation methods of this dish, and the answer must include seven images in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "A close-up view of fresh wood ear mushrooms, showcasing their dark, glossy texture used in the dish.",
+      "image3": "A detailed image of sliced ginger and garlic, essential for adding flavor to the dish.",
+      "image4": "A colorful arrangement of chopped spring onions, adding a bright, fresh element to the dish.",
+      "image5": "An image showing tender slices of pork, which are often used in this type of salad for protein.",
+      "image6": "A picture of a bottle of sesame oil, which is commonly used to enhance the dish's aroma and flavor.",
+      "image7": "A depiction of soy sauce being drizzled onto the ingredients, providing a rich, umami taste.",
+      "image8": "A step-by-step illustration of the stir-frying process, highlighting how the ingredients come together in the dish."
+    },
+    "content": "To create this delightful dish, start by using fresh wood ear mushrooms, as seen in <image2>. Add sliced ginger and garlic for depth, shown in <image3>, and balance with vibrant chopped spring onions, <image4>. Include slices of pork for richness, depicted in <image5>. Enhance the flavors with sesame oil, shown in <image6>, and soy sauce, as seen in <image7>. Finally, a quick stir-frying process, as illustrated in <image8>, brings all the ingredients together in a harmonious blend."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0789",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0789_01.jpg"
+    },
+    "content": "What are the key ingredients and preparation steps for the dish shown in <image1>? The answer must include seven images illustrating these elements."
+  },
+  "output": {
+    "modal": {
+      "image2": "A vivid close-up of fresh, raw clams with shells closed, showcasing their natural texture and color.",
+      "image3": "A bunch of green scallions with vibrant, fresh leaves next to a sharp kitchen knife on a wooden cutting board.",
+      "image4": "A small bowl filled with finely chopped garlic and slices of fresh ginger, ready to be used in cooking.",
+      "image5": "An assortment of colorful bell peppers, including red and yellow, sliced into thin strips on a cutting board.",
+      "image6": "A frying pan over medium heat with a splash of olive oil, showing diced garlic and ginger starting to sizzle.",
+      "image7": "A spoon stirring a flavorful broth, rich in soy sauce and garnished with fresh scallions, creating a glossy texture.",
+      "image8": "A plate of steamed rice as a complementary side dish, with steam visibly rising from it."
+    },
+    "content": "To prepare the dish seen in <image2>, start by cleaning the clams thoroughly to remove any sand. Chop some fresh scallions <image3> and prepare minced garlic and ginger <image4> for fragrance. Slice colorful bell peppers for added flavor and color <image5>. Begin cooking by heating olive oil in a pan <image6>, and sauté the garlic and ginger until aromatic. Create a savory broth <image7> by mixing soy sauce with water or stock, then add the clams and cook until they open. Serve this delicious dish alongside steamed rice for a complete meal <image8>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0790",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0790_01.jpg"
+    },
+    "content": "This dish features a vibrant presentation with various ingredients. Explain the key components seen in <image1> and include seven images in the answer to illustrate the preparation steps and ingredients."
+  },
+  "output": {
+    "modal": {
+      "image2": "A bowl of thin buckwheat noodles, also known as soba, boiled and drained, ready to be used as the base.",
+      "image3": "Thin slices of fresh cucumber and apple, prepared for topping, adding a refreshing crunch and sweetness.",
+      "image4": "Slices of boiled egg, with the yolk perfectly set, providing creaminess and flavor.",
+      "image5": "A small bowl containing a vibrant red Korean chili paste mix, typically used to add spice and depth.",
+      "image6": "Thinly sliced, marinated beef, grilled to perfection, offering a savory and rich taste.",
+      "image7": "Prepared pieces of ripe tomato and pickled yellow radish, cut into small wedges for garnishing.",
+      "image8": "A beautifully mixed salad of kimchi, adding a fermented and tangy dimension to the dish."
+    },
+    "content": "The dish commonly consists of several key ingredients. At the heart is the <image2>, surrounded by fresh toppings like <image3>. The <image4> adds richness, while the spicy element is brought by <image5>. To balance flavors, marinated <image6> is included, along with refreshing <image7>. Finally, the dish is completed with a hint of ferment from <image8>."
+  }
+}
