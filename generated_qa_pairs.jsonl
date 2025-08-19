@@ -18788,3 +18788,1873 @@
     "content": "The dish in <image2> provides a balanced meal option rich in nutrients. It enhances dietary fiber and includes healthy fats from almonds, similar to those shown in the original image and aligning with the nutritional information provided."
   }
 }
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0891",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0891_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in <image1> and describe its health benefits. Clearly indicate that the answer must include one table to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0891_01.png"
+    },
+    "content": "The food item in the image is an apple, which is known for being a healthy snack option. Apples are rich in dietary fiber and vitamin C while being low in calories. To support this nutritional analysis, please refer to the <document1> for detailed nutritional information, where you will find a comprehensive table that provides values such as calories, carbohydrates, sugars, and more."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0892",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0892_01.jpg"
+    },
+    "content": "Analyze the food item shown in the <image1>, and provide its nutritional properties. Incorporate a table in your answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0892_01.png"
+    },
+    "content": "The item in the image is a bowl of grapes. Grapes are known for being low in calories and high in antioxidants. According to the nutritional information, <document1>, grapes contain about 69 calories per 100 grams and are a good source of vitamin C and vitamin K. They also provide a decent amount of dietary fiber, helping in digestion."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0893",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0893_01.jpg"
+    },
+    "content": "Analyze the food shown in <image1> in terms of its nutritional properties and provide a detailed explanation of its nutritional content, including a table in the answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0893_01.png"
+    },
+    "content": "The food item in question appears to be cantaloupe. Cantaloupes are known for being low in calories and high in vitamins such as Vitamin A and Vitamin C. To illustrate, the <document1> contains a detailed nutritional table that indicates the specific amounts of these nutrients, confirming its health benefits and low-calorie profile."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0894",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0894_01.jpg"
+    },
+    "content": "Analyze the food items presented in this <image1> and infer their nutritional properties. Ensure to provide one table in your answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0894_01.png"
+    },
+    "content": "The food items in the image include an apple, grapes, and cantaloupe. Apples are generally high in fiber and vitamin C, while grapes provide antioxidants and vitamins K and C. Cantaloupe is rich in vitamin A and hydration from its water content. To provide a detailed nutritional breakdown, please refer to the nutritional information table found in <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0895",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0895_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in <image1> and include a table in the answer to provide detailed nutritional information."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0895_01.png"
+    },
+    "content": "The food item in the image appears to be roasted potatoes, which are commonly noted for being rich in carbohydrates and fiber. For a detailed nutritional analysis, refer to the following table: <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0896",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0896_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food shown in <image1>. Based on its appearance, what health benefits or concerns might it have? Include one table in the answer for support."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0896_01.png"
+    },
+    "content": "The food displayed in the image appears to be bacon, which is high in fat and protein but also contains significant sodium levels. Refer to <document1> for detailed nutritional information. The table illustrates the precise amounts of calories, fat, protein, and sodium, highlighting potential health concerns related to high saturated fat and sodium intake."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0897",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0897_01.jpg"
+    },
+    "content": "Analyze the food item depicted in <image1> and provide a comprehensive nutritional analysis including its potential health benefits. Clearly include a table in your response to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0897_01.png"
+    },
+    "content": "The food item shown appears to be almonds, which are known for their numerous health benefits including heart health and dietary fiber content. Referencing the nutritional table in <document1>, we see the specific amounts of protein, healthy fats, and vitamins that almonds provide. This supports their reputation as a nutritious snack."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0898",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0898_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in <image1>. Please provide detailed nutritional analysis based on appearance and include one table in your answer to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0898_01.png"
+    },
+    "content": "The food item in the image appears to be grapes, which are typically a good source of vitamin C, vitamin K, and various antioxidants. For a precise nutritional breakdown, refer to this table <document1>, which provides specific data on calories, sugars, and vitamin content for a standard serving size."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0899",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0899_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food items displayed in the <image1> and indicate the nutritional value by specifically mentioning the nutrients and calories contained in each component. Ensure the answer includes one table for clarity."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0899_01.png"
+    },
+    "content": "The food items shown in the image include bacon, grapes, sausages, and almonds. <document1> provides a detailed nutritional information table where you can find specific data such as calories, protein, fats, and other nutrients for each item. For instance, bacon is high in fats and protein, whereas almonds offer a good source of healthy fats and fiber."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0900",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0900_01.jpg"
+    },
+    "content": "Analyze the appearance of the fruit shown in <image1> and infer its possible nutritional properties. Provide a table in the answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0900_01.png"
+    },
+    "content": "The fruit in the image is an apple, which typically contains a high amount of vitamin C and dietary fiber. According to the nutritional information provided in <document1>, an average apple provides a significant amount of daily vitamin requirements while being low in calories. This makes it an excellent choice for a healthy snack."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0901",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0901_01.jpg"
+    },
+    "content": "Analyze the food item shown in the image. What can be inferred about its nutritional properties based on its appearance? Provide details that must include one table in the answer as support or illustration. <image1>"
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0901_01.png"
+    },
+    "content": "The dish appears to consist of fresh spinach leaves and shredded carrots, which are typically rich in vitamins A and K, fiber, and other essential nutrients. The nutritional information can be confirmed by the table provided. <document1> Additionally, this dish is likely low in calories and beneficial for maintaining a balanced diet."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0902",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0902_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1>. Discuss its potential nutritional benefits and include one table in your response for further illustration."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0902_01.png"
+    },
+    "content": "The food shown appears to be almonds, which are known for their high protein and healthy fat content. For a detailed nutritional breakdown, please refer to the table in <document1>, which provides specific information on calorie content, vitamins, and minerals present in almonds."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0903",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0903_01.jpg"
+    },
+    "content": "Based on the food items shown in <image1>, could you analyze their nutritional properties and provide specific data to support your explanation? Please include a table with detailed nutritional information."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0903_01.png"
+    },
+    "content": "The food items shown include a salad with leafy greens, an apple, and almonds. Each component contributes to a balanced diet. For instance, leafy greens are high in vitamins and fiber. Apples provide vitamin C and fiber, while almonds offer healthy fats and protein. Detailed nutritional information and specific values are provided in the table below: <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0904",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0904_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in the <image1> and discuss what makes it unique. The answer must include one table to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0904_01.png"
+    },
+    "content": "The food item in question is crispy bacon, known for its rich flavor and texture. The nutritional analysis reveals high levels of protein and fat, contributing to its energy density. Refer to the <document1> for detailed nutritional values, showcasing the calorific content and macronutrient breakdown essential for dietary planning."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0905",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0905_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and provide a detailed nutritional analysis. Make sure the answer includes one table to support or illustrate your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0905_01.png"
+    },
+    "content": "The food item in question appears to be cooked potatoes. According to its nutritional analysis <document1>, it is rich in carbohydrates and contains dietary fiber, vitamin C, and potassium. Furthermore, it has a moderate caloric content, making it a fulfilling dietary option."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0906",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0906_01.jpg"
+    },
+    "content": "Based on the appearance of the food shown in <image1>, analyze its nutritional properties and include a table in your answer to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0906_01.png"
+    },
+    "content": "The food item appears to be an apple, which is known for being a good source of dietary fiber and vitamin C. For a more detailed nutritional breakdown, refer to the table in <document1> to see specific values such as calories, carbohydrates, and sugars."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0907",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0907_01.jpg"
+    },
+    "content": "Analyze the food shown in <image1> and infer its nutritional properties. Your answer must include one table to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0907_01.png"
+    },
+    "content": "The food shown in the image is almonds. According to the nutritional information table <document1>, almonds are high in healthy fats, protein, and fiber. They are also a great source of vitamins and minerals."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0908",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0908_01.jpg"
+    },
+    "content": "Observe the food items presented in <image1> and analyze their nutritional value. Your answer must include one table displaying the nutritional information to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0908_01.png"
+    },
+    "content": "The image contains several food items including an apple, almonds, bacon, and roasted potatoes. Each of these items has specific nutritional values: <document1> provides a detailed nutritional information table, indicating that apples are high in dietary fiber and vitamin C, almonds are rich in healthy fats and vitamin E, bacon is high in protein and fat, and roasted potatoes are good sources of carbohydrates and potassium. This table helps illustrate the nutritional properties of the foods analyzed."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0909",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0909_01.jpg"
+    },
+    "content": "Examine the properties of the food shown in <image1> and provide a detailed nutritional analysis, including a table to illustrate the nutritional information."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0909_01.png"
+    },
+    "content": "The food in the image appears to be grapes. Grapes are known for being low in calories yet rich in vitamins C and K, along with several other important nutrients. For a precise analysis, refer to the nutritional information depicted in <document1>, which provides a detailed table of their nutritional content."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0910",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0910_01.jpg"
+    },
+    "content": "Based on the food item shown in <image1>, analyze its appearance and infer possible nutritional properties. The answer must include one table to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0910_01.png"
+    },
+    "content": "The food item appears to be sliced sausages, which are generally high in protein and fat. According to the nutritional information presented in <document1>, these sausages contain a significant amount of protein per serving and provide a substantial calorie count. Consuming this can contribute to daily protein intake, but it's important to monitor portion sizes for a balanced diet."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0911",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0911_01.jpg"
+    },
+    "content": "Based on the appearance of the food item shown in <image1>, please analyze its potential nutritional properties and include a table in the answer for support."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0911_01.png"
+    },
+    "content": "The food shown is likely a type of prepared potato dish. According to the nutritional information in <document1>, this dish contains significant carbohydrates and moderate levels of fats. The table in <document1> provides details such as calorie content, protein levels, and other relevant nutritional facts that further illustrate the dish's nutritional profile."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0912",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0912_01.jpg"
+    },
+    "content": "Analyze the food displayed in <image1> and infer its nutritional properties. Include a table in your answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0912_01.png"
+    },
+    "content": "The food in the image includes sausages, potatoes, and grapes. Sausages are typically high in protein and fat, while potatoes provide carbohydrates, and grapes add vitamins and sugars. For a detailed nutritional breakdown, refer to the table provided in <document1>, which outlines the specific nutritional content of similar foods."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0913",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0913_01.jpg"
+    },
+    "content": "Analyze the visual appearance of the food item in <image1> and describe its nutritional properties. Please include a table in the answer to support your analysis."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0913_01.png"
+    },
+    "content": "The food item in question appears to be bacon, which is typically high in fat and protein. It is important to consider the fat content and caloric density of bacon as shown in <document1>. The table provides specific nutritional data, such as total calories, protein, and fat content, to support this analysis."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0914",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0914_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food shown in <image1> and the answer must include one table to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0914_01.png"
+    },
+    "content": "The food shown appears to be grapes, which are known for being a good source of vitamins and antioxidants. Refer to the nutritional table <document1> for specific details, including calorie content and vitamin breakdown."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0915",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0915_01.jpg"
+    },
+    "content": "Examine the food item shown in <image1> and analyze its appearance to infer its nutritional properties. The answer must include one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0915_01.png"
+    },
+    "content": "Based on the food item, which appears to be almonds, we can infer that it is high in healthy fats, protein, and fiber. The nutritional information in <document1> shows the specific amounts of these nutrients, providing a detailed overview of its health benefits."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0916",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0916_01.jpg"
+    },
+    "content": "Analyze the food shown in <image1> and provide a detailed nutritional analysis supported by a table."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0916_01.png"
+    },
+    "content": "The answer involves analyzing the appearance of the food and inferring its nutritional value. According to the nutritional information found in <document1>, this table illustrates specific details such as calorie content, macronutrients, and any vitamins present."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0917",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0917_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and infer its potential nutritional properties. The answer must include one table to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0917_01.png"
+    },
+    "content": "The nutritional analysis of the food item indicates the presence of certain nutrients. As <document1> shows, the nutritional data includes vitamins, minerals, and caloric content which provide a comprehensive understanding of the food's health benefits."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0918",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0918_01.jpg"
+    },
+    "content": "Analyze the variety of foods presented in <image1> and discuss the potential nutritional properties of these items. Ensure your answer includes a table to support the evaluation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0918_01.png"
+    },
+    "content": "The foods shown here include bacon, sausages, potatoes, grapes, and almonds. To analyze their nutritional content, refer to the <document1> which provides a comprehensive nutritional breakdown. For example, bacon is high in protein and fat, while almonds are a good source of healthy fats and fiber. The table in <document1> illustrates these aspects in detail."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0919",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0919_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and discuss its potential nutritional properties. Be sure to include one table in the answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0919_01.png"
+    },
+    "content": "The food item in the image appears to be cantaloupe chunks. Cantaloupes are typically high in vitamins A and C, and they are low in calories. Refer to <document1> for a detailed nutritional breakdown of cantaloupe, which includes calories, carbohydrates, and vitamin content."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0920",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0920_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item depicted in <image1> and state specific nutritional information that should be included in your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0920_01.png"
+    },
+    "content": "The food item shown is likely a type of fruit, possibly grapes, known for being rich in vitamins and antioxidants. According to the nutritional information provided in <document1>, grapes contain essential nutrients such as Vitamin C, Vitamin K, and several antioxidants, supporting a healthy immune system and providing other health benefits."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0921",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0921_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and provide its nutritional information. Include a table in your answer to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0921_01.png"
+    },
+    "content": "The food item displayed is sliced sausage. To understand its nutritional content, refer to the table shown in <document1>. This table provides detailed nutritional information including calories, protein, fat, carbohydrates, and other essential nutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0922",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0922_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food shown in <image1> and clearly indicate that the answer must include one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0922_01.png"
+    },
+    "content": "The food shown is likely almonds, which are known for being nutrient-dense. Refer to <document1> for a detailed nutritional analysis, including calories, fats, proteins, and vitamins. The table provides specific data supporting this analysis."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0923",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0923_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food items shown in <image1>. Make sure to include a table in your response to support your analysis."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0923_01.png"
+    },
+    "content": "The plate contains a variety of food items like grapes, cantaloupe, sausages, and almonds, which offer different nutritional values. For a detailed nutritional breakdown, please refer to the table in <document1> that shows the specific nutritional components, such as calorie count, vitamins, and mineral content for each item."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0924",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0924_01.jpg"
+    },
+    "content": "Based on the visual appearance of the salad in the <image1>, analyze its nutritional properties and provide a detailed nutritional breakdown."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0924_01.png"
+    },
+    "content": "The salad shown is primarily composed of spinach and carrots. Spinach is known to be rich in iron, vitamin K, and vitamin A. Carrots provide beta carotene and vitamin C. For a precise nutritional breakdown, refer to the <document1> which offers a detailed nutritional table."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0925",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0925_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1>. Discuss its appearance and infer its potential nutritional properties, ensuring the answer includes one table that illustrates the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0925_01.png"
+    },
+    "content": "The food item displayed looks like a crispy bacon strip. Given its appearance, it is likely high in fat and protein content. The nutritional properties can be further supported by referring to the nutritional information table <document1>, which provides specific data such as calorie count, fat percentage, and protein levels."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0926",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0926_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food displayed in <image1> and clearly indicate that the answer must include one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0926_01.png"
+    },
+    "content": "The food item shown appears to be a variety of grapes. Grapes are known for being rich in vitamins C and K, providing numerous antioxidants. For a detailed breakdown of the nutritional content, refer to <document1> which includes a table with specific data on calories, vitamins, and minerals present in the grapes."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0927",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0927_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food shown in <image1> and provide an explanation supported by a nutritional information table."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0927_01.png"
+    },
+    "content": "The food displayed appears to be an apple. Apples are known for their fiber content, vitamins, and low-calorie count. Refer to the <document1> for detailed nutritional information, including calorie count, vitamin content, and more specific nutrient data."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0928",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0928_01.jpg"
+    },
+    "content": "Analyze the appearance of the food item shown in <image1> and infer its nutritional properties, ensuring the answer includes one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0928_01.png"
+    },
+    "content": "The food item depicted appears to be roasted potatoes, which are a source of carbohydrates and dietary fiber. For specific nutritional data, refer to <document1> where the nutritional information table provides detailed values, including calories, vitamins, and mineral content."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0929",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0929_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the meal depicted in <image1> and explain its potential health benefits, ensuring to include a visual nutritional table in the answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0929_01.png"
+    },
+    "content": "The meal in question includes a variety of food items that provide essential nutrients. For instance, the presence of leafy greens and fruits suggests a high level of vitamins and antioxidants, which are beneficial for overall health. The inclusion of potatoes offers a good source of carbohydrates needed for energy. The nutritional information, as detailed in <document1>, provides a comprehensive table showcasing the specific amounts of these nutrients, supporting the health benefits mentioned."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0930",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0930_01.jpg"
+    },
+    "content": "Analyze the appearance of the food item shown in <image1> and provide a detailed nutritional analysis including a table in your answer to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0930_01.png"
+    },
+    "content": "The food item in the image is an apple. Apples are typically low in calories and high in fiber, making them a healthy choice for most diets. They provide vitamin C, potassium, and various antioxidants. For a precise breakdown of its nutritional content, refer to the table in <document1> which details the nutritional information per serving."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0931",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0931_01.jpg"
+    },
+    "content": "Based on the food item displayed in <image1>, analyze its appearance and infer its nutritional properties. Please ensure the answer includes a table to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0931_01.png"
+    },
+    "content": "The food item shown appears to be almonds, which are known for their high nutritional value. According to <document1>, almonds provide essential nutrients including high levels of healthy fats, protein, and fibers. The table details their calorie content, vitamin E, and magnesium levels, supporting their reputation as a healthy snack."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0932",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0932_01.jpg"
+    },
+    "content": "Based on the food shown in <image1>, analyze its appearance and infer its potential nutritional properties. The answer must include one table to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0932_01.png"
+    },
+    "content": "The food item in the image appears to be a variety of grapes, which are known for their health benefits. Grapes are rich in vitamins C and K, and contain antioxidants, which are beneficial for heart health. For a detailed nutritional analysis, please refer to the table in <document1>. This table provides specific nutritional information, including calorie content, vitamin levels, and other essential nutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0933",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0933_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and describe its potential nutritional properties. Include a table in your answer to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0933_01.png"
+    },
+    "content": "The food item appears to be a type of sausage. Based on common nutritional data, sausage is typically high in protein and fat. For specific nutritional properties, refer to the table <document1> for exact values of calories, protein content, and fat percentage."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0934",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0934_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food items displayed in this image <image1> and describe their potential health benefits. Ensure the answer includes one table to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0934_01.png"
+    },
+    "content": "The nutritional analysis of the food items shown suggests a balanced intake of vitamins, fibers, and healthy fats. An apple, rich in dietary fiber, and almonds, known for their healthy fats, contribute to a nutritious meal. For detailed nutritional values, refer to the nutritional information table included here: <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0935",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0935_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item displayed in this image <image1>. Your answer must include one table to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0935_01.png"
+    },
+    "content": "The food item shown appears to be almonds, which are known for being high in healthy fats, protein, and fiber. To provide a detailed nutritional breakdown, refer to the nutritional information table <document1>. This table shows specific nutritional values such as calorie count, fat content, protein levels, and other essential nutrients in almonds."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0936",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0936_01.jpg"
+    },
+    "content": "Examine the appearance of the food item shown in <image1> and provide a detailed nutritional analysis. Include one table in your answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0936_01.png"
+    },
+    "content": "The food item appears to be roasted or baked due to its browned surface. To provide a specific nutritional analysis, we refer to the nutritional information table shown in <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0937",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0937_01.jpg"
+    },
+    "content": "Based on the appearance of the fruit shown in <image1>, analyze its nutritional properties and provide relevant nutritional data in tabular form in your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0937_01.png"
+    },
+    "content": "The fruit depicted is an apple, which is known for being low in calories and rich in dietary fiber. For a comprehensive nutritional breakdown, refer to the table shown in <document1>, which details the calorie content, fiber amount, vitamins, and mineral information."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0938",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0938_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food items shown in the image and describe their potential health benefits. Include the <image1> tag appropriately, and ensure the answer contains a table with detailed nutritional information."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0938_01.png"
+    },
+    "content": "The nutritional analysis of the food items in question involves examining the provided nutritional table, as indicated by <document1>. Apples are known for being rich in fiber and vitamin C. Almonds provide healthy fats, protein, and essential nutrients. The document provides specific values, including calories, vitamins, and minerals, which support the health benefits outlined."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0939",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0939_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in <image1> and provide a detailed explanation including its calorie content and macronutrient distribution. Ensure the answer includes one table to support your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0939_01.png"
+    },
+    "content": "The food item appears to be a type of sausage, which typically contains a mix of protein and fats. According to the nutritional information in <document1>, this item provides approximately 250 calories per serving, with a high percentage of those calories coming from fat and protein. The table illustrates that it contains 20 grams of protein, 18 grams of fat, and minimal carbohydrates. This nutritional profile suggests it is a high-protein, low-carb food suitable for certain dietary preferences."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0940",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0940_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food shown in <image1> and indicate how these properties are illustrated by the data provided in the answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0940_01.png"
+    },
+    "content": "The food item in the image is a bowl of grapes. Grapes are a good source of vitamins and minerals. They are low in calories but rich in essential nutrients. According to the nutritional information shown in <document1>, grapes provide a significant amount of Vitamin C and K, which are essential for health. The nutritional table in <document1> highlights these vitamins, supporting the inference made from <image1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0941",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0941_01.jpg"
+    },
+    "content": "Observe the <image1> showing a food item and provide an analysis of its nutritional properties. Include a table in your response to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0941_01.png"
+    },
+    "content": "The nutritional analysis of the food item in the image indicates that it is likely a type of fruit or vegetable high in vitamin A and dietary fiber. Refer to the <document1> for a detailed nutritional table that supports this analysis. The table shows calories, vitamins, and other nutrients essential for understanding the food's health benefits."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0942",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0942_01.jpg"
+    },
+    "content": "Analyze the food item displayed in the <image1> and provide its potential nutritional properties, including a table in your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0942_01.png"
+    },
+    "content": "The food item appears to be almonds. They are rich in healthy fats, protein, and fiber. Refer to <document1> for specific nutritional data, including calorie content, fat composition, and vitamin levels, which support the explanation."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0943",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0943_01.jpg"
+    },
+    "content": "Analyze the food items displayed in the <image1> to determine their nutritional properties. The answer must include one table to support this analysis."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0943_01.png"
+    },
+    "content": "The image shows a variety of food items, including nuts, grapes, and sliced sausage. To understand their nutritional properties, we can look at their typical nutritional values as shown in the <document1>. The table provides specific details such as calorie content, fat, protein, and carbohydrate levels for each item, which helps in assessing their health impact."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0944",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0944_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and infer its nutritional properties. Please ensure that the answer includes a table to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0944_01.png"
+    },
+    "content": "The food item depicted appears to be a leafy green vegetable, likely spinach. Based on typical nutritional values of spinach, it is rich in iron, vitamins, and antioxidants. For specific nutritional content, refer to the table in <document1> that provides detailed nutritional information per serving size."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0945",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0945_01.jpg"
+    },
+    "content": "Examine the appearance of the food item shown in <image1> and analyze its potential nutritional properties. Please include a table in your answer to support your analysis."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0945_01.png"
+    },
+    "content": "The food item in <image1> appears to be a type of sausage, which is typically high in protein and fats. To provide specific nutritional data, refer to the nutritional information table shown in <document1> for precise values of calories, protein, fats, and other nutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0946",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0946_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and provide a detailed nutritional analysis, ensuring the answer includes one table in the output."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0946_01.png"
+    },
+    "content": "The food displayed is an apple, known for its health benefits. According to <document1>, it is low in calories and contains significant amounts of vitamin C and dietary fiber, which aids in digestion and supports the immune system."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0947",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0947_01.jpg"
+    },
+    "content": "Analyze the food items visible in <image1> and determine their nutritional properties."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0947_01.png"
+    },
+    "content": "The food items analyzed show a balanced composition of fruit, vegetables, and protein sources. For detailed nutritional information, refer to the accompanying table <document1>, which provides specific data about calories, vitamins, and other nutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0948",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0948_01.jpg"
+    },
+    "content": "Analyze the nutritional content of the food shown in <image1>, and clearly indicate that the answer must include one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0948_01.png"
+    },
+    "content": "The food in question is almonds. They are known for being high in healthy fats, protein, fiber, and various important nutrients. For a detailed analysis, please refer to the nutritional information table provided in <document1> which lists specific values such as calories and vitamin content per serving."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0949",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0949_01.jpg"
+    },
+    "content": "Analyze the nutritional properties and benefits of the food item displayed in <image1>. Provide information on its nutrients and any health benefits, using a table format for clarity in the answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0949_01.png"
+    },
+    "content": "The food item in the image is a collection of grapes. Grapes are rich in vitamins C and K, and they are also a good source of fiber and antioxidants. These nutrients help boost the immune system and promote heart health. For detailed nutritional values, refer to the following table provided in <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0950",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0950_01.jpg"
+    },
+    "content": "Analyze the food item displayed in this <image1> and provide its nutritional information. The answer should include one table to support the analysis."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0950_01.png"
+    },
+    "content": "The food item in the image appears to be sliced sweet potatoes, which are rich in carbohydrates and provide dietary fiber. For a more detailed nutritional analysis, refer to the <document1> which includes a nutritional information table detailing specific values such as calories, vitamins, and minerals."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0951",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0951_01.jpg"
+    },
+    "content": "Analyze the food shown on this plate, <image1>, in terms of nutritional content and suggest possible health benefits based on its appearance. Please answer with a table displaying nutritional information for accurate reference."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0951_01.png"
+    },
+    "content": "The food items on the plate appear to include nuts and sliced sausage, which are rich in proteins and healthy fats. For a detailed nutritional analysis, please refer to the accompanying table <document1> which provides specific information such as calorie count, macronutrient breakdown, and vitamin content."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0952",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0952_01.jpg"
+    },
+    "content": "Based on the <image1> of the almonds, analyze their appearance and infer their likely nutritional properties. Clearly indicate that the answer must include one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0952_01.png"
+    },
+    "content": "The almonds shown appear fresh and likely contain healthy fats, protein, and fiber. According to the <document1>, almonds provide a significant amount of vitamin E, magnesium, and antioxidants which help in maintaining heart health and reducing inflammation."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0953",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0953_01.jpg"
+    },
+    "content": "Analyze the food appearance shown in <image1> and infer its nutritional properties. Your answer must include one table to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0953_01.png"
+    },
+    "content": "The food item in the image appears to be slices of sausage. Sausages are typically high in protein and fats, and may vary in caloric content based on preparation. For detailed nutritional analysis, consider the data depicted in <document1>, which provides a comprehensive nutritional table including information such as calories, protein, fats, and carbohydrates for sausages."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0954",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0954_01.jpg"
+    },
+    "content": "Analyze the food item shown in the <image1> image and provide detailed nutritional information. Make sure to include a table in your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0954_01.png"
+    },
+    "content": "The food item depicted in the image is a plate of grapes. Grapes are known for being rich in vitamins C and K and are a good source of fiber. Refer to the <document1> document for a detailed nutritional table that includes information such as calories, carbohydrates, sugars, and more."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0955",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0955_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1>. What nutritional properties can be inferred from its appearance, and how do these compare to the actual values?"
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0955_01.png"
+    },
+    "content": "The nutritional analysis of the food item suggests that it contains essential nutrients typically found in vegetables of similar appearance. Referencing the nutritional information table in <document1>, it provides specific values such as calories, vitamins, and minerals that align with common expectations for this type of food."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0956",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0956_01.jpg"
+    },
+    "content": "Examine the components of this dish by looking at <image1>. Based on the visual characteristics, analyze and infer its nutritional properties. Ensure your answer includes a table presenting detailed nutritional information."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0956_01.png"
+    },
+    "content": "The dish shown contains elements that are rich in protein and healthy fats, such as nuts and sausage. To get specific nutritional details, refer to the table in <document1> which outlines the calories, protein, fats, and carbohydrate content."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0957",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0957_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> by examining its appearance and infer its nutritional properties. The answer must include one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0957_01.png"
+    },
+    "content": "Based on the appearance of the food in the image, it's likely a type of root vegetable, potentially high in carbohydrates and dietary fiber. For specific nutritional information, please refer to the table provided in <document1>, which details the calories, protein content, and other nutritional values."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0958",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0958_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in <image1> and indicate the expected nutrients. Ensure to include a supporting table in your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0958_01.png"
+    },
+    "content": "The food item is an apple, which is typically rich in fiber, vitamin C, and antioxidants. To provide specific nutritional data, refer to <document1> for the nutritional information table which supports this analysis."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0959",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0959_01.jpg"
+    },
+    "content": "Based on the appearance of the food in <image1>, what can be inferred about its nutritional properties? Please include a table in the answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0959_01.png"
+    },
+    "content": "The food shown in the image appears to be a type of leafy green vegetable, which typically contains vitamins such as A, C, and K, as well as minerals like iron and calcium. According to the nutritional table in <document1>, this food item provides a rich source of these nutrients which are essential for maintaining healthy bodily functions and boosting immunity. The table further details the calorie content and possible fiber levels that are beneficial for digestion."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0960",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0960_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and discuss its appearance and potential nutritional properties, ensuring to include a table in your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0960_01.png"
+    },
+    "content": "Based on the image, the food item appears to be almonds. These nuts are known for their rich nutritional content. Please refer to the <document1> for the nutritional table which details specifics such as calorie count, protein content, and essential vitamins included in almonds."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0961",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0961_01.jpg"
+    },
+    "content": "Analyze the type of food item shown in <image1> and infer its nutritional properties, ensuring that the answer includes a table to support the analysis."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0961_01.png"
+    },
+    "content": "The image depicts a bowl of cherry tomatoes. These tomatoes are typically low in calories but rich in vitamins and water content. For a detailed nutritional analysis, refer to <document1>, which includes specific nutritional information such as caloric value, vitamin content, and more."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0962",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0962_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food items displayed on the plate in <image1>, and include a table in your response that supports your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0962_01.png"
+    },
+    "content": "The food items shown in the image include an apple, almonds, grapes, spinach, and sausage. These foods provide a balanced combination of carbohydrates, proteins, fats, and fibers. Refer to the nutritional information table in <document1> for a detailed analysis of the calorie count, vitamins, and minerals present in each of these items."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0963",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0963_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and explain its nutritional properties. Include a table in your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0963_01.png"
+    },
+    "content": "The nutritional analysis of the food item involves examining protein, carbohydrate, and fat content which can be found in <document1>. According to the table, the food provides essential nutrients that are beneficial for health. Please refer to <document1> for a detailed nutritional breakdown."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0964",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0964_01.jpg"
+    },
+    "content": "Based on the visual characteristics of the fruit in <image1>, can you analyze its potential nutritional properties and describe which specific nutrients it might contain? Please provide a table in your answer to illustrate the nutritional breakdown."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0964_01.png"
+    },
+    "content": "The fruit shown in the image is likely grapes. Grapes are known for being rich in vitamins such as Vitamin C and Vitamin K. They also contain antioxidants, which are beneficial for health. Refer to <document1> for a detailed table that includes specific nutritional values such as calorie content, sugar levels, and dietary fiber."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0965",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0965_01.jpg"
+    },
+    "content": "Analyze the nutritional content of the food item shown in <image1> and explain its health benefits, including a table in your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0965_01.png"
+    },
+    "content": "The food item in the picture is almonds. Refer to the nutritional table <document1> to see that almonds are high in protein and healthy fats. They also provide substantial dietary fiber and essential vitamins like Vitamin E, which are beneficial for heart health and weight management."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0966",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0966_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food items shown in <image1> and provide a detailed explanation. Make sure the answer includes a table to support the nutritional analysis."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0966_01.png"
+    },
+    "content": "The food items on the plate consist of grapes, almonds, and roasted chestnuts. For a detailed nutritional breakdown, refer to the <document1> where you can see the nutritional information table that includes specific data such as calorie counts, macronutrient distributions, and essential vitamins present in each item."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0967",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0967_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in <image1> and explain your reasoning. Please include a table of nutritional information in your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0967_01.png"
+    },
+    "content": "The food item appears to be grapes, which are known for their antioxidant properties and low calorie count. They are a good source of Vitamin C and K. For precise nutritional details, refer to the table in <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0968",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0968_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in <image1> and infer its dietary benefits. The answer must include one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0968_01.png"
+    },
+    "content": "The food item in the image is almonds. They are known for having high amounts of healthy fats, protein, and various vitamins and minerals. For a detailed breakdown of their nutritional content, refer to the <document1> which shows a comprehensive nutritional information table."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0969",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0969_01.jpg"
+    },
+    "content": "Analyze the nutritional content of the food portrayed in the <image1>. Provide a detailed breakdown with at least one table to support your analysis."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0969_01.png"
+    },
+    "content": "The food item in question is identified as a type of sausage. Refer to <document1> for a comprehensive nutritional breakdown, including calories, protein, fat, and carbohydrate content. The table in <document1> supports this explanation by providing specific data points."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0970",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0970_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1>. Based on its appearance, estimate its potential nutritional properties and indicate that the answer must include one table to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0970_01.png"
+    },
+    "content": "The food item shown is likely a fruit high in vitamin A and dietary fiber. Refer to the nutritional table in <document1> for specific values that substantiate this analysis. The table provides detailed information about calorie content and other nutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0971",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0971_01.jpg"
+    },
+    "content": "Based on the food items shown in <image1>, analyze their nutritional properties and provide a detailed breakdown in the form of a table."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0971_01.png"
+    },
+    "content": "The assorted items on the plate, such as sausages, cheese cubes, grapes, and almonds, each contribute different nutritional values. The sausage provides proteins and fats, the cheese offers calcium and fats, grapes add carbohydrates and vitamins, while almonds are rich in healthy fats and proteins. The detailed nutritional breakdown is illustrated in the table mentioned in <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0972",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0972_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item displayed in <image1> and ensure the answer includes a table for support."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0972_01.png"
+    },
+    "content": "The food item in the image is an apple. Apples are known for their rich fiber content and are low in calories. For detailed nutritional information, refer to the nutrition table in <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0973",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0973_01.jpg"
+    },
+    "content": "Analyze the food item displayed in the image and infer its nutritional properties. Be sure to include a table in your answer that presents relevant nutritional information. <image1>"
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0973_01.png"
+    },
+    "content": "The food shown in the image appears to be a type of sausage, which is typically high in protein and fat. The nutritional table provides detailed data on its caloric content, protein, fat, and carbohydrate levels. Refer to the table for specific values. <document1>"
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0974",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0974_01.jpg"
+    },
+    "content": "Analyze the food item's appearance in this <image1> and infer its potential nutritional properties. Your answer must include a table to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0974_01.png"
+    },
+    "content": "The food item in the image appears to be almonds, which are known for their nutritional benefits. <document1>  provides a detailed nutritional table. Almonds are high in healthy fats, protein, and fiber. They also contain significant amounts of vitamin E, magnesium, and antioxidants. Reference the table in the document for the specific nutritional breakdown."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0975",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0975_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food items shown in <image1> and explain how they might contribute to a balanced diet. Ensure the answer includes a table for clarity."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0975_01.png"
+    },
+    "content": "The nutritional properties of the food items, such as the apple and almonds, provide essential vitamins, fiber, and healthy fats that contribute to a balanced diet. For a detailed breakdown of the nutritional content, refer to <document1>, which illustrates the specific vitamins, calories, and other nutrients present in these foods."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0976",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0976_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food shown in <image1> and detail its health benefits. Include one table in the answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0976_01.png"
+    },
+    "content": "The food displayed in the image is a bowl of grapes, which are known for being rich in vitamins C and K, along with various antioxidants that promote heart health. The nutritional table shown in <document1> provides detailed values for these vitamins and their caloric content, illustrating how they contribute to a balanced diet."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0977",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0977_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food shown in <image1> and indicate which specific nutrients it contains. The answer must include one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0977_01.png"
+    },
+    "content": "The food displayed appears to be almonds, which are rich in proteins, healthy fats, and fiber. The <document1> provides a detailed nutritional information table showcasing specific values such as calories, protein content, and vitamin levels, supporting this analysis."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0978",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0978_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and infer its nutritional properties. Include a detailed nutritional information table in the response."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0978_01.png"
+    },
+    "content": "The food item in the image appears to be an apple. Apples are generally low in calories but rich in dietary fiber and vitamin C. For a comprehensive nutritional breakdown, refer to the following table, <document1>, which provides detailed nutritional information supporting this analysis."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0979",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0979_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food items depicted in <image1>. Please include a table in your answer to support the nutritional information provided."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0979_01.png"
+    },
+    "content": "The nutritional analysis of the food items includes an apple, grapes, and almonds. The apple provides essential vitamins and fibers, while grapes are a source of antioxidants. Almonds offer healthy fats and proteins. For detailed nutritional data, refer to the nutritional information table shown in <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0980",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0980_01.jpg"
+    },
+    "content": "Analyze the nutritional content of the food depicted in <image1> and include a table in your answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0980_01.png"
+    },
+    "content": "The food shown in the image consists of grapes, which are a good source of vitamins C and K. For a detailed nutritional breakdown, refer to the nutritional information table provided in <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0981",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0981_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in <image1>, and clearly indicate the answer must include one table to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0981_01.png"
+    },
+    "content": "The food item displayed is a bowl of almonds. <document1> contains the nutritional information table for almonds, which highlights their high content of healthy fats, protein, and vitamin E. Specifically, almonds are rich in monounsaturated fats, contributing to heart health, and they provide a significant amount of protein and dietary fiber, beneficial for digestive health. Refer to the table in <document1> for specific nutritional values per serving size."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0982",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0982_01.jpg"
+    },
+    "content": "Based on the appearance of the food shown in <image1>, provide a nutritional analysis. Include a table in your explanation to support or illustrate your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0982_01.png"
+    },
+    "content": "The nutritional analysis of the food item indicates key nutritional properties such as caloric content, proteins, and fats. Refer to the nutritional information table in <document1> for a detailed breakdown per serving size."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0983",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0983_01.jpg"
+    },
+    "content": "Analyze the food items shown in <image1> and provide their nutritional analysis including one table in your answer."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0983_01.png"
+    },
+    "content": "The food items in the image likely include sausage, almonds, and grapes. These foods can be collectively analyzed for their nutritional properties. For instance, sausages are usually high in protein and fat, almonds are rich in healthy fats and fibers, and grapes provide carbohydrates and vitamins. The detailed nutritional information can be found in <document1> which lists the exact values per serving size in a comprehensive table."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0984",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0984_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item depicted in <image1> and explain what it might contain in terms of nutrients. Include a table in your answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0984_01.png"
+    },
+    "content": "The food item appears to be a mixed vegetable salad, likely containing spinach and carrots. Mixed vegetable salads are generally low in calories and high in vitamins and minerals like Vitamin A, Vitamin C, and dietary fiber. The nutritional information table in <document1> provides a breakdown of these nutrients, supporting the analysis with specific data on calorie count, vitamin content, and fiber levels."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0985",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0985_01.jpg"
+    },
+    "content": "Observe the <image1> that contains a food item. Provide an analysis of its appearance along with a nutritional breakdown. Make sure the answer includes a table to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0985_01.png"
+    },
+    "content": "The image shows almonds, which are known for their rich nutritional value, including healthy fats, protein, and fiber. In particular, almonds are an excellent source of vitamin E and magnesium. For precise nutritional information, refer to the <document1>, which contains a detailed nutritional information table."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0986",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0986_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food shown in <image1>. Please provide the answer including one table in the output to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0986_01.png"
+    },
+    "content": "The food in question appears to be grapes. Grapes are a good source of vitamins C and K and are relatively low in calories. To provide a more detailed nutritional analysis, refer to the nutritional information table shown in <document1>, which includes specific data about calories, vitamins, and other nutrients present in grapes."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0987",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0987_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and discuss its potential nutritional properties. Make sure your answer includes a table to illustrate or support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0987_01.png"
+    },
+    "content": "The food shown in the image appears to be a type of sausage. To provide a detailed nutritional analysis, the <document1> includes a nutritional information table. This table indicates the levels of calories, proteins, fats, and other nutrients present in the sausage. This data supports the assessment of its nutritional profile."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0988",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0988_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food items presented in <image1> and include a table in the answer to support the analysis."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0988_01.png"
+    },
+    "content": "The food in the image includes grapes, almonds, sausage, and spinach. The nutritional breakdown of these items shows that almonds provide healthy fats and proteins, while grapes are rich in antioxidants. Sausage offers proteins and fats, and spinach is a good source of vitamins. For a precise analysis, refer to the nutritional information table here: <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0989",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0989_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in <image1> and explain its health benefits. Ensure the answer includes a table to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0989_01.png"
+    },
+    "content": "The food item depicted is broccoli, which is rich in fiber, vitamins C and K, iron, and potassium. It is low in calories and can support digestive health, improve immune function, and strengthen bones. Refer to the nutritional details in <document1> for a comprehensive breakdown of its macro and micronutrient content, highlighting its benefits."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0990",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0990_01.jpg"
+    },
+    "content": "Based on the visual characteristics of the food item shown in <image1>, analyze its nutritional properties. Indicate details about its caloric value, vitamins, or other nutrients it might contain, and ensure the answer includes a table with specific nutritional data."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0990_01.png"
+    },
+    "content": "The food item in question appears to be a type of cooked green beans. These are known for being low in calories and high in vitamins such as Vitamin C and Vitamin K, along with dietary fiber. For detailed nutritional information, refer to the table provided in <document1>, which outlines the exact amounts of each nutrient present in the green beans."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0991",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0991_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and discuss its potential nutritional properties based on its appearance. Ensure the answer includes a table with nutritional information."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0991_01.png"
+    },
+    "content": "The food item in the image appears to be olives. Olives are known for being a good source of healthy fats and antioxidants. For detailed nutritional information, please refer to the table in <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0992",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0992_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food item shown in <image1>. What can be inferred about its composition and health benefits? Please provide a table to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0992_01.png"
+    },
+    "content": "The food item depicted is a group of cherry tomatoes. Cherry tomatoes are known for their rich content of vitamins and antioxidants. They are low in calories and have a high water content. According to the nutritional information provided in <document1>, cherry tomatoes are an excellent source of vitamin C, vitamin K, and potassium, contributing to immune function and cardiovascular health. The table in <document1> illustrates specific quantities of these nutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0993",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0993_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and discuss its potential nutritional properties. Ensure the answer includes one table to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0993_01.png"
+    },
+    "content": "The food shown in the image appears to be pieces of cooked chicken. Chicken is generally high in protein and low in fat, especially if skinless. For a detailed breakdown of its nutritional content, refer to the nutritional information table in <document1>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0994",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0994_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> in terms of its nutritional properties and appearance. Include a table in your answer to support the analysis."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0994_01.png"
+    },
+    "content": "The food item in question is an avocado, known for its rich nutrient profile. Refer to <document1> to see a detailed nutritional table which illustrates its high content of healthy fats and vitamins, supporting its reputation as a nutritious food."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0995",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0995_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and discuss its nutritional properties, including one table in the answer to illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0995_01.png"
+    },
+    "content": "The food item in the image is fresh spinach. Spinach is known for being low in calories yet high in nutritional value. It is an excellent source of vitamins A, C, and K1, as well as minerals like iron and calcium. For a detailed breakdown of its nutritional content, please refer to the table in <document1>, which provides comprehensive information on the calories, vitamins, and minerals present in spinach."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0996",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0996_01.jpg"
+    },
+    "content": "Analyze the nutritional properties of the food shown in <image1>. The answer must include one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0996_01.png"
+    },
+    "content": "The food shown is a salad with various ingredients such as avocado, chicken, and vegetables, which are generally high in nutrients. Detailed nutritional information is provided in the <document1>, showing content like calories, protein, and vitamins to support this analysis."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0997",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0997_01.jpg"
+    },
+    "content": "Analyze the nutritional value of the food item shown in <image1>. Consider its appearance and describe the potential nutritional properties, and include a table in the answer for further illustration."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0997_01.png"
+    },
+    "content": "The food item displayed is likely a fried or baked snack. Based on its appearance, it might be high in carbohydrates and fats. The <document1> table provides specific nutritional details, such as calories, protein, total fat, and carbohydrates, to support this analysis."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0998",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0998_01.jpg"
+    },
+    "content": "Analyze the food item shown in <image1> and infer its nutritional properties. Ensure the answer includes a table to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0998_01.png"
+    },
+    "content": "The food item appears to be cantaloupe, which is low in calories and rich in vitamins. Refer to the <document1> for detailed nutritional information, including caloric content and vitamin levels."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "0999",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0999_01.jpg"
+    },
+    "content": "Analyze the food item present in <image1> and discuss its nutritional properties, referring to a table that illustrates the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0999_01.png"
+    },
+    "content": "The food shown in the image appears to be cooked cauliflower. Based on common properties, cauliflower is low in calories but rich in vitamins and fibers. Refer to <document1> for a detailed nutritional breakdown."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1000",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1000_01.jpg"
+    },
+    "content": "Analyze the appearance of the food shown in <image1> and infer its potential nutritional properties. Include one table in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_1000_01.png"
+    },
+    "content": "The food shown appears to be a serving of scrambled eggs, which are typically high in protein and contain various vitamins and minerals. For more detailed nutritional information, please refer to the provided <document1> showing a nutritional information table."
+  }
+}
