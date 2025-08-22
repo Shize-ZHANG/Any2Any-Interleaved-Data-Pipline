@@ -22567,7 +22567,7 @@
       "video1": "https://www.youtube.com/watch?v=KfTtpoIovuk",
       "audio1": "A creamy pasta dish being plated with sauce and garnished carefully to highlight elegance and freshness."
     },
-    "content": "By combining the visual cues in <video1> with the description in <audio1>, what aspect of presentation makes this dish stand out? Please provide a picture to illustrate your answer."
+    "content": "By combining the visual cues in <video1> with the description in <audio1>, what aspect of presentation makes this dish stand out? Please provide a image to illustrate your answer."
   },
   "output": {
     "modal": {
@@ -22585,7 +22585,7 @@
       "video1": "https://www.youtube.com/watch?v=zPx3EibuO_w",
       "audio1": "A sizzling scene of grilled meat being cooked, with emphasis on its smoky aroma and juicy texture."
     },
-    "content": "By combining the motion in <video1> and the narration in <audio1>, what makes this dish visually appetizing? Please provide a picture to support your answer."
+    "content": "By combining the motion in <video1> and the narration in <audio1>, what makes this dish visually appetizing? Please provide a image to support your answer."
   },
   "output": {
     "modal": {
@@ -22603,7 +22603,7 @@
       "video1": "https://www.youtube.com/watch?v=J2rlJV7zKZw",
       "audio1": "A vibrant street food scene where skewers of meat and vegetables are grilled over open flames, highlighting smoky flavors and colorful ingredients."
     },
-    "content": "By combining the lively visuals in <video1> with the narration in <audio1>, what makes this street food scene so appealing? Please provide a picture to support your answer."
+    "content": "By combining the lively visuals in <video1> with the narration in <audio1>, what makes this street food scene so appealing? Please provide a image to support your answer."
   },
   "output": {
     "modal": {
@@ -22621,7 +22621,7 @@
       "video1": "https://www.youtube.com/watch?v=v0m3E_uSyFg",
       "audio1": "A close-up view of sushi preparation, with fresh fish slices placed carefully over seasoned rice and garnished with precision."
     },
-    "content": "By combining the visuals in <video1> and the description in <audio1>, what makes the presentation of this dish unique? Please provide a picture to support your answer."
+    "content": "By combining the visuals in <video1> and the description in <audio1>, what makes the presentation of this dish unique? Please provide a image to support your answer."
   },
   "output": {
     "modal": {
@@ -22639,7 +22639,7 @@
       "video1": "https://www.youtube.com/watch?v=kij9GXWdmik",
       "audio1": "A slow-motion capture of coffee being poured into a cup, with swirling cream creating delicate patterns on the surface."
     },
-    "content": "By combining the visuals in <video1> and the narration in <audio1>, what artistic element stands out in this coffee-making process? Please provide a picture to support your answer."
+    "content": "By combining the visuals in <video1> and the narration in <audio1>, what artistic element stands out in this coffee-making process? Please provide a image to support your answer."
   },
   "output": {
     "modal": {
@@ -22657,7 +22657,7 @@
       "video1": "https://www.youtube.com/watch?v=NAahAX62MZ0",
       "audio1": "A lively scene of street vendors preparing colorful fruit juices, pouring them into glasses with ice and fresh garnishes."
     },
-    "content": "By combining the visuals in <video1> with the description in <audio1>, what makes these beverages visually refreshing? Please provide a picture to support your answer."
+    "content": "By combining the visuals in <video1> with the description in <audio1>, what makes these beverages visually refreshing? Please provide a image to support your answer."
   },
   "output": {
     "modal": {
@@ -22675,7 +22675,7 @@
       "video1": "https://www.youtube.com/watch?v=NXeHeEHj9Xc",
       "audio1": "A chef is preparing a gourmet dessert, layering cream, fruit, and pastry elements to create a visually elegant presentation."
     },
-    "content": "By combining the visuals in <video1> with the narration in <audio1>, what makes this dessert presentation stand out? Please provide a picture to support your answer."
+    "content": "By combining the visuals in <video1> with the narration in <audio1>, what makes this dessert presentation stand out? Please provide a image to support your answer."
   },
   "output": {
     "modal": {
@@ -22693,7 +22693,7 @@
       "video1": "https://www.youtube.com/watch?v=VnvG08masio",
       "audio1": "A chef is showcasing the process of baking fresh bread, from kneading the dough to pulling golden loaves out of the oven."
     },
-    "content": "By combining the visuals in <video1> with the description in <audio1>, what makes the bread especially appealing? Please provide a picture to support your answer."
+    "content": "By combining the visuals in <video1> with the description in <audio1>, what makes the bread especially appealing? Please provide a image to support your answer."
   },
   "output": {
     "modal": {
@@ -22711,7 +22711,7 @@
       "video1": "https://www.youtube.com/watch?v=4twBzf6ngSc",
       "audio1": "A lively cooking scene where vegetables are stir-fried quickly over high heat, producing vibrant colors and sizzling sounds."
     },
-    "content": "By combining the visuals in <video1> with the description in <audio1>, what makes this stir-fry dish visually exciting? Please provide a picture to support your answer."
+    "content": "By combining the visuals in <video1> with the description in <audio1>, what makes this stir-fry dish visually exciting? Please provide a image to support your answer."
   },
   "output": {
     "modal": {
@@ -22729,7 +22729,7 @@
       "video1": "https://www.youtube.com/watch?v=xk8PdL_PdSo",
       "audio1": "A chef is carefully assembling a layered cake, spreading cream between the layers and decorating the top with fruits and delicate patterns."
     },
-    "content": "By combining the visuals in <video1> with the narration in <audio1>, what makes this cake visually impressive? Please provide a picture to support your answer."
+    "content": "By combining the visuals in <video1> with the narration in <audio1>, what makes this cake visually impressive? Please provide a image to support your answer."
   },
   "output": {
     "modal": {
