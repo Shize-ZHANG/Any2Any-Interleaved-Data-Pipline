@@ -22188,3 +22188,203 @@
     "content": "The food item appears to be almonds. Referencing the nutritional information, almonds are rich in healthy fats, protein, and fiber. For detailed nutritional values, see the table in <document1> which provides a complete breakdown of the nutritional content."
   }
 }
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1091",
+  "input": {
+    "modal": {
+      "threeD1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1091_01.obj",
+      "threeD2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1091_01.mtl",
+      "threeD3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1091_01.jpg"
+    },
+    "content": "Using the provided 3D mesh data consisting of <threeD1>, <threeD2>, and <threeD3>, identify the food item represented and analyze its characteristics. The answer must include 1 image and 1 document to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1091_01.jpeg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1091_01.png"
+    },
+    "content": "The 3D mesh data represents an apple, which is clearly visible in <image1>. Its round shape and the stem indentation are distinctive identifiers. Apples are crisp, sweet fruits with high water content and dietary fiber, as shown in <document1>. These characteristics make apples both refreshing and nutritious."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1092",
+  "input": {
+    "modal": {
+      "threeD1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1092_01.obj",
+      "threeD2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1092_01.mtl",
+      "threeD3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1092_01.jpg"
+    },
+    "content": "Using the provided 3D mesh data (<threeD1>, <threeD2>, <threeD3>), can you identify the food item and analyze its characteristics?"
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1092_01.jpeg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1092_01.png"
+    },
+    "content": "The 3D mesh data corresponds to a banana, whose elongated curved shape and smooth peel surface are clearly illustrated in <image1>. Bananas are soft, sweet fruits, often eaten as a quick energy source, and their nutritional composition is summarized in <document1>, which shows they provide 89 kcal per 100 g, with high potassium and vitamin B6 content."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1093",
+  "input": {
+    "modal": {
+      "threeD1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1093_01.obj",
+      "threeD2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1093_01.mtl",
+      "threeD3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1093_01.png"
+    },
+    "content": "Using the 3D mesh data provided, including <threeD1>, <threeD2>, and <threeD3>, identify the food item represented and analyze its characteristics. The explanation should include 1 image and 1 document to support it."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1093_01.jpeg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1093_01.png"
+    },
+    "content": "The 3D mesh data represents a strawberry shortcake, which is visually confirmed in <image1>. It is a layered dessert with cream and fresh strawberries, known for its sweetness and rich texture. Its nutritional profile, as detailed in <document1>, shows it is high in calories (250 kcal per 100 g), carbohydrates (33 g), and sugars (20 g), making it an indulgent but energy-dense treat."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1094",
+  "input": {
+    "modal": {
+      "threeD1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1094_01.obj",
+      "threeD2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1094_01.mtl",
+      "threeD3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1094_01.jpg"
+    },
+    "content": "Based on the provided 3D mesh data, specifically the <threeD1> geometry file, the <threeD2> material file, and the <threeD3> texture file, identify and analyze the food item they represent. The answer should include 1 image and 1 document to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1094_01.jpeg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1094_01.png"
+    },
+    "content": "The 3D mesh data represents an egg, which can be clearly recognized in <image1> by its oval shape and smooth shell. Eggs are widely consumed due to their versatility and nutritional richness. Their composition is detailed in <document1>, showing 143 kcal per 100 g, with 12.6 g of protein and 9.5 g of fat, along with essential vitamins such as B12, D, and A, making them a dense source of high-quality nutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1095",
+  "input": {
+    "modal": {
+      "threeD1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1095_01.obj",
+      "threeD2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1095_01.mtl",
+      "threeD3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1095_01.jpg"
+    },
+    "content": "Using the provided 3D mesh data, including <threeD1>, <threeD2>, and <threeD3>, identify and analyze the food item depicted. Explain the methods you would use to identify the key characteristics of the food and discuss any potential nutritional benefits of the item. Your response must include 1 image and 1 document to support or illustrate your explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1095_01.jpeg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1095_01.png"
+    },
+    "content": "Based on the 3D mesh analysis, the food item depicted is a mango. This can be identified by examining the shape, texture, and color cues provided in the 3D data. <image1> provides a clear visualization of the mango, helping to confirm its identity by comparing visual appearance traits. Additionally, <document1> offers detailed nutritional information about mangos, highlighting their rich vitamin content and health benefits, such as improved digestion and immune system support."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1096",
+  "input": {
+    "modal": {
+      "threeD1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1096_01.obj",
+      "threeD2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1096_01.mtl",
+      "threeD3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1096_01.jpg"
+    },
+    "content": "Based on the given 3D mesh data consisting of <threeD1>, <threeD2>, and <threeD3>, identify the food item depicted and analyze its features. Ensure that the answer includes 1 image and 1 document to support or illustrate your explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1096_01.jpeg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1096_01.png"
+    },
+    "content": "The 3D mesh data represents a watermelon, easily recognized in <image1> by its green rind and vibrant red flesh with black seeds. Watermelon is refreshing and hydrating, often eaten in slices during summer. Its nutritional composition, detailed in <document1>, shows it is very low in calories (30 kcal per 100 g) but extremely high in water content (91 g), along with vitamin C (8.1 mg) and potassium (112 mg), making it both cooling and nutritious."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1097",
+  "input": {
+    "modal": {
+      "threeD1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1097_01.obj",
+      "threeD2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1097_01.mtl",
+      "threeD3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1097_01.jpg"
+    },
+    "content": "How can we identify and analyze the food item represented in this 3D mesh data, which includes <threeD1>, <threeD2>, and <threeD3>? Please provide an explanation that incorporates the visual and textual elements appropriately."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1097_01.jpeg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1097_01.png"
+    },
+    "content": "The 3D mesh datacorresponds to a pineapple, which can be identified in <image1> by its spiky skin, leafy crown, and bright yellow flesh. Pineapples are juicy, sweet-tart tropical fruits, often eaten fresh or used in desserts and beverages. Their nutritional value is shown in <document1>, with 50 kcal per 100 g, 13 g of carbohydrates (10 g sugars), and high vitamin C content (47.8 mg), making pineapple a refreshing and immune-boosting fruit."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1098",
+  "input": {
+    "modal": {
+      "threeD1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1098_01.obj",
+      "threeD2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1098_01.mtl",
+      "threeD3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1098_01.jpg"
+    },
+    "content": "Using the 3D mesh data provided by <threeD1>, <threeD2>, <threeD3>, can you identify the type of food and analyze its characteristics?"
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1098_01.jpeg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1098_01.png"
+    },
+    "content": "The 3D mesh data represents a pepperoni pizza, which is clearly shown in <image1> with its round crust, melted cheese, and slices of pepperoni on top. Pizza is a popular savory dish, typically high in calories and fats due to its cheese and processed meat toppings. Its nutritional composition, detailed in <document1>, indicates 298 kcal per 100 g, with 12 g protein, 13 g fat, and 34 g carbohydrates, along with a notably high sodium content (730 mg), highlighting its energy density but also the need for moderate consumption."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1099",
+  "input": {
+    "modal": {
+      "threeD1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1099_01.obj",
+      "threeD2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1099_01.mtl",
+      "threeD3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1099_01.jpg"
+    },
+    "content": "Using the provided 3D mesh data files <threeD1>, <threeD2>, <threeD3>, please identify the food item depicted and analyze its key characteristics. The answer should include 1 image and 1 document to support or illustrate the explanation. Use the 3D coordinates and texture information to give a detailed analysis."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1099_01.jpeg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1099_01.png"
+    },
+    "content": "The 3D mesh data represents a tomato, which is evident in <image1> from its smooth, round red shape. Tomatoes are juicy fruits often used in salads, sauces, and cooking for their fresh flavor. Their nutritional profile, as detailed in <document1>, shows they are very low in calories (18 kcal per 100 g), rich in vitamin C (13.7 mg) and potassium (237 mg), and contain beneficial compounds like vitamin A and folate, making them a nutritious and versatile food."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1100",
+  "input": {
+    "modal": {
+      "threeD1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1100_01.obj",
+      "threeD2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1100_01.mtl",
+      "threeD3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/3dmesh/thd_1100_01.jpg"
+    },
+    "content": "Based on the 3D mesh data provided by <threeD1>, <threeD2>, and <threeD3>, identify the food item depicted and analyze its characteristics, nutritional value, and potential health benefits. Ensure that your answer includes relevant visual and informational support."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1100_01.jpeg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1100_01.png"
+    },
+    "content": "The 3D mesh data represents yogurt, which is shown in <image1> as a creamy dairy product typically eaten with a spoon. Yogurt is valued for its probiotic content, smooth texture, and versatility in diets. Its nutritional information in <document1> shows 61 kcal per 100 g, with 3.5 g protein, 3.3 g fat, and 4.7 g lactose sugar, as well as being rich in calcium (121 mg) and potassium (155 mg), making it both nutritious and beneficial for gut health."
+  }
+}
