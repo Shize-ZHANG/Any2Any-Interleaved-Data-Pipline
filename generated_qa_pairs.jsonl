@@ -22918,3 +22918,193 @@
     "content": "Here is the summarized version in <audio2>, capturing the one-minute technique to perfectly prepare a pineapple."
   }
 }
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1131",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1131_01.png",
+      "audio1": "Introduces the concept of the most expensive foods, with a focus on reactions rather than tasting them."
+    },
+    "content": "The video begins with <image1>, showing an elegant setting that sets the tone. Guided by <audio1>, the narration explains that the focus will be on capturing people’s surprised and amazed expressions at the idea of the world’s most expensive foods, rather than on eating them."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1131_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1131_02.mp3"
+    },
+    "content": "The continuation unfolds in <video1>, where the scene transitions smoothly from the still image into short clips of different people reacting with wide eyes, laughter, and amazement at the thought of such luxurious dishes. Their emotions are highlighted and synchronized with <audio2>, which reinforces the theme of experiencing the shock and wonder of extravagant foods without tasting them."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1132",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1132_01.png",
+      "audio1": "The chef sets the scene, explaining the challenge rules: all ingredients must be from a dollar store, no fancy equipment allowed, and the dish must impress the judge. Faced with the challenge of limited fresh food, he explores the store and selects various items, humorously highlighting inflation and improvisation with unexpected substitutes."
+    },
+    "content": "The video begins with <image1>, where the chef stands in front of the camera and lays out the quirky challenge. Guided by <audio1>, the narration emphasizes the restriction of dollar-store-only ingredients and the humor in searching for makeshift substitutes, setting a playful and slightly ironic tone."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1132_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1132_02.mp3"
+    },
+    "content": "The continuation unfolds in <video1>, where scenes cut to shots of the chef walking down the aisles, picking up canned goods, instant noodles, and frozen items with exaggerated expressions. These visuals are synchronized with <audio2>, which adds commentary about inflation and clever improvisation, turning the struggle of cooking under such limits into a humorous and engaging narrative."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1133",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1133_01.png",
+      "audio1": "The video introduces the increasingly popular presence of American fast food chains in France, including Popeyes and Krispy Kreme. Notably, over 1300 fast food outlets opened between 2019 and 2023, earning €19 billion in profits in 2023. "
+    },
+    "content": "The sequence opens with <image1>, showing a bustling French street with bright fast food signage. As <audio1> plays, the narration explains how American chains like Popeyes and Krispy Kreme are rapidly expanding in France, highlighting the dramatic growth in outlets and record-breaking profits."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1133_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1133_02.mp3"
+    },
+    "content": "The continuation in <video1> moves through dynamic shots of busy fast food counters, long lines of customers, and colorful displays of burgers and donuts. Over this, <audio2> emphasizes the cultural shift in dining habits, noting how global brands are reshaping France’s traditional food scene with speed, convenience, and American-style branding."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1134",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1134_01.png",
+      "audio1": "Introduction to Wagyu and Kobe beef. The host emphasizes that Kobe is a superior type of Wagyu, and introduces the cooking method using a Himalayan salt slab."
+    },
+    "content": "The scene begins with <image1>, a close-up of beautifully marbled Wagyu beef. As <audio1> plays, the host explains the distinction between Wagyu and Kobe beef, underlining Kobe’s reputation as a premium variety. The Himalayan salt slab is introduced as the cooking surface, highlighting its natural ability to enhance flavor."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1134_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1134_02.mp3"
+    },
+    "content": "The continuation in <video1> shows the host carefully placing thin slices of beef onto the glowing Himalayan salt slab, producing a gentle sizzle. Over this, <audio2> narrates the sensory experience—describing how the salt imparts a subtle seasoning while preserving the beef’s tenderness and rich umami. Close-up shots capture the caramelization and texture, immersing viewers in the luxurious cooking process."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1135",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1135_01.png",
+      "audio1": "The host introduces the video, focusing on the excitement of the Summer Challenge combining nutrition and fitness. They discuss the importance of high-protein meals and balanced diets, accessible through their app."
+    },
+    "content": "The video opens with <image1>, where the host enthusiastically greets the audience. As <audio1> plays, the scene highlights the energy of the Summer Challenge, emphasizing how balanced diets and high-protein meals are essential for both strength and stamina."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1135_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1135_02.mp3"
+    },
+    "content": "The continuation in <video1> shows dynamic shots of meal prep with fresh ingredients, blended with scenes of outdoor workouts. Over this, <audio2> explains how users can access recipes and fitness tips through the app, reinforcing the challenge’s theme of combining nutrition and exercise for optimal results."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1136",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1136_01.png",
+      "audio1": "The presenter introduces the concept of ranking popular dishes from all 50 states based on audience votes. He reveals that some states lack distinctive food cultures."
+    },
+    "content": "The video begins with <image1>, showing the presenter standing in front of a large U.S. map. As <audio1> plays, he sets the stage for a nationwide food ranking, noting with a smile that not every state has a strong culinary identity."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1136_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1136_02.mp3"
+    },
+    "content": "The continuation in <video1> transitions into quick clips of iconic dishes like New York pizza, Texas BBQ, and Maine lobster. Over these visuals, <audio2> elaborates on how audience votes determined the rankings, while humorously pointing out the challenges of representing states with less defined food traditions."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1137",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1137_01.png",
+      "audio1": "The host begins with an enthusiastic introduction to the Philippines' culinary culture. Emphasizes the love for food, family, and community."
+    },
+    "content": "The video opens with <image1>, showing vibrant street markets and families gathered around tables. As <audio1> plays, the host warmly sets the tone, highlighting how food is deeply tied to Filipino traditions of family and togetherness."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1137_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1137_02.mp3"
+    },
+    "content": "The continuation in <video1> transitions into bustling kitchen scenes, with cooks preparing adobo, lechon, and halo-halo. Over these shots, <audio2> expands on how Filipino cuisine blends Spanish, Chinese, and indigenous influences, while underscoring the joy of sharing meals as a community celebration."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1138",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1138_01.png",
+      "audio1": "The video opens with a vibrant welcome, hinting at a lively atmosphere. The family introduces themselves and their large household. They mention the excitement surrounding back-to-school lunches, sharing that they do not prepare such elaborate meals daily but enjoy it for special occasions."
+    },
+    "content": "The opening frame <image1> sets a cheerful tone as <audio1> plays in the background, with the family greeting viewers warmly and highlighting the joy of special back-to-school meal preparations."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1138_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1138_02.mp3"
+    },
+    "content": "In <video1>, the family showcases their kitchen setup, with parents and kids working together to prepare colorful lunchboxes. Over these visuals, <audio2> explains how they balance nutrition, fun, and family bonding, while also reminding viewers that such elaborate lunches are a treat reserved for special days."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1139",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1139_01.png",
+      "audio1": "Introduces Chicago as a food city, discussing its iconic street foods and setting the stage for a culinary adventure."
+    },
+    "content": "The introduction opens with <image1>, while <audio1> sets the mood by highlighting Chicago’s reputation as a vibrant food city and teasing the culinary journey ahead."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1139_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1139_02.mp3"
+    },
+    "content": "In <video1>, bustling shots of Chicago’s streets and iconic food stalls unfold, while <audio2> narrates the city’s love for deep-dish pizza, hot dogs, and diverse street eats, framing it as the perfect beginning to a culinary adventure."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1140",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1140_01.png",
+      "audio1": "The video kicks off with an appreciation for Filipino food, highlighting its undeservedly underrated status in Southeast Asia. The host teases indulgent recipes that are both flavorful and potentially heart-health impacting."
+    },
+    "content": "Opening with <image1>, the host sets the tone with <audio1>, celebrating Filipino cuisine while hinting at its bold flavors and rich, indulgent dishes."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1140_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1140_02.mp3"
+    },
+    "content": "As <video1> transitions into shots of sizzling pans and vibrant ingredients, <audio2> builds excitement by describing how Filipino food blends comfort and decadence, inviting viewers to explore its unique place in Southeast Asian cuisine."
+  }
+}
