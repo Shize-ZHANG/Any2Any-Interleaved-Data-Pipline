@@ -23108,3 +23108,213 @@
     "content": "As <video1> transitions into shots of sizzling pans and vibrant ingredients, <audio2> builds excitement by describing how Filipino food blends comfort and decadence, inviting viewers to explore its unique place in Southeast Asian cuisine."
   }
 }
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1141",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1141_01.png", 
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1141_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1141_01.mp3", 
+      "audio2": "The video begins with a motivational and inviting theme, creating an energetic atmosphere aimed at engaging the audience. The objectives seem to revolve around inspiring viewers to take action and embrace new opportunities. This content is suitable for anyone looking for encouragement to move forward in their personal or professional life, as it promotes a proactive mindset and fosters enthusiasm for taking the next steps."
+    },
+    "content": "The opening image <image1> captures a welcoming dining scene: a masked waiter presenting a dish to a seated woman in a semi-outdoor setting, evoking warmth and hospitality. This frame serves as the visual anchor that transitions from the first part <video1> with <audio1> into the next act. The descriptive audio <audio2> then introduces the tone and purpose of what’s to come—an energetic invitation for viewers to step forward with confidence."
+  },
+  "output": {
+    "modal": {
+      "video2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1141_02.mp4",
+      "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1141_03.mp3"
+    },
+    "content": "In the continuation <video2>, the action unfolds from this hospitable scene—shifting into visuals of the host taking a seat, exchanging engaging dialogue, or perhaps starting a meal preparation sequence—maintaining the atmosphere introduced earlier. The new narration <audio3> builds on that energy, reinforcing motivation and weaving a seamless narrative bridge from the greeting to the forthcoming storyline."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1142",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1142_01.png", 
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1142_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1142_01.mp3", 
+      "audio2": "The video focuses on creating a balanced cream bread, likely appealing to baking enthusiasts looking to refine their skills. The objective is to provide viewers with a step-by-step approach to crafting a delicious cream bread, highlighting important techniques and ingredients. The content is suitable for both novice and experienced bakers who want to explore new recipes and enhance their baking repertoire."
+    },
+    "content": "The final frame of the first segment <image1> presents a close-up of a mixing bowl with cream-like batter, where a spoonful of miso is about to be added—clearly indicating a distinctive flavor twist. This pairs with the preceding footage <video1> and narration <audio1>, which highlighted the process of preparing cream bread. The directive in <audio2> then cues the continuation, signaling that the next part should carry on with baking steps and technique-focused visual guidance."
+  },
+  "output": {
+    "modal": {
+      "video2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1142_02.mp4",
+      "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1142_03.mp3"
+    },
+    "content": "Building from that miso-infused batter frame, the continuation <video2> logically progresses into scenes of kneading, shaping, and proofing dough, showcasing the transformation process. The new narration <audio3> bridges this visually—detailing the significance of ingredients and techniques while maintaining the instructional tone—culminating in a coherent and immersive bake-along experience."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1143",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1143_01.png",
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1143_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1143_01.mp3",
+      "audio2": "The video begins with a brief acknowledgment of the audience, expressing gratitude for their viewership. Although this is only a small introductory segment, it sets a positive tone for the rest of the content. This video is suitable for viewers interested in learning about the forthcoming topics that will be presented and engaging with the content that follows."
+    },
+    "content": "The final frame of the first segment <image1> shows a close-up of a jar or glass container filled with oil (or sauce) with egg yolks suspended mid-layer—visually suggesting the start of an emulsion or sauce-making process. This image naturally transitions from the initial segment <video1> with <audio1>, which expressed thanks and set the tone. The voice-over directive in <audio2> indicates that the next part should dive into the hands-on preparation steps of the recipe."
+  },
+  "output": {
+    "modal": {
+      "video2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1143_02.mp4",
+      "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1143_03.mp3"
+    },
+    "content": "In the continuation <video2>, the video likely moves into action shots: pouring, whisking, or blending ingredients such as oil and egg yolks to form a sauce or dressing. The new narration <audio3> should guide viewers through those prep steps—explaining ingredient ratios, mixing techniques, and expected visual cues—maintaining the upbeat and instructional tone introduced earlier."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1144",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1144_01.png", 
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1144_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1144_01.mp3", 
+      "audio2": "The video focuses on a straightforward recipe preparation, laying out specific ingredient measurements and combinations. Suitable for beginner cooks or those looking to enhance their cooking skills, viewers can learn about basic ingredient ratios and techniques for baking. The central idea revolves around simplifying the baking process with concise, easy-to-follow instructions."
+    },
+    "content": "The closing frame <image1> captures the action of mixing dough with a spatula, visually signaling the transition from ingredient preparation to the hands-on stage of combining elements. The segment <video1> together with <audio1> represents the introduction and early steps, while <audio2> sets the tone for guiding the audience into the structured continuation of the recipe."
+  },
+  "output": {
+    "modal": {
+      "video2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1144_02.mp4",
+      "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1144_03.mp3"
+    },
+    "content": "In the continuation <video2>, the narrative proceeds from the dough mixing stage to demonstrate shaping and preparing the mixture for baking, maintaining a smooth flow from the earlier segment. The voiceover in <audio3> explains each step clearly—covering proportions, technique, and baking tips—ensuring viewers stay engaged and confident while following along."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1145",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1145_01.png", 
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1145_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1145_01.mp3", 
+      "audio2": "The video introduces a unique challenge where the host must create a balanced cream bread using only ingredients from a dollar store. The objective is to showcase creativity and resourcefulness in baking, while highlighting the importance of balance and taste in the final product. This content is suitable for baking enthusiasts looking to push their skills and explore new recipes."
+    },
+    "content": "The closing frame <image1> shows the animated Pinkfong character surrounded by vegetables, visually emphasizing the healthy eating theme. The earlier segment <video1> paired with <audio1> builds a playful and educational introduction, while <audio2> defines the setup for the continuation, shifting focus toward the inventive cream bread challenge using limited resources."
+  },
+  "output": {
+    "modal": {
+      "video2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1145_02.mp4",
+      "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1145_03.mp3"
+    },
+    "content": "In the continuation, <video2> transitions smoothly from the fun, animated framing into a more challenge-oriented sequence, keeping the lively tone while introducing the new baking task. The narration in <audio3> bridges the shift by connecting the theme of nutrition with creativity, ensuring viewers remain engaged as the story evolves from playful education into a practical and imaginative cooking scenario."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1146",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1146_01.png", 
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1146_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1146_01.mp3", 
+      "audio2": "The video discusses the historical significance of George Crumb, a chef who worked at Moon's Lake House in 1863, and how he created a renowned dish known as Moon's fried potatoes. It highlights the connection between culinary innovation and the aristocratic dining experience of the time. This video is suitable for culinary enthusiasts and history buffs, as viewers can learn about the origins of a classic dish and its cultural impact."
+    },
+    "content": "The final frame <image1> presents a close-up of golden fried potatoes, symbolizing the transition point in the story. The earlier segment <video1> accompanied by <audio1> introduces the narrative and context of potato dishes, while <audio2> sets up the historical background of George Crumb and Moon’s fried potatoes, paving the way for a deeper cultural exploration."
+  },
+  "output": {
+    "modal": {
+      "video2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1146_02.mp4",
+      "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1146_03.mp3"
+    },
+    "content": "In the continuation, <video2> expands on the story by visually linking the crisp fries to the historical setting of Moon’s Lake House, weaving past and present. The narration in <audio3> reinforces this bridge by emphasizing how Crumb’s innovation influenced not just dining culture but also the evolution of a global snack, ensuring that the historical insight flows naturally from the visual and auditory cues established earlier."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1147",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1147_01.png", 
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1147_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1147_01.mp3", 
+      "audio2": "The video features seasoned pitmasters sharing their extensive knowledge and techniques in barbecue cooking. Tootsie, a veteran pitmaster with over 50 years of experience, showcases her hard work and dedication to the craft. Through personal anecdotes, she emphasizes the intuition required in monitoring cooking temperatures, demonstrating that mastery in this field comes from experience rather than relying solely on tools. This content is suitable for barbecue enthusiasts and aspiring chefs, aimed at enhancing their understanding of traditional barbecue practices and the deep passion involved in the craft."
+    },
+    "content": "Here, <image1> serves as the final frame of the first segment, visually representing the culmination of the introduction. The combination of <video1> and <audio1> forms the initial half, providing background and setting the context for the narrative. The descriptive guidance in <audio2> is then used to inspire the creation of the continuation, focusing on the expertise of pitmasters and their passion for barbecue traditions."
+  },
+  "output": {
+    "modal": {
+      "video2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1147_02.mp4",
+      "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1147_03.mp3"
+    },
+    "content": "In the continuation, <video2> builds directly on the foundation established earlier, transitioning smoothly from the introduction into more detailed demonstrations of barbecue techniques. The narration in <audio3> ensures the story remains cohesive, emphasizing not only the technical mastery of pitmasters but also their lifelong dedication, thereby linking the visual progression with the motivational depth of the narrative."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1148",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1148_01.png", 
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1148_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1148_01.mp3", 
+      "audio2": "The core theme of this video revolves around the importance of biosecurity regulations in protecting agricultural and ecological systems. The objectives emphasize the need to confiscate certain items at ports to prevent harm to plants and animals rather than focusing on human health. Viewers can learn about the scale of movement at ports and the types of food items that are monitored to maintain ecological balance."
+    },
+    "content": "Here, <image1> captures the final frame of the first part, showing an officer actively inspecting and cutting open produce, which highlights the scale of food confiscations. The segment <video1> combined with <audio1> makes up the initial portion, laying out the context of port inspections and food monitoring. The descriptive narration in <audio2> provides the thematic direction for the continuation, focusing on biosecurity measures and the ecological reasons behind such strict regulations."
+  },
+  "output": {
+    "modal": {
+      "video2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1148_02.mp4",
+      "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1148_03.mp3"
+    },
+    "content": "In the continuation, <video2> transitions smoothly from the inspection visuals into broader scenes illustrating the grinding and disposal process of contraband food. This visual flow emphasizes the enforcement of biosecurity rules. Meanwhile, <audio3> reinforces the narrative by explaining how these measures protect domestic agriculture and ecosystems, making clear the connection between the officer’s actions and the larger purpose of ecological safeguarding."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1149",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1149_01.png", 
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1149_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1149_01.mp3", 
+      "audio2": "The video features Clara and her grandfather, Ernie, as they introduce themselves and their familial relationship. It highlights the warmth of intergenerational connections, showcasing the loving bond between Clara, her grandfather, and Gigi, who refers to Clara as Nini. The central theme revolves around family ties, affection, and the unique names that convey closeness within families. This content is suitable for viewers interested in familial relationships, cultural naming practices, and the dynamics of intergenerational connections."
+    },
+    "content": "Here, <image1> captures the closing frame of the first video segment, where Clara and her grandfather Ernie sit together at the table, symbolizing the intimate family connection. The combination of <video1> with <audio1> provides the setup, offering viewers an introduction to who they are. The descriptive narration in <audio2> will guide the next part of the story, expanding on their relationship and emphasizing the warmth of intergenerational bonds."
+  },
+  "output": {
+    "modal": {
+      "video2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1149_02.mp4",
+      "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1149_03.mp3"
+    },
+    "content": "In the continuation, <video2> smoothly follows the introduction by showing Clara and Ernie engaging in conversation and sharing food together, strengthening the emotional focus. The narration in <audio3> highlights their affectionate exchange and underlines the broader theme of family traditions and the special names that define closeness across generations."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1150",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1150_01.png", 
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1150_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1150_01.mp3", 
+      "audio2": "The video opens with a casual conversation highlighting a favorite dish and establishes a friendly rapport between the speakers. The central theme revolves around personal dining experiences and recommendations, setting a laid-back tone conducive to a pregame atmosphere. This content is suitable for viewers interested in food culture or looking for casual dining tips. Readers can learn about the dynamics of social interactions in a dining setting and personal recommendations."
+    },
+    "content": "Here, <image1> shows the closing frame of the first section, with a lively animated family gathered together, symbolizing warmth and shared experiences. The combination of <video1> with <audio1> represents the first half, where the casual dialogue introduces the dining theme. The narration in <audio2> then guides the generation of the continuation, focusing on relaxed food conversations and friendly recommendations."
+  },
+  "output": {
+    "modal": {
+      "video2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1150_02.mp4",
+      "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1150_03.mp3"
+    },
+    "content": "In the continuation, <video2> smoothly carries forward the relaxed and sociable vibe, showing more interactions among the group as they share food preferences and dining stories. The accompanying <audio3> reinforces the conversational tone, connecting the introduction to a more engaging exploration of dining culture and personal tips."
+  }
+}
