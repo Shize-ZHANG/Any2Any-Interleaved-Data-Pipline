@@ -11961,9 +11961,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed close-up of braised pork belly showing its succulent texture and the glossy, rich sauce that clings to the meat.",
-      "image3": "A top-down view of the braised pork belly platter, highlighting the symmetrical arrangement of the slices and the scattering of fresh green onions adding a pop of color.",
-      "image4": "A side view capturing the layers of tender meat and the depth of the luxurious sauce pooling at the bottom, illustrating the careful cooking process."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0551_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0551_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0551_04.png"
     },
     "content": "In preparing this dish, the interplay of the succulent pork belly <image2> slices and the rich sauce is crucial. <image3> showcases the visual appeal and garnishing that complements the savory aroma mentioned in the audio. Further, <image4> provides a perspective on the texture and sauce concentration, offering a comprehensive understanding of the cooking technique."
   }
@@ -11981,9 +11981,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of freshly prepared rice noodles being rolled out and cut into ribbons, highlighting their smooth and slightly translucent texture.",
-      "image3": "A complete meal presentation showing the dish served on a traditional Asian-style ceramic plate with chopsticks beside it, emphasizing its cultural context.",
-      "image4": "An artistic shot of the final plated dish, with steam rising, to capture the aroma and freshly prepared essence."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0552_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0552_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0552_04.png"
     },
     "content": "This dish is traditionally prepared by crafting rice noodles from rice flour and water, then rolling them to achieve the desirable thickness and texture. The dish is served in a shallow bowl garnished with fresh ingredients like <image2> to ensure the noodles are the star. Customarily, it’s complemented with spicy, savory toppings such as chili peppers and mushrooms, which impart a rich umami flavor. The dish's appeal lies in its balance of flavors and textures, as depicted in <image3>. It's often served warm, with the steam rising, giving an inviting aroma as shown in <image4>."
   }
@@ -12001,9 +12001,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image showing the dish being prepared, highlighting the technique of adding spices and sauce to the fish.",
-      "image3": "A detailed portrayal of the dining setting where the dish is traditionally served, complete with tableware and accompanying side dishes.",
-      "image4": "An image depicting the ingredients laid out before preparation, including fresh fish, an array of spices, and herbs in their raw form."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0553_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0553_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0553_04.png"
     },
     "content": "The dish, known as 'Sichuan-style Spicy Fish,' is a staple in Sichuan cuisine, celebrated for its spicy and savory taste. <image2> portrays the meticulous preparation where chefs carefully blend spices to achieve the signature heat. Traditionally served at festive gatherings, as shown in <image3>, the dish fosters a communal dining experience. The core ingredients, depicted in <image4>, reveal the reliance on fresh produce and potent spices that define Sichuan gastronomy."
   }
@@ -12021,9 +12021,9 @@
   },
   "output": {
     "modal": {
-      "image2": "The dish is shown steaming in bamboo baskets, a traditional method that allows the flavors to meld perfectly with a moist and tender texture.",
-      "image3": "A close-up view highlights the glossy, sticky surface of the rice, dotted with sweet red beans and glistening from the steam.",
-      "image4": "A beautifully presented serving on a plate, garnished with sesame seeds and a side of fragrant spices to enhance the flavor profile."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0554_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0554_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0554_04.png"
     },
     "content": "The traditional preparation of <image2> involves soaking the rice and red beans overnight before placing them into bamboo steamers. <image3> shows this step, where the beans and spices are carefully mixed. <image4> illustrates the final presentation on a dish, showcasing the enticing aroma and visual appeal of this culinary delight."
   }
@@ -12041,9 +12041,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of the scrambled eggs with crab meat featuring a rich, golden yellow hue, with visible chunks of white crab and flecks of green onions highlighting the freshness of the ingredients.",
-      "image3": "An image showing a well-set table with the main dish of scrambled eggs and crab meat, surrounded by various side dishes and accompaniments, emphasizing the dish as part of a larger meal setting.",
-      "image4": "A dynamic image capturing the cooking process in a kitchen, focusing on a chef expertly folding crab meat into fluffy scrambled eggs as they cook in a hot pan."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0555_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0555_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0555_04.png"
     },
     "content": "The flavor of scrambled eggs with crab meat, as enhanced in <image2>, is complemented by the delicate sweetness of the crab balancing the creamy eggs. The fresh green onions add a mild sharpness, as seen in <image3>, offering a complete dining experience. Observing the careful preparation, as portrayed in <image4>, highlights the importance of technique in achieving the perfect texture and flavor integration."
   }
@@ -12061,9 +12061,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of the dish showcasing the golden-brown, crispy texture of the meat contrasted with the bright, glossy appearance of the freshly-cooked green peppers.",
-      "image3": "A top-view of the plate highlighting the intricate arrangement of the pepper slices and meat, with the light glistening off the sauce coating each piece.",
-      "image4": "An artistic side-shot focusing on the steam rising from the succulent dish, capturing the inviting warmth and the tempting spices lingering in the air."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0556_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0556_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0556_04.png"
     },
     "content": "The dish's appeal is evident when viewed from different angles. In <image2>, the interplay of textures is captured beautifully. <image3> provides a fresh perspective, revealing the meticulous arrangement and vibrant colors. Finally, <image4> captures the aroma-filled steam that brings the spices to life."
   }
@@ -12081,9 +12081,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of the dish, displaying the bright red clusters with a light mist rising, emphasizing the fresh mint leaf on top for a refreshing vibe.",
-      "image3": "An angled view showing the entire presentation, featuring the red clusters placed elegantly on a white plate with a foggy mist effect, surrounded by complementary dishes.",
-      "image4": "A wide view of the dining setup, highlighting the dish in context with other items on a well-set table, showcasing an inviting and sophisticated ambiance."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0557_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0557_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0557_04.png"
     },
     "content": "The dish is an artful creation of crispy, red raspberry-like clusters topped with mint leaves, captured vividly in <image2>. The angled presentation in <image3> shows how the foggy mist enhances the sensory appeal. Finally, <image4> places the dish within a broader dining experience, illustrating its role in an elegant meal setting."
   }
@@ -12101,9 +12101,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of the hot pot showcasing the tofu and beef slices submerged in the steaming red broth, highlighting their textures and colors.",
-      "image3": "A side perspective capturing the variety of mushrooms and vegetables mingling with the broth, bringing out the dish's earthy and umami qualities.",
-      "image4": "An overhead image illustrating the vibrant assortment of ingredients spread out in the pot, emphasizing the colorful and diverse elements."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0558_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0558_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0558_04.png"
     },
     "content": "The hot pot is a delightful medley of textures and flavors. The <image2> displays the protein elements, such as the soft, quivering tofu and tender, thinly sliced beef. Moving to <image3>, the mushrooms provide a chewy texture and deep, savory taste, while the vegetables contribute freshness. The <image4> depicts the overall colorful presentation, showcasing the blend of all these ingredients within the rich, aromatic broth."
   }
@@ -12121,9 +12121,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of the dish with a focus on the vibrant saffron rice and tender pieces of meat, highlighting the texture and color.",
-      "image3": "An image showing the spices and colorful vegetables being mixed with the rice and meat, providing a dynamic view of the cooking process.",
-      "image4": "A beautifully plated serving of the dish, with garnishes that add color contrast, giving a sense of its final presentation."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0559_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0559_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0559_04.png"
     },
     "content": "The rich texture and color of the dish are captured well in <image2>, while <image3> offers insight into the mixture of spices and vegetables during cooking. Finally, <image4> illustrates the artistic final presentation of the dish, emphasizing the visual appeal when served."
   }
@@ -12141,9 +12141,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of a steaming Szechuan hot pot filled with vibrant red chilies, sliced sausages, onions, and an assortment of spices visible on the surface.",
-      "image3": "A detailed view of the fresh, finely chopped green onions sprinkled over the top, adding a burst of color against the fiery red backdrop.",
-      "image4": "An overhead shot of the dish, capturing the rich and glossy texture of the spicy broth as well as the variety of embedded ingredients, showcasing the complexity of the flavors."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0560_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0560_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0560_04.png"
     },
     "content": "The Szechuan hot pot is known for its bold and spicy profile, with layers of flavors stemming from the generous use of red chilies and aromatic spices. The <image2> highlights the intense mix of ingredients, including sausages and fresh veggies, simmering in spicy oil. Sprinkled green onions in <image3> add freshness and a subtle crunch. <image4> captures the overall presentation, revealing a rich, glossy broth that perfectly embodies the Szechuan culinary tradition."
   }
@@ -12161,9 +12161,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image showing the rich, spicy broth of the seafood soup, highlighting the vibrant red color and the visible chili flakes floating on the surface.",
-      "image3": "A top-down view of the seafood soup, displaying the diverse ingredients including enoki mushrooms, sliced peppers, and seaweed, giving a sense of the dish's complexity.",
-      "image4": "A side view of the seafood soup served with a side dish of rice, illustrating how the meal is typically enjoyed as part of a complete dining experience."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0561_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0561_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0561_04.png"
     },
     "content": "<image2> highlights the intricate flavors presented by the spicy broth. <image3> shows the variety of ingredients like mushrooms and seaweed that enhance the soup's texture. Finally, <image4> provides a context of how the soup is served alongside rice, making it a fulfilling meal."
   }
@@ -12181,9 +12181,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of finely shaved black truffle on top of a pasta dish, highlighting its use as a garnish to enhance flavor.",
-      "image3": "A detailed image showing black truffle infused oil in a glass bottle, illustrating its use as a flavoring agent.",
-      "image4": "An image displaying a black truffle being freshly shaved onto a gourmet pizza, showcasing its application in enhancing the aroma of the dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0562_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0562_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0562_04.png"
     },
     "content": "Black truffles can be used in various dishes for their aromatic properties and unique flavor. <image2> shows how black truffles are often shaved over pasta to add depth and luxury to the dish. <image3> illustrates how truffles can be infused into oils, which are then used to flavor various recipes. Lastly, <image4> demonstrates the popular use of truffles on pizzas, adding a gourmet twist to this beloved dish."
   }
@@ -12201,9 +12201,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of a dish with glistening chicken pieces and vibrant red chili peppers, artistically arranged with whole peanuts and green scallions on a traditional decorative porcelain plate.",
-      "image3": "An overhead shot showing the complete meal, highlighting the glossy, thick sauce enveloping the ingredients, capturing the shiny texture of the sauce against the tender chicken and crunchy peanuts.",
-      "image4": "A side view capturing steam arising from the hot dish, focusing on the contrast between the dark soy sauce and the bright colors of the vegetables, and the roasted peanuts adding a crunch to the juicy chicken."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0563_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0563_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0563_04.png"
     },
     "content": "The dish is beautifully presented with <image2> emphasizing the spicy and colorful ingredients. In <image3>, the glossy sauce is evident, providing a rich texture that complements the tender chicken and crunchy peanuts. Finally, <image4> captures the steaming aroma, accentuating the dish's warmth and the vibrant contrast between the sauce and fresh vegetables."
   }
@@ -12221,9 +12221,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of the sweet and sour fish, showcasing the glossy red sauce clinging to crispy fish fillets, with vibrant green peas sprinkled on top.",
-      "image3": "The kitchen scene with a chef expertly frying fish fillets in a wok, with steam rising and a bowl of the tangy sweet and sour sauce ready to be poured over the fish.",
-      "image4": "An elegant dining setup featuring the sweet and sour fish dish as a centerpiece, surrounded by traditional Chinese tableware and a serving of white rice."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0564_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0564_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0564_04.png"
     },
     "content": "The traditional method for preparing sweet and sour fish involves deep-frying the fish until golden brown to achieve a crispy texture. The sauce, a blend of vinegar, sugar, and tomato paste, is then drizzled over the fish. Presentation is key, with garnishes like bright green peas and a fresh orchid embellishing the dish. <image2> offers a detailed view of the plated dish. In <image3>, you can see the dynamic process of cooking in a wok, important for achieving the dish’s authentic flavor. Finally, <image4> highlights the dish in a refined dining atmosphere, enhancing its appeal with cultural nuances."
   }
@@ -12241,9 +12241,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view showing the rich texture of the minced beef, finely chopped vegetables, and the glossy sauce. The focus is on the vibrant colors and intricate details of the dish, emphasizing freshness and flavor.",
-      "image3": "An overhead shot capturing the full plate of noodles topped with the beef and vegetable mixture. The noodles are neatly twirled, and the sauce is evenly spread, highlighting the organized presentation.",
-      "image4": "A side profile view showcasing the layers of noodles and toppings. This angle reveals the thickness of the noodles and the generous serving size of the flavorful topping."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0565_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0565_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0565_04.png"
     },
     "content": "The dish is elegantly presented with <image2> capturing its vibrant colors and textures. <image3> showcases the dish from above, emphasizing the neat arrangement of ingredients. From <image4>, you can see the thickness of the noodles and how they are enveloped by the rich topping, making it a substantial and appealing meal."
   }
@@ -12261,9 +12261,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of the noodles, highlighting the rich sheen of the dark sauce, with flecks of garlic and minced onions visible amidst the glossy strands.",
-      "image3": "A street food stall, bustling with activity, where similar noodles are being freshly prepared in a large, steaming wok, fragrant with spices and sauce.",
-      "image4": "A traditional family dining table setting, where the noodles are served alongside small side dishes and a bowl of soup, showcasing a typical meal presentation."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0566_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0566_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0566_04.png"
     },
     "content": "This popular noodle dish, often enjoyed as a hearty comfort food, holds great cultural significance. <image2> captures the detail of the sauce, emphasizing its critical role in flavor. Variations include ingredients such as seafood or beef, cooked in different regions. <image3> shows a common preparation method in street markets, bringing forth the dish's vibrant, communal essence. Finally, <image4> illustrates how it's customarily served at home, accompanied by complementary side dishes, emphasizing its place as a staple in daily meals."
   }
@@ -12281,9 +12281,9 @@
   },
   "output": {
     "modal": {
-      "image2": "In this image, the soup's enticing red broth is evident, with pieces of shrimp and squid peeking through the spicy surface, surrounded by glistening green bok choy leaves and silky noodles.",
-      "image3": "Here, the seafood components are highlighted, showcasing the tender shrimp and rings of squid immersed in the broth, emphasizing their texture and appeal.",
-      "image4": "This image captures the fresh vegetables in the soup, focusing on the vibrant, crisp bok choy and cabbage, garnished with sesame seeds, which add to the aromatic and visual richness of the dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0567_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0567_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0567_04.png"
     },
     "content": "The spicy seafood noodle soup brings together a fusion of bold flavors and varying textures. <image2> illustrates the overall preparation, emphasizing the rich broth. <image3> highlights the seafood's tender texture, while <image4> showcases the fresh vegetables, contributing to the dish's crunch and freshness."
   }
@@ -12301,9 +12301,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up shot of spinach leaves glistening with sauce, highlighting the freshness and tenderness of the leaves, with small drops of sauce visible.",
-      "image3": "A side view of the crispy tofu, showing its golden-brown exterior and airy interior texture, placed beside a small mound of sesame seeds and chili flakes.",
-      "image4": "An overhead view of the dish with a generous portion of sauce pooling at the base, emphasizing the vibrant green of the spinach and red chili accents."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0568_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0568_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0568_04.png"
     },
     "content": "This dish, as depicted in <image2>, shows the freshness and light cooking applied to the spinach leaves, maintaining their vibrant color and tender feel. The crispy tofu in <image3> provides a complementary texture, contrasting nicely with the soft spinach. Finally, <image4> illustrates the overall presentation, with the sauce enhancing not just the flavor but also the appetizing look of the dish."
   }
@@ -12321,9 +12321,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of a traditional spicy stew with vibrant red broth, rich with whole dried chilies, and visible chunks of tender meat. The broth appears thick and glistening, reflecting the overhead light.",
-      "image3": "An image showing a side view of the stew served in a large, ornately decorated bowl with a contrasting blue exterior that enhances the dish's colorful presentation. Slices of bright vegetables float atop.",
-      "image4": "A dynamic image capturing a hand scooping a serving from the stew, emphasizing the texture and richness of the dish with steam rising, indicating its warmth and fresh preparation."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0569_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0569_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0569_04.png"
     },
     "content": "The traditional spicy stew is known for its rich, bold presentation. In <image2>, the close-up of the vibrant red broth showcases the essential use of chilies and meat. The side view in <image3> highlights the ornate serving bowl, a key element in presenting such stews, accentuating the visual delight. Lastly, <image4> captures the motion and experience of serving, emphasizing the dish's texture and warmth through the rising steam."
   }
@@ -12341,9 +12341,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up shot of corn kernels highlighting their bright yellow color and juicy texture.",
-      "image3": "A detailed image of mixed beans, showcasing their variety and rich color palette.",
-      "image4": "A steaming bowl of soup with visible corn and beans, garnished with fresh herbs."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0570_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0570_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0570_04.png"
     },
     "content": "The dish in question is rich in fiber and essential nutrients, as seen in <image2>, where the vibrant corn provides an excellent source of vitamins A and C. The beans shown in <image3> add protein and iron, vital for maintaining energy and vitality. Finally, <image4> highlights the warm, appetizing nature of the soup, illustrating its role in a balanced diet by providing both comfort and nourishment."
   }
@@ -12361,9 +12361,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of the sliced chicken, highlighting the texture and how the chili oil clings to the pieces.",
-      "image3": "A perspective showing the dish from the side to emphasize the layer of chili oil and garnishes on top.",
-      "image4": "An overhead view to capture the full presentation, including the plate's rustic design contrasting with the vibrant sauce."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0571_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0571_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0571_04.png"
     },
     "content": "The visual presentation of this dish plays a crucial role in enhancing its appeal. The <image2> shows how the sauce glazes the chicken, highlighting the dish's spiciness. In <image3>, the garnishes add a touch of freshness, contrasting with the deep red oil. Finally, <image4> gives a holistic view of the dish, where the combination of colors and textures creates an inviting look."
   }
@@ -12381,9 +12381,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of the dish showing the shiny, succulent meatballs drenched in thick sauce, highlighted by a sprinkling of white sesame seeds and garnished with green peas.",
-      "image3": "An overhead view of a similar dish, featuring meatballs arranged neatly on a beautifully patterned blue-and-white porcelain plate with a floral design.",
-      "image4": "A side view displaying three layers of texture: the glaze, the seed garnish, and the soft interior of the meatballs, offering a glimpse of steam rising from the freshly cooked dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0572_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0572_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0572_04.png"
     },
     "content": "The deliciousness of this dish is emphasized by images such as <image2> which depicts the glossy texture of the sauce. <image3> gives an artistic presentation angle with its elegant plate design, and <image4> reveals the tender meatball interior, adding to the sensory allure."
   }
@@ -12401,9 +12401,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of the dish's ingredients, highlighting the glossy, caramelized pieces of pork belly with their golden-brown, crisp edges.",
-      "image3": "A panorama of the dish from above, capturing the vibrant mix of green pepper slices and their eye-catching contrast to the earthy tones of the meat.",
-      "image4": "A side view showing the layers of textures: the delicate shimmer from the sauce glazing over both the vegetables and meat, emphasizing the balance of spice and umami."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0573_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0573_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0573_04.png"
     },
     "content": "The dish's key flavors are a harmonious balance of spicy and savory notes, accentuated by <image2> the tender, caramelized pork belly and complemented by <image3> the crispness and freshness of the green peppers. <image4> The glaze adds a cohesive touch, bringing out the umami richness in every bite."
   }
@@ -12421,9 +12421,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of the noodle dish highlighting the colorful mixture of minced meat and vegetables, showcasing the intricate detailing of the toppings.",
-      "image3": "An aerial view of the dish revealing the arrangement of noodles beneath the topping, emphasizing the combination of ingredients.",
-      "image4": "A side perspective showing the thickness and texture of the noodles, along with the glossy finish of the sauce coating the dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0574_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0574_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0574_04.png"
     },
     "content": "This dish is unique due to its vibrant presentation and rich combination of flavors. The toppings, as shown in <image2>, offer a symphony of tastes through the blend of spices and fresh vegetables. In <image3>, the layout of the dish illustrates how the noodles act as a base, absorbing the essence of the toppings. Complementing this, <image4> captures the texture of the noodles, demonstrating how the sauce clings to each strand, ensuring that each bite is full of flavor."
   }
@@ -12441,9 +12441,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image showing the tender, juicy texture of herb-infused beef slices, highlighting their marbling and seasoning.",
-      "image3": "An image featuring a complete meal setup with the beef slices accompanied by a fresh green salad and a vintage glass of red wine, emphasizing pairing options.",
-      "image4": "An image illustrating the same beef slices on a banquet table with various dipping sauces, including a tangy mustard sauce and a spicy tomato chutney."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0575_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0575_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0575_04.png"
     },
     "content": "To fully appreciate this beef dish, one could start with the savory flavors depicted in <image2>, which highlight the herbaceous seasoning. Pairing it with a salad and wine as seen in <image3> creates a balanced meal, while <image4> offers insight into complementary sauces that enhance its taste."
   }
@@ -12461,9 +12461,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant platter of lotus root slices with an intricate spiral pattern, lightly drizzled with a rich glaze that highlights the root's natural crunch.",
-      "image3": "Close-up view showing the detailed texture of lotus root, each slice perfectly cut and displaying the airy holes that accentuate its crispiness.",
-      "image4": "A beautifully arranged serving with lotus root slices atop a bed of aromatic herbs and bright red chili slices, enhancing both visual appeal and flavor."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0576_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0576_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0576_04.png"
     },
     "content": "To enhance the texture and flavors of this lotus root dish, various plating styles can be employed. For instance, arranging the lotus root in an intricate spiral, as seen in <image2>, adds visual interest and emphasizes the root's natural structure. A close-up perspective, like in <image3>, captures the crunch and airy texture, inviting exploration of its crispiness. Finally, plating the lotus root with aromatic herbs and vibrant garnishes, as shown in <image4>, not only enhances flavor depth but also elevates the dish's visual appeal."
   }
@@ -12481,9 +12481,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A top-down view of a beautifully prepared white pomfret fish glazed with a soy-based sauce, garnished with slivers of fresh ginger and chopped scallions, highlighting the glistening texture of the fish skin.",
-      "image3": "A close-up shot of tender radish slices that have absorbed the savory sauce, adding a subtle crunch and sweetness to the overall dish.",
-      "image4": "An artistic arrangement showing the entire plated dish from the side, where the interplay of colors from the sauce, fish, and greens creates an appetizing visual appeal."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0577_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0577_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0577_04.png"
     },
     "content": "The presentation in <image2> showcases how the shiny texture of the pomfret fish, contrasted with the vibrant green onions, visually mirrors the dish's complex flavors. As seen in <image3>, the radish slices add visual depth and an unexpected layer of texture that complements the tender fish. Finally, <image4> captures the dish's overall artistry, where the harmonious balance of colors alludes to the balanced taste profile, enhancing the dining experience."
   }
@@ -12501,9 +12501,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image focusing on the spicy oil and seasonings coating the ingredients, with vibrant red chilies and sliced sausages prominently featured.",
-      "image3": "A top-down shot revealing the complete dish beautifully arranged in a traditional clay pot, showcasing its rustic presentation.",
-      "image4": "An artistic representation of the ingredients before and after cooking, highlighting the transformation during the preparation process."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0578_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0578_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0578_04.png"
     },
     "content": "This dish is a classic example of Sichuan cuisine, known for its bold flavors. <image2> captures the intense use of spices typical in regional cooking. The dish is typically prepared by stir-frying the ingredients before simmering them in a rich broth. <image3> provides a view of the traditional clay pot, adding authenticity to the presentation. Finally, <image4> depicts the intricate transformation of ingredients, emphasizing the artistry involved in this culinary creation."
   }
@@ -12521,9 +12521,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image showing the intricate details of the dish’s surface, highlighting the bright red chilies, yellow flowers, and the oily broth shimmering under light.",
-      "image3": "An image depicting the ingredients used in the dish before cooking, such as fresh fish fillets, a variety of red and green chili peppers, Sichuan peppercorns, and yellow chrysanthemum petals.",
-      "image4": "A serving suggestion displayed on a large white plate with garnish and accompanied by side dishes like steamed rice and a bowl of clear soup, set on a traditional dining table."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0579_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0579_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0579_04.png"
     },
     "content": "The dish showcases a stunning combination of colors with <image2>, offering a visual feast with its vibrant ingredients. Before cooking, the fresh components like shown in <image3> are essential for achieving the perfect balance of flavors. Serving it as displayed in <image4> adds to the overall dining experience."
   }
@@ -12541,9 +12541,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of sweet and sour meatballs shows the glossy texture of the sauce with visible sesame seeds and a few green peas scattered around.",
-      "image3": "An overhead view of a well-set table featuring the sweet and sour meatballs along with side dishes of steamed rice and vegetables.",
-      "image4": "A partially eaten plate of sweet and sour meatballs revealing juicy interiors and the balanced blend of sweet and tangy flavors in the sauce."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0580_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0580_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0580_04.png"
     },
     "content": "The sweet and sour meatballs exhibit a rich, tangy flavor profile complemented by the sweetness of the sauce as seen in <image2>. <image3> provides a contextual setting, enhancing the dining experience with accompanying dishes. Finally, <image4> illustrates the texture inside the meatballs and the sauce’s perfect consistency."
   }
@@ -12561,9 +12561,9 @@
   },
   "output": {
     "modal": {
-      "image2": "The final dish served in a traditional porcelain bowl, garnished with fresh green onions and a sprinkle of sesame seeds.",
-      "image3": "A close-up of the chicken pieces being stir-fried in a wok, showcasing the sizzling sauce and vibrant colors of the ingredients.",
-      "image4": "An array of fresh ingredients including chicken, green onions, dried chili peppers, and garlic cloves neatly arranged on a chopping board."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0581_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0581_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0581_04.png"
     },
     "content": "To prepare this savory Chinese stir-fry, first arrange all your ingredients as seen in <image4>. Begin by stir-frying the chicken in a hot wok, making sure it gets an even coating of the rich sauce, as illustrated in <image3>. Finally, serve the dish in a porcelain bowl, just like <image2>, for an authentic presentation."
   }
@@ -12581,9 +12581,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A top-down view of a bowl filled with thin noodles immersed in a clear, golden broth. Fresh green onions are scattered across, adding a pop of color against the pale noodles and broth.",
-      "image3": "A close-up shot highlighting the textures of the noodles and the glistening surface of the broth, capturing the freshness of the finely chopped green onions.",
-      "image4": "A focus on the slice of fish cake resting in the soup, displaying its soft yet firm texture, with the soup slightly rippling around it."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0582_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0582_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0582_04.png"
     },
     "content": "The soup is beautifully presented with <image2> showing the vibrant contrast of the white noodles against the golden broth. The <image3> captures the delightful sheen of the broth, emphasizing its clarity and freshness. Additionally, <image4> offers a detailed look at the fish cake, its texture a testament to the quality of the dish."
   }
@@ -12601,9 +12601,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of a chilled herbal jelly soup, showing intricate layers of translucent jelly and floating red dates, highlighting its refreshing texture.",
-      "image3": "A top-down view of the dessert on a rustic wooden table, surrounded by traditional spoon and tea set, to emphasize its cultural significance.",
-      "image4": "A side-by-side comparison image showcasing different variations of the herbal jelly, each with unique toppings like goji berries and lotus seeds, demonstrating its versatility."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0583_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0583_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0583_04.png"
     },
     "content": "The dessert, as seen in <image2>, is a delicately textured jelly with pieces of herbal ingredients that give it a translucent appearance. Complementing the visual is the soothing bitterness contrasted by the sweetness of the red dates. In <image3>, you see the dessert served traditionally, highlighting its role in a typical utensil setting, which elevates the dining experience. To understand the diversity of this dish, <image4> displays several variations, each tailored with different healthy toppings, showcasing how this treat can cater to a range of palates and preferences."
   }
@@ -12621,9 +12621,9 @@
   },
   "output": {
     "modal": {
-      "image2": "The main dish with a variety of vegetables mixed with mushrooms and sausages, laid out on a hot plate, topped with a steaming bowl of spicy sauce.",
-      "image3": "A close-up of the colorful vegetables, including leafy greens, red peppers, and crunchy cabbage, highlighting their freshness and vibrant colors.",
-      "image4": "The steaming sauce in the pot, rich in color with visible chili peppers and spices, suggesting a strong, flavorful component of the dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0584_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0584_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0584_04.png"
     },
     "content": "The dish is a stir-fry featuring a colorful mix of fresh vegetables and meats, exemplified by <image2>. A detailed look at the vegetables in <image3> shows their bright colors and freshness. The rich, spicy sauce seen in <image4> is a key flavor enhancer for the dish, adding a deep, satisfying spice."
   }
@@ -12641,9 +12641,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of the same steamed fish, highlighting the glossy texture of the sauce and the vibrant colors of the green onion garnish, enhancing the visual appeal.",
-      "image3": "The fish being prepared by a skilled chef, showing the careful slicing and marinating process that gives the dish its superior flavor and texture.",
-      "image4": "A traditional dining setting where the fish is served, complete with other complementary dishes and table decor that reflect its cultural roots."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0585_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0585_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0585_04.png"
     },
     "content": "The steamed fish, as seen in <image2>, is a staple in many Asian cuisines, known for its simplicity and rich flavors. In <image3>, the careful preparation techniques are vital for achieving the perfect balance of taste and texture. Traditionally, as depicted in <image4>, this dish is often part of a larger meal that celebrates community and culture, served during festivals and family gatherings."
   }
@@ -12661,9 +12661,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of the noodles piled high on the plate, emphasizing the thickness and texture of each noodle strand, highlighted by the glistening sauce creating an appetizing sheen.",
-      "image3": "A top-down perspective of the entire dish showing how the vibrant sauce covers the noodles and how the green onions and corn are strategically placed for aesthetic balance and taste enhancement.",
-      "image4": "A side view capturing the depth of the dish, showcasing the layers of noodles intertwined with sauce and garnishes, giving viewers an insight into the richness of the meal."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0586_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0586_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0586_04.png"
     },
     "content": "The noodle dish is visually appealing and tastefully colorful. In <image2>, the noodles are shown in close detail, emphasizing their texture and the glossy coating of the sauce. The top-down view in <image3> displays the overall arrangement and vibrant colors of the ingredients. Meanwhile, <image4> offers a side angle, revealing the depth and richness of the noodle layers, providing a comprehensive understanding of the dish's enticing appearance."
   }
@@ -12681,9 +12681,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of Chinese braised pork belly, showcasing the glossy, caramelized glaze on the tender pieces of pork arranged artfully in a traditional clay pot, garnished with green onions.",
-      "image3": "An overhead view of a dining table set with a full meal where the braised pork belly is the centerpiece, surrounded by steamed vegetables and rice, highlighting a traditional Chinese dining experience.",
-      "image4": "A side image showing the cooking process in a kitchen, with pork belly simmering in a pot over a low flame, surrounded by fresh ingredients like ginger, star anise, and soy sauce bottles."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0587_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0587_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0587_04.png"
     },
     "content": "Chinese braised pork belly is traditionally prepared by slowly simmering the meat in a flavorful mixture, as depicted in the <image2>. This process creates a tender, richly flavored dish often served in a clay pot, as shown in the meal setting of <image3>, providing a comforting and communal dining experience. The preparation involves simmering over a low flame, detailed in <image4>, emphasizing the careful cooking methods that develop its signature taste."
   }
@@ -12701,9 +12701,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up shot of the dish highlighting the rich, glossy texture of the rice noodles, garnished with finely diced red chilies and sliced mushrooms to show a vibrant color contrast.",
-      "image3": "An overhead view displaying the succulent texture of the noodles submerged in a richly dark, flavorful sauce, with freshly chopped green vegetables scattered on top.",
-      "image4": "A side view capturing the steam arising from the dish, emphasizing the freshness and aromatic nature of the ingredients as they interact with the savory sauce."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0588_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0588_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0588_04.png"
     },
     "content": "The dish is a delightful harmony of textures and colors, where <image2> prominently showcases the tender rice noodles. <image3> provides a broader look at the integration of the sauce and various toppings, while <image4> illustrates the aromatic allure created by the hot, steaming noodles as they blend with the bold flavors of chilies and mushrooms."
   }
@@ -12721,9 +12721,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up shot of the translucent rice noodles glistening in the light, showing their tenderness and the delicate texture that contrasts with the clear broth.",
-      "image3": "An image illustrating the vibrant, fresh green of the scallions and lettuce, showing how their color enhances the dish's visual appeal.",
-      "image4": "A top-down view of the entire dish highlighting the harmony of ingredients, including the spherical fish balls and the golden-brown hue of the tofu slice."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0589_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0589_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0589_04.png"
     },
     "content": "The noodle soup is visually appealing due to the glossy appearance of the <image2> noodles, which reflect light and add a dynamic texture to the dish. The fresh greens, depicted in <image3>, provide a vibrant color contrast that is visually stimulating. Additionally, the top-down perspective in <image4> reveals the careful arrangement of components, creating a balanced and pleasing aesthetic that entices the viewer."
   }
@@ -12741,9 +12741,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of shrimp placed elegantly on green lettuce, highlighting the herbs and the slightly pink hue of the shrimp, which indicates their freshness and tenderness.",
-      "image3": "A side view showing the dipping sauce, capturing its light, translucent appearance with floating bits of herbs, complemented by the gleaming surface of the shrimp.",
-      "image4": "An overhead view of the table, displaying the entire setup with shrimp on lettuce, sauce bowl, and additional garnishes, creating a visually appealing and inviting dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0590_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0590_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0590_04.png"
     },
     "content": "The deliciousness of this shrimp dish lies in its combination of fresh ingredients. <image2> shows the juicy shrimp paired with crisp lettuce, emphasizing the refreshing contrast of textures. <image3> reveals how the dipping sauce enhances the flavor, adding a layer of savory taste. Finally, <image4> encapsulates the entire presentation, illustrating how the visual appeal contributes to the dish’s overall enjoyment."
   }
@@ -12761,9 +12761,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up shot of freshly steamed Har Gow showing the detailed pleats of the translucent wrapper with steam rising gently.",
-      "image3": "A top view of a bamboo steamer with Har Gow and other dim sum dishes, illustrating the variety and richness of a traditional dim sum meal.",
-      "image4": "A chef expertly shaping Har Gow, capturing the intricate process of folding the wrapper over the shrimp filling."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0591_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0591_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0591_04.png"
     },
     "content": "Har Gow is a quintessential dim sum dish that holds deep cultural significance in Cantonese cuisine. It is celebrated for its delicate translucent wrapper and flavorful shrimp filling, often highlighted during festivals. The artistry involved in making Har Gow is demonstrated in <image2>, where the pleats of the wrapper are meticulously crafted. A broader view in <image3> shows Har Gow among a selection of dim sum, emphasizing the communal and diverse nature of dim sum dining. The skill and craftsmanship required are evident in <image4>, where a chef carefully constructs each dumpling, illustrating the care and technique involved."
   }
@@ -12781,9 +12781,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image showing the richness of the savory sauce glistening on the noodles with specks of chili flakes.",
-      "image3": "An overhead shot capturing the arrangement of bell peppers, onions, and mushrooms scattered over the noodles.",
-      "image4": "A side angle highlighting the thickness and texture of the noodles, intertwined with juicy pieces of meat."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0592_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0592_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0592_04.png"
     },
     "content": "The dish is a vibrant combination of ingredients, as evident in its presentation. The sauce emphasized in <image2> complements the tender noodles and adds a spicy kick. In <image3>, the colorful vegetables not only enhance the aesthetics but also provide a crisp texture that contrasts with the softness of the noodles. Finally, <image4> showcases the dish's hearty and satisfying nature, accentuated by the perfectly cooked meat."
   }
@@ -12801,9 +12801,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of the fish dish highlighting the tender, flaky texture of the fish and the glossy sauce, capturing the intricate details of the garnish and spices.",
-      "image3": "An overhead shot displaying the entire serving plate, showing how the sauce is evenly spread around the fish with a harmonious arrangement of chickpeas and herbs.",
-      "image4": "A side view focusing on the thickness and consistency of the sauce as it envelops the fish, illustrating the depth of the flavors infused into the dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0593_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0593_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0593_04.png"
     },
     "content": "The dish features a perfectly cooked fish that is tender and juicy, complemented by a velvety, savory sauce as seen in <image2>. The sauce is made from a blend of tomatoes, garlic, and spices, which enriches the dish with a complex flavor as depicted in <image3>. The side view in <image4> reveals the creamy texture of the sauce that enhances the overall taste experience."
   }
@@ -12821,9 +12821,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed close-up of the lamb slices, showcasing their tender texture and the glistening sheen from the cooking juices.",
-      "image3": "A side view displaying the arrangement of the lamb on the plate, emphasizing the contrast between the meat and the vibrant chili powder.",
-      "image4": "An artistic shot capturing the dip bowls and soup, highlighting the complexity of the flavors that complement the lamb, with focus on the play of light and shadow across the table setup."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0594_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0594_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0594_04.png"
     },
     "content": "The dish of lamb slices, <image2>, provides an inviting look with its succulent texture. A closer <image3> captures the arrangement on the plate, where the pop of red from the chili powder adds visual excitement. Lastly, the elegant presentation of the accompaniments is captured in <image4> to highlight the intricate balance of flavors that enhance the lamb's richness."
   }
@@ -12841,9 +12841,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of the chicken being marinated with spices and yogurt before cooking. The marinade is thick, coating the chicken pieces generously.",
-      "image3": "The dish midway through cooking, showing the chicken and eggs being added to the sauce in a frying pan, with steam rising.",
-      "image4": "A serving of the completed dish in a bowl, garnished with fresh coriander leaves, with steam still wafting up, hinting at its freshly cooked status."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0595_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0595_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0595_04.png"
     },
     "content": "The process begins with marination, as shown in <image2>, where chicken is seasoned with spices and yogurt. Next, in <image3>, we see the chicken added to a spiced tomato-based sauce, simmering with boiled eggs. Finally, <image4> displays the finished dish, beautifully plated and garnished, ready to serve."
   }
@@ -12861,9 +12861,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of the rice dish, showing the glistening grains and pieces of tender meat interspersed throughout, with a layer of steam visible above.",
-      "image3": "A wide view of a dining table set with multiple bamboo steamers, each containing the rice dish, ready to be served to guests.",
-      "image4": "An image showcasing a traditional kitchen setting where the bamboo steamers are placed over large pots, with steam rising as the dishes cook."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0596_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0596_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0596_04.png"
     },
     "content": "The dish, as seen in the steamers, is traditionally prepared by layering seasoned rice with marinated meats. <image2> highlights the appealing texture and the moisture locked within the steaming process. <image3> shows how the dish is often presented during festive gatherings, attracting guests with its savory aroma. Finally, <image4> illustrates the authentic cooking method, emphasizing the cultural heritage and traditional techniques used in its preparation."
   }
@@ -12881,9 +12881,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of the dish showing juicy slices of beef glistening with a savory glaze, interspersed with bright red and green bell pepper slices, capturing the vibrant colors and textures of the ingredients.",
-      "image3": "A side view of a serving of the dish on a decorative porcelain plate, highlighting the contrast between the shiny, well-cooked beef and the fresh, colorful peppers.",
-      "image4": "An overhead shot depicting the dish being served with a bowl of steamed white rice, emphasizing the complete meal setup with a sprinkle of chopped scallions adding a touch of green."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0597_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0597_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0597_04.png"
     },
     "content": "The dish in question features a rich and savory flavor profile with the umami of beef enhanced by soy sauce and garlic. <image2> shows the lively colors and succulent texture of the ingredients. The peppers provide a sweet and slightly spicy counterbalance to the beef's savoriness. <image3> illustrates this contrast beautifully on a decorative plate, capturing the dish's appealing presentation. The dish is typically enjoyed with rice, as depicted in <image4>, completing the culinary experience with a traditional touch."
   }
@@ -12901,9 +12901,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of the beef slices, showing the juicy, well-marinated texture glistening under the sauce with finely chopped scallions on top.",
-      "image3": "A wide shot of the dish, highlighting the sizzle on the platter and the steam rising, along with a focus on the vibrant green bell peppers and sauce consistency.",
-      "image4": "A side view capturing the entire platter, illustrating the combination of beef, peppers, and scallions, with the sauce pooling around, ready to be served."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0598_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0598_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0598_04.png"
     },
     "content": "The dish is a delightful medley of tender, juicy beef slices enriched with a savory, glossy sauce. <image2> portrays the marinated beef's texture and the fragrant scallions. In <image3>, observe the sizzle and the vibrant green bell peppers that enhance the visual appeal and flavor. Lastly, <image4> offers a complete view, capturing the interplay of ingredients and the aromatic steam, making it a feast for the senses."
   }
@@ -12921,9 +12921,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A top-down view of a black truffle showing its rough, textured surface contrasting against a wooden background, highlighting its natural earthy aesthetics.",
-      "image3": "A close-up shot of a sliced black truffle revealing its intricate dark veins and rich, dense interior texture that speaks to its intense flavor profile.",
-      "image4": "A black truffle being grated over a gourmet pasta dish, with visible steam rising to emphasize the aromatic contribution of the truffle to the culinary experience."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0599_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0599_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0599_04.png"
     },
     "content": "Black truffles are known for their unique taste and aroma, which is often described as earthy, musky, and slightly garlicky. <image2> shows how their appearance can vary, adding a rustic charm to any dish. They are best used thinly sliced or shaved over food, maximizing their fragrant impact. As seen in <image3>, the interior of a truffle displays a labyrinth of rich flavors that infuse any dish they accompany. Finally, <image4> captures the classic use of truffles, where they enhance dishes like pasta, eggs, or risotto, creating a luxurious experience."
   }
@@ -12941,9 +12941,9 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of a similar dish, showcasing the thinly sliced beef with visible herbs and spices overlaid on a rustic wooden board.",
-      "image3": "An elegant table setting displaying the dish accompanied by various side garnishes like a small bowl of dipping sauce and extra herbs.",
-      "image4": "A creative presentation of the dish where the beef slices are arranged into a floral pattern, surrounded by vibrant seasonal vegetables."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0600_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0600_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0600_04.png"
     },
     "content": "The main features of this dish include the tenderness and marbling of the beef, which is emphasized through its thin slicing. The use of fresh garnishes like the <image2> enhances the visual and taste appeal. Furthermore, the presentation on a decorated plate adds an artistic flair, similar to how the <image3> provides a comprehensive view of how additional sides can balance the dish. For a more thematic serving, the <image4> demonstrates innovative plating techniques that elevate the dining experience through creativity and color contrast."
   }
