@@ -8617,7 +8617,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0401_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0401_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0401_04.mp3",
-      "audio5": "Together, these images <image1>, <image2>, <image3>, and <image4> celebrate the diversity and creativity found in culinary traditions. Each dish is a testament to the region's rich history and the chefs' commitment to honoring that legacy through their craft."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0401_05.mp3"
     },
     "content": "The detailed explanations, woven through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, collectively paint a picture of the rich culinary heritage these dishes represent. Each audio brings forward the essence of the dishes, highlighting the diversity and depth of flavor prevalent in traditional and contemporary Asian cuisine."
   }
@@ -8641,7 +8641,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0402_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0402_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0402_04.mp3",
-      "audio5": "Together, these images tell a story of rich culinary heritage, from the vibrant spices to the tender meats, each audio capturing a unique element of the dining experience."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0402_05.mp3"
     },
     "content": "The provided audios are designed to give an in-depth understanding of each dish's unique characteristics. <audio1> opens with the spice-infused noodles, leading into <audio2> which details the meat platter with its complementary sauce. <audio3> draws attention to the intricate stir-fry flavors, while <audio4> highlights the expertly crafted fish with its rich sauce. Finally, <audio5> weaves together the collective narrative, enveloping all dishes in a shared culinary tradition."
   }
@@ -8665,7 +8665,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0403_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0403_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0403_04.mp3",
-      "audio5": "Together, these images form a tapestry of culinary tradition. From the robust and hearty <image1> and <image3> to the comforting warmth of <image2> and the innovative elegance of <image4>, each dish tells a unique story of cultural and personal significance."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0403_05.mp3"
     },
     "content": "The culinary journey elaborated across the audios provides an immersive exploration of the dishes' rich cultural background and intricate preparation techniques. <audio1> and <audio3> delve into the communal and celebratory roots of the featured dishes, while <audio2> and <audio4> paint a picture of warmth and innovation. Finally, <audio5> ties these narratives together, celebrating the diversity and depth found in each image's culinary offering."
   }
@@ -8689,7 +8689,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0404_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0404_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0404_04.mp3",
-      "audio5": "Throughout these images, from the communal essence of the hot pot to the vibrant simplicity of the noodle dish, each plate tells a unique story of culinary traditions, highlighting the diversity and richness in food culture."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0404_05.mp3"
     },
     "content": "Through a series of captivating audios, these dishes come to life, each narrating a unique story. From the communal experience depicted in <audio1> to the freshness celebrated in <audio2>, and the heartiness of <audio3>, every plate speaks volumes. The visual and textural balance portrayed in <audio4>, combined with the overarching cultural narrative in <audio5>, encapsulates the essence of diverse culinary arts."
   }
@@ -8713,7 +8713,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0405_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0405_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0405_04.mp3",
-      "audio5": "Collectively, these dishes illustrate the vast array of ingredients and techniques that define Asian culinary practices, each one telling a story of cultural significance and shared enjoyment through food."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0405_05.mp3"
     },
     "content": "The auditory journey delves into the world of these sumptuous dishes, beginning with a deep dive into the warmth of the hot pot in <audio1>, moving to the subtle excellence of the noodle dish as narrated in <audio2>. The exploration continues with the earthy richness found in the pork dish highlighted in <audio3>, followed by a colorful portrayal of the vibrant rice bowl as explained in <audio4>. Together, these audios provide a full-circle understanding of Asian culinary artistry as expressed in <audio5>."
   }
@@ -8737,7 +8737,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0406_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0406_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0406_04.mp3",
-      "audio5": "Together, these dishes from <image1>, <image2>, <image3>, and <image4> provide a window into the heart of East Asian culinary practices, emphasizing community, health, and deeply rooted flavors that transcend the unnecessary complication of ingredients."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0406_05.mp3"
     },
     "content": "These narratives delve into the essence of each dish, creating a comprehensive audio tour through the tastes and traditions depicted in the images. With <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, listeners will appreciate the depth and diversity of the culinary experiences captured in this visual array."
   }
@@ -8761,7 +8761,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0407_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0407_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0407_04.mp3",
-      "audio5": "Together, these dishes <image1>, <image2>, <image3>, and <image4> demonstrate a wide array of culinary expertise, each one prepared with a unique flair, appealing to both the eyes and the palate."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0407_05.mp3"
     },
     "content": "This exploration provides a flavorful narrative for each dish. From the enticing depth of the broth in <audio1>, to the artistic flair of the berry presentation in <audio2>, followed by the rustic and hearty essence of the meat dish in <audio3>. Further enhanced by the savory richness of the pork in <audio4>, the cohesive narrative in <audio5> weaves all elements together into a symphony of culinary delights, showcasing diverse cooking styles and traditions."
   }
@@ -8785,7 +8785,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0408_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0408_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0408_04.mp3",
-      "audio5": "These dishes collectively represent a diverse cultural tapestry, each bringing forth unique elements that celebrate both traditional and contemporary culinary practices, driving a cohesive narrative across all images."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0408_05.mp3"
     },
     "content": "Listen closely to appreciate the culinary artistry across these dishes, highlighted in <audio1>, <audio2>, <audio3>, and <audio4>. Together, they weave a narrative of taste and tradition <audio5>."
   }
@@ -8809,7 +8809,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0409_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0409_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0409_04.mp3",
-      "audio5": "Bringing these dishes together, each culinary creation tells its own story. While <image1> offers a comforting warmth, <image2> surprises with its fresh flavors. The earthy notes in <image3> and the rich savoriness in <image4> combine to celebrate the diversity and joy of cooking."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0409_05.mp3"
     },
     "content": "Each audio provides a detailed insight into the culinary characteristics, from the vibrant soup in <image1> to the refreshing arrangement in <image2>, moving through the rustic flavors in <image3>, and concluding with the hearty richness in <image4>. Through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, a comprehensive narrative is woven that captures the essence of each dish in these images."
   }
@@ -8833,7 +8833,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0410_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0410_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0410_04.mp3",
-      "audio5": "Collectively, these dishes represent a rich tapestry of flavors and techniques. From the fiery intensity of <image1> to the earthy simplicity of <image2>, each creation tells a story of cultural heritage and culinary innovation."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0410_05.mp3"
     },
     "content": "The array of audios <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> collectively offer a comprehensive exploration of the diverse dishes presented, unveiling their distinct flavors, preparation techniques, and cultural significance."
   }
@@ -8857,7 +8857,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0411_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0411_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0411_04.mp3",
-      "audio5": "Together, these dishes not only epitomize diverse culinary traditions but also signify cultural stories and regional specialties. The proficient use of varying ingredients from savory clams to delicate tofu demonstrates a profound connection to local food culture and methodologies."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0411_05.mp3"
     },
     "content": "The narrative entwines a journey through culinary wonders, exploring <audio1> with its spicy shellfish, while <audio2> delves into crispy and adventurous textures. <audio3> brings comfort with wholesome tofu, and elegance unfolds in <audio4>'s refined presentation. Finally, <audio5> encapsulates the rich tapestry of culture woven by these diverse dishes, each contributing unique stories and flavors."
   }
@@ -8881,7 +8881,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0412_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0412_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0412_04.mp3",
-      "audio5": "These diverse culinary presentations highlight not only the versatility of ingredients but also the unique cooking techniques that bring out distinct flavors in each dish. Whether through the spiciness of <image1>, the fried textures in <image2>, the creamy broth in <image3>, or the umami notes in <image4>, each plate offers a delightful sensory experience."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0412_05.mp3"
     },
     "content": "The audio series explores the detailed intricacies of each dish. Beginning with <audio1>, a shellfish and chili format creates an exciting dynamic between heat and natural sweetness. As it transitions to <audio2>, the emphasis shifts to the crunchiness of fried proteins seasoned with precise herb selections. Then, <audio3> delves into the comforting blend of tofu and vegetables in a hearty broth, accentuating flavor harmony. Moreover, <audio4> draws attention to the artful pairing of seaweed and cucumber for umami excellence. Concluding with <audio5>, the collective expertise behind these dishes is celebrated, offering insights into the creative possibilities of culinary arts."
   }
@@ -8905,7 +8905,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0413_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0413_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0413_04.mp3",
-      "audio5": "Each dish, from the robust flavors of <image1> to the delicate tofu in <image4>, weaves a narrative of culinary diversity, richly portraying seafood's central role in these exquisite creations."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0413_05.mp3"
     },
     "content": "The explanation of these dishes unfolds through a harmonious blend of flavors and textures across the audios. Each <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> provides insightful descriptions, tying together the unique traits of the dishes and offering a comprehensive taste journey."
   }
@@ -8929,7 +8929,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0414_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0414_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0414_04.mp3",
-      "audio5": "Together, these dishes illustrate a fascinating spectrum of textures and flavors, each creating a unique culinary story that is as visually captivating as it is delicious."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0414_05.mp3"
     },
     "content": "The audios provide a comprehensive exploration of all the dishes depicted in the images, merging in-depth culinary descriptions with vibrant visual cues to engage the senses compellingly. <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> collectively unravel the intricate details and flavors captured across the images."
   }
@@ -8953,7 +8953,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0415_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0415_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0415_04.mp3",
-      "audio5": "These dishes together reflect a fusion of techniques from frying to stewing, each speaking to a different facet of Asian culinary tradition, ensuring both taste and nutrient balance are achieved."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0415_05.mp3"
     },
     "content": "The culinary journey begins with <audio1>, delving into the intricate blend of flavors in the squid dish. As we transition to <audio2>, we celebrate the bright and aromatic clam preparation. Our exploration deepens with <audio3>, focusing on the delightful textures of the crispy frog legs. Embedded in warmth, <audio4> reveals the soothing nature of a tofu stew. Together, <audio5> brings cohesion, emphasizing tradition and technique across these captivating plates."
   }
@@ -8977,7 +8977,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0416_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0416_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0416_04.mp3",
-      "audio5": "Each dish, from <image1> to <image4>, encapsulates distinct regional flavors and ingredient combinations, providing a rich tapestry of tastes that beckon a more in-depth culinary exploration."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0416_05.mp3"
     },
     "content": "These explanations in <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> collectively offer a thorough exploration of all dishes in the images, highlighting unique ingredients, cooking methods, and flavor profiles that define each culinary creation."
   }
@@ -9001,7 +9001,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0417_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0417_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0417_04.mp3",
-      "audio5": "Overall, these images demonstrate a spectrum of culinary styles ranging from fusion and traditional to rustic and pure seafood, each presenting unique flavors and innovative cooking methods."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0417_05.mp3"
     },
     "content": "Analyzing the diverse dishes, <audio1> explores the modern fusion techniques of the first dish, while <audio2> delves into the traditional braising methods of the second. <audio3> highlights the rustic flavor profile found in the third image, and <audio4> discusses the purity of seafood preparation evident in the final dish. The collective analysis in <audio5> ties these culinary insights together, painting a vivid picture of the variety and skill involved in these creations."
   }
@@ -9025,7 +9025,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0418_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0418_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0418_04.mp3",
-      "audio5": "Altogether, these dishes celebrate a medley of flavors from various culinary traditions. Each <audio1>, <audio2>, <audio3>, <audio4> serves to highlight the rich cultural significance and enjoyment found in these meals, bringing them to life through vibrant descriptions."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0418_05.mp3"
     },
     "content": "To fully appreciate these culinary creations, <audio1> unveils the delicate art of grilling lamb, <audio2> explores the vibrant, spicy allure of noodle dishes, <audio3> delves into the sweet harmony of a fruit and nut dessert, <audio4> captures the meticulous roasting of meats, while <audio5> ties all these tastes and techniques together into a cohesive gastronomic journey."
   }
@@ -9049,7 +9049,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0419_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0419_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0419_04.mp3",
-      "audio5": "Together, these dishes represent a spectrum of culinary diversity. From the grilled lamb in <image1> to the vibrant noodles of <image2>, the nutritious parfait of <image3>, and the roasted quail of <image4>, each dish pays homage to its cultural roots while appealing to global palates."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0419_05.mp3"
     },
     "content": "The array of dishes showcases a rich tapestry of global cuisines. Through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, we journey across continents, savoring the unique culinary artistry embedded within each image. Together, the audios narrate the story of flavors, techniques, and cultural influences that form an integral part of dining experiences around the world."
   }
@@ -9073,7 +9073,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0420_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0420_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0420_04.mp3",
-      "audio5": "Bringing together all images, we find a narrative that connects each dish through the common theme of celebration and comfort. Whether it’s the fragrant rice of <image1> or the spicy broth of <image2>, each dish tells a story of culinary tradition and artisanal craftsmanship."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0420_05.mp3"
     },
     "content": "The assortment of dishes in these audio descriptions encapsulates a journey through varied culinary experiences. From the fragrant blend in <audio1> to the warming spices in <audio2>, each audio delves into the essence of the dishes, culminating in a cohesive exploration that weaves together <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> into a flavorful narrative."
   }
@@ -9097,7 +9097,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0421_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0421_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0421_04.mp3",
-      "audio5": "Together, these dishes from <image1>, <image2>, <image3>, and <image4> showcase a medley of cooking traditions, each offering a glimpse into the cultural depth and culinary expertise involved in their creation. Whether enjoyed on bustling streets or at family tables, they echo narratives of history and hospitality through their flavors."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0421_05.mp3"
     },
     "content": "The diverse culinary presentations across <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> not only illustrate the richness of the dishes but also embrace a cultural narrative that tells of community and tradition. Each audio highlights different aspects, whether it's the communal nature of skewers or the harmonious blend in stews, collectively painting a comprehensive picture of culinary art."
   }
@@ -9121,7 +9121,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0422_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0422_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0422_04.mp3",
-      "audio5": "Bringing all the dishes together, they reflect a wide spectrum of flavors and techniques, each with its own story. The common thread is the celebration of cultural diversity through culinary expression, inviting all to savor the unique qualities of each dish."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0422_05.mp3"
     },
     "content": "Explore and appreciate the diversity of these culinary offerings through the detailed sounds provided. <audio1> delves into the intricate techniques and flavors found in skewered delicacies. <audio2> offers insight into vibrant stir-fry dishes that capture the essence of harmonious ingredients. In <audio3>, the hearty, rich blend of spices and slow-cooked dishes are vividly described, while <audio4> appreciates the focus on light, natural flavors. Finally, <audio5> provides a cohesive understanding of how these dishes illustrate cultural diversity in food preparation and enjoyment."
   }
@@ -9145,7 +9145,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0423_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0423_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0423_04.mp3",
-      "audio5": "Collectively, these dishes offer a mosaic of culinary practices, each rooted in cultural customs that honor community and flavor. From the customized experience of <image1> to the festive gatherings evoked by <image2> and the hearty celebrations marked by <image3> and <image4>, food emerges as a central character in cultural storytelling."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0423_05.mp3"
     },
     "content": "The array of audios captures distinct yet cohesive narratives across all dishes presented, from the personalized spice selections in <audio1> to the festival-like skewers depicted in <audio2>, continuing with the celebratory lamb chops in <audio3> and finally the colorful, balanced noodles in <audio4>. These explanations come together in <audio5> to highlight the shared cultural themes around flavor, community, and tradition."
   }
@@ -9169,7 +9169,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0424_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0424_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0424_04.mp3",
-      "audio5": "Together, these dishes, as represented in <image1>, <image2>, <image3>, and <image4>, demonstrate a diverse palate that celebrates the complexity and diversity of culinary traditions, offering a feast for both the eyes and the taste buds."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0424_05.mp3"
     },
     "content": "Through a curated auditory experience, relish the intricate details of culinary masterpieces. <audio1> provides insight into the harmonious combination of sauces in the first dish. Meanwhile, <audio2> celebrates the lively spirit of skewered delicacies. Delve into the artistry of grilled perfection with <audio3>, and savor the vibrant spice profiles illustrated in <audio4>. Collectively, listen to <audio5> for a narrative that binds these elements into a rich tapestry of gastronomic delight."
   }
@@ -9193,7 +9193,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0425_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0425_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0425_04.mp3",
-      "audio5": "Overall, the collection of these dishes demonstrates the rich gastronomic tapestry of the region, each dish, seen across all images, showcases an aspect of the local cuisine that celebrates both diversity and tradition, offering a unique culinary experience."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0425_05.mp3"
     },
     "content": "Together, these five audios provide a comprehensive explanation of all images, illustrating how each dish contributes to understanding the regional food culture through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>."
   }
@@ -9217,7 +9217,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0426_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0426_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0426_04.mp3",
-      "audio5": "The common thread through these images showcases the use of fresh, locally-sourced ingredients, a testament to the importance of seasonal produce in these cuisines, each dish telling a unique story of regional tastes and heritage."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0426_05.mp3"
     },
     "content": "The dishes in these images collectively celebrate regional culinary diversity. <audio1> explores the colorful pickled vegetables capturing the essence of texture balance. <audio2> discusses the noodle dish emphasizing harmony through fresh ingredients. <audio3> delves into the spicy, savory fusion atop noodles. <audio4> highlights the aromatic medley stewing in <image4>. Finally, <audio5> views them through the lens of fresh, seasonal ingredients, uniting the narrative of regional tastes."
   }
@@ -9241,7 +9241,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0427_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0427_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0427_04.mp3",
-      "audio5": "Together, these dishes emphasize the diverse preparation styles from hearty stews to vibrant salads, each representing the rich tapestry of cultural heritage and the importance of food in bringing communities together."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0427_05.mp3"
     },
     "content": "The detailed audio descriptions collectively illustrate the preparation, presentation, and cultural relevance of each dish, captured through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, offering a complete narrative of these culinary experiences."
   }
@@ -9265,7 +9265,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0428_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0428_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0428_04.mp3",
-      "audio5": "Observing the collective images from <image1> to <image4>, these dishes reveal the diverse textures and flavors that celebrate rich cultural culinary traditions, making each one a feast for the senses."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0428_05.mp3"
     },
     "content": "The presented dishes provide an exquisite reflection of the diversity in culinary arts. As we delve into <audio1>, the hearty flavors begin their story, followed by the vibrant freshness explored in <audio2>. Transitioning into <audio3>, the comfort of pasta dishes comes alive. In contrast, <audio4> brings us into the world of festive, communal cooking. Together, <audio5> cohesively ties these culinary creations, highlighting their unique qualities and shared cultural significance."
   }
@@ -9289,7 +9289,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0429_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0429_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0429_04.mp3",
-      "audio5": "Overall, these images represent a variety of culinary techniques and cultural influences, each dish telling its own story of flavorful exploration and time-honored cooking traditions."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0429_05.mp3"
     },
     "content": "The narrative of these dishes invites you into a world of cooking where simplicity meets complexity. From the fresh stir-fry of vegetables and meat in <audio1> to the wholesome embrace of simmered greens in <audio2>, each audio enhances your understanding of the dishes. Dive deeper into the robust culinary narrative with a classic meat and potato feast in <audio3>, and a communal rice dish simmering to perfection in <audio4>. Together, these audios lead you on a flavorful journey as described in <audio5>."
   }
@@ -9313,7 +9313,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0430_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0430_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0430_04.mp3",
-      "audio5": "Together, these dishes illustrate a diverse culinary narrative, each contributing a unique aspect to the cultural food landscape. From comforting broths to vibrant stir-fries, these images collectively showcase the versatility of noodles across various regional cuisines."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0430_05.mp3"
     },
     "content": "The comprehensive analysis of these dishes is enriched by the audio explanations. <audio1> starts by describing the homestyle dish in <image1>, while <audio2> moves into the colorful stir-fry from <image2>. Subsequently, <audio3> delves into the nutty and spicy balance in <image3>. Further, <audio4> offers insights into the refreshing cold noodles in <image4>. Finally, <audio5> weaves together these narratives, painting a full picture of diverse culinary traditions."
   }
@@ -9337,7 +9337,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0431_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0431_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0431_04.mp3",
-      "audio5": "Tying together the culinary tapestry of these images, we see the marriage of tradition and innovation in each dish, offering a glimpse into diverse food cultures that celebrate both flavor and community in every bite."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0431_05.mp3"
     },
     "content": "These audio explanations unravel the culinary essence captured in the images through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, each highlighting a unique aspect of these flavorful dishes."
   }
@@ -9361,7 +9361,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0432_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0432_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0432_04.mp3",
-      "audio5": "Together, these images encapsulate diverse culinary landscapes. While <image1> and <image3> highlight the comforting allure of noodles, <image2> and <image4> explore both intense and refreshing combinations, showcasing the vibrant spectrum of global flavors."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0432_05.mp3"
     },
     "content": "The vivid descriptions in each audio guide us through an immersive culinary exploration. Beginning with <audio1>, the comforting embrace of noodles and broth is a gentle introduction. <audio2> then elevates the experience with a dynamic palette of diced ingredients. We move on to a harmonious plate depicted in <audio3>, where textures interlace beautifully. Our journey continues with <audio4>, where refreshing elements breathe life into traditional noodles. Finally, <audio5> ties together these diverse experiences, showing the remarkable breadth and depth of gastronomy that these images capture."
   }
@@ -9385,7 +9385,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0433_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0433_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0433_04.mp3",
-      "audio5": "Collectively, these images present a tapestry of Asian noodle dishes, each highlighting unique regional ingredients and culinary techniques. From spicy and saucy to clear and comforting, these dishes offer a culinary journey through diverse flavors."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0433_05.mp3"
     },
     "content": "<audio1> begins with the intricate flavors of <image1>, followed by the robust elements of the soup in <image2>. In <audio2>, the refreshing salad in <image3> is detailed, introducing its vibrant spices. The gentle yet aromatic nuances of <image4> are covered beautifully in <audio4>. Finally, <audio5> wraps up the exploration, comparing and contrasting the diverse culinary expressions seen across all images."
   }
@@ -9409,7 +9409,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0434_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0434_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0434_04.mp3",
-      "audio5": "Together, these dishes highlight the versatility of noodles in Asian cuisine, ranging from the fiery and bold in <image1> to the comforting and subtle in <image4>. Each dish tells a story of culinary heritage and innovation, inviting us on a flavorful journey through varied textures and tastes."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0434_05.mp3"
     },
     "content": "Explore the diverse world of noodle dishes through a series of expert audio descriptions. <audio1> introduces the spicy and aromatic characteristics of the first dish, while <audio2> delves into the comforting warmth of beef noodle soup. Discover the vibrant and spicy cold noodle salad in <audio3>, and savor the subtle, soothing flavors detailed in <audio4>. Finally, <audio5> weaves these culinary narratives together, highlighting both the contrasts and connections across these diverse dishes."
   }
@@ -9433,7 +9433,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0435_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0435_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0435_04.mp3",
-      "audio5": "Together, these images capture the diverse noodle preparations, each narrating a different story from spicy heat in <image1>, savory fulfillment in <image2>, refreshing zest in <image3>, to the calming nuances in <image4>."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0435_05.mp3"
     },
     "content": "The detailed audio explanations <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> collectively paint a comprehensive picture of these unique noodle dishes, each highlighting a distinct culinary tradition and flavor profile."
   }
@@ -9457,7 +9457,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0436_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0436_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0436_04.mp3",
-      "audio5": "Collectively, these dishes from <image1> to <image4> embody the art of noodle preparation, reflecting diverse ingredients and techniques that transform simple ingredients into culinary masterpieces. These audios illustrate the unique characteristics and cultural significance of each dish, emphasizing their place within culinary traditions."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0436_05.mp3"
     },
     "content": "The audios guide us through the flavorful journey of noodle dishes, from bold street flavors in <audio1> to balanced family style in <audio2>, comforting richness in <audio3>, contemporary fusion in <audio4>, and a comprehensive culinary masterpiece narrative in <audio5>."
   }
@@ -9481,7 +9481,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0437_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0437_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0437_04.mp3",
-      "audio5": "Connected by a shared theme of rich culinary heritage, each image demonstrates unique elements of preparation, ingredients, and presentation. Together, they paint a picture of the diverse gastronomic landscape."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0437_05.mp3"
     },
     "content": "The diverse culinary offerings presented are vividly depicted across the audios. Starting with <audio1>, the exploration of spicy and savory noodle dishes comes into focus. <audio2> delves into the varied accompaniments that elevate a simple noodle bowl. Moving to <audio3>, the soothing nature of creamy soups paired with crunchy sides is highlighted. <audio4> emphasizes how combining crispy and fresh elements creates a fulfilling meal. Ultimately, <audio5> ties together all these dishes, emphasizing a cohesive narrative of culinary diversity and shared cultural practices."
   }
@@ -9505,7 +9505,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0438_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0438_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0438_04.mp3",
-      "audio5": "Overall, the images collectively portray a diverse culinary experience, celebrating both traditional and modern influences on the noodle dishes, with each image telling a unique story of flavor and presentation."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0438_05.mp3"
     },
     "content": "The following audios provide a detailed explanation of the various dishes depicted in the images: <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>. These audios aim to guide the listener through the intricate details and expert culinary techniques captured in the imagery."
   }
@@ -9529,7 +9529,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0439_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0439_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0439_04.mp3",
-      "audio5": "Overall, these images capture the diversity and richness of culinary traditions, from the fiery, bold flavors to the soothing, clear broths, each presenting unique aspects of traditional cooking methods that have been passed down through generations."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0439_05.mp3"
     },
     "content": "Through a series of intricate audio descriptions, we unravel the story behind these dishes. <audio1> captures the art of broth creation, <audio2> dissects noodle preparation, <audio3> highlights spiciness, <audio4> explores simplicity in dining, and <audio5> ties together the vast culinary narrative. Each audio enriches the visual experience of these captivating dishes."
   }
@@ -9553,7 +9553,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0440_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0440_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0440_04.mp3",
-      "audio5": "Together, these images capture an array of culinary delights. From the soothing simplicity of soup noodles in <image1> to the bold spices of stir-fried noodles in <image2>, the dishes offer a representation of diverse cooking techniques and flavor combinations, woven together into a colorful tapestry of tastes."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0440_05.mp3"
     },
     "content": "The descriptions given in <audio1> through <audio5> collectively provide a detailed exploration of the culinary elements presented in the images. Each audio interweaves the narrative of flavors and textures captured in these dishes, embracing the diversity of techniques and ingredients across <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>."
   }
@@ -9577,7 +9577,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0441_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0441_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0441_04.mp3",
-      "audio5": "Collectively, these images showcase the diversity in Asian noodle preparations and the unique blend of flavors, from the mild and soothing to the bold and spicy, providing a complete sensory journey through texture, taste, and tradition."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0441_05.mp3"
     },
     "content": "The curated audio descriptions, <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, provide a comprehensive narrative that explores the flavors and cultural context of each dish illustrated in the images. Together, these audios create an engaging exploration of culinary artistry across different forms of noodle and dumpling preparations."
   }
@@ -9601,7 +9601,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0442_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0442_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0442_04.mp3",
-      "audio5": "When observed collectively, these images offer a glimpse into the diversity and richness of culinary traditions, each one telling a story through its distinct combination of ingredients, flavors, and cultural significance."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0442_05.mp3"
     },
     "content": "The audios provide a rich tapestry of explanations for each image, blending culinary traditions and diverse ingredients into a seamless narrative. From the comforting noodles of <audio1> to the fusion textures in <audio2>, the creamy delights of <audio3>, and the hearty stew depicted in <audio4>, the overall story is brought together in <audio5>, painting a holistic picture of these flavorful dishes."
   }
@@ -9625,7 +9625,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0443_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0443_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0443_04.mp3",
-      "audio5": "Together, these images show diverse takes on noodle dishes, from the simplicity of tender noodles with subtle flavors to elaborate, spice-laden stews, making each dish a unique culinary experience."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0443_05.mp3"
     },
     "content": "The following audios provide a complete sensory journey through these noodle dishes: from the rich and comforting flavors of noodle soup in <audio1>, to the textural variety and freshness noted in <audio2>, and the creamy, balanced flavors of <audio3>. Further exploration is offered in <audio4>, showcasing robust, spice-rich compositions, while <audio5> synthesizes the diversity of culinary traditions displayed across all images."
   }
@@ -9649,7 +9649,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0444_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0444_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0444_04.mp3",
-      "audio5": "Collectively, these images symbolize the diverse and dynamic world of cuisine, capturing an essence that spans simplicity and complexity, highlighting regional uniqueness along with global influences. This seamless integration encapsulates culinary evolution across contexts. <image1>, <image2>, <image3>, <image4>"
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0444_05.mp3"
     },
     "content": "The collection of dishes depicted stands as a testament to the intricate and evolving tapestry of culinary traditions. With <audio1>, we grasp the deep cultural roots of traditional noodle soups. <audio2> draws us into the blend of textures that define authenticity and innovation. A more modern twist is documented in <audio3>, bringing forth a narrative of adaptation. <audio4> dazzles with its colorful and hearty composition, and finally, <audio5> ties all the elements together, capturing the essence of culinary variety and heritage."
   }
@@ -9673,7 +9673,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0445_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0445_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0445_04.mp3",
-      "audio5": "Together, these dishes showcase a beautiful journey through diverse culinary styles, each one offering unique textures and flavors, from the rich depths of the broths to the fresh ingredients that add life to each bowl."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0445_05.mp3"
     },
     "content": "The explanations describe the visual and culinary qualities of each dish, providing a comprehensive understanding. <audio1> delves into the essence of the noodle soup, <audio2> elaborates on the ingredient medley, <audio3> focuses on traditional toppings, <audio4> offers insights into the braised dish, and <audio5> ties the culinary narratives together."
   }
@@ -9697,7 +9697,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0446_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0446_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0446_04.mp3",
-      "audio5": "Collectively, these images share a theme of comfort and authenticity, showcasing diverse preparation methods from simmering broths to rich stews that underline the global appeal of noodles and soups."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0446_05.mp3"
     },
     "content": "Each audio illuminates the culinary story captured in these images. <audio1> describes the aromatic allure of the soup. <audio2> brings to life the hearty texture of the stew. <audio3> highlights the fresh and subtle flavors. <audio4> celebrates the comfort of noodles in a rich broth, while <audio5> ties together these diverse dishes under a unified theme of warmth and authenticity."
   }
@@ -9721,7 +9721,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0447_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0447_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0447_04.mp3",
-      "audio5": "Together, these images convey a tapestry of culinary traditions, with <image1> and <image2> emphasizing delicate flavors, while <image3> and <image4> bring robust and spicy notes to the table."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0447_05.mp3"
     },
     "content": "A complete sensory journey through these dishes is crafted via <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>. Each audio piece offers insights into the unique flavors and ingredients, cohesively describing the vibrant culinary experiences depicted."
   }
@@ -9745,7 +9745,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0448_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0448_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0448_04.mp3",
-      "audio5": "Collectively, these images encapsulate a journey through diverse food traditions, where each dish tells its own unique story."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0448_05.mp3"
     },
     "content": "The culinary experiences are vividly detailed through <audio1>, immersing us in the richness of each dish’s background. Moving to <audio2>, the comforting nature of the stew is unraveled, followed by <audio3>'s dive into the nutritional facets of the noodle dish. The bold spices of the hot pot are passionately narrated in <audio4>, culminating in <audio5> which unifies the story of these diverse food traditions."
   }
@@ -9769,7 +9769,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0449_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0449_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0449_04.mp3",
-      "audio5": "Collectively, all these images illustrate the versatility and dynamism of Asian culinary practices. Each dish, though unique, shares a common thread of harmonizing flavors and textures that are hallmarks of the region's food culture."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0449_05.mp3"
     },
     "content": "The diverse array of dishes in these images tells a story of culinary artistry. <audio1> captures the simplicity and refreshing quality of a cabbage dish, while <audio2> reflects the comfort found in rustic noodle preparations. <audio3> dives into the hearty nature of meat-laden noodles, and <audio4> brings to life the tradition of marrying soft noodles with a spicy kick. <audio5> ties these perspectives together, illustrating the shared principles of balance and flavor harmony that define these vibrant cuisines."
   }
@@ -9793,7 +9793,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0450_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0450_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0450_04.mp3",
-      "audio5": "Overall, these dishes collectively tell a story of diverse cooking methods and flavor profiles, from the delicate to the robust, reflecting a rich culinary tradition that celebrates variety and depth <image1>, <image2>, <image3>, <image4>."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0450_05.mp3"
     },
     "content": "Explore these audios to appreciate the harmonious blend of flavors and techniques across the presented dishes. <audio1> offers insight into the elegance of cabbage rolls, while <audio2> delves into the richness of hearty noodles with greens and meat. The textures and layers in the braised meat dish are brought to life in <audio3>. Meanwhile, <audio4> highlights a refreshing combination of fresh vegetables and rice noodles. Finally, <audio5> weaves these elements together, celebrating the depth of culinary traditions depicted across all images."
   }
@@ -9817,7 +9817,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0451_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0451_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0451_04.mp3",
-      "audio5": "Together, these dishes across all images illustrate a panorama of cultural narratives expressed through food. Each image contributes uniquely to the story, from the comforting warmth of noodles to the vibrant freshness of chili-garnished rice rolls, demonstrating the universal language of taste and tradition woven through diverse cooking methods."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0451_05.mp3"
     },
     "content": "The audios provide a cohesive narrative exploring the culinary dimensions of these images. Through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, we journey through distinct flavor profiles and cooking techniques that reflect rich cultural backgrounds."
   }
@@ -9841,7 +9841,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0452_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0452_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0452_04.mp3",
-      "audio5": "Overall, each of these dishes, ranging from noodle-centric delights to stir-fried masterpieces, reflects a comprehensive culinary tradition that expertly combines flavors and textures, bringing to life the essence of hearty, flavorful meals."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0452_05.mp3"
     },
     "content": "Each of these audio descriptions delves into the nuances of the featured dishes. <audio1> highlights the fresh noodles seen in <image1>. <audio2> discusses the spicy noodle dish from <image2>. <audio3> covers the ramen depicted in <image3>. <audio4> reviews the stir-fried meal in <image4>. Concluding with <audio5>, all audios provide a cohesive and comprehensive gastronomic narrative."
   }
@@ -9865,7 +9865,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0453_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0453_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0453_04.mp3",
-      "audio5": "Together, these dishes from <image1>, <image2>, <image3>, and <image4> illustrate a diverse culinary landscape. From hearty noodle bowls to light vegetable stir-fries, each dish reflects a unique aspect of culinary artistry, whether it's the comfort of home-cooked meals or the nuances of rich, spicy flavors."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0453_05.mp3"
     },
     "content": "The collection of audios provides a comprehensive overview of the dishes, weaving together the stories and tastes present in each image. Through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, listeners gain insights into not only the ingredients and preparation but also the cultural tapestry that influences such diverse culinary traditions."
   }
@@ -9889,7 +9889,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0454_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0454_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0454_04.mp3",
-      "audio5": "Together, these images <image1>, <image2>, <image3>, <image4> paint a diverse picture of Asian cuisine, weaving together the threads of traditional, modern, and convenient food cultures. From the heartiness of beef noodles to the spicy and vibrant stir-fry, each one tells a part of the vast story of culinary inspiration across Asia."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0454_05.mp3"
     },
     "content": "The provided audios <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> collectively provide a detailed exploration of the dishes presented in all images, offering insight into the ingredients, preparation, and cultural significance of each."
   }
@@ -9913,7 +9913,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0455_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0455_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0455_04.mp3",
-      "audio5": "Together, <image1>, <image2>, <image3>, and <image4> represent a spectrum of flavor profiles and culinary traditions, showcasing the innovative use of noodles across different regional dishes."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0455_05.mp3"
     },
     "content": "Exploring these diverse noodle creations requires a multi-sensory approach. Through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, each narrative bit paints a savory story. From the unique ingredients seen in one, to the comforting depth in another, each dish offers a taste adventure that is both satisfying and culturally rich. Let this symphony of flavors inspire your own culinary journey."
   }
@@ -9937,7 +9937,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0456_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0456_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0456_04.mp3",
-      "audio5": "Together, these dishes not only reflect diverse regional influences but also celebrate the universal love for noodles through unique combinations of ingredients, each telling its own flavorful story."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0456_05.mp3"
     },
     "content": "The five audios provide a detailed narrative of each image, offering insights into the culinary techniques and flavor profiles that distinguish these noodle dishes. From the vibrant freshness of <audio1>, to the heartwarming depth of <audio2>, the spicy boldness of <audio3>, the refreshing simplicity of <audio4>, and the collective culinary celebration in <audio5>, each dish is brought to life through the audios, painting a complete picture of noodle gastronomy."
   }
@@ -9961,7 +9961,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0457_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0457_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0457_04.mp3",
-      "audio5": "These diverse dishes collectively celebrate noodle culture's global influence, from the robust spices of the second dish to the comforting simplicity of the fourth, each brings its unique twist on this beloved staple."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0457_05.mp3"
     },
     "content": "The following audios provide a comprehensive explanation of the images. <audio1> reveals the artisanal craft echoed in the arrangement of the soup in the first image. <audio2> explores the hearty allure found within the rich beef noodle soup depicted in the second image. Transitioning to the third dish, <audio3> discusses the fiery excitement in the spicy noodle preparation, inviting thrill-seekers to indulge. <audio4> describes the minimalist pride of a simple noodle broth accented by an elegant egg. To encapsulate the diversity, <audio5> reflects on how these dishes bring cultural nuances and personal touches to the universal noodle tradition."
   }
@@ -9985,7 +9985,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0458_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0458_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0458_04.mp3",
-      "audio5": "Bringing together all these elements, the dishes across <image1>, <image2>, <image3>, and <image4> reflect a broad spectrum of Asian culinary arts, where tradition interacts with innovation, each creating its own narrative on the plate."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0458_05.mp3"
     },
     "content": "The narrative created through these five audios ties together a comprehensive understanding of all depicted dishes, explaining the unique characteristics and cultural significance behind each culinary presentation. From the vibrant colors of <audio1> to the intricate flavors of <audio2>, each dish offers a glimpse into the diverse world of Asian cuisine as portrayed through <audio3>, <audio4>, and enriched in <audio5>."
   }
@@ -10009,7 +10009,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0459_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0459_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0459_04.mp3",
-      "audio5": "Collectively, these images tell a story of culinary diversity. From the rich sauces to the fresh condiments, each dish exemplifies particular culinary traditions, inviting the palate to explore an array of tastes, as illustrated throughout <image1>, <image2>, <image3>, and <image4>."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0459_05.mp3"
     },
     "content": "These five audio descriptions weave a comprehensive narrative across each culinary creation, enhancing understanding by providing vivid insights into the presentation and flavors depicted in the images through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>."
   }
@@ -10033,7 +10033,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0460_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0460_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0460_04.mp3",
-      "audio5": "Together, these dishes exemplify the diversity of noodle preparations, with each <image> showcasing a unique culinary approach, from simplicity in <image1> to elaborate seasoning in <image2>."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0460_05.mp3"
     },
     "content": "A delicious journey through these dishes reveals the versatility in noodle preparation, enriched by the varying textures and flavors discussed in <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>."
   }
@@ -10057,7 +10057,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0461_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0461_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0461_04.mp3",
-      "audio5": "Together, these images portray a dynamic spectrum of textures and flavors, each dish representing a unique facet of culinary tradition. The collection highlights the diversity and richness of regional cuisines, delivering both visual appeal and appetizing promises."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0461_05.mp3"
     },
     "content": "The range of dishes collectively illustrates the diversity of tastes and techniques present in these culinary creations. From the savory stews to the spiced noodles, each <audio1>, <audio2>, <audio3>, <audio4> and <audio5> provides an in-depth perspective on the care and expertise embedded in these preparations."
   }
@@ -10081,7 +10081,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0462_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0462_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0462_04.mp3",
-      "audio5": "Each dish collectively tells a story of regional culinary techniques and flavor profiles, from the robust and hearty stew in <image1> to the intricately spiced noodles in <image2>, right through to the fresh, vibrant ingredients delightfully presented in <image3> and <image4>."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0462_05.mp3"
     },
     "content": "The dishes reflect a diverse range of culinary practices, each with its own unique flavor and texture, enhanced by the narrative provided through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>."
   }
@@ -10105,7 +10105,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0463_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0463_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0463_04.mp3",
-      "audio5": "Collectively, these dishes showcase diversity in flavors and textures, weaving stories of cuisines that range from the comforting warmth of <audio1> to the refreshing nature of <audio3>, and the hearty depth brought by the vegetables in <audio4>."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0463_05.mp3"
     },
     "content": "This analysis offers a deeper look into the intricate details. With <audio1>, we unravel the spicy allure of the dish, followed by the technical precision in <audio2>'s preparation. The captivating freshness seen in <audio3> contrasts beautifully with the fullness captured by <audio4>, while <audio5> ties these experiences together, illustrating how these images reflect the rich tapestry of culinary artistry."
   }
@@ -10129,7 +10129,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0464_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0464_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0464_04.mp3",
-      "audio5": "Together, these images represent a broad spectrum of culinary styles and techniques. Each dish, from the soothing soup in <image1> to the intricate noodle preparations in <image2>, <image3>, and <image4>, tells a story of tradition and innovation in modern cuisine."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0464_05.mp3"
     },
     "content": "The expert audios guide you through the culinary journey illustrated by the images as follows: First, <audio1> paints a vivid picture of the soup's warmth in <image1>. Then, <audio2> celebrates the colorful stir-fried noodles from <image2>. Following this, <audio3> uncovers the unique spicing in <image3>. <audio4> delves into the rich, saucy dish depicted in <image4>, and <audio5> ties these elements together, emphasizing the diverse techniques and flavors."
   }
@@ -10153,7 +10153,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0465_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0465_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0465_04.mp3",
-      "audio5": "Collectively, these dishes exemplify a range of textures and flavors typical of Asian cuisine, from hearty soups to flavorful stir-fries, each carefully crafted to provide a harmonious and delightful dining experience."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0465_05.mp3"
     },
     "content": "The audios provide a comprehensive exploration of each dish presented, offering insights into their unique characteristics and culinary artistry. <audio1> dives into the comforting nature of the soup, while <audio2> details the delightful composition of the noodle and beef selection. <audio3> emphasizes freshness and color balance, <audio4> captures the essence of richly sauced noodles, and <audio5> seamlessly ties together the narrative of these diverse culinary creations."
   }
@@ -10177,7 +10177,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0466_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0466_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0466_04.mp3",
-      "audio5": "Overall, these dishes collectively highlight the diversity and depth of flavor in Asian cuisine, each uniquely presenting harmonies of taste that are iconic to the region. This extensive array of ingredients showcases a deep cultural appreciation for both flavor and nutrition."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0466_05.mp3"
     },
     "content": "The narrative woven through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> captures the essence and distinct features of all the dishes presented in the images, creating a cohesive explanation that reflects the multifaceted nature of this culinary tradition."
   }
@@ -10201,7 +10201,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0467_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0467_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0467_04.mp3",
-      "audio5": "Finally, the collection of these dishes across all images illustrates a delicious journey through the multifaceted world of Asian cuisine, each bowl telling its own story within a broader cultural tapestry."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0467_05.mp3"
     },
     "content": "The various dishes invite a culinary journey into Asian cuisine, where each audio provides a fresh perspective. <audio1> explores the vibrant presentation of noodles and herbs. <audio2> emphasizes the minimalistic yet rich essence of a traditional broth. With <audio3>, the fusion of creamy textures offers a delightful twist. Meanwhile, <audio4> delves into the comforting simplicity of dumplings in broth. Together with <audio5>, we traverse through cultural stories told through flavors and textures."
   }
@@ -10225,7 +10225,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0468_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0468_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0468_04.mp3",
-      "audio5": "Each dish narrates a story of diverse culinary heritages, from the complexity and richness of flavors to the simplicity of pure ingredients, delivering both novelty and nostalgia."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0468_05.mp3"
     },
     "content": "These images together illustrate a breadth of culinary techniques and flavor profiles, each dish telling a unique story within its culinary context. Through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, we journey through different taste experiences, from spicy and savory to smooth and comforting, all while appreciating the diversity and cultural significance behind these creations."
   }
@@ -10249,7 +10249,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0469_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0469_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0469_04.mp3",
-      "audio5": "Together, these images display the spectrum of noodle-based dishes, from straightforward to lavish. Each image, from <image1> to <image4>, tells a story of culinary tradition enriched by regional variations and personal touches."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0469_05.mp3"
     },
     "content": "In this detailed exploration, the richness and diversity of noodle dishes are captured across five audio explanations that delve into the unique qualities and flavors represented in the images. <audio1> and <audio2> provide insights on the vibrant and minimalistic approaches, while <audio3> celebrates creamy innovations. <audio4> focuses on the traditional craftsmanship of dumplings. To tie everything together, <audio5> highlights the overarching theme of culinary diversity depicted in all images."
   }
@@ -10273,7 +10273,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0470_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0470_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0470_04.mp3",
-      "audio5": "Unified in these selections, the combination of steaming and wrapping techniques across <image1>, <image2>, <image3>, and <image4> underscores a dedication to preserving moisture and flavor, integral to traditional Asian culinary practices."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0470_05.mp3"
     },
     "content": "Each dish tells a story of cultural artistry, and the detailed audio descriptions in <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> come together to provide a comprehensive understanding of the techniques and flavors that define these culinary delights."
   }
@@ -10297,7 +10297,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0471_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0471_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0471_04.mp3",
-      "audio5": "Completing the table setting in <image4>, the diverse display exemplifies the communal aspect of Chinese dining, where sharing and selecting from a myriad of steamed, fried, and braised options promotes social interaction and culinary exploration, providing a multi-sensory experience."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0471_05.mp3"
     },
     "content": "The vibrant variety of dumplings and dim sum dishes presented across images reveal a tapestry of Chinese culinary traditions. <audio1> introduces the idea of prosperity with the large dumpling, while <audio2> highlights the artful preparation of soup dumplings. Through <audio3>, we appreciate regional differences in texture and filling, leading to <audio4>’s exploration of Cantonese offerings. Finally, the communal nature of dining is celebrated in <audio5>, weaving together these visual delights into a cohesive experience."
   }
@@ -10321,7 +10321,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0472_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0472_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0472_04.mp3",
-      "audio5": "Together, these images depict a rich tapestry of culinary artistry that tantalizes the senses with vibrant textures, flavors, and aromatic compositions emblematic of diverse regional cooking techniques."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0472_05.mp3"
     },
     "content": "To fully appreciate the culinary artistry in these images, listen to the following descriptions. The first audio <audio1> explores the intricate craftsmanship of steaming, highlighting the visually stunning dumplings from <image1>. Then, savor the detailed description in <audio2>, which focuses on <image2>'s art of dim sum, combining exquisite presentation with a punch of flavor. Continuing with <audio3>, you'll find an engaging narrative about the pan-fried assembly in <image3>, emphasizing the appealing appearance and spice usage. For the final savory exploration, <audio4> delves into the delightful texture contrast of <image4>'s fried buns, showcasing a perfect fusion of flavor and texture. Together, <audio5> ties these experiences, weaving a cohesive story of culinary expertise and sensory delight."
   }
@@ -10345,7 +10345,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0473_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0473_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0473_04.mp3",
-      "audio5": "These dishes collectively provide a rich tapestry of flavors and techniques, from the subtle flavors in <image1> to the pronounced savory notes in <image3>. Each preparation is a testament to the art of Asian cooking, celebrating both simplicity and complexity in every bite."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0473_05.mp3"
     },
     "content": "This culinary journey through different dumpling varieties sheds light on the rich traditions encapsulated in these dishes. Starting with a delicate balance observed in <audio1>, the journey transitions into the visual and flavorful sophistication characterized by <audio2>. The narrative continues with <audio3> and <audio4>, ultimately painting a complete picture with <audio5>."
   }
@@ -10369,7 +10369,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0474_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0474_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0474_04.mp3",
-      "audio5": "Together, these images <image1>, <image2>, <image3>, <image4> encompass the rich tapestry of Chinese culinary traditions, showcasing diverse dumpling variants that highlight regional differences and shared cultural heritage."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0474_05.mp3"
     },
     "content": "The collection of 5 audios offers a guided culinary journey through the depicted dishes, weaving historical context with sensory descriptions. <audio1> begins with the steamed dumpling's essence in Asian cuisine. <audio2> takes us through the dim sum's textural journey, while <audio3> and <audio4> explore distinctive pan-frying methods in dumplings and buns, respectively. Finally, <audio5> brings these narratives together, celebrating the diversity and shared heritage of these culinary delights."
   }
@@ -10393,7 +10393,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0475_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0475_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0475_04.mp3",
-      "audio5": "Together, these dishes—<image1>, <image2>, <image3>, and <image4>—showcase an exploration of textures, flavors, and culinary techniques, each offering its unique contribution to a gastronomic journey."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0475_05.mp3"
     },
     "content": "Delve into the gastronomic journey through a series of five engaging audio descriptions. Each culinary creation, from green-laden delicacies to bold tofu dishes, tells a story of texture and taste. Listen to <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> for a comprehensive exploration."
   }
@@ -10417,7 +10417,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0476_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0476_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0476_04.mp3",
-      "audio5": "Together, these dishes showcase a variety of textures and flavors, painting a broad vista of the culinary diversity creatively captured through each image."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0476_05.mp3"
     },
     "content": "An analysis of these exquisite culinary creations is remarkably enhanced by our selection of audios. <audio1> explains the herb cake's delicate presentation, while <audio2> delves into the rustic warmth of the tofu stew. The intrigue of the crispy puffs is unraveled by <audio3>, enhancing your understanding of the interactive element. <audio4> encapsulates the vibrance of the sautéed vegetable dish, and <audio5> cohesively ties all these elements together to reflect on the diverse cultural palettes represented by these dishes."
   }
@@ -10441,7 +10441,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0477_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0477_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0477_04.mp3",
-      "audio5": "Collectively, these images exhibit a spectrum of culinary diversity, each offering a peek into various culinary techniques and cultural tastes."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0477_05.mp3"
     },
     "content": "Together, the audios—<audio1>, <audio2>, <audio3>, <audio4>, and <audio5>—provide a comprehensive narration that ties together the visual stories and cultural contexts behind all the depicted dishes."
   }
@@ -10465,7 +10465,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0478_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0478_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0478_04.mp3",
-      "audio5": "Together, these images present a tapestry of flavors and textures, where <image1> and <image2> show the versatility of eggs, while <image3> and <image4> introduce deeper, more complex tastes."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0478_05.mp3"
     },
     "content": "The collection of images paints a vivid picture of diverse culinary traditions. <audio1> sheds light on the simplicity of scrambled eggs in <image1>. Continuing the journey, <audio2> explores the fresh combination of eggs and vegetables in <image2>. <audio3> then draws attention to the spicy and immersive experience of the hot pot in <image3>. In stark contrast, <audio4> describes the gentle flavors and creamy texture of the tofu stew identifiable in <image4>. Bringing it all together, <audio5> reflects on how these dishes collectively highlight the adaptability and range of ingredients, offering both simplicity and complexity in the world of cooking."
   }
@@ -10489,7 +10489,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0479_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0479_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0479_04.mp3",
-      "audio5": "Together, these images <image1>, <image2>, <image3>, and <image4> paint a rich tapestry of Asian culinary traditions, showcasing both innovation and adherence to classic flavors. Each dish tells its own story through its unique combination of ingredients and preparation methods, enticing food lovers with promises of authentic taste."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0479_05.mp3"
     },
     "content": "The diverse selection of dishes highlighted through these five detailed audios captures the essence of a rich culinary tradition. From the bold flavors of spicy Mapo Tofu explained in <audio1>, to the refreshing noodle dish covered in <audio2>, and the comforting tomato and egg combination in <audio3>, each audio provides insight into these delectable culinary creations. The intriguing and delightful taro balls discussed in <audio4> offer a glimpse into unique textural contrasts. Finally, <audio5> ties together the overarching narrative of these dishes, celebrating the varied and exquisite flavors that Asian cuisine has to offer."
   }
@@ -10513,7 +10513,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0480_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0480_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0480_04.mp3",
-      "audio5": "Together, these images collectively illustrate a diverse culinary tapestry, each dish contributing a unique story of flavor and tradition from different Asian cultures."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0480_05.mp3"
     },
     "content": "Delve into the diverse flavors and textures of these dishes through our series of audios. <audio1> sets the stage with a spicy tofu dish that carries the robust essence of Sichuan spices. Then, <audio2> transports you to the vibrant streets with a noodle dish that sings with fresh herbs and crispy textures. As we continue, <audio3> envelops you in warm and familiar tones of scrambled eggs and tomatoes, a comfort food for many. In <audio4>, experience the satisfying crunch of festive fried snacks, evoking joyous communal moments. Concluding with <audio5>, these experiences come together to paint a vivid picture of culinary diversity across Asian cuisines."
   }
@@ -10537,7 +10537,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0481_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0481_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0481_04.mp3",
-      "audio5": "Bringing these dishes together, we notice a theme of texture, color, and heartwarming flavors. Each image—<image1>, <image2>, <image3>, and <image4>—celebrates unique culinary traditions, illustrating a fusion of artistic presentation and deep-rooted flavor profiles that invite both the palate and the imagination."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0481_05.mp3"
     },
     "content": "The diverse range of dishes captured in these images not only showcases an array of textures and flavors but also emphasizes the rich culinary traditions they represent. Through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5>, we explore these vibrant gastronomic creations, each offering a unique story on a plate."
   }
@@ -10561,7 +10561,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0482_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0482_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0482_04.mp3",
-      "audio5": "Overall, these dishes <image1>, <image2>, <image3>, and <image4> together highlight the diversity of ingredients and culinary practices, bringing a tale of taste and tradition to the palate."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0482_05.mp3"
     },
     "content": "These diverse styles of preparation are explained through five distinct audios. <audio1> gives insight into the robust flavors of the first dish, while <audio2> unveils the comforting and nutritious essence of the second. <audio3> highlights the artistic and flavorful elegance of the third, and <audio4> delves into the rich savory qualities of the fourth dish. Finally, <audio5> ties together the overall narrative of these culinary artworks, each representing its unique tradition and taste."
   }
@@ -10585,7 +10585,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0483_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0483_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0483_04.mp3",
-      "audio5": "Collectively, these dishes present a diverse spectrum of flavors and textures, from the subtlety of the clear broths to the robust savoriness of the noodle concoctions."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0483_05.mp3"
     },
     "content": "Explore the culinary intricacies through a series of auditory narratives. <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> together paint a full picture of the rich diversity and the artistry in creating these captivating dishes. Each audio, while focusing on distinct elements, contributes to a greater understanding of the harmonious flavors depicted."
   }
@@ -10609,7 +10609,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0484_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0484_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0484_04.mp3",
-      "audio5": "Collectively, these images highlight diverse culinary traditions, from spicy communal meals to individually soothing bowls. Together, they reflect the art and storytelling of food."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0484_05.mp3"
     },
     "content": "Through these five audios—<audio1>, <audio2>, <audio3>, <audio4>, and <audio5>—each dish is intricately explained, providing a comprehensive understanding of the images. Each audio focuses on different facets while tying them together into a broader narrative of culinary diversity and richness."
   }
@@ -10633,7 +10633,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0485_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0485_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0485_04.mp3",
-      "audio5": "Together, these dishes celebrate a diversity that is both a sensory delight and culinary exploration. They represent varied cooking styles; from the nourishing comfort of a creamy soup <image1> to the bold, dynamic spices of a hotpot <image3>—each offers a unique slice of tradition, innovation, and taste."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0485_05.mp3"
     },
     "content": "The explanation explores each dish's unique qualities and culinary traditions, with <audio1> focusing on the soothing flavors of creamy broth, <audio2> delving into the hearty sweetness of the corn soup, and <audio3> describing the dramatic spices of the red hot pot. <audio4> examines the earthy textures of the mushroom and pork soup, while <audio5> provides a cohesive narrative connecting all the vibrant culinary aspects together."
   }
@@ -10657,7 +10657,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0486_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0486_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0486_04.mp3",
-      "audio5": "Together, these dishes in <image1>, <image2>, <image3>, and <image4> offer a culinary journey through diverse tastes and traditions, showcasing the artistry and diversity of global cuisine."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0486_05.mp3"
     },
     "content": "The culinary journey begins with a steaming porridge, rich in history and comfort <audio1>. A spicy hot pot then tempts the senses, offering a burst of flavors <audio2>. Following this, a vibrant noodle bowl demonstrates the harmony of taste and texture <audio3>. The communal joy of sharing a tender meat platter highlights another aspect of cultural dining <audio4>. These audio interpretations together provide a comprehensive understanding of the dishes presented <audio5>."
   }
@@ -10681,7 +10681,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0487_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0487_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0487_04.mp3",
-      "audio5": "Together, these dishes not only tell a story of diverse cooking techniques and ingredient uses but also celebrate the cultural identities they represent. Each soup, from clear to creamy, offers a sensory journey that connects people to their roots through food."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0487_05.mp3"
     },
     "content": "The collection of soups described through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> showcases a fascinating array of culinary variations. Each audio highlights unique elements, from simple greens and clear broths, to rich combinations with preserved eggs and hearty meat-based soups, illustrating the vibrant tapestry of global food culture."
   }
@@ -10705,7 +10705,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0488_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0488_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0488_04.mp3",
-      "audio5": "Altogether, these dishes reveal a panorama of culinary artistry, blending simplicity with complexity, and showcasing the rich heritage and diversity of flavors and textures across different dishes."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0488_05.mp3"
     },
     "content": "The combination of the different culinary elements found in each image demonstrates the rich diversity of flavors. <audio1> The broth and fresh vegetables form a staple in many Asian kitchens. <audio2> The creamy texture mixed with fresh, crisp veggies highlights the chef’s ability to balance flavors and textures. <audio3> This demonstrates home-style cooking that evokes warmth and community. <audio4> The green, leafy base interspersed with protein brings forth ideas of balance and harmony in dining. <audio5> Together, these depictions provide a multifaceted view of culinary traditions that merge aesthetic appeal and delicious flavors."
   }
@@ -10729,7 +10729,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0489_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0489_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0489_04.mp3",
-      "audio5": "Finally, <image4> showcases a nourishing soup with hearty greens and delicate fish balls. This dish is a celebration of contrasting textures, where the smoothness of the fish balls complements the leafy vegetables, creating a fulfilling culinary experience."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0489_05.mp3"
     },
     "content": "The audio explanations explore a variety of flavors and textures across the dishes, with <audio1> focusing on the fresh greens of one dish, <audio2> discussing the creamy and earthy flavors of another, while <audio3> and <audio4> delve into the complex layers of a rich hot pot, and <audio5> highlights the combination of smoothness and texture in a soup dish."
   }
@@ -10753,7 +10753,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0490_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0490_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0490_04.mp3",
-      "audio5": "Collectively, these dishes encapsulate the diversity of textures and flavors that characterize this culinary journey. The unique preparation methods seen across <image1>, <image2>, <image3>, and <image4> reveal the intricate balance of ingredients and aromas that define this sumptuous dining experience."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0490_05.mp3"
     },
     "content": "The collection of dishes reveals an intricate balance of flavor across all images, with each audio explaining unique aspects of the presented cuisines. Listen to <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> for a comprehensive culinary exploration."
   }
@@ -10777,7 +10777,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0491_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0491_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0491_04.mp3",
-      "audio5": "Collectively, these dishes present a tapestry of flavors, textures, and stories. From the reunion around a hot pot to the simplicity and depth of noodle dishes, each image tells a narrative of culinary culture, deeply rooted in tradition yet open to innovative interpretations."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0491_05.mp3"
     },
     "content": "Together, the audios offer a sensory immersion into the culinary artistry displayed in the images. <audio1> and <audio2> focus on the intricate layers and textures found in the dishes, while <audio3> and <audio4> explore both the simplicity and complexity inherent in these traditional meals. Finally, <audio5> ties all narratives together, celebrating the shared cultural and gastronomic heritage they represent."
   }
@@ -10801,7 +10801,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0492_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0492_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0492_04.mp3",
-      "audio5": "Between <image1>, <image2>, <image3>, and <image4>, the fusion of flavors and textures is evident. Each image tells a story of cultural tradition and modern adaptation, inviting diners into a world of gastronomic exploration."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0492_05.mp3"
     },
     "content": "The series of dishes across these audios highlights a spectrum of culinary artistry. <audio1> introduces a banquet favorite with its rich, glossy appeal. <audio2> immerses us in the bold spices of Sichuan with flavorful noodles. <audio3> offers a simpler, yet enriching noodle dish that embraces freshness. Meanwhile, <audio4> and <audio5> take the listener into the realm of hearty hot pots and interconnected flavor narratives, tying together these diverse culinary experiences."
   }
@@ -10825,7 +10825,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0493_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0493_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0493_04.mp3",
-      "audio5": "Together, these dishes show a variety of cooking techniques and spice applications, from grilling and frying to simmering in broth, each offering a unique experience of flavor and texture."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0493_05.mp3"
     },
     "content": "In exploring the culinary variety displayed, <audio1> guides us through the smoky allure of grilled skewers, followed by <audio2> where simplicity and savor intertwine in a meat dish. <audio3> delves into the crunchy delight of fried strips, while <audio4> immerses us in the vibrant, communal nature of a hot pot. Finally, <audio5> ties these foods together, illustrating a spectrum of cooking methods and tastes."
   }
@@ -10849,7 +10849,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0494_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0494_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0494_04.mp3",
-      "audio5": "Together, these dishes, captured across <image1>, <image2>, <image3>, and <image4>, celebrate a tapestry of culinary traditions, each inviting appreciation for its unique taste and preparation style."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0494_05.mp3"
     },
     "content": "These audio descriptions provide a gastronomic tour, detailing how the dishes connect with their cultural origins, from the heartwarming soup of <audio1>, to the spicy skewers of <audio2>, the elegant servings of <audio3>, and the inviting crisps of <audio4>, concluding with a cohesive appreciation in <audio5>."
   }
@@ -10873,7 +10873,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0495_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0495_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0495_04.mp3",
-      "audio5": "Together, <image1>, <image2>, <image3>, and <image4> demonstrate a diverse array of textures and flavors, each with a unique preparation method reflecting rich culinary traditions."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0495_05.mp3"
     },
     "content": "The collection of dishes showcases a spectrum of cultural flavors and preparation techniques. As <audio1> highlights the nourishing qualities of the soup, <audio2> delves into the aromatic essence of grilled skewers. Complementing these is <audio3>'s look into the celebratory nature of cold lamb platters, with <audio4> narrating the universal appeal of crispy fried strips. Finally, <audio5> ties these elements together, celebrating the rich gastronomic tapestry they collectively represent."
   }
@@ -10897,7 +10897,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0496_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0496_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0496_04.mp3",
-      "audio5": "From fried delicacies to communal hot pots, these dishes represent a tapestry of flavors and dining traditions. Together, <image1>, <image2>, <image3>, and <image4> illustrate not only the variety but also the artistry found in global culinary practices."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0496_05.mp3"
     },
     "content": "The journey through these dishes reveals the diversity and depth of culinary traditions. Starting with the comfort food of fried strips, moving through the sociable and interactive experience of a hot pot, encountering the complexity of preserved delicacies, and finishing with the rich, seasoned stir fry, each audio offers insights into the cultural significance embodied in these meals. <audio1> provides context to the fried delights, while <audio2> elaborates on the conversational nature of hot pots. The nuanced flavors of preserved ingredients are explored in <audio3>, and <audio4> unveils the layered textures of stir fry cuisine. Finally, <audio5> ties together these varied elements, reflecting on the shared joy of food."
   }
@@ -10921,7 +10921,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0497_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0497_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0497_04.mp3",
-      "audio5": "Together, these images illustrate a diverse culinary narrative, from the crispy, golden textures of <image1> to the complex flavors and communal spirit of <image2> and <image3>, culminating in the familiar warmth of a home-cooked meal as seen in <image4>."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0497_05.mp3"
     },
     "content": "These audios collectively weave a rich culinary tapestry. <audio1> celebrates the crisp textures in fried delights. <audio2> immerses listeners in the communal warmth of hot pot dining. <audio3> conveys the exotic allure of preserved dishes. <audio4> evokes the homely comfort of stir-fry classics. Altogether, <audio5> synthesizes these elements into a narrative of culinary diversity."
   }
@@ -10945,7 +10945,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0498_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0498_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0498_04.mp3",
-      "audio5": "Together, these dishes show an impressive range from crispy snacks to intricate main courses capable of enhancing any dining experience. They reflect both simplicity and complexity, creating a gastronomic journey through diverse culinary landscapes."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0498_05.mp3"
     },
     "content": "The exploration of these dishes through <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> illustrates a rich variety of culinary traditions and techniques. Each audio delves into the unique attributes and cultural significance of the foods, providing a comprehensive culinary narrative."
   }
@@ -10969,7 +10969,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0499_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0499_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0499_04.mp3",
-      "audio5": "Together, these images provide a glimpse into diverse gastronomic traditions, each dish offering a unique culinary journey. While <image1> and <image3> focus on robust, warming dishes, <image2> and <image4> present lighter, more delicate flavors that complement the boldness of their counterparts."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0499_05.mp3"
     },
     "content": "These narratives together offer a comprehensive understanding of the dishes shown, inviting you to explore the complex and delightful world of food through these vivid descriptions. <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> collectively paint a full picture of the diverse tastes and textures encapsulated in the images."
   }
@@ -10993,7 +10993,7 @@
       "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0500_02.mp3",
       "audio3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0500_03.mp3",
       "audio4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0500_04.mp3",
-      "audio5": "Together, these dishes form a tapestry of culinary techniques, offering insights into the dynamic and multifaceted realm of gastronomy, where each image engages not just the senses but the storytelling of food."
+      "audio5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_0500_05.mp3"
     },
     "content": "The audio segments collectively narrate the complexity and beauty of each dish, illustrating culinary traditions and techniques while closely tying into the visual elements presented. <audio1>, <audio2>, <audio3>, <audio4>, and <audio5> seamlessly weave a narrative exploring the rich diversity captured in these images."
   }
