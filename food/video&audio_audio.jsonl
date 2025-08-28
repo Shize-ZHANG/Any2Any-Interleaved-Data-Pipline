@@ -1,0 +1,180 @@
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1121",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1121_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1121_01.mp3"
+    },
+    "content": "By combining the step-by-step visuals in <video1> with the narration in <audio1>, can you summarize the overall idea of these breakfast recipes into a spoken-style explanation?"
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1121_02.mp3"
+    },
+    "content": "The summary is expressed in <audio2>, capturing the essence of the three breakfast ideas."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1122",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1122_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1122_01.mp3"
+    },
+    "content": "By combining the visuals in <video1> with the narration in <audio1>, can you explain in audio how the cats reacted and which meal they preferred?"
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1122_02.mp3"
+    },
+    "content": "The explanation is narrated in <audio2>, summarizing both the reactions and the winning dishes."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1123",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1123_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1123_01.mp3"
+    },
+    "content": "Blending the on-screen moments in <video1> with the context in <audio1>, can you deliver a spoken-style summary that captures the food spots visited, the dishes highlighted, and the comedic tone of the tour?"
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1123_02.mp3"
+    },
+    "content": "Here is the concise narration in <audio2>, summarizing the restaurant tour, signature dishes, and playful tone."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1124",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1124_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1124_01.mp3"
+    },
+    "content": "Using <video1> together with the description in <audio1>, create a narration-style summary that blends the food tasting, the kids’ reactions, and the grandparents’ nostalgic stories."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1124_02.mp3"
+    },
+    "content": "Here is the narration in <audio2>, summarizing the intergenerational food tasting and memories."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1125",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1125_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1125_01.mp3"
+    },
+    "content": "Combine <video1> with the narration in <audio1> to create a flowing summary about the unseen world of confiscated foods, their disposal, and the critical role in safeguarding agriculture."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1125_02.mp3"
+    },
+    "content": "Here is the narrated summary in <audio2>, blending the video’s scenes with the explanation of why illegal foods are confiscated and destroyed."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1126",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1126_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1126_01.mp3"
+    },
+    "content": "Blend <video1> with the description in <audio1> to summarize how barbecue is portrayed not just as a cooking method but as a way of life passed down through generations."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1126_02.mp3"
+    },
+    "content": "Here is the flowing narrated summary in <audio2>, weaving the imagery of smoke, fire, and tradition into the broader cultural story of barbecue."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1127",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1127_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1127_01.mp3"
+    },
+    "content": "Summarize <video1> with <audio1> to highlight how a chef’s frustration led to the accidental creation of one of the world’s most beloved snacks."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1127_02.mp3"
+    },
+    "content": "Here is the retold version in <audio2>, turning George Crum’s angry experiment into the origin story of a snack loved across the globe."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1128",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1128_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1128_01.mp3"
+    },
+    "content": "Summarize <video1> with <audio1> to show how the song teaches kids about eating vegetables and enjoying healthy meals."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1128_02.mp3"
+    },
+    "content": "Here is the retold version in <audio2>, presenting the Pinkfong song as a lively way to promote healthy habits in children."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1129",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1129_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1129_01.mp3"
+    },
+    "content": "Summarize <video1> with <audio1> to highlight the key steps of making Chili Bites."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1129_02.mp3"
+    },
+    "content": "Here is the summarized version in <audio2>, showing the Chili Bites recipe as an easy yet flavorful dish for gatherings."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1130",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1130_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1130_01.mp3"
+    },
+    "content": "Summarize <video1> with <audio1>, focusing on the quick and efficient steps shown for preparing a pineapple."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1130_02.mp3"
+    },
+    "content": "Here is the summarized version in <audio2>, capturing the one-minute technique to perfectly prepare a pineapple."
+  }
+}

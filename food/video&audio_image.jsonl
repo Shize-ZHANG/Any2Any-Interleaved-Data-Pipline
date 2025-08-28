@@ -1,0 +1,180 @@
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1111",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1111_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1111_01.mp3"
+    },
+    "content": "By combining the visual cues in <video1> with the description in <audio1>, what aspect of presentation makes this dish stand out? Please provide a image to illustrate your answer."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1111_01.png"
+    },
+    "content": "The dish stands out for its refined plating, where the garnish and sauce are placed with precision. The snapshot <image1> highlights these details, making the presentation visually appealing."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1112",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1112_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1112_01.mp3"
+    },
+    "content": "By combining the motion in <video1> and the narration in <audio1>, what makes this dish visually appetizing? Please provide a image to support your answer."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1112_01.png"
+    },
+    "content": "The dish is visually appetizing due to the golden-brown sear and the glistening surface that conveys juiciness. The snapshot <image1> captures these details clearly, showing the rich texture and smoky appeal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1113",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1113_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1113_01.mp3"
+    },
+    "content": "By combining the lively visuals in <video1> with the narration in <audio1>, what makes this street food scene so appealing? Please provide a image to support your answer."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1113_01.png"
+    },
+    "content": "The scene is appealing because it captures the energy of street food cooking—the glowing fire, sizzling skewers, and vibrant mix of colors. The snapshot <image1> reinforces this atmosphere by freezing the moment of grilling with clear visual detail."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1114",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1114_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1114_01.mp3"
+    },
+    "content": "By combining the visuals in <video1> and the description in <audio1>, what makes the presentation of this dish unique? Please provide a image to support your answer."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1114_01.png"
+    },
+    "content": "The uniqueness lies in the meticulous arrangement of ingredients—the balance of color, texture, and symmetry highlights Japanese culinary artistry. The snapshot <image1> captures these details clearly, showing the refined plating of the sushi."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1115",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1115_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1115_01.mp3"
+    },
+    "content": "By combining the visuals in <video1> and the narration in <audio1>, what artistic element stands out in this coffee-making process? Please provide a image to support your answer."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1115_01.png"
+    },
+    "content": "The artistic element is the swirling latte art effect formed by the interaction of coffee and cream. The snapshot <image1> highlights these flowing patterns, emphasizing the aesthetic side of coffee preparation."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1116",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1116_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1116_01.mp3"
+    },
+    "content": "By combining the visuals in <video1> with the description in <audio1>, what makes these beverages visually refreshing? Please provide a image to support your answer."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1116_01.png"
+    },
+    "content": "The vibrant mix of fruit colors, the sparkle of ice, and the fresh garnishes all contribute to the refreshing appeal of these drinks. The snapshot <image1> captures this combination clearly, showing why the beverages look so enticing."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1117",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1117_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1117_01.mp3"
+    },
+    "content": "By combining the visuals in <video1> with the narration in <audio1>, what makes this dessert presentation stand out? Please provide a image to support your answer."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1117_01.png"
+    },
+    "content": "The dessert presentation stands out due to its careful layering and the contrast between creamy textures and colorful fruit. The snapshot <image1> captures these details clearly, highlighting the refined plating style."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1118",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1118_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1118_01.mp3"
+    },
+    "content": "By combining the visuals in <video1> with the description in <audio1>, what makes the bread especially appealing? Please provide a image to support your answer."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1118_01.png"
+    },
+    "content": "The bread is especially appealing because of its golden crust, fluffy texture, and the sense of freshness conveyed during baking. The snapshot <image1> highlights these details, showing the loaf at its most appetizing moment."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1119",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1119_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1119_01.mp3"
+    },
+    "content": "By combining the visuals in <video1> with the description in <audio1>, what makes this stir-fry dish visually exciting? Please provide a image to support your answer."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1119_01.png"
+    },
+    "content": "The stir-fry is visually exciting due to the bright mix of vegetables, the glistening textures, and the dynamic motion of cooking. The snapshot <image1> captures these lively details, showing the freshness and energy of the dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "1120",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/video/vid_1120_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/audio/aud_1120_01.mp3"
+    },
+    "content": "By combining the visuals in <video1> with the narration in <audio1>, what makes this cake visually impressive? Please provide a image to support your answer."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1120_01.png"
+    },
+    "content": "The cake is visually impressive due to its multiple layers, smooth cream finish, and colorful fruit decorations on top. The snapshot <image1> highlights these artistic details, showing the elegance of the final presentation."
+  }
+}

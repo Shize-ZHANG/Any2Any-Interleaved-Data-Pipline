@@ -1,0 +1,1800 @@
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "791",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0791_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0791_01.png"
+    },
+    "content": "Analyze the nutritional content of the olives shown in <image1> and explained in <document1>. How can these olives be used in a healthy dish? Provide a description of the dish and include a related image for support."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0791_02.png"
+    },
+    "content": "The olives can be used in a Mediterranean salad, adding a rich flavor and healthy fats to this refreshing dish. <image2> illustrates this vibrant and nutritious meal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "792",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0792_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0792_01.png"
+    },
+    "content": "Analyze the nutritional content and appearance of the dish shown in <image1> based on the nutritional data in <document1>. Describe how the ingredients contribute to its healthiness. Your answer must include one image to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0792_02.png"
+    },
+    "content": "The dish is a simple salad with mixed greens, which are low in calories and high in nutrients, aligning with the shown nutritional data values. The low fat and protein content suggest a light, refreshing meal, perfect for a healthy diet. <image2>"
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "793",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0793_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0793_01.png"
+    },
+    "content": "Evaluate the nutritional data from <document1> in relation to the type of olives shown in <image1>. How might these olives be prepared in a dish while taking nutritional values into account? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0793_02.png"
+    },
+    "content": "To prepare a dish with the olives shown in <image2>, consider making a Mediterranean salad. This salad incorporates fresh vegetables and olives to balance the nutritional profile, adhering to the table's details like low calories and moderate fat content."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "794",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0794_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0794_01.png"
+    },
+    "content": "Considering the dish shown in <image1> and the nutritional information in <document1>, what might be a suitable meal plan for a low-calorie diet? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0794_02.png"
+    },
+    "content": "A suitable meal plan for a low-calorie diet can include a salad with roasted Brussels sprouts as seen in <image2>. The salad incorporates the nutrients from the Brussels sprouts while keeping the calorie count low, aligning with the nutritional data provided in the document."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "795",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0795_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0795_01.png"
+    },
+    "content": "Analyze the nutritional value of the food depicted in the <image1> and the data provided in the <document1>. How does this dish fit into a healthy diet plan? Include one image in the answer for illustration."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0795_02.png"
+    },
+    "content": "The food shown has a very low calorie content and minimal fat, making it an excellent choice for a healthy diet. To maintain nutritional balance, it's beneficial to pair such foods with protein-rich ingredients. An example of this is a refreshing salad with added nuts or seeds, which provide necessary proteins and fats, balanced with vegetables depicted in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "796",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0796_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0796_01.png"
+    },
+    "content": "Analyze the dish shown in <image1> along with its nutritional details in <document1>, and explain how this meal fits into a balanced diet. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0796_02.png"
+    },
+    "content": "The meal pictured is high in nutrients but low in calories, making it an excellent option for a balanced diet. The visual representation of a similar healthy dish is shown in <image2>, demonstrating an ideal composition for maintaining a healthy lifestyle."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "797",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0797_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0797_01.png"
+    },
+    "content": "Analyze the nutritional benefits and potential health impact of the dish shown in <image1>, using the data from <document1>. Please ensure that the answer includes one image in the output that represents a healthy dish with similar ingredients."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0797_02.png"
+    },
+    "content": "The dish shown in <image2> demonstrates a healthy meal option utilizing similar ingredients like Brussels sprouts, green bell peppers, and olives. According to the nutritional data, the original dish provides a balanced combination of macro-nutrients, notably low in calories and fat, which makes such a salad an excellent choice for a nutritious diet."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "798",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0798_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0798_01.png"
+    },
+    "content": "Analyze the nutritional value and components of the dish shown in the <image1> and compare with the data given in the <document1>. The answer must include a related image to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0798_02.png"
+    },
+    "content": "The dish in the image consists of Brussels sprouts, olives, and celery, which are healthy low-calorie options, reflected by the 103.3 calories detailed in the nutritional chart. The low fat and protein content align with typical plant-based ingredients. An image of a similarly composed dish with added garnishes is shown in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "799",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0799_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0799_01.png"
+    },
+    "content": "Analyze the nutritional content of the dish shown in <image1> using the details from <document1>. Explain how a similar dish with lower calories could be prepared by modifying ingredients, and ensure the answer includes one image supporting the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0799_02.png"
+    },
+    "content": "To create a similar dish with fewer calories, consider reducing the quantity of olives and using a larger portion of Brussels sprouts and bell peppers. This substitution can maintain volume while lowering total calorie content. A relevant example is shown in <image2>, where the dish is accompanied by fresh herbs for enhanced flavor without additional calories."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "800",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0800_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0800_01.png"
+    },
+    "content": "Analyze the dish shown in <image1> and the nutritional information in <document1> to explain the health benefits of this meal. Include one image in the answer that illustrates a related healthy dish for visual support."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0800_02.png"
+    },
+    "content": "The dish in <image2> highlights similar health benefits as the original meal. It provides a balance of low calories and a substantial amount of healthy fats, carbohydrates, and proteins, maximizing nutritional benefits while keeping caloric intake in check. Incorporating such meals supports heart health and offers a nutritious dietary option."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "801",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0801_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0801_01.png"
+    },
+    "content": "Analyze the nutritional content of the dish shown in <image1> using the information from <document1>. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0801_02.png"
+    },
+    "content": "The dish in <image2> presents a healthy and balanced nutritional profile with only 103.3 calories, making it suitable for a low-calorie diet. The Brussels sprouts and olives provide fiber and nutrients, while celery adds a crunch to the salad. This combination aligns with the nutritional data, offering a favorable amount of carbohydrates and proteins against fats."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "802",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0802_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0802_01.png"
+    },
+    "content": "Analyze the nutritional content of the fruits shown in <image1> using the data provided in <document1>. Explain how this dish fits into a healthy diet and include one related food dish image in your answer to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0802_02.png"
+    },
+    "content": "The fruits shown are strawberries and blueberries, with nutritional data indicating low calories and high fiber content, supporting its role as a healthy snack option. Including a serving of mixed berries like the dish shown in <image2> can provide further antioxidants and vitamins."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "803",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0803_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0803_01.png"
+    },
+    "content": "Based on the dish shown in <image1> and the nutritional values provided in <document1>, explain how the dish contributes to a balanced diet. Illustrate your explanation with an image of a similar dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0803_02.png"
+    },
+    "content": "This dish, as seen in <image2>, shows how scrambled eggs can be balanced with healthy fats and additional nutrients by adding avocado and tomatoes. This combination enhances the dish with vitamins and minerals, making it more well-rounded while maintaining a moderate calorie count."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "804",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0804_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0804_01.png"
+    },
+    "content": "Examine the nutritional content provided in <document1> and the food depicted in <image1>. Explain how the nutritional values align with the depicted dish and include one related food dish image in the output to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0804_02.png"
+    },
+    "content": "The nutritional values indicate that the dish is low in calories and fats, while being primarily composed of carbohydrates, which is characteristic of sweet potatoes often used in roasted dishes. The visually similar dish shown in <image2> demonstrates how these nutritional elements come together in another culinary setting."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "805",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0805_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0805_01.png"
+    },
+    "content": "Analyze the nutritional content seen in <document1> and describe how it relates to the food shown in <image1>. Provide an answer with one additional image to illustrate a dish similar to or inspired by the dish shown."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0805_02.png"
+    },
+    "content": "The nutritional content provided in the nutrition table shows a balanced distribution of proteins and carbohydrates, aligning well with the items visible in the image. The total calories complement the portion size depicted. An example dish inspired by these values is illustrated in <image2>, offering a nutritious and delicious meal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "806",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0806_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0806_01.png"
+    },
+    "content": "Analyze the nutritional value shown in <document1> and the food item depicted in <image1>. Based on this analysis, describe how this dish fits into a balanced diet, and indicate how many images should be included in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0806_02.png"
+    },
+    "content": "To maintain a balanced diet, as illustrated in <image2>, this meal combines the high protein and moderate fat content of the fish with fiber-rich vegetables, making it both nutritious and satisfying."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "807",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0807_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0807_01.png"
+    },
+    "content": "Analyze the nutritional content shown in <document1>. Given the image of a small eggplant dish in <image1>, explain a potential full meal that would complement it in terms of balanced nutrition. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0807_02.png"
+    },
+    "content": "To complement the eggplant dish with adequate nutrition, consider a meal that includes grilled chicken, quinoa salad, brown rice, and steamed broccoli. This combination offers a balance of protein, essential fats, and carbohydrates, aligning with the nutritional data provided. <image2>"
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "808",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0808_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0808_01.png"
+    },
+    "content": "Examine the salad shown in <image1> and the nutritional details found in <document1>. How does the nutritional content align with a typical healthy diet, and what might a balanced meal look like? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0808_02.png"
+    },
+    "content": "The nutritional content shows a low-calorie and low-fat meal, typical for a diet-conscious serving. A balanced meal that complements this nutrition could include <image2>, which offers a variety of vegetables and lean protein necessary for a balanced diet."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "809",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0809_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0809_01.png"
+    },
+    "content": "Analyze the nutritional content depicted in <document1> in relation to the dish displayed in <image1> and determine what other dish might complement it nutritionally. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0809_02.png"
+    },
+    "content": "To complement the nutritional balance shown in the inputs, a Mediterranean quinoa salad could be paired to enhance the overall dietary intake. This dish adds essential fibers and carbohydrates, providing a fuller meal experience. See the proposed dish in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "810",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0810_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0810_01.png"
+    },
+    "content": "Based on the food shown in <image1> and the nutritional details in <document1>, analyze the nutritional profile and describe a dish that could be created using this food component. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0810_02.png"
+    },
+    "content": "A grilled chicken salad can be prepared using the chicken shown. The salad offers an excellent source of protein, minimal fat, and no carbohydrates, aligning with the nutritional profile detailed. <image2>"
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "811",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0811_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0811_01.png"
+    },
+    "content": "Analyze the dish shown in <image1> using the nutritional details in <document1>. Based on this analysis, what would be an appropriate serving size to maintain a low-calorie diet? The answer must include one image to illustrate an alternative serving suggestion."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0811_02.png"
+    },
+    "content": "An appropriate serving size might be a smaller portion that ensures a calorie intake aligns with dietary goals. A potential way to serve this could be seen in <image2>, which demonstrates a portion suitable for a low-calorie diet while providing necessary nutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "812",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0812_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0812_01.png"
+    },
+    "content": "Analyzing the dish in <image1> and the <document1> nutritional information, explain how this meal fits into a balanced diet. Include one image in the answer to illustrate a potential side dish that can accompany the main dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0812_02.png"
+    },
+    "content": "The meal depicted in the images shows a high-protein dish, which is great for muscle building. To balance it, adding a light salad can provide necessary vitamins and fiber. Here is a possible side dish: <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "813",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0813_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0813_01.png"
+    },
+    "content": "Analyze the nutritional content and visual presentation of <image1> and <document1> to discuss the overall healthiness of the dish. Your answer should include an illustrative image to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0813_02.png"
+    },
+    "content": "The dish depicted in <image2> complements the nutritional information provided by having a balanced mix of high protein levels, moderate calories, and low carbohydrates, making it ideal for a protein-rich diet."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "814",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0814_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0814_01.png"
+    },
+    "content": "Examine the nutritional benefits of the dish shown in <image1> by referencing the data in <document1>. Your answer should include one illustrative image based on the nutritional analysis."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0814_02.png"
+    },
+    "content": "The nutritional analysis of the dish in <image2> illustrates a healthy, low-calorie meal ideal for maintaining a balanced diet while being rich in essential vitamins and minerals."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "815",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0815_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0815_01.png"
+    },
+    "content": "Analyze the nutritional information from <document1> and the visual aspects of the salad shown in <image1>. Explain if this dish aligns with a low-calorie diet and indicate the answer with an additional image that supports the nutritional profile."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0815_02.png"
+    },
+    "content": "The dish, consisting mainly of cucumbers, aligns well with a low-calorie diet, as it is low in calories. Complementing this analysis, the accompanying image presents an appealing cucumber salad reinforcing its nutritional benefits, as shown in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "816",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0816_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0816_01.png"
+    },
+    "content": "Based on the <image1> showing avocado slices and the <document1> presenting the nutritional information, explain how this dish can be part of a balanced diet. Ensure the answer includes one additional image to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0816_02.png"
+    },
+    "content": "The avocado slices shown provide healthy fats and essential nutrients, as indicated in the nutritional information. Integrating such foods, as depicted in the <image2>, into a salad with vegetables creates a nutritious and balanced dish, suitable for a healthy diet."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "817",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0817_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0817_01.png"
+    },
+    "content": "Analyze the nutritional value based on <image1> showing a food item and <document1> providing detailed nutrient data. Explain how this information can influence dietary choices, and make sure to include one image of a related dish in the answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0817_02.png"
+    },
+    "content": "The food item, identified as snails, relates to various dietary benefits due to its low calorie and fat content, as shown in the nutritional data. Incorporating such items can support low-calorie diets while providing sufficient protein. A practical application of this is seen in the preparation of escargot, which can be made more flavorful with garlic and herbs. The accompanying <image2> illustrates this dish, showcasing a savory presentation that delights the senses and complements a health-conscious meal plan."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "818",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0818_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0818_01.png"
+    },
+    "content": "Analyze the salad shown in <image1> and determine its nutritional value based on the details from <document1>. What could be a complementary dish that enhances the nutritional benefits, and the answer must include one image to illustrate this."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0818_02.png"
+    },
+    "content": "To enhance the nutritional profile of the spinach and avocado salad analyzed, adding a quinoa salad can be beneficial. <image2> illustrates this dish, which boosts protein and fiber intake, providing a balanced meal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "819",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0819_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0819_01.png"
+    },
+    "content": "What details can you provide about a similar dish to the one shown in <image1>, considering the nutritional content displayed in <document1>? Please ensure the answer includes at least one image to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0819_02.png"
+    },
+    "content": "The dish in <image2> is an enhanced version of scrambled eggs, showcasing a balanced meal with added greens and whole grains, which provides additional fiber, vitamins, and minerals to support the nutritional content described."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "820",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0820_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0820_01.png"
+    },
+    "content": "Analyze the nutritional balance of the dish shown in <image1> using the nutritional information provided in <document1>. The answer must include one image that visually represents a healthy preparation of this dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0820_02.png"
+    },
+    "content": "The dish, mainly consisting of broccoli, as depicted in <image2>, is low in calories and fat, making it a healthy option. The addition of garnishes like lemon and sesame seeds not only enhances flavor but also adds nutritional value."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "821",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0821_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0821_01.png"
+    },
+    "content": "Consider the nutritional content shown in <document1> and the food image in <image1>. How might this dish be enhanced to create a healthy breakfast, and what would the nutritional impact be? Incorporate one image in your response to illustrate the enhanced dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0821_02.png"
+    },
+    "content": "To enhance the dish into a healthy breakfast, add ingredients like bananas, granola, and yogurt to complement the strawberries seen in <image2>. This will increase the protein and fiber content, making it more filling and nutritious."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "822",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0822_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0822_01.png"
+    },
+    "content": "Analyze the nutritional information in <document1> combined with the food shown in <image1>. How can this information be used to enhance a simple dessert dish? Include one related image in the output to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0822_02.png"
+    },
+    "content": "By using the nutritional data, you can create a healthy raspberry parfait by layering fresh raspberries with yogurt, minimizing calorie intake while enhancing flavor and texture <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "823",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0823_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0823_01.png"
+    },
+    "content": "Analyze the nutritional benefits and potential health impacts of the dish shown in <image1> using the data available in <document1>. How might this dish fit into a balanced diet, and include in the answer an illustrative image that aligns with dietary insights discussed, supported by one additional image to illustrate."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0823_02.png"
+    },
+    "content": "Based on the high protein and fat content in the dish, this food provides significant energy but should be consumed in moderation within a balanced diet. The presence of protein is beneficial for muscle repair, while the fat content demands cautious consumption to maintain heart health. For instance, serving it alongside high-fiber foods or greens could provide additional nutrition and balance, as illustrated in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "824",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0824_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0824_01.png"
+    },
+    "content": "Analyze the nutritional balance of the food shown in <image1> using the data in <document1>. How can the dish be modified to increase its protein content, and illustrate this modification with an image?"
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0824_02.png"
+    },
+    "content": "To increase the protein content of the dish, a grilled chicken breast can be added alongside the other components. This modification maintains balance and enhances nutritional value. The adjusted dish is illustrated with the addition seen in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "825",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0825_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0825_01.png"
+    },
+    "content": "Analyze the food composition shown in <image1> and reference the nutritional data provided in <document1>. What would be a comparable complete meal using these components, and ensure the answer includes one image related to the meal for illustration."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0825_02.png"
+    },
+    "content": "Based on the analysis, a complete meal could include roasted sweet potatoes along with grilled chicken and steamed vegetables to balance the nutrients. The <image2> visually represents this dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "826",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0826_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0826_01.png"
+    },
+    "content": "Analyze the dietary and nutritional value of the dish presented in <image1>, using the data provided in <document1>. Include an image in the answer to illustrate a similar dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0826_02.png"
+    },
+    "content": "The dish analyzed contains scrambled eggs, which are represented in the image as a small portion on a plate. Based on the nutritional information provided, it is a low-calorie meal with a total of 26.43 calories, 1.785 grams of fat, 0.204 grams of carbohydrates, and 2.125 grams of protein. Such a dish is suitable for those seeking a high-protein, low-calorie diet. An illustration of a similar dish can be seen in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "827",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0827_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0827_01.png"
+    },
+    "content": "Analyze the nutritional information from the <document1> and the visual details from the <image1> of the food item. Discuss how these factors contribute to a healthy diet and include an illustrative example image in the answer."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0827_02.png"
+    },
+    "content": "The food item shown provides a low-calorie, nutrient-dense option suitable for a balanced diet. Incorporating such foods can aid in maintaining dietary goals. The accompanying <image2> of a mixed fruit salad illustrates how combining different fruits can enhance nutritional variety and appeal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "828",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0828_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0828_01.png"
+    },
+    "content": "Analyze the dish shown in <image1> and the nutritional information in <document1>. How can this dish be improved with additional ingredients to enhance its nutritional value? The answer must include one image of a suggested improved dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0828_02.png"
+    },
+    "content": "To enhance the nutritional value of the dish shown, consider adding a variety of fruits such as blueberries and mango, which are rich in vitamins and antioxidants. This would increase the total caloric value slightly while providing a broader range of nutrients. The improved dish can look like this: <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "829",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0829_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0829_01.png"
+    },
+    "content": "Given the visual content of <image1> showing a dish of raspberries and the nutritional details from <document1>, please explain how these nutritional values can contribute to a healthy snack option. The answer should include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0829_02.png"
+    },
+    "content": "Raspberries provide a low-calorie, nutrient-rich option perfect for snacking, as their natural sugars and dietary fibers help maintain energy levels while supporting digestive health. The depicted <image2> shows how raspberries can be styled appealingly, encouraging consumption as a wholesome snack."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "830",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0830_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0830_01.png"
+    },
+    "content": "Considering the food displayed in <image1> and the nutritional information presented in <document1>, explain how these elements contribute to a balanced breakfast. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0830_02.png"
+    },
+    "content": "A balanced breakfast includes a variety of food groups to provide energy and essential nutrients. The plate with scrambled eggs, fruits like strawberries and berries, along with sweet potatoes, offers a blend of protein, vitamins, fiber, and carbohydrates. This combination mirrors the nutritional values of total calories and macronutrients displayed in the nutrition table. <image2> illustrates this balanced meal, emphasizing the importance of diverse food groups in breakfast."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "831",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0831_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0831_01.png"
+    },
+    "content": "Analyze the nutritional content and visual appearance of the fruit shown in <image1> combined with the details in <document1> to determine what other dishes this fruit could be used in. Include one image in the answer to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0831_02.png"
+    },
+    "content": "Based on the visual and nutritional analysis, the fruit shown is suitable for a fresh fruit salad. The low calories and high water content make it ideal for a light, refreshing dish like a melon salad. <image2> illustrates a potential serving suggestion for the melon in a mixed fruit salad."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "832",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0832_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0832_01.png"
+    },
+    "content": "Based on the shown <image1> with portions of an orange fruit and the information from <document1> regarding its nutritional values, describe a similar nutritious dish. Ensure the answer includes one image to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0832_02.png"
+    },
+    "content": "A nutritious dish inspired by the depicted fruit and nutritional values is a mixed fruit salad. This includes an array of fruits like melon, strawberries, and blueberries, providing a balance of carbohydrates and natural sugars for energy. See the delightful presentation of this dish in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "833",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0833_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0833_01.png"
+    },
+    "content": "Analyze the dish shown in <image1> and the nutritional information in <document1>. How might this dish fit into a balanced diet, and provide another example of a dish with similar protein content. Ensure the answer includes an image illustrating the alternative dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0833_02.png"
+    },
+    "content": "The bacon shown has a high protein content relative to its mass, as indicated in the nutritional data. A similar dish that can fit into a balanced diet while providing comparable protein levels is scrambled eggs with whole-grain toast and avocado. This offers a more comprehensive nutritional profile with added healthy fats and fiber. Refer to <image2> to see this dish visually."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "834",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0834_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0834_01.png"
+    },
+    "content": "Using the image of the dish shown in <image1> and the nutritional information provided in <document1>, describe a related healthy breakfast option and explain how its nutritional value compares. Make sure the answer includes one image to illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0834_02.png"
+    },
+    "content": "A suitable healthy breakfast alternative could include a platter with varied fresh fruits, granola, and yogurt as shown in <image2>. This option is rich in essential vitamins and minerals, providing energy with lower fat content compared to the original dish, while maintaining an adequate protein and carbohydrate balance."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "835",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0835_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0835_01.png"
+    },
+    "content": "Analyze the food shown in <image1> and consider the nutritional information in <document1>. Can you suggest a related dish that might have similar nutritional values and describe it with an image? Include one image in the output to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0835_02.png"
+    },
+    "content": "A similar dish that embodies these nutritional aspects is a watermelon and feta salad. The combination of refreshing watermelon cubes, as seen in <image2>, provides a similar low-calorie option, enhanced by the added flavors of mint and feta."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "836",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0836_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0836_01.png"
+    },
+    "content": "Analyze the nutritional content of the dish shown in <image1> using the data provided in <document1>. Explain the impact of consuming this dish on a balanced diet and include an image in the answer to illustrate a similar balanced meal."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0836_02.png"
+    },
+    "content": "The dish in <image2> demonstrates a balanced meal complementing the nutritional profile shown in the documents. Including lean protein from the chicken and fiber from the greens, this meal can enhance the dietary benefits of the sweet potato."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "837",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0837_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0837_01.png"
+    },
+    "content": "Analyze the nutritional content in the context of the dish shown in <image1> and <document1>, and describe how it would fit into a balanced diet. In your explanation, include one supportive image that illustrates a healthy serving size or combination."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0837_02.png"
+    },
+    "content": "The dish depicted in <image2> incorporates a balanced approach, using lean bacon for protein and healthy fats, while adding scrambled eggs and vegetables provides additional nutrients to support a balanced diet."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "838",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0838_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0838_01.png"
+    },
+    "content": "Given the food on the plate in <image1> and the nutritional information in <document1>, what might be a healthy alternative dish that maintains a similar nutritional profile but reduces total fat content? Include one image in the answer to illustrate the suggested alternative dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0838_02.png"
+    },
+    "content": "A healthy alternative could be a fruit salad with a mix of berries and citrus fruits, reducing the fat content significantly while maintaining essential nutrients. The vivid display of such a dish is shown in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "839",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0839_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0839_01.png"
+    },
+    "content": "Analyze the nutritional value of the dish shown in <image1> using the data provided in <document1>. How might this dish be modified to make a healthier version, and how should the changes be visually represented? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0839_02.png"
+    },
+    "content": "To create a healthier version of the dish shown, focus on reducing the portion size of high-carbohydrate components like the potatoes and incorporating more fresh vegetables to boost fiber and nutrient intake. The <image2> shows a modified dish that replaces a bulk of the potatoes with a variety of vegetables, creating a meal that is lower in calories and higher in nutritional value."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "840",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0840_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0840_01.png"
+    },
+    "content": "Based on the nutritional data provided in <document1> and the food depicted in <image1>, how might this dish fit into a balanced diet? Please ensure to include an image in your answer to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0840_02.png"
+    },
+    "content": "To integrate the dish in question into a balanced diet, consider pairing it with a dish like <image2>, which helps balance the high protein and fat content of the initial serving."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "841",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0841_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0841_01.png"
+    },
+    "content": "Given the <image1> of a plate containing cubed watermelon and the <document1> showing its detailed nutritional information, explain how watermelon can be a part of a balanced diet. Include one related image in your explanation to illustrate this."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0841_02.png"
+    },
+    "content": "Watermelon can be an excellent addition to a balanced diet due to its low calorie content and hydrating properties. As shown in the <image2>, combining watermelon with other fruits such as strawberries and blueberries can enhance its nutritional value. This makes it a delicious and nutritious component of a fruit salad that can be enjoyed as a healthy snack or dessert."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "842",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0842_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0842_01.png"
+    },
+    "content": "Analyze the breakfast shown in <image1> and provide a suggestion for a healthier alternative using the nutritional information detailed in <document1>. Ensure your answer includes one image that illustrates the suggested dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0842_02.png"
+    },
+    "content": "A healthier alternative breakfast could be a fresh fruit salad rich in vitamins and low in fat. This dish offers a balanced intake of natural sugars and fibers, providing a refreshing and nutritious start to the day. See <image2> for an illustration of this suggested dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "843",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0843_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0843_01.png"
+    },
+    "content": "Analyze the nutritional content and the image of the dish composed of melon cubes shown in <image1> along with its nutritional data from <document1>. Identify a similar low-calorie fruit that can complement this dish and describe it with an image. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0843_02.png"
+    },
+    "content": "Kiwi slices can be an excellent addition to the dish shown, providing a nutritional boost with its high vitamin content, while keeping the overall calorie count low. <image2>"
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "844",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0844_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0844_01.png"
+    },
+    "content": "Analyze the nutritional value of the <image1> watermelon pieces using the data from <document1>. Explain how such a snack fits into a balanced diet including the carbohydrate and calorie details, and support your answer with one image of a full watermelon dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0844_02.png"
+    },
+    "content": "The watermelon pieces illustrated in <image2> provide a refreshing and hydrating snack option. With low calories and carbohydrates, they serve as an ideal component in a diet focused on maintaining a healthy weight. The nutritional data shows minimal fat, making these pieces apt for regular snacking while staying within calorie limits."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "845",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0845_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0845_01.png"
+    },
+    "content": "Based on the contents of the food dish shown in <image1> and the nutritional information given in <document1>, explain how this dish fits into a low-calorie diet plan. The answer must include one image in the output that illustrates a related food dish with similar nutritional values."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0845_02.png"
+    },
+    "content": "The dish shown in the question is suitable for a low-calorie diet as it provides only 23.76 calories along with a pleasing serving of fresh fruits, as depicted in <image2>. This presentation can enhance the appeal of healthy eating while maintaining a balanced intake of macronutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "846",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0846_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0846_01.png"
+    },
+    "content": "Based on the variety of fruits shown in <image1> and the nutritional values in <document1>, what could be an ideal fruit salad composition for a low-calorie diet? The answer must include one image to illustrate the suggested fruit salad."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0846_02.png"
+    },
+    "content": "An ideal fruit salad composition for a low-calorie diet as depicted in <image2> would include a mix of watermelon, cantaloupe, and honeydew melon, all of which are low in calories and provide hydration along with essential nutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "847",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0847_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0847_01.png"
+    },
+    "content": "Analyze the nutritional value of the food depicted in <image1> using the details in <document1>, and explain how it contributes to a healthy diet. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0847_02.png"
+    },
+    "content": "The food shown in the <image2> is an example of a healthy dish that combines similar fruits as depicted in the input. With low calories and rich in carbohydrates from natural sugars, this dish serves as an excellent source of energy while maintaining low fat content, as outlined in the provided nutritional details. Such a fruit salad can be a refreshing and nutritious addition to a balanced diet."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "848",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0848_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0848_01.png"
+    },
+    "content": "Analyze the nutritional value of the roasted potatoes shown in <image1> in conjunction with the nutritional information provided in <document1>. The answer must include one image to illustrate a related dish that complements its nutritional profile."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0848_02.png"
+    },
+    "content": "The roasted potatoes contain a moderate amount of calories and carbohydrates, as evidenced by the data in the nutritional table. A healthy way to round out this meal is to serve it as shown in <image2>, where the addition of lean proteins and vegetables provides a balanced nutritional profile."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "849",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0849_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0849_01.png"
+    },
+    "content": "Based on the given <image1> depicting crispy bacon and the <document1> showing its nutritional information, explain how this type of food fits into a balanced diet. Ensure to illustrate your explanation with one additional image representation of a complete meal that includes this item in <image2>."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0849_02.png"
+    },
+    "content": "Including bacon in moderation within a balanced meal can contribute to daily protein intake. The meal shown in <image2> balances proteins and healthy fats with vitamins from the avocado and fiber from the whole-grain toast, providing a nutritious start to the day."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "850",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0850_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0850_01.png"
+    },
+    "content": "Analyze the <image1> that shows a meal with bacon, potatoes, and melon cubes. Use the <document1> showing the nutritional information to explain how balanced the meal is and suggest a similar dish. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0850_02.png"
+    },
+    "content": "The meal shown in the original image is quite balanced in terms of macronutrient distribution. However, to enhance the nutritional profile, I suggest a similar dish that includes scrambled eggs, whole wheat toast, avocado slices, and a fruit salad, as shown in <image2>. This variation adds more healthy fats and fiber to the meal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "851",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0851_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0851_01.png"
+    },
+    "content": "Consider the nutritional content provided in the <document1> and the dish shown in the <image1>. How do the nutritional characteristics compare to typical sweet potato dishes, and what variations can be made to maintain the flavor while reducing calories? Your answer should include one related dish image to illustrate this comparison."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0851_02.png"
+    },
+    "content": "The nutritional content shown suggests a lower-calorie dish compared to typical sweet potato preparations, which often include added fats and sugars. To maintain flavor while reducing calories, consider seasoning with herbs and spices as seen in <image2>. This not only enhances taste but also keeps the caloric content low."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "852",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0852_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0852_01.png"
+    },
+    "content": "Based on the food shown in <image1> and its nutritional details in <document1>, describe the nutritional profile and suggest a related food dish that includes bacon. Include one image in the answer to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0852_02.png"
+    },
+    "content": "The bacon depicted is high in protein and fat, with 8.14g of protein and 9.24g of fat per the nutrition table. A breakfast dish pairing this bacon with scrambled eggs and toast could provide a more balanced nutritional intake, adding carbohydrates and additional protein. See <image2> for a visually appealing breakfast suggestion."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "853",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0853_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0853_01.png"
+    },
+    "content": "Analyze this dish with <image1> and use the nutritional data found in <document1>. How does this data help in understanding the energy content and macronutrient profile? Provide your explanation with one relevant food image included."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0853_02.png"
+    },
+    "content": "The dish has a very low calorie count and is composed mostly of carbohydrates, making it suitable for a low-fat diet. The fiber content in cantaloupe aids digestion while keeping the calorie intake minimal. A similar presentation can be seen in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "854",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0854_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0854_01.png"
+    },
+    "content": "Based on <image1> which shows a dish, and <document1> providing its nutritional values, explain how this meal fits into a balanced diet. The answer must include one image to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0854_02.png"
+    },
+    "content": "This meal can fit into a balanced diet by ensuring it has a good mix of protein, carbohydrates, and healthy fats as depicted in <image2>. The grilled chicken provides lean protein, while sweet potatoes and cantaloupe offer complex carbohydrates and vitamins. Including fresh leafy greens can add fiber and essential nutrients."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "855",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0855_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0855_01.png"
+    },
+    "content": "Analyze the nutritional content shown in <document1> based on the potatoes visible in <image1>. How does this information help in planning a balanced meal including this dish? Include one image in your answer to illustrate a balanced meal that incorporates such potatoes."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0855_02.png"
+    },
+    "content": "To plan a balanced meal, consider the nutritional data that shows these potatoes provide 67.76 calories with 14.960g of carbohydrates and 1.760g of protein. Combining these potatoes with a source of protein like chicken and vegetables like broccoli creates a well-rounded meal. See <image2> for a visual illustration."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "856",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0856_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0856_01.png"
+    },
+    "content": "Analyze the nutritional value in the <document1> and describe the health benefits of consuming the food shown in the <image1>. The answer must include one image to support your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0856_02.png"
+    },
+    "content": "Consuming honeydew melon, as depicted in <image2>, is beneficial due to its low-calorie content and essential nutrients. It provides hydration, supports digestion, and offers a source of vitamins C and B. This makes it an excellent choice for a healthy snack."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "857",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0857_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0857_01.png"
+    },
+    "content": "Based on the dish shown in <image1> and its nutritional values from <document1>, what would be a suitable complementary dish that balances the meal? Include the number of images in your answer for illustration."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0857_02.png"
+    },
+    "content": "A suitable complementary dish would be a fresh salad as described in <image2> to balance the high fat and protein content of the bacon, offering fiber and vitamins."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "858",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0858_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0858_01.png"
+    },
+    "content": "Based on the <image1> showing the food and the <document1> with nutritional information, explain how the calories and nutritional content affect the choice of this meal. Include one image in your answer to illustrate a similar healthy breakfast option."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0858_02.png"
+    },
+    "content": "The calories and nutritional content, such as the high protein and balanced carbohydrates shown in the data, suggest this meal provides substantial energy. A healthier breakfast, as shown in <image2>, would incorporate whole grains and more diverse fruits to enhance nutritional benefits."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "859",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0859_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0859_01.png"
+    },
+    "content": "Analyze the presented dish and its nutritional value using the <image1> of the food and nutritional information in <document1>. Explain how these elements correspond and clarify with one supporting image in the answer."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0859_02.png"
+    },
+    "content": "The dish prepared appears to consist of watermelon pieces, which aligns with the nutritional data provided. The low calorie content is typical for watermelon. To further emphasize this point, observe the <image2> of a similar watermelon salad, which combines the same base fruit with additional ingredients like mint and feta cheese for added flavor and nutritional balance."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "860",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0860_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0860_01.png"
+    },
+    "content": "Based on the food shown in <image1> and the nutritional information provided in <document1>, how can one create a healthier version of this dish while maintaining similar flavor? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0860_02.png"
+    },
+    "content": "To make a healthier version of the dish shown, you can bake the sweet potatoes instead of frying them. Serve them with a yogurt-based dip as shown in <image2> to add flavor without extra calories."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "861",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0861_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0861_01.png"
+    },
+    "content": "Based on the dish shown in <image1> and the nutritional information in <document1>, discuss the health implications of consuming such a meal in terms of its macronutrient content. The answer must include one image to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0861_02.png"
+    },
+    "content": "The dish in <image2> provides a more balanced nutritional profile with proteins from the eggs, healthy fats from avocado, and fiber from whole grain toast and fruits. This combination supports a more nutritionally varied diet compared to the high-fat content seen in the original dish, offering better energy balance and digestion support."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "862",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0862_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0862_01.png"
+    },
+    "content": "Examine the <image1> of the sliced melon and analyze the nutritional data provided in <document1>. Based on this, how could you incorporate this food into a low-calorie meal plan? Your answer must include one image to illustrate an example dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0862_02.png"
+    },
+    "content": "To incorporate the sliced melon into a low-calorie meal plan, consider creating a refreshing melon salad. <image2> illustrates this dish, combining the melon with ingredients like cucumbers, mint, and a splash of lime for added flavor without significant additional calories."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "863",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0863_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0863_01.png"
+    },
+    "content": "Analyze the nutritional content shown in <document1> and identify the ingredients on the plate in <image1>. Indicate how the nutritional values relate to the ingredients shown. The answer should include one image to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0863_02.png"
+    },
+    "content": "The ingredients shown are sweet potato, bacon, watermelon, and melon. The nutritional profile shown in the table indicates the meal is low in calories and fat while being relatively high in carbohydrates and protein, which aligns well with these ingredients. <image2> illustrates a similar meal composition to support this analysis."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "864",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0864_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0864_01.png"
+    },
+    "content": "Analyze the nutritional content shown in <document1> of the dish featured in <image1>. The answer must include one image in the output to illustrate a similar dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0864_02.png"
+    },
+    "content": "The dish is roasted sweet potatoes, featuring a total of 136.51 calories and a significant carbohydrate content of 32.34 grams, making it a good energy source. The low fat content of 0.22 grams suggests it's a healthy option. A related dish could be mashed sweet potatoes garnished with herbs, providing a different texture and flavor. <image2>"
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "865",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0865_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0865_01.png"
+    },
+    "content": "Based on the shown plate of food and the accompanying nutritional table (<image1> and <document1>), how can we create a balanced diet meal that includes this dish? Please include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0865_02.png"
+    },
+    "content": "To create a balanced diet meal that includes the cantaloupe shown, consider adding a source of lean protein such as grilled chicken or tofu, a serving of whole grains like quinoa or brown rice, and a variety of colorful vegetables such as bell peppers and spinach. This balanced meal not only complements the nutritional profile of the cantaloupe but also enhances the overall nutrient intake. <image2> depicting this balanced meal arrangement can visually support and illustrate the explanation."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "866",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0866_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0866_01.png"
+    },
+    "content": "Analyze the nutritional content of a dish with <image1> and determine whether it is a suitable option for a low-calorie diet based on the <document1>. Provide your explanation with appropriate references to the nutritional details and imagery provided. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0866_02.png"
+    },
+    "content": "The dish presented can be considered for a low-calorie diet as it contains a relatively low amount of calories, as evidenced by the nutritional data. The <image2> illustrates a similar dish with an additional garnish and presentation that might enhance its nutritional value by adding fresh herbs. This is a practical approach to incorporating such potatoes in a dietary plan while keeping calorie intake monitored."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "867",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0867_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0867_01.png"
+    },
+    "content": "Based on the plate of diced watermelons shown in the <image1>, and the nutritional information depicted in the <document1>, what is a suitable light meal or snack that can be suggested for a low-calorie diet? Please include one image in your answer to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0867_02.png"
+    },
+    "content": "A suitable light snack for a low-calorie diet is a fruit salad combining watermelon, strawberries, and mint. Watermelon is low in calories and high in water content, making it refreshing and hydrating. The addition of strawberries adds natural sweetness and vitamin C, while mint leaves provide a fresh aroma. This combination is visually appealing and nutritious as illustrated in the <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "868",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0868_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0868_01.png"
+    },
+    "content": "Based on the fruit and vegetable dish shown in <image1> and its nutritional details in <document1>, what is a potential balanced meal that combines taste and nutrition? Please ensure that the answer includes one image in the output for illustration."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0868_02.png"
+    },
+    "content": "For a balanced meal, consider a nutritious salad that includes mixed greens and grilled chicken for protein, alongside roasted vegetables and fresh fruits shown in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "869",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0869_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0869_01.png"
+    },
+    "content": "Analyze the nutritional content from <document1> in relation to the food shown in <image1>. How does the nutrient breakdown relate to preparing a balanced meal, and illustrate this with one image of a dish using similar ingredients."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0869_02.png"
+    },
+    "content": "A balanced meal using roasted sweet potatoes rich in carbohydrates can be complemented with proteins such as grilled chicken for a nutritious meal. An example dish is shown in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "870",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0870_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0870_01.png"
+    },
+    "content": "Analyze the nutritional content and visual appearance of the dish shown in <image1> and <document1>. Based on this, suggest a similar dish that might provide a comparable nutritional profile, supported by an image in your answer."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0870_02.png"
+    },
+    "content": "Considering the bacon's nutritional content and appearance, a dish with similar characteristics like scrambled eggs can be an alternative. The eggs can provide a comparable amount of protein and fats, suitable for a balanced diet. Enjoy the added flavors from herbs as shown in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "871",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0871_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0871_01.png"
+    },
+    "content": "Analyze the nutritional value provided in <document1> alongside the visual representation in <image1>. Discuss the health benefits and dietary implications of the food items shown and include one image in the output that illustrates a related healthy dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0871_02.png"
+    },
+    "content": "The nutritional information shows that the food is low in calories and fat, making it an excellent choice for a light snack or as part of a balanced diet. The high carbohydrate content primarily from natural sugars is beneficial for quick energy. <image2> highlights a creative way of incorporating the fruit into a healthy salad, offering both visual appeal and nutritional benefits."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "872",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0872_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0872_01.png"
+    },
+    "content": "Analyze the nutritional content of the meal shown in <image1> using the information in <document1>. Explain how the dish might fit into a balanced diet and include one image in the answer that supports or illustrates the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0872_02.png"
+    },
+    "content": "The meal in <image2> provides a balanced approach with an appropriate distribution of macronutrients. It includes lean protein from the chicken, complex carbohydrates from brown rice, essential vitamins and minerals from the vegetables and fruit, and healthy fats that complement the overall nutritional value."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "873",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0873_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0873_01.png"
+    },
+    "content": "Analyze the nutritional content of the dish shown in <image1>, considering the data in <document1>. How would the nutritional profile change with an additional ingredient, assuming the ingredient adds 50 calories and 2 grams of fat? Your answer must include one image that visually represents an upgraded dish that complies with the new nutritional values."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0873_02.png"
+    },
+    "content": "The addition of an ingredient like avocado, which contributes 50 calories and 2 grams of fat, enhances both the taste and nutritional profile of the dish. It raises the total calories to 190.66 and the total fat to 12.92 grams. The new dish, depicted in <image2>, showcases avocado slices alongside the original bacon, indicating a more balanced meal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "874",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0874_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0874_01.png"
+    },
+    "content": "Analyze the nutritional content and visual appearance of the almonds shown in <image1> and <document1>. Explain how they can be part of a healthy diet for someone who is conscious about their calorie, fat, and protein intake. Support your explanation with exactly one image of a related food dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0874_02.png"
+    },
+    "content": "Almonds are nutrient-dense and can be a great addition to a balanced diet, especially when paired with fresh vegetables. They provide a good source of protein and healthy fats, as seen in the nutritional information, which makes them ideal for those watching their dietary intake. A delicious application of almonds is using them as a topping in salads. <image2> visually illustrates a vibrant dish where almonds enhance the meal both in flavor and nutritional value."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "875",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0875_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0875_01.png"
+    },
+    "content": "Based on the visual appearance of the grapes in <image1> and the nutritional values provided in <document1>, what would be an appropriate grape-based dish to prepare, and what nutrient highlights can it offer? Include one image in the output to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0875_02.png"
+    },
+    "content": "A fresh grape salad would be an excellent choice, balancing natural sweetness with savory elements like feta cheese and walnuts. It offers a source of healthy carbohydrates and fiber from the grapes, along with protein and healthy fats from the nuts and cheese. The flavors would be further enhanced by a honey vinaigrette. See <image2> for a visual representation of this dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "876",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0876_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0876_01.png"
+    },
+    "content": "Analyze the nutritional content of an apple shown in <image1> using the data provided in <document1>. How does this nutritional profile compare with other fruits, and include one image in the answer to support your analysis."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0876_02.png"
+    },
+    "content": "The nutritional profile of the apple suggests it is low in calories, fats, and carbohydrates, making it a healthy choice. Compared to a banana, which typically has higher carbohydrates and calories, the apple serves as a lighter snack. See <image2> for a visual comparison."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "877",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0877_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0877_01.png"
+    },
+    "content": "Based on the <image1> of the roasted chestnuts and the <document1> providing nutritional values, explain how to integrate these chestnuts into a balanced meal. Ensure the answer includes one image supporting this explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0877_02.png"
+    },
+    "content": "To create a balanced meal using the roasted chestnuts shown in <image2>, pair them with a serving of grilled chicken for protein, a portion of steamed vegetables for fiber and nutrients, and a side of quinoa for additional carbohydrates. The chestnuts can complement the meal by providing healthy fats and flavor."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "878",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0878_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0878_01.png"
+    },
+    "content": "Analyze the berries shown in <image1> alongside the nutrition data in <document1>. What kind of dish can be prepared with these ingredients, considering their low calorie and high carbohydrate content? Answer must include one dish image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0878_02.png"
+    },
+    "content": "With the given berries and their nutritional profile, you can prepare a refreshing mixed berry smoothie that's both low in calories and rich in carbohydrates. This drink is perfect for a quick and healthy energy boost. <image2> visually represents the final smoothie dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "879",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0879_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0879_01.png"
+    },
+    "content": "Analyze the dish in <image1> along with its nutritional information in <document1>. How can the nutritional content be improved while keeping the dish visually appealing? Please include one image in the output to support or illustrate your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0879_02.png"
+    },
+    "content": "To improve the nutritional content of the dish while maintaining its visual appeal, you could create a new fruit salad using a combination of strawberries, blueberries, and kiwi slices for added vitamins and antioxidants. Garnishing with a mint leaf can further enhance the dish's presentation and flavor. <image2> shows a potential arrangement of such a dish."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "880",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0880_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0880_01.png"
+    },
+    "content": "Analyze the dish shown in <image1> and refer to the nutritional information in <document1>. Based on this analysis, what dietary considerations should be made? Include one image in your response."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0880_02.png"
+    },
+    "content": "The analyzed dish is low in carbohydrates and can fit into a protein-rich diet. However, the fat content is relatively high, so moderation is advised. Consider a more balanced meal like a salad with a few bacon strips as shown in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "881",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0881_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0881_01.png"
+    },
+    "content": "Given the scrambled eggs shown in <image1> and the nutritional values such as total calories and protein in <document1>, what is the health significance of this dish? Please include one related dish image in your answer."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0881_02.png"
+    },
+    "content": "The scrambled eggs in <image2> provide a good amount of protein, as indicated by the nutritional information. They can be a healthy choice, especially when paired with whole grains for a balanced meal."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "882",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0882_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0882_01.png"
+    },
+    "content": "Analyze the nutritional content of the <image1> which shows sweet potatoes in conjunction with the detailed nutrition values in <document1>. What could be a related dish that aligns well with this nutritional profile and include one image in the answer to illustrate your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0882_02.png"
+    },
+    "content": "A suitable dish that complements the observed nutritional values is a sweet potato and quinoa salad. This dish aligns with the low calories and high carbohydrate content noted. <image2> shows how this dish looks, illustrating a balanced meal option."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "883",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0883_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0883_01.png"
+    },
+    "content": "Analyze the nutritional value shown in <document1> and describe what kind of balanced meal <image1> represents. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0883_02.png"
+    },
+    "content": "The meal on <image2> provides a well-rounded diet. It includes proteins from eggs, carbohydrates from sweet potatoes, and a variety of nutrients from the berries, aligning closely with the nutritional table values shown in the input document."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "884",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0884_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0884_01.png"
+    },
+    "content": "Examine the <image1> showing a plate of grapes and <document1> providing nutritional information. Explain a potential healthy snack option using this data and indicate that the answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0884_02.png"
+    },
+    "content": "A healthy snack option could include a mix of grapes, apple slices, and blueberries. These fruits provide a balance of carbohydrates and fibers, making it a nutritious choice. Including <image2> helps visualize this healthy snack option."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "885",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0885_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0885_01.png"
+    },
+    "content": "Analyze the nutritional content and calorie density of the dish shown in <image1>, using the data in <document1>. The answer must include one image to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0885_02.png"
+    },
+    "content": "Based on the nutritional data, the dish consists primarily of fats and moderate amounts of protein and carbohydrates. <image2> illustrates a similar snack option."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "886",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0886_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0886_01.png"
+    },
+    "content": "Analyze the nutritional content of the cantaloupe pieces shown in <image1> using the data provided in <document1> and describe how these could be included in a healthy breakfast bowl. Ensure the answer includes one image to illustrate a suggested breakfast bowl."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0886_02.png"
+    },
+    "content": "The cantaloupe pieces depicted provide a light and nutritious element to a breakfast bowl, as they are low in calories and fat according to the nutritional data. They pair well with granola and yogurt, making for a balanced meal. <image2> visually represents this ideal breakfast bowl, combining the hydrating properties and natural sweetness of the fruit with the energy from granola and the probiotics in yogurt."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "887",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0887_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0887_01.png"
+    },
+    "content": "Analyze the contents shown in <image1> which includes fruits and nuts, and combine it with the nutritional details provided in <document1>. Explain how the nutrients are distributed and why this combination is healthy, making sure to include an image of a similar balanced meal in your explanation."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0887_02.png"
+    },
+    "content": "The combination of cantaloupe, red grapes, and almonds as illustrated in <image2> provides a well-rounded snack. The vitamins from the fruits are complemented by the healthy fats and proteins in the almonds, making this a nutritious choice."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "888",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0888_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0888_01.png"
+    },
+    "content": "Analyze the salad shown in <image1> along with its nutritional information in <document1>. Describe a similar nutritious dish that could complement this salad, including one image to illustrate the suggested dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0888_02.png"
+    },
+    "content": "A complementary dish to the salad shown could be a vibrant mixed greens salad, as illustrated in <image2>. This dish adds a variety of textures and nutrients, enhancing the meal's overall nutritional profile."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "889",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0889_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0889_01.png"
+    },
+    "content": "Analyze the nutritional content of almonds shown in <image1> using the data from <document1> and explain the benefits of including this food in a healthy diet. Include one image in your response to illustrate a related dish."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0889_02.png"
+    },
+    "content": "Including almonds in your diet can provide several health benefits, as they are rich in healthy fats, protein, and fiber. The nutritional data shows high protein and healthy fat content, making them an ideal snack for maintaining energy and satiety. Consider incorporating almonds into dishes like salads for extra nutrition and flavor, as illustrated in <image2>."
+  }
+}
+{
+  "domain": "general_domain",
+  "subdomain": "food",
+  "id": "890",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0890_01.jpg",
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/doc_0890_01.png"
+    },
+    "content": "Analyze the nutritional benefits of the dish shown in <image1>, using the nutritional values provided in <document1>. Answer must use an additional image to illustrate a related healthy food option."
+  },
+  "output": {
+    "modal": {
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0890_02.png"
+    },
+    "content": "The dish in <image2> provides a balanced meal option rich in nutrients. It enhances dietary fiber and includes healthy fats from almonds, similar to those shown in the original image and aligning with the nutritional information provided."
+  }
+}
