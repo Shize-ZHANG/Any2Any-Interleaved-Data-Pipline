@@ -15680,11 +15680,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of fresh soybean sheets, showing their texture and thickness, which are used as the main ingredient in the dish.",
-      "image3": "An image of soybean beans soaking in water, illustrating the initial step in preparing the soybean sheets.",
-      "image4": "A depiction of a person pressing soybeans to extract soy milk, a crucial process in making bean curd sheets.",
-      "image5": "An image of a steaming pot where soybean sheets are being formed as the soy milk surface cools and solidifies.",
-      "image6": "A vibrant illustration of prepared soybean sheets being arranged over fresh, crisp lettuce leaves, ready to be served."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0731_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0731_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0731_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0731_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0731_06.png"
     },
     "content": "The dish features fresh soybean sheets, often made from high-quality soybeans shown in <image2>. The preparation begins with soaking beans, as illustrated in <image3>, allowing them to soften. After soaking, beans are pressed to extract soy milk, depicted in <image4>. The soy milk is then heated, and thin sheets are carefully created in a steaming pot, as seen in <image5>. Finally, the dish is assembled by layering the prepared soybean sheets over crisp lettuce, vividly described in <image6>."
   }
@@ -15701,11 +15701,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A bowl of fresh strawberries with their leaves still attached, washed and ready for slicing.",
-      "image3": "A mixing bowl filled with pancake batter, showing the texture and consistency needed before cooking.",
-      "image4": "A non-stick pan with a golden-brown pancake cooking on one side, highlighting the ideal pancake color.",
-      "image5": "A piping bag filled with fresh whipped cream resting on a kitchen counter, ready for decorating.",
-      "image6": "Cubes of diced ripe mango on a cutting board, ready to be used as a topping."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0732_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0732_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0732_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0732_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0732_06.png"
     },
     "content": "To make fruit-topped pancakes like those in the image, you will need fresh ingredients. Start by preparing the strawberries <image2> as a key topping. Mix the batter to a smooth consistency <image3> before cooking each pancake until they are golden brown <image4>. Use a piping bag to add whipped cream <image5> between the layers. Finally, add diced mangoes <image6> for a tropical flavor twist."
   }
@@ -15722,11 +15722,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A bowl of fresh, raw shrimp with tails intact, displayed on a bed of ice.",
-      "image3": "A close-up of dried red chili peppers piled together, showing their vibrant color.",
-      "image4": "Garlic cloves and slices of ginger arranged on a cutting board, ready for chopping.",
-      "image5": "A hot wok on a stove with oil sizzling, used for stir-frying ingredients.",
-      "image6": "A small dish of steamed white rice, often served alongside spicy dishes."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0733_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0733_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0733_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0733_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0733_06.png"
     },
     "content": "To make the dish, start with fresh shrimp as shown in <image2>. The shrimp are cooked with aromatic dried chili peppers, depicted in <image3>, which give the dish its distinctive heat. Garlic and ginger, shown in <image4>, are also key ingredients that add depth to the flavor. These ingredients are stir-fried in a hot wok, like the one in <image5>. Finally, this dish is often complemented with a side of steamed rice, represented in <image6>."
   }
@@ -15743,11 +15743,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of raw beef short ribs, showcasing their marbling and freshness, before any seasoning.",
-      "image3": "A detailed image showing a variety of common spices including star anise, cloves, and cinnamon, often used to flavor braised ribs.",
-      "image4": "An image depicting the marinating process, with ribs submerged in a mixture of soy sauce, garlic, and ginger, allowing flavors to infuse.",
-      "image5": "A vibrant image of the ribs being seared in a pan over high heat, capturing the sizzling and browning process essential for flavor.",
-      "image6": "A visual of the final braising step, with ribs cooking slowly in a broth, steam rising to indicate moisture and tenderness."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0734_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0734_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0734_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0734_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0734_06.png"
     },
     "content": "To prepare a dish similar to the one shown, begin by selecting high-quality beef short ribs as seen in <image2>. Season the ribs with an array of spices such as those in <image3> to enhance their flavor. The next step involves marinating the meat; <image4> shows how the ribs should soak in a seasoned mixture. To seal in the flavors, sear the ribs on all sides as illustrated in <image5>. Finally, braise the ribs slowly in a savory broth, which is depicted in <image6>. Serve with a garnish for presentation."
   }
@@ -15764,11 +15764,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A fresh bowl of colorful, perfectly diced kiwi, mango, and strawberry pieces, ready to be used as cake toppings.",
-      "image3": "A close-up of creamy, smooth whipped cream being prepared in a mixing bowl.",
-      "image4": "A baking setup displaying cake pans, measuring cups, and a whisk, with flour and sugar in the background.",
-      "image5": "An oven shot showing the cake layers being baked, with a golden-brown top just visible.",
-      "image6": "A table with a piping bag, a decorative tip, and various cake decorating tools along with small fondant figures."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0735_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0735_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0735_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0735_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0735_06.png"
     },
     "content": "The cake is a vibrant birthday celebration cake featuring <image2> as the main fruit toppings. The whipped cream <image3> forms the base for these fruits. The initial preparation involves measuring ingredients with <image4>, followed by baking the layers as seen in <image5>. Finally, the decoration process makes use of <image6> to achieve the final look."
   }
@@ -15785,11 +15785,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed close-up of fresh bamboo shoots, highlighting their texture and freshness as key ingredients for the dish.",
-      "image3": "A vibrant image of soy sauce being poured into a bowl, representing an essential flavoring component in the recipe.",
-      "image4": "An image showcasing ginger and garlic finely chopped, illustrating common aromatics used in seasoning the dish.",
-      "image5": "A step-by-step photograph sequence showing the slow cooking process of the bamboo shoots in a soy-based sauce to achieve that rich, savory flavor.",
-      "image6": "A final image displaying a plate of steamed rice served alongside the cooked bamboo shoots, suggesting a typical way to enjoy the dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0736_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0736_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0736_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0736_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0736_06.png"
     },
     "content": "To prepare the dish, start with fresh bamboo shoots <image2>, and use soy sauce for a rich umami base <image3>. Add chopped ginger and garlic for aromatics <image4>. The bamboo shoots are slowly cooked in the soy-based sauce <image5> until tender. Serve with steamed rice for a complete meal <image6>."
   }
@@ -15806,11 +15806,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of red chili peppers, freshly chopped and ready for use in a recipe.",
-      "image3": "A vivid image showing green onions being sliced on a wooden cutting board.",
-      "image4": "An assortment of fresh mushrooms laid out on a kitchen counter, highlighting their textures.",
-      "image5": "A colorful array of different sauces and seasonings, including soy sauce, laid out in small bowls.",
-      "image6": "A step-by-step sequence showing tofu being cubed and fried to a golden brown in a pan."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0737_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0737_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0737_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0737_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0737_06.png"
     },
     "content": "The key ingredients of the dish include red chili peppers, green onions, mushrooms, and tofu. Firstly, as depicted in <image2>, the chili peppers add a spicy kick. The green onions, shown in <image3>, contribute a fresh, zesty flavor. Mushrooms, captured in <image4>, provide a rich, earthy taste and texture. A variety of seasonings, including soy sauce, as seen in <image5>, enhance the dish's flavor profile. Finally, <image6> illustrates the preparation of tofu, highlighting its transformation through frying."
   }
@@ -15827,11 +15827,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of fresh, uncooked clams arranged neatly to highlight their texture and freshness.",
-      "image3": "A vibrant display of fresh green onions on a wooden cutting board, showcasing their crispness and color.",
-      "image4": "A detailed image of a seafood market showcasing live crabs in a tank, emphasizing their vitality and suitability for the dish.",
-      "image5": "A step-by-step visual guide of preparing a rich seafood broth, with various herbs and spices laid out methodically.",
-      "image6": "An engaging scene of a chef expertly chopping vegetables and seafood, capturing the process of preparing the ingredients."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0738_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0738_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0738_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0738_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0738_06.png"
     },
     "content": "The dish in the image uses a variety of fresh seafood, as seen in <image2>. Key ingredients include fresh green onions <image3> for garnish, as well as crabs like those at the seafood market <image4>. The preparation involves creating a flavorful broth <image5>. Additionally, detailed preparation steps, including chopping ingredients <image6>, are essential for recreating this dish at home."
   }
@@ -15848,11 +15848,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant, colorful assortment of fresh vegetables such as bok choy, carrots, and mushrooms arranged on a wooden cutting board, highlighting their rich textures and colors.",
-      "image3": "A detailed close-up of a steaming hot pot, filled with a spicy, aromatic broth bubbling gently, with a focus on the herbs and spices visible in the broth.",
-      "image4": "A picturesque setup showing dipping sauces like sesame and soy sauce in elegant ceramic bowls, with chopped garlic and chili flakes beside them.",
-      "image5": "An array of fresh herbs such as cilantro and green onions on a kitchen countertop, their bright greens providing a fresh aroma.",
-      "image6": "A depiction of thinly sliced meat cooking in a hot pot, visibly changing color while surrounded by swirling steam and bubbles, capturing the cooking process vividly."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0739_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0739_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0739_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0739_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0739_06.png"
     },
     "content": "To fully appreciate the dish, it is essential to consider the ingredients and steps involved. Fresh vegetables, such as those in <image2>, are often added for crunch and nutrition. The dish is typically prepared in a flavorful broth as seen in <image3>, which infuses the meat with rich flavors. Dipping sauces like those in <image4> complement the taste, while fresh herbs in <image5> add a refreshing touch. Finally, the cooking process, depicted in <image6>, showcases the transformation of the meat as it cooks in the hot pot."
   }
@@ -15869,11 +15869,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of fresh, finely chopped carrots, showcasing their vibrant orange color and crisp texture.",
-      "image3": "An array of tofu, cut into thin, uniform slices, ready to be cooked or integrated into a dish.",
-      "image4": "A bowl of steamed white rice, the grains fluffy and perfectly cooked with a hint of gloss.",
-      "image5": "A serving of crunchy iceberg lettuce, shredded, highlighting its refreshing green hue.",
-      "image6": "A rich broth, steeped with herbs and spices, that adds depth and aroma to any meal."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0740_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0740_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0740_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0740_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0740_06.png"
     },
     "content": "The dish includes several key ingredients, each enhancing its taste and appearance. Fresh carrots, as seen in <image2>, add sweetness and color. Tofu, depicted in <image3>, provides protein and texture. The base of steamed rice, shown in <image4>, serves as a comforting staple. Iceberg lettuce, in <image5>, offers a fresh, crisp contrast. Finally, a savory broth, illustrated in <image6>, enriches the dish with aromatic depth."
   }
@@ -15890,11 +15890,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A bunch of raw white mushrooms, similar to enoki, ready for preparation on a wooden cutting board.",
-      "image3": "Fresh vegetables such as carrots, onions, and celery, chopped and arranged in a colorful dish for soup preparation.",
-      "image4": "A clear broth simmering in a pot, with visible herbs like thyme and bay leaves floating on the surface.",
-      "image5": "A step showing the mushrooms and vegetables being added to the simmering broth, releasing steam.",
-      "image6": "The final dish, a vibrant mushroom soup served in a bowl, garnished with fresh parsley and accompanied by sliced bread."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0741_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0741_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0741_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0741_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0741_06.png"
     },
     "content": "To create a delicious mushroom soup using the ingredients, start by preparing the mushrooms as seen in <image2>. Complement them with fresh vegetables like carrots and celery, depicted in <image3>. Begin brewing your soup with a broth similar to <image4>, allowing the flavors of thyme and bay leaves to infuse. Incorporate the mushrooms and vegetables into the broth, as illustrated in <image5>. Finally, serve this warming soup as shown in <image6>, garnished to perfection."
   }
@@ -15911,11 +15911,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of finely grated dark chocolate curls, used for decoration and flavor enhancement on the cake.",
-      "image3": "A bowl of fresh, ripe red cherries, perfect for topping and adding a burst of color and sweetness.",
-      "image4": "Smooth and creamy whipped cream being prepared, which is essential for covering and filling the layers of the cake.",
-      "image5": "A light and airy sponge cake layer, perfectly baked and ready to be assembled with other ingredients.",
-      "image6": "Dark chocolate ganache in a bowl, rich and glossy, prepared for drizzling over the cake for added depth of flavor."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0742_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0742_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0742_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0742_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0742_06.png"
     },
     "content": "To make the cake in the image, start by preparing the base with soft layers of sponge cake <image5>. Next, add a generous layer of creamy whipped cream <image4> to ensure a moist and fluffy texture. Incorporate a drizzle of rich chocolate ganache <image6> for a decadent touch. Top it with finely grated chocolate curls <image2> to add texture and enhance the chocolate flavor. Finally, embellish the cake with fresh cherries <image3> to provide a vibrant color contrast and a hint of natural sweetness."
   }
@@ -15932,11 +15932,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of ground taro, showcasing the texture and natural color of this popular starchy root used in the dish.",
-      "image3": "A clear image depicting shredded cabbage, indicating its crisp texture and fresh appearance before being added to the dish.",
-      "image4": "An illustration of a traditional preparation area for making taro-based dishes, including tools like knives and steaming baskets.",
-      "image5": "An image showing a variety of garnishes, such as chopped green onions and red chili slices, typically used for flavoring.",
-      "image6": "A vibrant depiction of a traditional dipping sauce made from soy, sesame oil, and garlic, often served alongside similar dishes."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0743_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0743_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0743_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0743_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0743_06.png"
     },
     "content": "The dish in <image2> uses taro as the main ingredient, finely ground to provide a smooth consistency. The fresh crunch of the shredded cabbage, seen in <image3>, complements the taro's earthy flavor. Traditionally, as shown in <image4>, these ingredients are steamed, enhancing the dish's soft texture. Additional flavors can be added with garnishes like those in <image5>. It's customary to serve this dish with a dipping sauce, as depicted in <image6>, to enhance its taste profile."
   }
@@ -15953,11 +15953,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant selection of fresh shrimp, glistening with moisture and ready for cooking.",
-      "image3": "Slices of tender calamari, neatly arranged on a wooden board, garnished with lemon wedges.",
-      "image4": "A variety of mushrooms, including shiitake and white button, scattered on a rustic table.",
-      "image5": "An assortment of fresh vegetables such as broccoli, bell peppers, and zucchini, all cut into bite-sized pieces.",
-      "image6": "A pile of dried red chilies, showcasing their bright color and adding a spicy touch to any dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0744_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0744_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0744_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0744_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0744_06.png"
     },
     "content": "To recreate the dish, start by selecting fresh shrimp as shown in <image2> and prepare tender calamari, which is beautifully illustrated in <image3>. Incorporate mushrooms, similar to those in <image4>, for an earthy flavor. Add fresh vegetables like in <image5> to enhance the dish with color and nutrition. Finally, sprinkle dried red chilies, as seen in <image6>, to give the dish its signature spicy kick."
   }
@@ -15974,11 +15974,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A pile of fresh pork ribs, uncooked, showing lean meat with some bone.",
-      "image3": "Slices of winter melon with a pale green color, prepared and ready to be added to a dish.",
-      "image4": "A handful of dry barley grains scattered across a wooden surface, displaying their texture.",
-      "image5": "A bunch of fresh cilantro leaves, showcasing their vibrant green color and delicate texture.",
-      "image6": "A boiling pot of soup with visible steam, featuring chunks of meat and melon surfacing in the bubbling broth."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0745_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0745_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0745_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0745_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0745_06.png"
     },
     "content": "The soup shown in the image includes several key ingredients such as pork ribs, winter melon, barley, and cilantro. The pork ribs <image2> are usually cut into smaller pieces and boiled until tender. Winter melon <image3> is sliced and added for its refreshing taste and texture. Barley <image4> provides additional nutritional value and a unique flavor when cooked. Fresh cilantro <image5> is often added towards the end of the cooking process for a burst of color and freshness. The preparation involves simmering these ingredients together <image6> until the flavors meld into a comforting and nourishing dish."
   }
@@ -15995,11 +15995,11 @@
   },
   "output": {
     "modal": {
-      "image2": "Sliced bamboo shoots in a vibrant yellow color, featured on a light wood background.",
-      "image3": "A group of fresh shiitake mushrooms with their distinct brown caps on a rustic kitchen table.",
-      "image4": "A plate of chopped green onions, their fresh green hue contrasted against a simple white dish.",
-      "image5": "A close-up shot of minced garlic with its rich, aromatic texture spread across a cutting board.",
-      "image6": "A step-by-step visual guide showing the stirring technique in a pan to combine all ingredients, highlighting the bubbling sauce and steaming vegetables."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0746_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0746_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0746_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0746_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0746_06.png"
     },
     "content": "To make the dish, you start by preparing ingredients like <image2> and <image3>. Add aromatic elements such as <image4> and <image5> to enhance the flavor. The cooking involves a specific technique captured in <image6>, which binds all ingredients into a cohesive, flavorful dish."
   }
@@ -16016,11 +16016,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed image of fresh raw fish, highlighting its texture and color, essential for the dish's preparation.",
-      "image3": "An image showing an assortment of colorful fresh chili peppers, such as red and green, used in garnishing the fish.",
-      "image4": "A vibrant image of ginger roots and garlic cloves, showcasing their textures and colors, key ingredients for flavoring.",
-      "image5": "An image depicting a variety of sauces and seasonings, like soy sauce and sesame oil, commonly used in Chinese cuisine.",
-      "image6": "An image showing the steaming process using a traditional bamboo steamer, with steam rising from it, essential for cooking the fish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0747_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0747_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0747_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0747_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0747_06.png"
     },
     "content": "The Chinese steamed fish dish involves several key steps and ingredients. The primary ingredient is fresh fish, as shown in <image2>, crucial for its tenderness and flavor. Red and green chili peppers, depicted in <image3>, are used for garnishing and adding a mild spice to the dish. Aromatics like ginger and garlic, seen in <image4>, provide a depth of flavor. Various sauces and seasonings, such as soy sauce and sesame oil, illustrated in <image5>, are integral to the marinade. The traditional method involves steaming, often done in a bamboo steamer, as captured in <image6>, to preserve the fish's delicate texture and enhance its flavors."
   }
@@ -16037,11 +16037,11 @@
   },
   "output": {
     "modal": {
-      "image2": "Close-up of fresh beef ribs, highlighting the marbling and texture essential for tenderness.",
-      "image3": "A bowl of marinade ingredients including soy sauce, garlic, ginger, and sesame oil used for flavoring the meat.",
-      "image4": "Sliced vegetables like bell peppers and onions laid out on a cutting board, ready to be added to the dish.",
-      "image5": "A photograph of kimchi, highlighting its vibrant colors and the fermentation process that adds depth to the side dish.",
-      "image6": "A set of cooking utensils including a cast-iron skillet and tongs, essential for achieving perfect sear on the meat and even cooking."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0748_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0748_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0748_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0748_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0748_06.png"
     },
     "content": "To prepare the dish depicted in the image, start by selecting high-quality beef ribs as shown in <image2>. Marinate the ribs with a mix of soy sauce, garlic, ginger, and sesame oil as depicted in <image3>. Prepare accompanying vegetables like bell peppers and onions, as seen in <image4>, to add flavor and texture. Serve it with kimchi, a traditional spicy and tangy side dish, illustrated in <image5>. Finally, use proper cooking utensils such as a cast-iron skillet and tongs for even cooking, as detailed in <image6>."
   }
@@ -16058,11 +16058,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of fresh black fungus, showcasing its texture and natural coloration.",
-      "image3": "An image showing the slicing process of vibrant red bell peppers, highlighting the smooth cutting action.",
-      "image4": "A detailed view of peeled and halved red onions, emphasizing their layers and sheen.",
-      "image5": "A transparent bowl filled with marinated wood ear mushrooms, displaying a rich soy sauce glaze.",
-      "image6": "A picture of green chili peppers, capturing their glossy surface and fresh appearance."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0749_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0749_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0749_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0749_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0749_06.png"
     },
     "content": "The dish prominently features black fungus, known for its earthy flavor and chewy texture, as seen in <image2>. Red bell peppers add a sweet and crisp contrast, typically prepared by slicing them as shown in <image3>. Red onions, which are peeled and halved, contribute a mild sharpness and visual appeal, evident in <image4>. The wood ear mushrooms are often marinated, giving them a savory taste that you can observe in <image5>. Green chili peppers introduce a spicy kick, with their fresh look captured in <image6>. Each ingredient is vital for the dish's overall flavor and appearance."
   }
@@ -16079,11 +16079,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of fresh shiitake mushrooms, showcasing their smooth, dark brown caps and creamy gills underneath, ready to be used in cooking.",
-      "image3": "A detailed image of raw shrimp, with their shiny shells and translucent flesh, emphasizing their freshness for use in the dish.",
-      "image4": "An image of fresh asparagus spears, bright green and sitting on a rustic wooden surface, highlighting their crisp texture.",
-      "image5": "An image showing whole clams with their slightly open shells revealing the tender, white flesh inside, indicating their freshness.",
-      "image6": "A step-by-step image guide of the steaming process in a traditional bamboo steamer, used for preparing the dish to achieve the perfect consistency."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0750_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0750_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0750_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0750_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0750_06.png"
     },
     "content": "The dish is a savory steamed egg custard known as Chawanmushi. The first ingredient is shiitake mushrooms, depicted in <image2>, which add an earthy flavor. Fresh shrimp, illustrated in <image3>, contribute a sweet and oceanic touch. Asparagus, shown in <image4>, is used for its crunchy texture and vibrant color. Clams, depicted in <image5>, offer a briny taste that complements the other components. Finally, the dish is traditionally prepared by steaming, as seen in <image6>, to achieve a silky smooth custard consistency."
   }
@@ -16100,11 +16100,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up of fresh, raw spaghetti noodles before boiling, showcasing their texture and thickness.",
-      "image3": "A variety of fresh vegetables, including carrots and bell peppers, sliced and ready for stir-frying.",
-      "image4": "Soy sauce being poured into a bowl, highlighting its deep, rich color and liquid texture.",
-      "image5": "Thin slices of ham being added to a hot frying pan, sizzling and releasing aromas.",
-      "image6": "A stir-fry process in action, with a wok tossing noodles and vegetables over high heat, capturing the motion and steam."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0751_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0751_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0751_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0751_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0751_06.png"
     },
     "content": "The dish shown in the image is a savory stir-fried noodle dish, primarily composed of ingredients like spaghetti noodles, vegetables, and ham. The fresh spaghetti provides a chewy texture as seen in <image2>, which pairs well with the crunchiness of vegetables such as carrots and bell peppers depicted in <image3>. For flavor, soy sauce is a crucial component, as illustrated in <image4>, adding a salty and umami depth. The inclusion of ham, shown sizzling in <image5>, adds a smoky, savory element to the dish. Finally, the entire preparation comes together in the high heat of a wok, ensuring every ingredient is evenly cooked, as demonstrated in <image6>."
   }
@@ -16121,11 +16121,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of fresh carrots and potatoes, cut into cubes, ready for cooking.",
-      "image3": "An image of raw beef chunks, seasoned and sitting on a wooden chopping board, illustrating the primary protein used.",
-      "image4": "A picture of white rice being steamed, showcasing its fluffy texture, which complements the dish.",
-      "image5": "A detailed image of a steaming pot of curry sauce, thickened with spices, bubbling gently.",
-      "image6": "An image of assorted vegetables used in side dishes, including cabbage, cucumbers, and tomatoes, artfully arranged."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0752_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0752_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0752_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0752_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0752_06.png"
     },
     "content": "The dish depicted is a hearty curry meal, typically featuring ingredients like <image2>, which provide bulk and sweetness. The protein is often <image3>, giving the curry its rich flavor. It is accompanied by <image4>, essential for balance. The curry base itself, like <image5>, is a blend of aromatic spices and thick gravy. Complementary side dishes often include ingredients such as those in <image6>, which add freshness and texture."
   }
@@ -16142,11 +16142,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up view of fresh fish prepared for cooking, showing its scaly skin and firm flesh, ready to be seasoned.",
-      "image3": "An assortment of vibrant green scallions and fiery red chili peppers, chopped and ready to add flavor and color to the dish.",
-      "image4": "A variety of spices including star anise, Sichuan peppercorns, and cinnamon sticks laid out before being added to the broth.",
-      "image5": "A pot of bubbling broth infused with aromatics and spices, creating a rich and savory base for the dish.",
-      "image6": "The final garnishing stage with chopped cilantro and spring onions sprinkled over the cooked fish, enhancing visual appeal and aroma."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0753_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0753_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0753_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0753_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0753_06.png"
     },
     "content": "The dish is a spicy fish stew prominently featuring fresh fish as the main ingredient, represented in <image2>. The dish is enhanced with chopped scallions and chili peppers as seen in <image3>, providing a burst of color and spicy notes. Key spices like those in <image4> infuse the broth with depth and warmth. The broth in <image5>, simmering with these spices, forms a rich, flavorful base, while garnishing with cilantro and spring onions as shown in <image6> completes the dish with freshness and visual allure."
   }
@@ -16163,11 +16163,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of freshly picked lemons, highlighting their vibrant yellow color and texture.",
-      "image3": "An image showing a sprig of fresh rosemary, showcasing its needle-like leaves and aromatic quality.",
-      "image4": "A detailed image of a cutting board with sliced citrus fruits, indicating their juicy interior.",
-      "image5": "An image representing a glass of freshly squeezed orange juice, capturing its bright orange hue.",
-      "image6": "An image of ice cubes on a tray demonstrating their crystalline form, essential for the drink's chill."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0754_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0754_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0754_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0754_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0754_06.png"
     },
     "content": "To make the refreshing drink, start by preparing fresh lemonade using juicy lemons as shown in <image2>. Add a sprig of rosemary for a herbal touch, as depicted in <image3>. Slice additional citrus fruits to enhance the flavor, which is illustrated in <image4>. Freshly squeezed orange juice provides a sweet and tangy base, demonstrated in <image5>. Finally, ensure the drink is served ice-cold with the help of ice cubes like those in <image6>."
   }
@@ -16184,11 +16184,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant image showcasing fresh green peppers, sliced thinly, ready to be used as an ingredient in a stir-fried dish.",
-      "image3": "A detailed close-up shot of raw eggs being cracked into a bowl, with their yolks and whites clearly visible and ready to be whisked.",
-      "image4": "An image displaying a variety of colorful bell peppers, including red and yellow, adding visual interest and flavor complexity.",
-      "image5": "A vivid depiction of minced garlic and ginger on a cutting board, essential aromatics for enhancing the flavor of a stir-fry.",
-      "image6": "An image illustrating a hot wok with a sizzling stir-fry of mixed vegetables and scrambled eggs, capturing the lively cooking process."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0755_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0755_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0755_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0755_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0755_06.png"
     },
     "content": "To prepare this delicious stir-fried egg and pepper dish, start by gathering fresh ingredients such as thinly sliced green peppers <image2> and raw eggs <image3>. Additional colorful bell peppers <image4> can be included for more flavor depth. Mince garlic and ginger <image5> to enhance the dish's aromatics. Begin by heating a wok, and add the mixed vegetables and eggs, stirring briskly until cooked <image6>."
   }
@@ -16205,11 +16205,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of fresh tomatoes, showcasing their vibrant red color and juicy appearance, essential for the sauce.",
-      "image3": "A photo of ground beef, seasoned with herbs and spices, ready to be cooked until brown and fragrant.",
-      "image4": "An image showing a variety of cheeses, including mozzarella and parmesan, grated and ready to be melted on top of the dish.",
-      "image5": "A photograph of a white ceramic casserole dish, with layers of cooked pasta sheets and filling starting to be assembled.",
-      "image6": "An image illustrating fresh basil leaves being placed on top of the finished dish, adding a touch of color and flavor."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0756_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0756_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0756_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0756_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0756_06.png"
     },
     "content": "To prepare the dish shown, start by creating a rich tomato sauce using fresh tomatoes <image2>. Cook the ground beef with herbs and spices until brown <image3>. Layer the casserole dish with cooked pasta sheets, topping each layer with the flavorful meat sauce and a mixture of grated cheeses <image4>. Once assembled <image5>, bake until the cheese is melted and bubbly. Finally, garnish with fresh basil leaves to enhance the aroma <image6>."
   }
@@ -16226,11 +16226,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A bowl of fresh and ripe cherries, glistening with a natural shine, ready to be used for cake topping.",
-      "image3": "Slices of juicy, vibrant peaches that are perfect for garnishing the cake and adding a fruity flavor.",
-      "image4": "A collection of rich, dark chocolate shavings in a small bowl, prepared to be sprinkled around the cake.",
-      "image5": "Whipped cream in a piping bag, with decorative nozzles, ready to create beautiful swirls on the cake.",
-      "image6": "A step-by-step visual guide showing the layering of cake, cream, and fruits to create a stunning dessert."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0757_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0757_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0757_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0757_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0757_06.png"
     },
     "content": "To recreate a cake like the one shown, <image2> demonstrates the use of fresh cherries for decoration. Next, <image3> shows peach slices utilized for a sweet and tangy topping. Adding elegance, <image4> illustrates chocolate shavings. Then, <image5> shows whipped cream essential for decoration. Finally, <image6> provides a visual of the entire cake-making process, ensuring your dessert is both delicious and visually appealing."
   }
@@ -16247,11 +16247,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed shot of fresh clams in a market, showcasing their shiny and smooth shells.",
-      "image3": "Ingredients including garlic, olive oil, parsley, and lemon laid out on a wooden kitchen surface.",
-      "image4": "A step-by-step process image showing clams being washed thoroughly under running water in a colander.",
-      "image5": "Clams being cooked in a pan with a white wine sauce, garlic, and herbs, giving off steam.",
-      "image6": "A serving suggestion image showing the finished clam dish garnished with parsley and lemon wedges, served in a beautiful dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0758_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0758_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0758_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0758_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0758_06.png"
     },
     "content": "To prepare a tasty clam dish, start by selecting fresh clams <image2> from your local market. Gather essential ingredients like garlic, olive oil, parsley, and lemon <image3>. Begin by cleaning the clams <image4> to remove any sand and impurities. Cook them gently in a white wine sauce, adding garlic and herbs <image5> for flavor. Finally, present the dish attractively, garnished with parsley and lemon wedges <image6> for a fresh burst of flavor."
   }
@@ -16268,11 +16268,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up shot of vibrant peaches, showcasing their juicy texture and rich color, often used to adorn cakes.",
-      "image3": "A detailed image of kiwi slices, highlighting their bright green flesh and tiny black seeds, which are commonly seen as cake toppings.",
-      "image4": "An image showing a variety of icing colors, ranging from pastels to bold hues, in piping bags ready for cake decorating.",
-      "image5": "A step-by-step illustration of making fruit decorations, including slicing and arranging them artistically on a cake.",
-      "image6": "A depiction of the cake base being frosted with smooth icing, preparing the canvas for further colorful embellishments."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0759_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0759_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0759_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0759_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0759_06.png"
     },
     "content": "The cake's decoration involves a medley of fruits like peaches and kiwis, as seen in <image2> and <image3>, adding freshness and color. Different icing colors and techniques, shown in <image4>, allow for creative designs. The process of slicing and arranging fruits decoratively, illustrated in <image5>, enhances visual appeal. Finally, <image6> depicts the smooth icing base crucial for adhering decorative elements securely."
   }
@@ -16289,11 +16289,11 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of fresh lemons being sliced on a wooden cutting board, with a sharp knife and lemon halves displayed prominently.",
-      "image3": "A detailed image of sugar being measured into a small glass bowl, showing the texture of the sugar crystals under natural light.",
-      "image4": "An image capturing water being poured from a jug into a pitcher, with ice cubes glistening in the sunlight.",
-      "image5": "A scene of fresh mint leaves being rinsed under running water, with droplets clinging to the vibrant green leaves.",
-      "image6": "An image of a hand stirring the lemonade mixture with a long spoon in a clear glass pitcher, surrounded by sliced lemons and mint sprigs."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0760_02.png",
+      "image3": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0760_03.png",
+      "image4": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0760_04.png",
+      "image5": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0760_05.png",
+      "image6": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0760_06.png"
     },
     "content": "To make the perfect summer beverage, begin by slicing fresh lemons <image2> to extract their juice. Combine the lemon juice with sugar <image3>, and mix until dissolved. Add chilled water <image4> and a generous amount of ice cubes to keep the drink refreshing. Rinse fresh mint leaves <image5> to add a complementary flavor. Finally, stir the mixture thoroughly <image6> to ensure all ingredients are well combined and serve chilled for best enjoyment."
   }
