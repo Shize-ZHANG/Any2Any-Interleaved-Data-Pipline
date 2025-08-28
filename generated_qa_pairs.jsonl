@@ -17001,7 +17001,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A fresh Mediterranean salad featuring mixed greens, cherry tomatoes, cucumbers, sliced red onions, and the olives shown in the original image. The salad is dressed with a light vinaigrette made of olive oil, lemon juice, salt, and pepper. It offers a balanced meal high in healthy fats and low in carbohydrates, suitable for a refreshing and nutritious lunch."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0791_02.png"
     },
     "content": "The olives can be used in a Mediterranean salad, adding a rich flavor and healthy fats to this refreshing dish. <image2> illustrates this vibrant and nutritious meal."
   }
@@ -17019,7 +17019,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A fresh green salad featuring mixed leafy greens, cherry tomatoes, and sliced cucumbers, drizzled with a light vinaigrette dressing. This visually represents a healthy dish that aligns with the nutritional content described in the input."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0792_02.png"
     },
     "content": "The dish is a simple salad with mixed greens, which are low in calories and high in nutrients, aligning with the shown nutritional data values. The low fat and protein content suggest a light, refreshing meal, perfect for a healthy diet. <image2>"
   }
@@ -17037,7 +17037,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A Mediterranean salad featuring a variety of vegetables like tomatoes, cucumbers, and bell peppers, complemented with black and kalamata olives, topped with crumbled feta cheese and drizzled with olive oil."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0793_02.png"
     },
     "content": "To prepare a dish with the olives shown in <image2>, consider making a Mediterranean salad. This salad incorporates fresh vegetables and olives to balance the nutritional profile, adhering to the table's details like low calories and moderate fat content."
   }
@@ -17055,7 +17055,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant salad bowl featuring roasted Brussels sprouts, mixed greens, cherry tomatoes, sliced avocados, and a sprinkle of almonds on top. This dish is positioned as an ideal choice for a low-calorie diet, complementing the nutritional profile of the initial image and document."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0794_02.png"
     },
     "content": "A suitable meal plan for a low-calorie diet can include a salad with roasted Brussels sprouts as seen in <image2>. The salad incorporates the nutrients from the Brussels sprouts while keeping the calorie count low, aligning with the nutritional data provided in the document."
   }
@@ -17073,7 +17073,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed image of a nutritional salad with pieces of cucumber, some nuts for protein, and a light vinaigrette dressing to match the low-calorie, low-fat profile presented. The salad is served in a large bowl with a variety of colors highlighting the freshness and healthiness of the dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0795_02.png"
     },
     "content": "The food shown has a very low calorie content and minimal fat, making it an excellent choice for a healthy diet. To maintain nutritional balance, it's beneficial to pair such foods with protein-rich ingredients. An example of this is a refreshing salad with added nuts or seeds, which provide necessary proteins and fats, balanced with vegetables depicted in <image2>."
   }
@@ -17091,7 +17091,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A colorful salad containing fresh vegetables such as mixed greens, cherry tomatoes, cucumbers, and olives, sprinkled with feta cheese. This dish is arranged neatly on a white plate, displaying a nutritious and balanced vegetarian meal ideal for a light lunch."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0796_02.png"
     },
     "content": "The meal pictured is high in nutrients but low in calories, making it an excellent option for a balanced diet. The visual representation of a similar healthy dish is shown in <image2>, demonstrating an ideal composition for maintaining a healthy lifestyle."
   }
@@ -17109,7 +17109,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A hearty salad featuring Brussels sprouts, sliced green bell peppers, and black olives, garnished with a light vinaigrette. The salad is arranged on a white plate and includes a sprinkle of sesame seeds on top for added texture."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0797_02.png"
     },
     "content": "The dish shown in <image2> demonstrates a healthy meal option utilizing similar ingredients like Brussels sprouts, green bell peppers, and olives. According to the nutritional data, the original dish provides a balanced combination of macro-nutrients, notably low in calories and fat, which makes such a salad an excellent choice for a nutritious diet."
   }
@@ -17127,7 +17127,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A beautifully arranged plate of roasted Brussels sprouts, olives, and diced celery, placed on an elegant white dish garnished with lemon wedges and a sprinkle of fresh herbs."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0798_02.png"
     },
     "content": "The dish in the image consists of Brussels sprouts, olives, and celery, which are healthy low-calorie options, reflected by the 103.3 calories detailed in the nutritional chart. The low fat and protein content align with typical plant-based ingredients. An image of a similarly composed dish with added garnishes is shown in <image2>."
   }
@@ -17145,7 +17145,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A plate of lightly sautéed Brussels sprouts with olives and sliced bell peppers, garnished with fresh herbs. This dish is presented on a square white plate and arranged aesthetically to highlight a more balanced nutritional profile with fewer calories."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0799_02.png"
     },
     "content": "To create a similar dish with fewer calories, consider reducing the quantity of olives and using a larger portion of Brussels sprouts and bell peppers. This substitution can maintain volume while lowering total calorie content. A relevant example is shown in <image2>, where the dish is accompanied by fresh herbs for enhanced flavor without additional calories."
   }
@@ -17163,7 +17163,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A plate of mixed vegetables including roasted Brussels sprouts, olives, and celery, garnished with a light drizzle of olive oil, served on a round blue ceramic dish. The vegetables are arranged aesthetically, emphasizing freshness and a variety of colors."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0800_02.png"
     },
     "content": "The dish in <image2> highlights similar health benefits as the original meal. It provides a balance of low calories and a substantial amount of healthy fats, carbohydrates, and proteins, maximizing nutritional benefits while keeping caloric intake in check. Incorporating such meals supports heart health and offers a nutritious dietary option."
   }
@@ -17181,7 +17181,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A colorful salad presented on a plate, composed of Brussels sprouts, olives, and chopped celery sticks. The salad is visually appealing with a mix of green and dark colors. It is a low-calorie and nutritious dish, highlighting the values seen in the nutritional information, such as low fat and moderate carbohydrates, providing an excellent balance for a healthy meal."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0801_02.png"
     },
     "content": "The dish in <image2> presents a healthy and balanced nutritional profile with only 103.3 calories, making it suitable for a low-calorie diet. The Brussels sprouts and olives provide fiber and nutrients, while celery adds a crunch to the salad. This combination aligns with the nutritional data, offering a favorable amount of carbohydrates and proteins against fats."
   }
@@ -17199,7 +17199,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A bowl of mixed berries including strawberries and blueberries, garnished with a mint leaf."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0802_02.png"
     },
     "content": "The fruits shown are strawberries and blueberries, with nutritional data indicating low calories and high fiber content, supporting its role as a healthy snack option. Including a serving of mixed berries like the dish shown in <image2> can provide further antioxidants and vitamins."
   }
@@ -17217,7 +17217,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A plate of scrambled eggs with a side of sliced avocado and cherry tomatoes, garnished with herbs, on a wooden table with natural lighting"
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0803_02.png"
     },
     "content": "This dish, as seen in <image2>, shows how scrambled eggs can be balanced with healthy fats and additional nutrients by adding avocado and tomatoes. This combination enhances the dish with vitamins and minerals, making it more well-rounded while maintaining a moderate calorie count."
   }
@@ -17235,7 +17235,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A close-up image of a prepared dish of roasted sweet potatoes garnished with herbs, served on a white plate, illustrating a similar food item and presentation style as in the input image."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0804_02.png"
     },
     "content": "The nutritional values indicate that the dish is low in calories and fats, while being primarily composed of carbohydrates, which is characteristic of sweet potatoes often used in roasted dishes. The visually similar dish shown in <image2> demonstrates how these nutritional elements come together in another culinary setting."
   }
@@ -17253,7 +17253,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A healthy breakfast plate featuring scrambled eggs, sweet potatoes, and fresh strawberries, arranged on a white dish. This dish is low in calories and rich in proteins and carbohydrates, providing a balanced meal option."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0805_02.png"
     },
     "content": "The nutritional content provided in the nutrition table shows a balanced distribution of proteins and carbohydrates, aligning well with the items visible in the image. The total calories complement the portion size depicted. An example dish inspired by these values is illustrated in <image2>, offering a nutritious and delicious meal."
   }
@@ -17271,7 +17271,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed image of a complete meal consisting of grilled fish accompanied by a side of roasted vegetables and a mixed greens salad. The dish should illustrate a well-balanced portion, harmonizing proteins and healthy fats from the fish with the vitamins and fibers provided by the vegetables and salad."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0806_02.png"
     },
     "content": "To maintain a balanced diet, as illustrated in <image2>, this meal combines the high protein and moderate fat content of the fish with fiber-rich vegetables, making it both nutritious and satisfying."
   }
@@ -17289,7 +17289,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A well-balanced meal consisting of a grilled chicken breast served alongside a quinoa salad mixed with cherry tomatoes, spinach, and a light vinaigrette. The dish is completed with a serving of brown rice and steamed broccoli, providing a good balance of proteins, fats, and carbohydrates."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0807_02.png"
     },
     "content": "To complement the eggplant dish with adequate nutrition, consider a meal that includes grilled chicken, quinoa salad, brown rice, and steamed broccoli. This combination offers a balance of protein, essential fats, and carbohydrates, aligning with the nutritional data provided. <image2>"
   }
@@ -17307,7 +17307,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant mixed salad containing spinach, cherry tomatoes, cucumbers, and grilled chicken. The dish is balanced with nutrients, providing a good source of protein and vitamins while remaining low in calories, demonstrating a healthy meal option."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0808_02.png"
     },
     "content": "The nutritional content shows a low-calorie and low-fat meal, typical for a diet-conscious serving. A balanced meal that complements this nutrition could include <image2>, which offers a variety of vegetables and lean protein necessary for a balanced diet."
   }
@@ -17325,7 +17325,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant Mediterranean quinoa salad with cherry tomatoes, cucumbers, feta cheese, and a sprinkle of parsley, served in a white bowl. This dish offers a good balance of carbohydrates and fiber that complement the protein-rich and low-calorie content shown in the input, enhancing both flavor and nutritional profile."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0809_02.png"
     },
     "content": "To complement the nutritional balance shown in the inputs, a Mediterranean quinoa salad could be paired to enhance the overall dietary intake. This dish adds essential fibers and carbohydrates, providing a fuller meal experience. See the proposed dish in <image2>."
   }
@@ -17343,7 +17343,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A grilled chicken salad featuring chopped grilled chicken breast on a bed of mixed greens, tomatoes, cucumbers, and bell peppers, dressed lightly with olive oil and lemon juice. The salad highlights the high protein content and low fat of the chicken, as depicted in the nutritional table."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0810_02.png"
     },
     "content": "A grilled chicken salad can be prepared using the chicken shown. The salad offers an excellent source of protein, minimal fat, and no carbohydrates, aligning with the nutritional profile detailed. <image2>"
   }
@@ -17361,7 +17361,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A plate with a small portion of cauliflower rice garnished lightly with herbs. The portion is designed to reflect a recommended serving size for a low-calorie diet, emphasizing a balance of nutrients while maintaining low caloric intake."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0811_02.png"
     },
     "content": "An appropriate serving size might be a smaller portion that ensures a calorie intake aligns with dietary goals. A potential way to serve this could be seen in <image2>, which demonstrates a portion suitable for a low-calorie diet while providing necessary nutrients."
   }
@@ -17379,7 +17379,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A fresh mixed greens salad with cherry tomatoes, cucumbers, and a light vinaigrette dressing. The salad is visually appealing with a variety of greens and colorful vegetables displayed in a white bowl, offering a nutritious and low-calorie accompaniment to balance the high protein content of the main dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0812_02.png"
     },
     "content": "The meal depicted in the images shows a high-protein dish, which is great for muscle building. To balance it, adding a light salad can provide necessary vitamins and fiber. Here is a possible side dish: <image2>."
   }
@@ -17397,7 +17397,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A grilled chicken and steak salad featuring mixed greens, roasted vegetables, and a light vinaigrette. The dish is arranged beautifully on a white plate, showcasing a balanced meal with protein, fiber, and essential nutrients."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0813_02.png"
     },
     "content": "The dish depicted in <image2> complements the nutritional information provided by having a balanced mix of high protein levels, moderate calories, and low carbohydrates, making it ideal for a protein-rich diet."
   }
@@ -17415,7 +17415,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A colorful salad bowl featuring an assortment of fresh spinach leaves, cherry tomatoes, sliced cucumbers, and a sprinkle of feta cheese. The dish is garnished with a light vinaigrette, highlighting its low-calorie and high-vitamin content. The vibrant colors and textures emphasize the freshness and nutritional value of the spinach, as mentioned in the analysis."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0814_02.png"
     },
     "content": "The nutritional analysis of the dish in <image2> illustrates a healthy, low-calorie meal ideal for maintaining a balanced diet while being rich in essential vitamins and minerals."
   }
@@ -17433,7 +17433,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed image of a fresh cucumber salad with thinly sliced cucumbers, garnished with a light sprinkle of herbs, served in a clear glass bowl to emphasize its healthiness and low-calorie content."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0815_02.png"
     },
     "content": "The dish, consisting mainly of cucumbers, aligns well with a low-calorie diet as reflected by the nutritional information in <document1> showing only 3.10 total calories. Complementing this analysis, <image2> presents an appealing cucumber salad reinforcing its nutritional benefits."
   }
@@ -17451,7 +17451,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant salad featuring avocado slices, lettuce, cherry tomatoes, and a light vinaigrette drizzled on top, served in a bowl to highlight a healthy and balanced meal concept."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0816_02.png"
     },
     "content": "The avocado slices shown provide healthy fats and essential nutrients, as indicated in the nutritional information. Integrating such foods, as depicted in the <image2>, into a salad with vegetables creates a nutritious and balanced dish, suitable for a healthy diet."
   }
@@ -17469,7 +17469,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A dish of snails cooked with a garlic butter sauce, elegantly presented on a white plate, garnished with parsley for a touch of color."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0817_02.png"
     },
     "content": "The food item, identified as snails, relates to various dietary benefits due to its low calorie and fat content, as shown in the nutritional data. Incorporating such items can support low-calorie diets while providing sufficient protein. A practical application of this is seen in the preparation of escargot, which can be made more flavorful with garlic and herbs. The accompanying <image2> illustrates this dish, showcasing a savory presentation that delights the senses and complements a health-conscious meal plan."
   }
@@ -17487,7 +17487,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A bowl of quinoa salad, featuring colorful vegetables like bell peppers, cherry tomatoes, and a sprinkle of feta cheese. This vibrant dish is high in protein and fiber, complementing the existing nutrients from the spinach and avocado salad."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0818_02.png"
     },
     "content": "To enhance the nutritional profile of the spinach and avocado salad analyzed, adding a quinoa salad can be beneficial. <image2> illustrates this dish, which boosts protein and fiber intake, providing a balanced meal."
   }
@@ -17505,7 +17505,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A visually appealing image of a dish of scrambled eggs served with a side of fresh spinach salad and a slice of whole-grain toast, garnished with herbs. The dish complements the nutritional content shown, focusing on balanced macros and vitamins."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0819_02.png"
     },
     "content": "The dish in <image2> is an enhanced version of scrambled eggs, showcasing a balanced meal with added greens and whole grains, which provides additional fiber, vitamins, and minerals to support the nutritional content described."
   }
@@ -17523,7 +17523,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A well-plated dish of steamed broccoli, presented on a white plate with a garnish of lemon slices and a sprinkle of sesame seeds, highlighting its nutritional quality and appealing presentation."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0820_02.png"
     },
     "content": "The dish, mainly consisting of broccoli, as depicted in <image2>, is low in calories and fat, making it a healthy option. The addition of garnishes like lemon and sesame seeds not only enhances flavor but also adds nutritional value."
   }
@@ -17541,7 +17541,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A breakfast bowl including sliced strawberries, bananas, granola, and yogurt, arranged in an aesthetic manner. The bowl is garnished with a sprinkle of chia seeds and a drizzle of honey. The image emphasizes a fresh, colorful, and nutritious breakfast."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0821_02.png"
     },
     "content": "To enhance the dish into a healthy breakfast, add ingredients like bananas, granola, and yogurt to complement the strawberries seen in <image2>. This will increase the protein and fiber content, making it more filling and nutritious."
   }
@@ -17559,7 +17559,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed image of a raspberry yogurt parfait. The image shows layers of creamy yogurt and fresh raspberries in a transparent glass, garnished with granola on top. The raspberries are vibrant red and the granola adds a crunchy texture, complementing the smooth yogurt. The dish is presented on a wooden table, accompanied by a silver spoon."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0822_02.png"
     },
     "content": "By using the nutritional data, you can create a healthy raspberry parfait by layering fresh raspberries with yogurt, minimizing calorie intake while enhancing flavor and texture <image2>."
   }
@@ -17577,7 +17577,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A crisp, well-cooked bacon strip on a plate served with a side of scrambled eggs and a sprig of parsley for garnish, indicating a balanced breakfast option with proteins from eggs and enhanced nutritional presentation."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0823_02.png"
     },
     "content": "Based on the high protein and fat content in the dish, this food provides significant energy but should be consumed in moderation within a balanced diet. The presence of protein is beneficial for muscle repair, while the fat content demands cautious consumption to maintain heart health. For instance, serving it alongside high-fiber foods or greens could provide additional nutrition and balance, as illustrated in <image2>."
   }
@@ -17595,7 +17595,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A modified version of the original dish, featuring an added grilled chicken breast to increase the protein content. The plate now includes scrambled eggs, bacon, strawberries, raspberries, broccoli, and a piece of grilled chicken, making it a high-protein meal."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0824_02.png"
     },
     "content": "To increase the protein content of the dish, a grilled chicken breast can be added alongside the other components. This modification maintains balance and enhances nutritional value. The adjusted dish is illustrated with the addition seen in <image2>."
   }
@@ -17613,7 +17613,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A delicious dish featuring cooked sweet potatoes, presented in a visually appealing manner. The plate includes a larger portion of roasted sweet potatoes garnished with fresh herbs, accompanied by a side of grilled chicken breast and steamed broccoli, arranged on a white dinner plate."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0825_02.png"
     },
     "content": "Based on the analysis, a complete meal could include roasted sweet potatoes along with grilled chicken and steamed vegetables to balance the nutrients. The <image2> visually represents this dish."
   }
@@ -17631,7 +17631,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A small plate of fluffy scrambled eggs garnished with fresh herbs, served on a clean, white background to highlight the texture and presentation of the eggs."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0826_02.png"
     },
     "content": "The dish analyzed contains scrambled eggs, which are represented in the image as a small portion on a plate. Based on the nutritional information provided, it is a low-calorie meal with a total of 26.43 calories, 1.785 grams of fat, 0.204 grams of carbohydrates, and 2.125 grams of protein. Such a dish is suitable for those seeking a high-protein, low-calorie diet. An illustration of a similar dish can be seen in <image2>."
   }
@@ -17649,7 +17649,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A fresh fruit salad image that includes blackberries, strawberries, and blueberries, garnished with mint leaves. The salad is presented in a glass bowl, highlighting vibrant colors and variety, emphasizing a balanced and nutritious food choice."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0827_02.png"
     },
     "content": "The food item shown provides a low-calorie, nutrient-dense option suitable for a balanced diet. Incorporating such foods can aid in maintaining dietary goals. The accompanying <image2> of a mixed fruit salad illustrates how combining different fruits can enhance nutritional variety and appeal."
   }
@@ -17667,7 +17667,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A colorful fruit salad including a variety of fruits like strawberries, blueberries, and mango cubes, mixed in a bowl."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0828_02.png"
     },
     "content": "To enhance the nutritional value of the dish shown, consider adding a variety of fruits such as blueberries and mango, which are rich in vitamins and antioxidants. This would increase the total caloric value slightly while providing a broader range of nutrients. The improved dish can look like this: <image2>."
   }
@@ -17685,7 +17685,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant image of a bowl of fresh raspberries, garnished with a sprig of mint, sitting on a wooden table. The setting is adorned with natural sunlight illuminating the scene, showcasing the freshness and nutritional appeal of the raspberries as a healthy snack."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0829_02.png"
     },
     "content": "Raspberries provide a low-calorie, nutrient-rich option perfect for snacking, as their natural sugars and dietary fibers help maintain energy levels while supporting digestive health. The depicted <image2> shows how raspberries can be styled appealingly, encouraging consumption as a wholesome snack."
   }
@@ -17703,7 +17703,7 @@
   },
   "output": {
     "modal": {
-      "image2": "The image shows a balanced breakfast plate with scrambled eggs, sliced fruits, and sweet potatoes arranged neatly. The fruits include strawberries, raspberries, and blackberries, providing vitamins and fiber, while sweet potatoes offer carbohydrates. Scrambled eggs contribute protein and healthy fats, providing a well-rounded meal consistent with the values shown in the nutritional table."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0830_02.png"
     },
     "content": "A balanced breakfast includes a variety of food groups to provide energy and essential nutrients. The plate with scrambled eggs, fruits like strawberries and berries, along with sweet potatoes, offers a blend of protein, vitamins, fiber, and carbohydrates. This combination mirrors the nutritional values of total calories and macronutrients displayed in the nutrition table. <image2> illustrates this balanced meal, emphasizing the importance of diverse food groups in breakfast."
   }
@@ -17721,7 +17721,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant green melon salad garnished with mint leaves and strawberries, presented on a white plate. This dish showcases the use of melons combined with other fruits, creating a visually appealing and refreshing dish, emphasizing the low-calorie and hydrating qualities typical of melon."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0831_02.png"
     },
     "content": "Based on the visual and nutritional analysis, the fruit shown is suitable for a fresh fruit salad. The low calories and high water content make it ideal for a light, refreshing dish like a melon salad. <image2> illustrates a potential serving suggestion for the melon in a mixed fruit salad."
   }
@@ -17739,7 +17739,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant fruit salad containing chunks of orange melon, strawberries, grapes, and blueberries, arranged beautifully in a bowl. The dish is topped with a light drizzle of honey and garnished with mint leaves, emphasizing freshness and a mix of flavors."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0832_02.png"
     },
     "content": "A nutritious dish inspired by the depicted fruit and nutritional values is a mixed fruit salad. This includes an array of fruits like melon, strawberries, and blueberries, providing a balance of carbohydrates and natural sugars for energy. See the delightful presentation of this dish in <image2>."
   }
@@ -17757,7 +17757,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A plate with scrambled eggs garnished with parsley. The dish is accompanied by a slice of whole-grain toast and a small serving of avocado on the side, providing a balanced nutritional profile similar to the protein content of the bacon."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0833_02.png"
     },
     "content": "The bacon shown has a high protein content relative to its mass, as indicated in the nutritional data. A similar dish that can fit into a balanced diet while providing comparable protein levels is scrambled eggs with whole-grain toast and avocado. This offers a more comprehensive nutritional profile with added healthy fats and fiber. Refer to <image2> to see this dish visually."
   }
@@ -17775,7 +17775,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A colorful breakfast platter featuring assorted fresh fruits like sliced bananas, strawberries, and blueberries alongside a serving of granola and a small cup of yogurt. This serves as a nutritious alternative breakfast, rich in vitamins, low in fat, with moderate carbohydrates and protein content."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0834_02.png"
     },
     "content": "A suitable healthy breakfast alternative could include a platter with varied fresh fruits, granola, and yogurt as shown in <image2>. This option is rich in essential vitamins and minerals, providing energy with lower fat content compared to the original dish, while maintaining an adequate protein and carbohydrate balance."
   }
@@ -17793,7 +17793,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A refreshing summer salad featuring chunks of ripe watermelon, similar to the ones shown, with mint leaves and feta cheese, drizzled with a light vinaigrette. This dish balances the sweetness of the watermelon, matching the low calorie and carbohydrate content seen in the nutritional document."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0835_02.png"
     },
     "content": "A similar dish that embodies these nutritional aspects is a watermelon and feta salad. The combination of refreshing watermelon cubes, as seen in <image2>, provides a similar low-calorie option, enhanced by the added flavors of mint and feta."
   }
@@ -17811,7 +17811,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A plate with roasted sweet potatoes, grilled chicken breast, and a mixed greens salad. The dish is well-balanced, providing lean protein, complex carbohydrates, and fiber, suitable for a nutritious meal."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0836_02.png"
     },
     "content": "The dish in <image2> demonstrates a balanced meal complementing the nutritional profile shown in the documents. Including lean protein from the chicken and fiber from the greens, this meal can enhance the dietary benefits of the sweet potato."
   }
@@ -17829,7 +17829,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A well-balanced breakfast plate consisting of lean bacon strips, scrambled eggs, and fresh vegetables, offering a good balance of protein and fats, complemented by a variety of nutrients from the vegetables."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0837_02.png"
     },
     "content": "The dish depicted in <image2> incorporates a balanced approach, using lean bacon for protein and healthy fats, while adding scrambled eggs and vegetables provides additional nutrients to support a balanced diet."
   }
@@ -17847,7 +17847,7 @@
   },
   "output": {
     "modal": {
-      "image2": "The image depicts a colorful fruit salad with an assortment of berries, kiwi slices, and orange segments. It's served in a white bowl, garnished with fresh mint leaves. This alternative dish is low in total fat while maintaining balanced carbohydrates and providing a vibrant, appealing presentation."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0838_02.png"
     },
     "content": "A healthy alternative could be a fruit salad with a mix of berries and citrus fruits, reducing the fat content significantly while maintaining essential nutrients. The vivid display of such a dish is shown in <image2>."
   }
@@ -17865,7 +17865,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A diverse salad bowl containing a mix of leafy greens, colorful vegetables like bell peppers and cherry tomatoes, topped with a small portion of roasted potatoes, similar to those in the input image. The dish is arranged in a visually appealing manner, showcasing freshness and a variety of textures and colors to indicate a healthier version."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0839_02.png"
     },
     "content": "To create a healthier version of the dish shown, focus on reducing the portion size of high-carbohydrate components like the potatoes and incorporating more fresh vegetables to boost fiber and nutrient intake. The <image2> shows a modified dish that replaces a bulk of the potatoes with a variety of vegetables, creating a meal that is lower in calories and higher in nutritional value."
   }
@@ -17883,7 +17883,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A well-balanced plate of food that includes grilled chicken, a mix of steamed vegetables like broccoli and carrots, and a small portion of whole grains, such as quinoa or brown rice. This dish is intended to complement the energy and macronutrients derived from the previously shown food."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0840_02.png"
     },
     "content": "To integrate the dish in question into a balanced diet, consider pairing it with a dish like <image2>, which helps balance the high protein and fat content of the initial serving."
   }
@@ -17901,7 +17901,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A well-arranged fruit salad containing watermelon, strawberries, and blueberries in a clear bowl. The salad is garnished with mint leaves and served with a side of yogurt, emphasizing the inclusion of watermelon in a balanced diet."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0841_02.png"
     },
     "content": "Watermelon can be an excellent addition to a balanced diet due to its low calorie content and hydrating properties. As shown in the <image2>, combining watermelon with other fruits such as strawberries and blueberries can enhance its nutritional value. This makes it a delicious and nutritious component of a fruit salad that can be enjoyed as a healthy snack or dessert."
   }
@@ -17919,7 +17919,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A colorful and nutrient-rich fruit salad featuring a mix of berries, kiwi, and sliced almonds, served in a glass bowl on a wooden table."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0842_02.png"
     },
     "content": "A healthier alternative breakfast could be a fresh fruit salad rich in vitamins and low in fat. This dish offers a balanced intake of natural sugars and fibers, providing a refreshing and nutritious start to the day. See <image2> for an illustration of this suggested dish."
   }
@@ -17937,7 +17937,7 @@
   },
   "output": {
     "modal": {
-      "image2": "The dish can be complemented by slices of fresh kiwi, which is also low in calories. Kiwi is a vibrant green fruit with small black seeds and a unique tangy-sweet flavor. It is often sliced into rounds or half-moons, making it visually appealing, and is known for its high vitamin C content. <image2>"
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0843_02.png"
     },
     "content": "Kiwi slices can be an excellent addition to the dish shown, providing a nutritional boost with its high vitamin content, while keeping the overall calorie count low. <image2>"
   }
@@ -17955,7 +17955,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A full bowl of freshly diced watermelon pieces, showcasing vibrant red color and juicy texture, ready to serve as a hydrating and low-calorie snack."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0844_02.png"
     },
     "content": "The watermelon pieces illustrated in <image2> provide a refreshing and hydrating snack option. With low calories and carbohydrates, they serve as an ideal component in a diet focused on maintaining a healthy weight. The nutritional data shows minimal fat, making these pieces apt for regular snacking while staying within calorie limits."
   }
@@ -17973,7 +17973,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A clean, minimalistic dish featuring freshly sliced cucumbers and honeydew melon pieces artfully arranged on a white porcelain plate. The background is light and airy, suggesting a fresh and healthy meal option, with vibrant colors highlighting the green hues of the fruits and vegetables."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0845_02.png"
     },
     "content": "The dish shown in the question is suitable for a low-calorie diet as it provides only 23.76 calories along with a pleasing serving of fresh fruits, as depicted in <image2>. This presentation can enhance the appeal of healthy eating while maintaining a balanced intake of macronutrients."
   }
@@ -17991,7 +17991,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A colorful fruit salad composed of diced watermelon, cantaloupe, and honeydew melon on a white plate, garnished with fresh mint leaves. The salad is presented in a neat and appetizing manner, suited for a low-calorie diet."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0846_02.png"
     },
     "content": "An ideal fruit salad composition for a low-calorie diet as depicted in <image2> would include a mix of watermelon, cantaloupe, and honeydew melon, all of which are low in calories and provide hydration along with essential nutrients."
   }
@@ -18009,7 +18009,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed image of a fresh fruit salad consisting of various fruits like apples, grapes, and melons, presented in a visually appealing manner. The salad is served in a transparent bowl on a wooden table, garnished with mint leaves to enhance freshness. The image highlights the vibrant colors and texture of the fruits, emphasizing the healthiness and nutritional benefits of such a dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0847_02.png"
     },
     "content": "The food shown in the <image2> is an example of a healthy dish that combines similar fruits as depicted in the input. With low calories and rich in carbohydrates from natural sugars, this dish serves as an excellent source of energy while maintaining low fat content, as outlined in the provided nutritional details. Such a fruit salad can be a refreshing and nutritious addition to a balanced diet."
   }
@@ -18027,7 +18027,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A dish featuring roasted potatoes seasoned with herbs and served alongside grilled chicken breast and steamed vegetables. The plating is elegant, with vibrant colors enhancing the presentation, offering a balanced meal with proteins and greens complementing the carbohydrates from the potatoes."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0848_02.png"
     },
     "content": "The roasted potatoes contain a moderate amount of calories and carbohydrates, as evidenced by the data in the nutritional table. A healthy way to round out this meal is to serve it as shown in <image2>, where the addition of lean proteins and vegetables provides a balanced nutritional profile."
   }
@@ -18045,7 +18045,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A balanced breakfast plate featuring scrambled eggs, avocado slices, and whole-grain toast alongside the crispy bacon. The plate is garnished with fresh herbs for a nutritious and visually appealing meal."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0849_02.png"
     },
     "content": "Including bacon in moderation within a balanced meal can contribute to daily protein intake. The meal shown in <image2> balances proteins and healthy fats with vitamins from the avocado and fiber from the whole-grain toast, providing a nutritious start to the day."
   }
@@ -18063,7 +18063,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A breakfast plate that contains scrambled eggs, whole wheat toast, avocado slices, and a fruit salad. This dish provides a balance of protein, healthy fats, and carbohydrates similar to the original dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0850_02.png"
     },
     "content": "The meal shown in the original image is quite balanced in terms of macronutrient distribution. However, to enhance the nutritional profile, I suggest a similar dish that includes scrambled eggs, whole wheat toast, avocado slices, and a fruit salad, as shown in <image2>. This variation adds more healthy fats and fiber to the meal."
   }
@@ -18081,7 +18081,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A dish of roasted sweet potatoes seasoned with herbs and spices, garnished with fresh parsley and served alongside a small salad. The focus is on vibrant colors and a lightly crisp texture, with visible seasoning to enhance flavor without significantly increasing calories."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0851_02.png"
     },
     "content": "The nutritional content shown suggests a lower-calorie dish compared to typical sweet potato preparations, which often include added fats and sugars. To maintain flavor while reducing calories, consider seasoning with herbs and spices as seen in <image2>. This not only enhances taste but also keeps the caloric content low."
   }
@@ -18099,7 +18099,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A plate featuring a breakfast combination of bacon, eggs, and toast. The bacon is crisp and cooked to a golden-brown color, the eggs are scrambled and garnished with herbs, and the toast is lightly buttered, creating a balanced breakfast dish that complements the high protein and fat content observed in the original bacon image."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0852_02.png"
     },
     "content": "The bacon depicted is high in protein and fat, with 8.14g of protein and 9.24g of fat per the nutrition table. A breakfast dish pairing this bacon with scrambled eggs and toast could provide a more balanced nutritional intake, adding carbohydrates and additional protein. See <image2> for a visually appealing breakfast suggestion."
   }
@@ -18117,7 +18117,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A plate of freshly cut cantaloupe slices, garnished with mint leaves, arranged in an aesthetically pleasing manner to emphasize its refreshing and healthy appeal."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0853_02.png"
     },
     "content": "The dish has a very low calorie count and is composed mostly of carbohydrates, making it suitable for a low-fat diet. The fiber content in cantaloupe aids digestion while keeping the calorie intake minimal. A similar presentation can be seen in <image2>."
   }
@@ -18135,7 +18135,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A composed dish showing a balanced meal with grilled chicken, fresh leafy greens, roasted sweet potatoes, and sliced cantaloupe on a white plate."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0854_02.png"
     },
     "content": "This meal can fit into a balanced diet by ensuring it has a good mix of protein, carbohydrates, and healthy fats as depicted in <image2>. The grilled chicken provides lean protein, while sweet potatoes and cantaloupe offer complex carbohydrates and vitamins. Including fresh leafy greens can add fiber and essential nutrients."
   }
@@ -18153,7 +18153,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A well-presented plate showing a balanced meal with roasted potatoes, steamed broccoli, and a grilled chicken breast, visually illustrating a nutritious meal combining carbohydrates from the potatoes with proteins from the chicken and vitamins from the broccoli."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0855_02.png"
     },
     "content": "To plan a balanced meal, consider the nutritional data that shows these potatoes provide 67.76 calories with 14.960g of carbohydrates and 1.760g of protein. Combining these potatoes with a source of protein like chicken and vegetables like broccoli creates a well-rounded meal. See <image2> for a visual illustration."
   }
@@ -18171,7 +18171,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed image of a fresh green honeydew melon, showcasing the juicy texture and vibrant color, along with an assortment of sliced pieces arranged on a decorative platter to illustrate its appeal and health benefits."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0856_02.png"
     },
     "content": "Consuming honeydew melon, as depicted in <image2>, is beneficial due to its low-calorie content and essential nutrients. It provides hydration, supports digestion, and offers a source of vitamins C and B. This makes it an excellent choice for a healthy snack."
   }
@@ -18189,7 +18189,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A fresh salad with mixed greens, cherry tomatoes, cucumbers, and a light vinaigrette dressing. The salad offers a balance of nutrients, including fiber and vitamins, which complement the high-protein content of the bacon dish."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0857_02.png"
     },
     "content": "A suitable complementary dish would be a fresh salad as described in <image2> to balance the high fat and protein content of the bacon, offering fiber and vitamins."
   }
@@ -18207,7 +18207,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A balanced breakfast platter with scrambled eggs, whole-grain toast, and a side of fresh fruits such as berries and sliced bananas, offering a mix of proteins, healthy carbohydrates, and vitamins."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0858_02.png"
     },
     "content": "The calories and nutritional content, such as the high protein and balanced carbohydrates shown in the data, suggest this meal provides substantial energy. A healthier breakfast, as shown in <image2>, would incorporate whole grains and more diverse fruits to enhance nutritional benefits."
   }
@@ -18225,7 +18225,7 @@
   },
   "output": {
     "modal": {
-      "image2": "The image shows a watermelon salad, garnished with mint leaves and feta cheese, served in a clear bowl. This dish complements the nutritional values of low calories and carbohydrates, offering a refreshing and healthy option."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0859_02.png"
     },
     "content": "The dish prepared appears to consist of watermelon pieces, which aligns with the nutritional data provided. The low calorie content is typical for watermelon. To further emphasize this point, observe the <image2> of a similar watermelon salad, which combines the same base fruit with additional ingredients like mint and feta cheese for added flavor and nutritional balance."
   }
@@ -18243,7 +18243,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant dish of baked sweet potato fries garnished with a light sprinkle of herbs, served on a rustic wooden board with a small dish of homemade low-fat yogurt dip on the side for added flavor and health benefits."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0860_02.png"
     },
     "content": "To make a healthier version of the dish shown, you can bake the sweet potatoes instead of frying them. Serve them with a yogurt-based dip as shown in <image2> to add flavor without extra calories."
   }
@@ -18261,7 +18261,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A balanced breakfast plate with scrambled eggs, whole grain toast, and avocado slices to represent a healthier alternative with lower fat content and higher fiber, along with fresh fruit on the side."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0861_02.png"
     },
     "content": "The dish in <image2> provides a more balanced nutritional profile with proteins from the eggs, healthy fats from avocado, and fiber from whole grain toast and fruits. This combination supports a more nutritionally varied diet compared to the high-fat content seen in the original dish, offering better energy balance and digestion support."
   }
@@ -18279,7 +18279,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A refreshing salad on a white plate, featuring diced honeydew melon, cucumbers, mint leaves, and a light lime dressing, garnished with a sprinkle of toasted almonds."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0862_02.png"
     },
     "content": "To incorporate the sliced melon into a low-calorie meal plan, consider creating a refreshing melon salad. <image2> illustrates this dish, combining the melon with ingredients like cucumbers, mint, and a splash of lime for added flavor without significant additional calories."
   }
@@ -18297,7 +18297,7 @@
   },
   "output": {
     "modal": {
-      "image2": "An image showing a balanced meal containing sweet potatoes, melon cubes, watermelon cubes, and bacon, arranged on a plate. The image should depict a meal that approximately matches the nutritional information provided in the input document, with total calories around 206, and proportions of carbohydrates, fat, and protein consistent with a similar nutrition table."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0863_02.png"
     },
     "content": "The ingredients shown are sweet potato, bacon, watermelon, and melon. The nutritional profile shown in the table indicates the meal is low in calories and fat while being relatively high in carbohydrates and protein, which aligns well with these ingredients. <image2> illustrates a similar meal composition to support this analysis."
   }
@@ -18315,7 +18315,7 @@
   },
   "output": {
     "modal": {
-      "image2": "description"
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0864_02.png"
     },
     "content": "The dish is roasted sweet potatoes, featuring a total of 136.51 calories and a significant carbohydrate content of 32.34 grams, making it a good energy source. The low fat content of 0.22 grams suggests it's a healthy option. A related dish could be mashed sweet potatoes garnished with herbs, providing a different texture and flavor. <image2>"
   }
@@ -18333,7 +18333,7 @@
   },
   "output": {
     "modal": {
-      "image2": "description"
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0865_02.png"
     },
     "content": "To create a balanced diet meal that includes the cantaloupe shown, consider adding a source of lean protein such as grilled chicken or tofu, a serving of whole grains like quinoa or brown rice, and a variety of colorful vegetables such as bell peppers and spinach. This balanced meal not only complements the nutritional profile of the cantaloupe but also enhances the overall nutrient intake. <image2> depicting this balanced meal arrangement can visually support and illustrate the explanation."
   }
@@ -18351,7 +18351,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A plate of roasted potatoes garnished with parsley, served with a small side of lemon wedges and a drizzle of olive oil, depicting a wholesome and visually appealing dish that aligns with the nutritional content described."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0866_02.png"
     },
     "content": "The dish presented can be considered for a low-calorie diet as it contains a relatively low amount of calories, as evidenced by the nutritional data. The <image2> illustrates a similar dish with an additional garnish and presentation that might enhance its nutritional value by adding fresh herbs. This is a practical approach to incorporating such potatoes in a dietary plan while keeping calorie intake monitored."
   }
@@ -18369,7 +18369,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A beautifully arranged fruit salad featuring watermelon cubes, strawberries, and mint leaves on a clean white plate garnished with a drizzle of honey and a lemon wedge on the side."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0867_02.png"
     },
     "content": "A suitable light snack for a low-calorie diet is a fruit salad combining watermelon, strawberries, and mint. Watermelon is low in calories and high in water content, making it refreshing and hydrating. The addition of strawberries adds natural sweetness and vitamin C, while mint leaves provide a fresh aroma. This combination is visually appealing and nutritious as illustrated in the <image2>."
   }
@@ -18387,7 +18387,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant, nutritious salad comprising mixed greens, grilled chicken slices for protein, a variety of roasted sweet potatoes and squash for carbohydrates, and chunks of watermelon and cantaloupe as shown in <image1>. The dish should be garnished with a light vinaigrette to complement the nutritional values highlighted, such as low fat and modest calories, as detailed in <document1>."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0868_02.png"
     },
     "content": "For a balanced meal, consider a nutritious salad that includes mixed greens and grilled chicken for protein, alongside roasted vegetables and fresh fruits shown in <image2>."
   }
@@ -18405,7 +18405,7 @@
   },
   "output": {
     "modal": {
-      "image2": "An image of a balanced meal featuring roasted sweet potatoes, garnished with fresh herbs and paired with grilled chicken and a green salad. The dish emphasizes low fat and high carbohydrate content as seen in the original analysis, balanced with protein from the chicken."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0869_02.png"
     },
     "content": "A balanced meal using roasted sweet potatoes rich in carbohydrates can be complemented with proteins such as grilled chicken for a nutritious meal. An example dish is shown in <image2>."
   }
@@ -18423,7 +18423,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A plate with scrambled eggs garnished with herbs, showcasing a balanced combination of protein and fats, suitable for breakfast. The dish appears light and visually appealing, served on a white plate."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0870_02.png"
     },
     "content": "Considering the bacon's nutritional content and appearance, a dish with similar characteristics like scrambled eggs can be an alternative. The eggs can provide a comparable amount of protein and fats, suitable for a balanced diet. Enjoy the added flavors from herbs as shown in <image2>."
   }
@@ -18441,7 +18441,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A beautifully arranged fruit salad with a variety of colorful fruits like cantaloupe, berries, and mint leaves, displayed in a glass bowl to highlight freshness and vibrant colors."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0871_02.png"
     },
     "content": "The nutritional information shows that the food is low in calories and fat, making it an excellent choice for a light snack or as part of a balanced diet. The high carbohydrate content primarily from natural sugars is beneficial for quick energy. <image2> highlights a creative way of incorporating the fruit into a healthy salad, offering both visual appeal and nutritional benefits."
   }
@@ -18459,7 +18459,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A well-presented plate featuring grilled chicken, steamed vegetables, brown rice, and a small side of fresh fruit. This is a balanced meal that highlights moderate portions of protein, carbohydrates, fats, and vitamins."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0872_02.png"
     },
     "content": "The meal in <image2> provides a balanced approach with an appropriate distribution of macronutrients. It includes lean protein from the chicken, complex carbohydrates from brown rice, essential vitamins and minerals from the vegetables and fruit, and healthy fats that complement the overall nutritional value."
   }
@@ -18477,7 +18477,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A richly garnished plate of bacon with added avocado slices, increasing the total calories and fat content. The dish is presented on a white plate with sprigs of fresh herbs for garnish, representing the enhanced dish after the inclusion of the additional ingredient."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0873_02.png"
     },
     "content": "The addition of an ingredient like avocado, which contributes 50 calories and 2 grams of fat, enhances both the taste and nutritional profile of the dish. It raises the total calories to 190.66 and the total fat to 12.92 grams. The new dish, depicted in <image2>, showcases avocado slices alongside the original bacon, indicating a more balanced meal."
   }
@@ -18495,7 +18495,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A healthy salad bowl containing a mixture of fresh greens, sliced almonds sprinkled on top, cherry tomatoes, and a light vinaigrette dressing. The salad is arranged in an aesthetically pleasing manner, highlighting the almonds as a crunchy topping that adds both texture and nutritional value."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0874_02.png"
     },
     "content": "Almonds are nutrient-dense and can be a great addition to a balanced diet, especially when paired with fresh vegetables. They provide a good source of protein and healthy fats, as seen in the nutritional information, which makes them ideal for those watching their dietary intake. A delicious application of almonds is using them as a topping in salads. <image2> visually illustrates a vibrant dish where almonds enhance the meal both in flavor and nutritional value."
   }
@@ -18513,7 +18513,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant, fresh grape salad presented in a clear glass bowl. The salad includes a mix of red and green grapes, crumbled feta cheese, chopped walnuts, and a scattering of chopped mint leaves. The dish is drizzled with a light honey vinaigrette, which adds a glossy finish to the grapes, enhancing their natural colors. The bowl is placed on a rustic wooden table, suggesting a fresh and healthy dining experience."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0875_02.png"
     },
     "content": "A fresh grape salad would be an excellent choice, balancing natural sweetness with savory elements like feta cheese and walnuts. It offers a source of healthy carbohydrates and fiber from the grapes, along with protein and healthy fats from the nuts and cheese. The flavors would be further enhanced by a honey vinaigrette. See <image2> for a visual representation of this dish."
   }
@@ -18531,7 +18531,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A ripe banana placed on a kitchen scale, indicating a common comparison for calorie and carbohydrate content against an apple."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0876_02.png"
     },
     "content": "The nutritional profile of the apple suggests it is low in calories, fats, and carbohydrates, making it a healthy choice. Compared to a banana, which typically has higher carbohydrates and calories, the apple serves as a lighter snack. See <image2> for a visual comparison."
   }
@@ -18549,7 +18549,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A detailed depiction of a balanced meal featuring roasted chestnuts, including a variety of vegetables, a portion of lean protein such as grilled chicken or tofu, and a serving of whole grains like quinoa or brown rice."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0877_02.png"
     },
     "content": "To create a balanced meal using the roasted chestnuts shown in <image2>, pair them with a serving of grilled chicken for protein, a portion of steamed vegetables for fiber and nutrients, and a side of quinoa for additional carbohydrates. The chestnuts can complement the meal by providing healthy fats and flavor."
   }
@@ -18567,7 +18567,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant mixed berry smoothie in a clear glass, garnished with fresh mint leaves and served with a straw. The smoothie has a rich, deep red color, indicating a blend of fresh and ripe berries, with a smooth and thick consistency."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0878_02.png"
     },
     "content": "With the given berries and their nutritional profile, you can prepare a refreshing mixed berry smoothie that's both low in calories and rich in carbohydrates. This drink is perfect for a quick and healthy energy boost. <image2> visually represents the final smoothie dish."
   }
@@ -18585,7 +18585,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A visually appealing fruit salad, arranged with strawberries, blueberries, and kiwi slices on a white plate. The salad is garnished with a mint leaf, enhancing both color and nutritional content."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0879_02.png"
     },
     "content": "To improve the nutritional content of the dish while maintaining its visual appeal, you could create a new fruit salad using a combination of strawberries, blueberries, and kiwi slices for added vitamins and antioxidants. Garnishing with a mint leaf can further enhance the dish's presentation and flavor. <image2> shows a potential arrangement of such a dish."
   }
@@ -18603,7 +18603,7 @@
   },
   "output": {
     "modal": {
-      "image2": "description of a similar dish highlighting grilled bacon strips on a white plate, garnished with herbs to suggest a slightly healthier presentation."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0880_02.png"
     },
     "content": "The analyzed dish is low in carbohydrates and can fit into a protein-rich diet. However, the fat content is relatively high, so moderation is advised. Consider a more balanced meal like a salad with a few bacon strips as shown in <image2>."
   }
@@ -18621,7 +18621,7 @@
   },
   "output": {
     "modal": {
-      "image2": "This image shows a healthy serving of scrambled eggs on a plate, garnished with fresh herbs and accompanied by a side of whole-grain toast. The setting is a bright breakfast table with natural lighting."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0881_02.png"
     },
     "content": "The scrambled eggs in <image2> provide a good amount of protein, as indicated by the nutritional information. They can be a healthy choice, especially when paired with whole grains for a balanced meal."
   }
@@ -18639,7 +18639,7 @@
   },
   "output": {
     "modal": {
-      "image2": "An image showing a healthy sweet potato and quinoa salad, garnished with spinach leaves and cherry tomatoes. This dish complements the low-calorie, low-fat profile seen in the earlier data, while adding more proteins and vitamins through additional ingredients."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0882_02.png"
     },
     "content": "A suitable dish that complements the observed nutritional values is a sweet potato and quinoa salad. This dish aligns with the low calories and high carbohydrate content noted. <image2> shows how this dish looks, illustrating a balanced meal option."
   }
@@ -18657,7 +18657,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A wholesome breakfast plate including scrambled eggs, berries, and roasted sweet potatoes. The dish provides a balanced combination of proteins, carbohydrates, and healthy fats, supporting a nutritious start to the day."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0883_02.png"
     },
     "content": "The meal on <image2> provides a well-rounded diet. It includes proteins from eggs, carbohydrates from sweet potatoes, and a variety of nutrients from the berries, aligning closely with the nutritional table values shown in the input document."
   }
@@ -18675,7 +18675,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A bowl of mixed fruits including grapes, apple slices, and blueberries, highlighting a balanced, colorful snack. The fruits are presented in a glass bowl on a white background, with a focus on freshness and nutritional variety."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0884_02.png"
     },
     "content": "A healthy snack option could include a mix of grapes, apple slices, and blueberries. These fruits provide a balance of carbohydrates and fibers, making it a nutritious choice. Including <image2> helps visualize this healthy snack option."
   }
@@ -18693,7 +18693,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A bowl of mixed nuts, including almonds, walnuts, and cashews, on a wooden table. The image highlights the variety of textures, shapes, and natural colors of the nuts. It suggests a snack option with balanced nutrients, portraying a health-focused context."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0885_02.png"
     },
     "content": "Based on the nutritional data, the dish consists primarily of fats and moderate amounts of protein and carbohydrates. <image2> illustrates a similar snack option."
   }
@@ -18711,7 +18711,7 @@
   },
   "output": {
     "modal": {
-      "image2": "An image showing a breakfast bowl filled with fresh cantaloupe pieces, topped with granola, a sprinkle of chia seeds, and a dollop of yogurt. The bowl is arranged on a wooden table, with a spoon placed beside it, capturing an inviting and healthy meal perfect for starting the day."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0886_02.png"
     },
     "content": "The cantaloupe pieces depicted provide a light and nutritious element to a breakfast bowl, as they are low in calories and fat according to the nutritional data. They pair well with granola and yogurt, making for a balanced meal. <image2> visually represents this ideal breakfast bowl, combining the hydrating properties and natural sweetness of the fruit with the energy from granola and the probiotics in yogurt."
   }
@@ -18729,7 +18729,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A similar balanced meal featuring sliced cantaloupe, red grapes, and almonds arranged on a white plate, showcasing a colorful and healthy snack that is rich in vitamins, healthy fats, and proteins."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0887_02.png"
     },
     "content": "The combination of cantaloupe, red grapes, and almonds as illustrated in <image2> provides a well-rounded snack. The vitamins from the fruits are complemented by the healthy fats and proteins in the almonds, making this a nutritious choice."
   }
@@ -18747,7 +18747,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A bowl of mixed greens with various colorful vegetables like carrots, cherry tomatoes, and cucumber slices, topped with sunflower seeds and a light vinaigrette."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0888_02.png"
     },
     "content": "A complementary dish to the salad shown could be a vibrant mixed greens salad, as illustrated in <image2>. This dish adds a variety of textures and nutrients, enhancing the meal's overall nutritional profile."
   }
@@ -18765,7 +18765,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant almond salad featuring fresh greens, cherry tomatoes, sliced cucumbers, and a generous sprinkle of whole almonds on top, served in a large, white bowl."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0889_02.png"
     },
     "content": "Including almonds in your diet can provide several health benefits, as they are rich in healthy fats, protein, and fiber. The nutritional data shows high protein and healthy fat content, making them an ideal snack for maintaining energy and satiety. Consider incorporating almonds into dishes like salads for extra nutrition and flavor, as illustrated in <image2>."
   }
@@ -18783,7 +18783,7 @@
   },
   "output": {
     "modal": {
-      "image2": "A vibrant salad with mixed greens, almonds, cherry tomatoes, sliced cucumbers, and a light vinaigrette dressing, providing a well-balanced combination of fiber, protein, and healthy fats."
+      "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_0890_02.png"
     },
     "content": "The dish in <image2> provides a balanced meal option rich in nutrients. It enhances dietary fiber and includes healthy fats from almonds, similar to those shown in the original image and aligning with the nutritional information provided."
   }
