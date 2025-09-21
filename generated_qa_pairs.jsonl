@@ -23324,13 +23324,13 @@
   "id": "1151",
   "input": {
     "modal": {
-      "image1": "sandbox:/mnt/data/A_digital_photograph_showcases_a_ripe,_red_apple_w.png"
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1151_01.jpeg"
     },
     "content": "From <image1>, identify the food shown. Then provide a table summarizing its nutrition per 100 g and state one health benefit. The answer must include a document to support the explanation."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1151_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1151_01.csv"
     },
     "content": "The food is an apple. See the nutrition summary table in <document1> (per 100 g). One health benefit: apples provide dietary fiber that supports digestive health."
   }
@@ -23341,13 +23341,13 @@
   "id": "1152",
   "input": {
     "modal": {
-      "image1": "sandbox:/mnt/data/img_1152_01.png"
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1152_01.png"
     },
     "content": "Look at <image1> and explain what food it is. Then highlight two nutritional aspects, and remember your answer should include a document to clarify."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1152_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1152_01.csv"
     },
     "content": "The food is a banana. It is elongated, yellow, and rich in carbohydrates. The details in <document1> show its sugar, fiber, and potassium content."
   }
@@ -23358,13 +23358,13 @@
   "id": "1153",
   "input": {
     "modal": {
-      "image1": "sandbox:/mnt/data/img_1153_01.png"
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1153_01.png"
     },
     "content": "Using <image1>, determine the food type and outline one benefit. Your final answer must reference a document that provides nutritional support."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1153_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1153_01.csv"
     },
     "content": "The food is an avocado. It has a green creamy flesh and contains healthy fats. Refer to <document1> for its detailed fat and fiber profile."
   }
@@ -23375,13 +23375,13 @@
   "id": "1154",
   "input": {
     "modal": {
-      "image1": "sandbox:/mnt/data/img_1154_01.png"
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1154_01.png"
     },
     "content": "Identify the food displayed in <image1>. Describe its visible features and key nutrients. The answer should include a document to support the explanation."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1154_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1154_01.csv"
     },
     "content": "The food is a carrot. It is orange, crunchy, and a strong source of vitamin A. Nutritional breakdown can be seen in <document1>."
   }
@@ -23392,13 +23392,13 @@
   "id": "1155",
   "input": {
     "modal": {
-      "image1": "sandbox:/mnt/data/img_1155_01.png"
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1155_01.png"
     },
     "content": "From <image1>, state what the food is and describe two nutrition facts. Remember: provide a document to help illustrate the explanation."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1155_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1155_01.csv"
     },
     "content": "The food is broccoli. It has green florets and is a common vegetable rich in vitamin C. More details are listed in <document1>."
   }
@@ -23409,13 +23409,13 @@
   "id": "1156",
   "input": {
     "modal": {
-      "image1": "sandbox:/mnt/data/A_JSON_object_displayed_above_contains_information.png"
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1156_01.png"
     },
     "content": "Refer to <image1> and state what the food is. Describe it briefly and summarize its nutrition. Be sure to include a document supporting your explanation."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1156_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1156_01.csv"
     },
     "content": "The item shown in <image1> is a strawberry. It is red, heart-shaped, and covered with seeds. For a summary of its nutritional content, see <document1> (per 100 g)."
   }
@@ -23426,13 +23426,13 @@
   "id": "1157",
   "input": {
     "modal": {
-      "image1": "sandbox:/mnt/data/A_digital_photograph_showcases_a_close-up_of_a_bow.png"
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1157_01.png"
     },
     "content": "Look at <image1> and identify the food. Then explain its basic nutrition per 100 g. Your answer should include a document to support the explanation."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1157_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1157_01.csv"
     },
     "content": "The food is white rice. It is a staple grain that provides mainly carbohydrates with a small amount of protein and minimal fat. For a detailed nutritional profile, please refer to <document1>."
   }
@@ -23443,13 +23443,13 @@
   "id": "1158",
   "input": {
     "modal": {
-      "image1": "Description: A fresh red tomato with a green stem on a plain white background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1158_01.png"
     },
     "content": "Look at <image1> and identify the food. Then summarize its key nutrition per 100 g. Please ensure your answer is supported by a document."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1158_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1158_01.csv"
     },
     "content": "The food is a tomato. It is a red fruit often used in salads, sauces, and cooking. Tomatoes are low in calories and a good source of vitamin C and potassium. For detailed nutritional values, refer to <document1>."
   }
@@ -23460,13 +23460,13 @@
   "id": "1159",
   "input": {
     "modal": {
-      "image1": "Description: A fresh salmon fillet with orange flesh placed on a plain light background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1159_01.png"
     },
     "content": "Based on <image1>, identify the food and mention why it is often considered healthy. Provide a document to support your explanation."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1159_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1159_01.csv"
     },
     "content": "The food is salmon. It is recognized for its high protein content and omega-3 fatty acids, which are beneficial for heart health. For detailed nutritional values, see <document1>."
   }
@@ -23477,13 +23477,13 @@
   "id": "1160",
   "input": {
     "modal": {
-      "image1": "Description: A stack of dark chocolate pieces on a plain light background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1160_01.png"
     },
     "content": "Look at <image1> and identify the food. Explain one benefit and one concern of consuming it. Your answer should include a document to support the explanation."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1160_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1160_01.csv"
     },
     "content": "The food is chocolate. It contains antioxidants and can improve mood, but it is also high in sugar and fat, so moderation is advised. For detailed nutritional values, refer to <document1>."
   }
@@ -23494,13 +23494,13 @@
   "id": "1161",
   "input": {
     "modal": {
-      "image1": "Description: A glass of fresh white milk on a plain background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1161_01.png"
     },
     "content": "Look at <image1> and identify the food. Summarize its nutritional contribution per 100 g, and provide a document to support your explanation."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1161_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1161_01.csv"
     },
     "content": "The food in <image1> is milk. It is rich in calcium and protein while relatively low in calories. For detailed nutritional values, see <document1>."
   }
@@ -23511,13 +23511,13 @@
   "id": "1162",
   "input": {
     "modal": {
-      "image1": "Description: A block of yellow cheese with slices cut on a wooden board, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1162_01.png"
     },
     "content": "Refer to <image1> and name the food. Explain why it can be both nutritious and high in certain nutrients. Include a document in your answer."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1162_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1162_01.csv"
     },
     "content": "The food in <image1> is cheese. It provides protein and calcium but is also high in fat and sodium. Detailed values can be found in <document1>."
   }
@@ -23528,13 +23528,13 @@
   "id": "1163",
   "input": {
     "modal": {
-      "image1": "Description: A brown chicken egg on a white background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1163_01.png"
     },
     "content": "From <image1>, identify the food and summarize its key nutritional strengths. Provide a document to back up the explanation."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1163_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1163_01.csv"
     },
     "content": "The food in <image1> is an egg. It is a complete protein source but also contains cholesterol. Full nutrient details are in <document1>."
   }
@@ -23545,13 +23545,13 @@
   "id": "1164",
   "input": {
     "modal": {
-      "image1": "Description: A fresh brown potato with smooth skin placed on a light background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1164_01.png"
     },
     "content": "Identify the food shown in <image1> and describe its role as a carbohydrate source. Your answer should include a document for support."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1164_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1164_01.csv"
     },
     "content": "The food in <image1> is a potato. It is a staple carbohydrate food and also provides vitamin C and potassium. Detailed values are listed in <document1>."
   }
@@ -23562,13 +23562,13 @@
   "id": "1165",
   "input": {
     "modal": {
-      "image1": "Description: A whole orange fruit with bright peel on a plain background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1165_01.png"
     },
     "content": "Look at <image1> and state what fruit it is. Mention one benefit of consuming it and provide a document to support your answer."
   },
   "output": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1165_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1165_01.csv"
     },
     "content": "The food in <image1> is an orange. It is a citrus fruit known for its high vitamin C content, which supports immunity. For more details, see <document1>."
   }
@@ -23579,13 +23579,13 @@
   "id": "1166",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1166_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1166_01.csv"
     },
     "content": "Using <document1>, determine which item has higher protein per 100 g and state by how many grams it is higher. Please provide an image to help illustrate your answer."
   },
   "output": {
     "modal": {
-      "image1": "Description: A small ceramic bowl filled with thick plain Greek yogurt on a white background, realistic food photography, no text."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1166_01.png"
     },
     "content": "The item with higher protein is Greek Yogurt (plain), which has 10.0 g protein per 100 g—6.5 g more than Yogurt (plain). See <image1>."
   }
@@ -23596,13 +23596,13 @@
   "id": "1167",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1167_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1167_01.csv"
     },
     "content": "According to <document1>, which type of rice has more dietary fiber per 100 g, and by how much? Please include an image to support the explanation."
   },
   "output": {
     "modal": {
-      "image1": "Description: A bowl of cooked brown rice with visible grains, placed on a white background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1167_01.png"
     },
     "content": "Brown rice has more dietary fiber, with 1.8 g per 100 g compared to 0.4 g in white rice. This means brown rice has 1.4 g more fiber. See <image1>."
   }
@@ -23613,13 +23613,13 @@
   "id": "1168",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1168_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1168_01.csv"
     },
     "content": "From <document1>, determine which fruit provides significantly more vitamin C per 100 g. Provide an image to illustrate your answer."
   },
   "output": {
     "modal": {
-      "image1": "Description: A whole orange with a bright peel, sitting next to a sliced half, on a clean white background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1168_01.png"
     },
     "content": "The orange provides much more vitamin C—53 mg per 100 g compared to just 4.6 mg in apples. See <image1>."
   }
@@ -23630,13 +23630,13 @@
   "id": "1169",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1169_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1169_01.csv"
     },
     "content": "Based on <document1>, which protein source offers more omega-3 fatty acids, and why is this significant? Your answer must include an image."
   },
   "output": {
     "modal": {
-      "image1": "Description: A fresh salmon fillet with orange flesh placed on a white background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1169_01.png"
     },
     "content": "Salmon offers far more omega-3 fatty acids (2.3 g per 100 g vs. just 0.1 g in chicken breast). Omega-3 supports heart and brain health. See <image1>."
   }
@@ -23647,13 +23647,13 @@
   "id": "1170",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1170_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1170_01.csv"
     },
     "content": "Using <document1>, identify which vegetable provides more vitamin A per 100 g and by what margin. Please provide an image to support your answer."
   },
   "output": {
     "modal": {
-      "image1": "Description: A bunch of fresh orange carrots with green tops on a light background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1170_01.png"
     },
     "content": "Carrots provide much more vitamin A—835 µg per 100 g, compared to only 31 µg in broccoli. This is a difference of 804 µg. See <image1>."
   }
@@ -23664,13 +23664,13 @@
   "id": "1171",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1171_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1171_01.csv"
     },
     "content": "From <document1>, determine which nut has more fiber per 100 g and by how much. Provide an image to illustrate the answer."
   },
   "output": {
     "modal": {
-      "image1": "Description: A pile of almonds with shells partially cracked open on a plain background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1171_01.png"
     },
     "content": "Almonds contain more fiber (12 g vs. 7 g in walnuts), which is 5 g higher. See <image1>."
   }
@@ -23681,13 +23681,13 @@
   "id": "1172",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1172_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1172_01.csv"
     },
     "content": "According to <document1>, which vegetable has more fiber per 100 g? Provide an image to support the explanation."
   },
   "output": {
     "modal": {
-      "image1": "Description: A fresh zucchini with green skin placed on a white background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1172_01.png"
     },
     "content": "Zucchini has more fiber (1.0 g vs. 0.5 g in cucumber). See <image1>."
   }
@@ -23698,13 +23698,13 @@
   "id": "1173",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1173_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1173_01.csv"
     },
     "content": "Using <document1>, identify which type of bread has higher fiber content per 100 g. Include an image in your answer."
   },
   "output": {
     "modal": {
-      "image1": "Description: Slices of whole wheat bread stacked on a cutting board, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1173_01.png"
     },
     "content": "Whole wheat bread has more fiber (7 g vs. 2.7 g in white bread). See <image1>."
   }
@@ -23715,13 +23715,13 @@
   "id": "1174",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1174_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1174_01.csv"
     },
     "content": "From <document1>, which leafy green has higher vitamin C per 100 g, and what is the value? Provide an image to illustrate."
   },
   "output": {
     "modal": {
-      "image1": "Description: A bunch of fresh kale leaves with curly edges on a light background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1174_01.png"
     },
     "content": "Kale has more vitamin C, providing 120 mg per 100 g compared to spinach's 28 mg. See <image1>."
   }
@@ -23732,13 +23732,13 @@
   "id": "1175",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1175_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1175_01.csv"
     },
     "content": "Based on <document1>, which meat has fewer calories per 100 g? Provide an image to support the answer."
   },
   "output": {
     "modal": {
-      "image1": "Description: A grilled pork chop on a white plate with garnish, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1175_01.png"
     },
     "content": "Pork chop has fewer calories (231 kcal vs. 271 kcal in beef steak). See <image1>."
   }
@@ -23749,13 +23749,13 @@
   "id": "1176",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1176_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1176_01.csv"
     },
     "content": "Refer to <document1> and identify which has more dietary fiber per 100 g. Provide an image to illustrate the answer."
   },
   "output": {
     "modal": {
-      "image1": "Description: A bowl filled with fresh green peas, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1176_01.png"
     },
     "content": "Peas contain more fiber (6 g vs. 2.7 g in corn). See <image1>."
   }
@@ -23766,13 +23766,13 @@
   "id": "1177",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1177_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1177_01.csv"
     },
     "content": "According to <document1>, which seafood contains more cholesterol per 100 g? Please provide an image to illustrate."
   },
   "output": {
     "modal": {
-      "image1": "Description: A plate of cooked shrimp with shells on, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1177_01.png"
     },
     "content": "Shrimp contains more cholesterol (189 mg vs. 53 mg in crab). See <image1>."
   }
@@ -23783,13 +23783,13 @@
   "id": "1178",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1178_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1178_01.csv"
     },
     "content": "Using <document1>, which berry provides more vitamin C per 100 g, and by how much? Provide an image to illustrate your answer."
   },
   "output": {
     "modal": {
-      "image1": "Description: A group of fresh strawberries with green tops on a white background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1178_01.png"
     },
     "content": "Strawberries provide 59 mg vitamin C per 100 g, compared to 10 mg in blueberries. That is 49 mg more. See <image1>."
   }
@@ -23800,13 +23800,13 @@
   "id": "1179",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1179_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1179_01.csv"
     },
     "content": "From <document1>, compare tofu and tempeh: which has more protein per 100 g? Provide an image in your answer."
   },
   "output": {
     "modal": {
-      "image1": "Description: A block of tempeh sliced into pieces on a wooden board, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1179_01.png"
     },
     "content": "Tempeh has more protein (20 g vs. 8 g in tofu). See <image1>."
   }
@@ -23817,13 +23817,13 @@
   "id": "1180",
   "input": {
     "modal": {
-      "document1": "sandbox:/mnt/data/doc_1180_table.csv"
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/document/doc_1180_01.csv"
     },
     "content": "According to <document1>, which fruit has more vitamin C per 100 g, and what is the difference? Provide an image to illustrate the answer."
   },
   "output": {
     "modal": {
-      "image1": "Description: A ripe pineapple with its green crown placed upright on a light background, realistic food photography."
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/image/img_1180_01.png"
     },
     "content": "Pineapple has 47 mg vitamin C per 100 g, while mango has 36 mg. That is 11 mg more. See <image1>."
   }
